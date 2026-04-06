@@ -1,12 +1,5 @@
 {
-  "Total": 118,
-  "Unassigned": 7,
-  "Assigned": 54,
-  "In Progress": 10,
-  "On Hold": 47,
-  "Awaiting Approval": 0,
-  "Average Maintenance Days": 83,
-  "SIF Related": 1,
-  "Full Maintenance": 15,
-  "Post Run Maintenance": 28
+  "latestRuns": 2,
+  "latestJobs": 2,
+  "timestamp": "2026-04-06T09:43:57.366Z"
 }
