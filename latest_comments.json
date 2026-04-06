@@ -1,37 +1,37 @@
 [
   {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
-    "comment": "Engineer mob on Wednesday",
-    "addedBy": "Craig Fraser",
-    "date": "02-04-2026 10:59"
+    "comment": "Weather came down earlier than expected Slickline now rigged up and on the well\nDrift run this morning followed by simulated drift for MFC\nCaliper run now expected this afternoon/evening",
+    "addedBy": "Joshua Cheyne",
+    "date": "06-04-2026 05:52"
   },
   {
-    "project": "PRJ02599 - Welltec - Welltec - Kazakhstan - 9855_9845 - PLT",
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16) - MFC",
     "job": "N/A",
-    "comment": "Back in Aberdeen 23:30.:",
-    "addedBy": "James Law",
-    "date": "02-04-2026 00:16"
+    "comment": "Checkin cancelled for tomorrow. Abdil will now travel to Esbjerg on Wednesday for Thurs 9th checkin",
+    "addedBy": "Craig Fraser",
+    "date": "05-04-2026 11:18"
   },
   {
     "project": "PRJ02707 - Welltec - Welltec - Kazakhstan - T-4838_T-4850_T-5654_T-6238 - PLT",
-    "job": "PRJ02707-3 Tengiz T-6238 Production (Three Phase)",
-    "comment": "Performed the initial dynamic passes without seeing water ingress, so the decision was to increase the rate. Meantime there were further issues with the tools, likely caused by H2S exposure. With the READ tools there were intermittent QP/CCL issues requiring tool enabling to get the signal back. During the first down pass of the third regime the GR signal was lost passing SS#2 and couldn't be regained by enabling the tool. The Slick FAST tool also died. Completed 4 x down and up passes without the interpretation showing any water entry points. Currently shuttin in the well from flow and purging with nitrogen prior to POOH,",
-    "addedBy": "Donald Campbell",
-    "date": "31-03-2026 23:04"
+    "job": "N/A",
+    "comment": "Shipment received back in Aksai",
+    "addedBy": "Rickie Yuill",
+    "date": "05-04-2026 10:59"
   },
   {
-    "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
-    "comment": "Equipment arrived back in Esbjerg, 44176 will be offloaded Esvagt Leah today",
-    "addedBy": "Craig Fraser",
-    "date": "31-03-2026 07:21"
+    "comment": "Project re-opened. XY shifting after Welltec RCB with 3.625\" bit. Mobilisation expected on the 12 April. RY and SK will cover this job.",
+    "addedBy": "Rickie Yuill",
+    "date": "05-04-2026 07:55"
   },
   {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
-    "comment": "Perenco opportunity mobilising from Aberdeen Tuesday 7th April\n1. Caliper log of the 3-1/2” 9.2lb/ft Vam Top Tubing string before we pull the completion (~930m to log)\n2. Caliper log of the 9-5/8” production casing once the completion is OOH (~950m to log)",
-    "addedBy": "Craig Fraser",
-    "date": "31-03-2026 06:58"
+    "comment": "WOW, MFC run currently expected Tuesday",
+    "addedBy": "Joshua Cheyne",
+    "date": "05-04-2026 07:39"
   }
 ]
