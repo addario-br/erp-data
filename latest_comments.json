@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
+    "comment": "Gorm backload delayed, therefore Archer rental required for 1x MFC24. Equipment being collected this afternoon by Dyce Carriers",
+    "addedBy": "Craig Fraser",
+    "date": "07-04-2026 10:42"
+  },
+  {
     "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
     "job": "N/A",
     "comment": "Request from Archer for ballistics qualified READ engineer ~23rd April",
@@ -47,12 +54,5 @@
     "comment": "Shipment received back in Aksai",
     "addedBy": "Rickie Yuill",
     "date": "05-04-2026 10:59"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Project re-opened. XY shifting after Welltec RCB with 3.625\" bit. Mobilisation expected on the 12 April. RY and SK will cover this job.",
-    "addedBy": "Rickie Yuill",
-    "date": "05-04-2026 07:55"
   }
 ]
