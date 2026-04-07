@@ -1,11 +1,8 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 2,
-    "names": [
-      "Mohamed Selim",
-      "Alan Walsh"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
@@ -14,10 +11,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
-    "names": [
-      "Calum Smith"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
@@ -31,9 +26,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
-    "names": [
-      "Declan Harkins"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
