@@ -1,37 +1,37 @@
 [
   {
+    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
+    "job": "N/A",
+    "comment": "Request from Archer for ballistics qualified READ engineer ~23rd April",
+    "addedBy": "Craig Fraser",
+    "date": "07-04-2026 08:53"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
-    "comment": "Weather came down earlier than expected. Slickline now rigged up and on the well\nDrift run this morning followed by simulated drift for MFC\nCaliper run now expected this afternoon/evening",
+    "comment": "Tools back at surface no damage or excessive build up of well debris. Rig down wait on decision from Total on how to proceed next",
+    "addedBy": "Joshua Cheyne",
+    "date": "07-04-2026 06:35"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "When begging to POOH over pull was noticed and pulling more than the maximum allowed tension. Unable to come free decision to wait for fingers to close and POOH. Decision on next steps will be made tomorrow. Potential to run well explorer tool next then switch to braided cable and re run MFC.",
+    "addedBy": "Joshua Cheyne",
+    "date": "06-04-2026 23:10"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "RIG up and begin RIH battery on 20:13",
+    "addedBy": "Joshua Cheyne",
+    "date": "06-04-2026 20:42"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "Weather came down earlier than expected Slickline now rigged up and on the well\nDrift run this morning followed by simulated drift for MFC\nCaliper run now expected this afternoon/evening",
     "addedBy": "Joshua Cheyne",
     "date": "06-04-2026 05:52"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16) - MFC",
-    "job": "N/A",
-    "comment": "Checkin cancelled for tomorrow. Abdil will now travel to Esbjerg on Wednesday for Thurs 9th checkin",
-    "addedBy": "Craig Fraser",
-    "date": "05-04-2026 11:18"
-  },
-  {
-    "project": "PRJ02707 - Welltec - Welltec - Kazakhstan - T-4838_T-4850_T-5654_T-6238 - PLT",
-    "job": "N/A",
-    "comment": "Shipment received back in Aksai",
-    "addedBy": "Rickie Yuill",
-    "date": "05-04-2026 10:59"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Project re-opened. XY shifting after Welltec RCB with 3.625\" bit. Mobilisation expected on the 12 April. RY and SK will cover this job.",
-    "addedBy": "Rickie Yuill",
-    "date": "05-04-2026 07:55"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "WOW, MFC run currently expected Tuesday",
-    "addedBy": "Joshua Cheyne",
-    "date": "05-04-2026 07:39"
   }
 ]
