@@ -1,8 +1,10 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 8,
+    "numIn": 10,
     "names": [
+      "Tim Farrar",
+      "Mohamed Selim",
       "Jay Purves",
       "Craig Lamont",
       "John Guntoro",
@@ -15,8 +17,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 5,
     "names": [
+      "Chris Kennedy",
       "Russell Edgar",
       "Dave Simpson",
       "Mark Davidson",
@@ -25,12 +28,11 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
+    "numIn": 3,
     "names": [
-      "Peter Thomson",
       "Cherie Bowden",
-      "Calum Smith",
-      "George Handsley"
+      "Peter Thomson",
+      "Calum Smith"
     ]
   },
   {
