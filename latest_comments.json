@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "SLB currently running Well Explorer tool followed by 4.5” drift\nDepending on the result of the Well explorer run will decide on how to proceed with MFC",
+    "addedBy": "Joshua Cheyne",
+    "date": "08-04-2026 07:03"
+  },
+  {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
     "comment": "Gorm backload delayed, therefore Archer rental required for 1x MFC24. Equipment being collected this afternoon by Dyce Carriers",
@@ -47,12 +54,5 @@
     "comment": "Checkin cancelled for tomorrow. Abdil will now travel to Esbjerg on Wednesday for Thurs 9th checkin",
     "addedBy": "Craig Fraser",
     "date": "05-04-2026 11:18"
-  },
-  {
-    "project": "PRJ02707 - Welltec - Welltec - Kazakhstan - T-4838_T-4850_T-5654_T-6238 - PLT",
-    "job": "N/A",
-    "comment": "Shipment received back in Aksai",
-    "addedBy": "Rickie Yuill",
-    "date": "05-04-2026 10:59"
   }
 ]
