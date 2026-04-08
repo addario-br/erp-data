@@ -17,10 +17,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
       "Mark Davidson",
-      "Chris Kennedy",
       "Russell Edgar",
       "Dave Simpson",
       "Rob Molina"
@@ -28,9 +27,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 2,
     "names": [
-      "Cherie Bowden",
       "Peter Thomson",
       "Calum Smith"
     ]
