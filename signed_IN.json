@@ -1,7 +1,7 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 10,
+    "numIn": 9,
     "names": [
       "Craig Lamont",
       "Mohamed Selim",
@@ -11,8 +11,7 @@
       "Joseph Guyan",
       "Jay Purves",
       "Alan Walsh",
-      "Lewis Emslie",
-      "Heather Caldwell"
+      "Lewis Emslie"
     ]
   },
   {
@@ -27,11 +26,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
-    "names": [
-      "Peter Thomson",
-      "Calum Smith"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
