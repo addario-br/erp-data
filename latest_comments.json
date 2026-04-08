@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
+    "comment": "Arrived to site, safe and sound, Induction done. MIT24 main tool string site check done. Plan for tomorrow is call early morning to see how things are going. Now are a wee bit behind schedule.",
+    "addedBy": "Melissa Hernandez",
+    "date": "08-04-2026 19:44"
+  },
+  {
     "project": "PRJ03270 - Archer - Norway - Stavanger - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Archer have requested 2x RBT004 and 4x PRC041 for Rental beginning Monday 13th",
@@ -47,12 +54,5 @@
     "comment": "Tools back at surface no damage or excessive build up of well debris. Rig down wait on decision from Total on how to proceed next",
     "addedBy": "Joshua Cheyne",
     "date": "07-04-2026 06:35"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "When begging to POOH over pull was noticed and pulling more than the maximum allowed tension. Unable to come free decision to wait for fingers to close and POOH. Decision on next steps will be made tomorrow. Potential to run well explorer tool next then switch to braided cable and re run MFC.",
-    "addedBy": "Joshua Cheyne",
-    "date": "06-04-2026 23:10"
   }
 ]
