@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16) - MFC",
+    "job": "N/A",
+    "comment": "Abdil travelling to Esbjerg today on direct ABZ-EBJ flight, joining rig tomorrow. SLB currently broaching through scale near surface. Issues with debris buildup after broaching runs. MFC log looking likely in order to understand extent of scale.",
+    "addedBy": "Craig Fraser",
+    "date": "08-04-2026 09:53"
+  },
+  {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
+    "comment": "Melissa flying to Heathrow on the 10:25 flight from Aberdeen today. Expected to arrive at wellsite 3-4pm after car hire collection. Lookahead has 3.5\" tubing logging tomorrow morning. MFC60 logging in 7\" planned for Sunday",
+    "addedBy": "Craig Fraser",
+    "date": "08-04-2026 09:50"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
     "comment": "SLB currently running Well Explorer tool followed by 4.5” drift\nDepending on the result of the Well explorer run will decide on how to proceed with MFC",
@@ -40,19 +54,5 @@
     "comment": "RIG up and begin RIH battery on 20:13",
     "addedBy": "Joshua Cheyne",
     "date": "06-04-2026 20:42"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "Weather came down earlier than expected Slickline now rigged up and on the well\nDrift run this morning followed by simulated drift for MFC\nCaliper run now expected this afternoon/evening",
-    "addedBy": "Joshua Cheyne",
-    "date": "06-04-2026 05:52"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16) - MFC",
-    "job": "N/A",
-    "comment": "Checkin cancelled for tomorrow. Abdil will now travel to Esbjerg on Wednesday for Thurs 9th checkin",
-    "addedBy": "Craig Fraser",
-    "date": "05-04-2026 11:18"
   }
 ]
