@@ -13,8 +13,13 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 4,
+    "names": [
+      "Peter Thomson",
+      "Cherie Bowden",
+      "Calum Smith",
+      "George Handsley"
+    ]
   },
   {
     "companyName": "BlueSpark",
