@@ -1,13 +1,12 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 10,
+    "numIn": 9,
     "names": [
       "Tim Farrar",
       "Mohamed Selim",
       "Jay Purves",
       "Craig Lamont",
-      "John Guntoro",
       "Alan Walsh",
       "Maurillio Addario",
       "Lewis Emslie",
@@ -47,7 +46,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Darren Brockie"
+    ]
   }
 ]
