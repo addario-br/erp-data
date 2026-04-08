@@ -12,10 +12,8 @@
   },
   {
     "companyName": "READ",
-    "numIn": 1,
-    "names": [
-      "Dave Simpson"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
@@ -34,9 +32,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
-    "names": [
-      "Darren Brockie"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
