@@ -1,8 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "Heather Caldwell",
+      "Joseph Guyan"
+    ]
   },
   {
     "companyName": "READ",
