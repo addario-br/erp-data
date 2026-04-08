@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03270 - Archer - Norway - Stavanger - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Archer have requested 2x RBT004 and 4x PRC041 for Rental beginning Monday 13th",
+    "addedBy": "Craig Fraser",
+    "date": "08-04-2026 15:47"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16) - MFC",
     "job": "N/A",
     "comment": "Abdil travelling to Esbjerg today on direct ABZ-EBJ flight, joining rig tomorrow. SLB currently broaching through scale near surface. Issues with debris buildup after broaching runs. MFC log looking likely in order to understand extent of scale.",
@@ -47,12 +54,5 @@
     "comment": "When begging to POOH over pull was noticed and pulling more than the maximum allowed tension. Unable to come free decision to wait for fingers to close and POOH. Decision on next steps will be made tomorrow. Potential to run well explorer tool next then switch to braided cable and re run MFC.",
     "addedBy": "Joshua Cheyne",
     "date": "06-04-2026 23:10"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "RIG up and begin RIH battery on 20:13",
-    "addedBy": "Joshua Cheyne",
-    "date": "06-04-2026 20:42"
   }
 ]
