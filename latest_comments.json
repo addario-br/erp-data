@@ -7,6 +7,13 @@
     "date": "08-04-2026 19:44"
   },
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
+    "job": "N/A",
+    "comment": "Pre-job held and Eng added to PRJ",
+    "addedBy": "Craig Fraser",
+    "date": "08-04-2026 19:28"
+  },
+  {
     "project": "PRJ03270 - Archer - Norway - Stavanger - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Archer have requested 2x RBT004 and 4x PRC041 for Rental beginning Monday 13th",
@@ -47,12 +54,5 @@
     "comment": "Request from Archer for ballistics qualified READ engineer ~23rd April",
     "addedBy": "Craig Fraser",
     "date": "07-04-2026 08:53"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "Tools back at surface no damage or excessive build up of well debris. Rig down wait on decision from Total on how to proceed next",
-    "addedBy": "Joshua Cheyne",
-    "date": "07-04-2026 06:35"
   }
 ]
