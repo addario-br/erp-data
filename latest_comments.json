@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "MFC40 Run in progress excepted at surface around 12:30.\nHigh winds might delay rig down",
+    "addedBy": "Joshua Cheyne",
+    "date": "09-04-2026 07:33"
+  },
+  {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
     "comment": "Arrived to site, safe and sound, Induction done. MIT24 main tool string site check done. Plan for tomorrow is call early morning to see how things are going. Now are a wee bit behind schedule.",
@@ -47,12 +54,5 @@
     "comment": "Gorm backload delayed, therefore Archer rental required for 1x MFC24. Equipment being collected this afternoon by Dyce Carriers",
     "addedBy": "Craig Fraser",
     "date": "07-04-2026 10:42"
-  },
-  {
-    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
-    "job": "N/A",
-    "comment": "Request from Archer for ballistics qualified READ engineer ~23rd April",
-    "addedBy": "Craig Fraser",
-    "date": "07-04-2026 08:53"
   }
 ]
