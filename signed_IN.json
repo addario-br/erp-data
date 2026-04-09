@@ -15,19 +15,16 @@
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 2,
     "names": [
-      "Ross Fraser",
       "Dave Simpson",
       "Craig Fraser"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
-    "names": [
-      "Cherie Bowden"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
