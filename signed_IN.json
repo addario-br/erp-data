@@ -1,8 +1,9 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 7,
     "names": [
+      "Maurillio Addario",
       "Tim Farrar",
       "Joseph Guyan",
       "Craig Lamont",
@@ -13,9 +14,8 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
-      "Leonard Lapiso",
       "Chris Kennedy",
       "Dave Simpson",
       "Craig Fraser",
