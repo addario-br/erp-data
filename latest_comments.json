@@ -2,6 +2,13 @@
   {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
+    "comment": "Pre-job held with Melissa this morning, all good",
+    "addedBy": "Craig Fraser",
+    "date": "09-04-2026 08:47"
+  },
+  {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
     "comment": "Called Gary, and they are having good progress, now MFC24 is schedule for today, later than 9:00 am. Perenco will call me 2hours before rig up. MFC24 ready to go.",
     "addedBy": "Melissa Hernandez",
     "date": "09-04-2026 08:44"
@@ -47,12 +54,5 @@
     "comment": "Melissa flying to Heathrow on the 10:25 flight from Aberdeen today. Expected to arrive at wellsite 3-4pm after car hire collection. Lookahead has 3.5\" tubing logging tomorrow morning. MFC60 logging in 7\" planned for Sunday",
     "addedBy": "Craig Fraser",
     "date": "08-04-2026 09:50"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "SLB currently running Well Explorer tool followed by 4.5” drift\nDepending on the result of the Well explorer run will decide on how to proceed with MFC",
-    "addedBy": "Joshua Cheyne",
-    "date": "08-04-2026 07:03"
   }
 ]
