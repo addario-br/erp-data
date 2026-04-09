@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
+    "comment": "Called Gary, and they are having good progress, now MFC24 is schedule for today, later than 9:00 am. Perenco will call me 2hours before rig up. MFC24 ready to go.",
+    "addedBy": "Melissa Hernandez",
+    "date": "09-04-2026 08:44"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
     "comment": "MFC40 Run in progress excepted at surface around 12:30.\nHigh winds might delay rig down",
@@ -47,12 +54,5 @@
     "comment": "SLB currently running Well Explorer tool followed by 4.5” drift\nDepending on the result of the Well explorer run will decide on how to proceed with MFC",
     "addedBy": "Joshua Cheyne",
     "date": "08-04-2026 07:03"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Gorm backload delayed, therefore Archer rental required for 1x MFC24. Equipment being collected this afternoon by Dyce Carriers",
-    "addedBy": "Craig Fraser",
-    "date": "07-04-2026 10:42"
   }
 ]
