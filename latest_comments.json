@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Mobilisation delayed to the 15th",
+    "addedBy": "Rickie Yuill",
+    "date": "10-04-2026 09:53"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
     "comment": "Tool data downloaded, Data looks good for the 2 passes logged. Tool failed to close at surface. MIT doesnt show any signs of damage\nPlan today complete Post cal and failure investigation",
@@ -47,12 +54,5 @@
     "comment": "Now on site, Slickline doing R/U PCE and prepare for Gauge Cutter Run.",
     "addedBy": "Melissa Hernandez",
     "date": "09-04-2026 10:50"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Pre-job held with Melissa this morning, all good",
-    "addedBy": "Craig Fraser",
-    "date": "09-04-2026 08:47"
   }
 ]
