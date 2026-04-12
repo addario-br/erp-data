@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
+    "comment": "Caliper run delay till tomorrow. Perenco has not started to POOH completions. Plan for today stand by",
+    "addedBy": "Melissa Hernandez",
+    "date": "12-04-2026 08:02"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Project re-opened - MSS Mobilisation expected start of May. SIT completed with Welltec/KPO over the weekend with new Stroker/well key",
@@ -47,12 +54,5 @@
     "comment": "Failure symptom - MFC40 failed to motor closed at surface. Follow on investigate has found that the caliper doesn't motor open anymore. All other components of the logging string function as expected, without errors. Next steps - further investigation into the caliper itself",
     "addedBy": "Craig Fraser",
     "date": "10-04-2026 13:21"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Arrived on site and start postcalibration and MFC24 cleaning. Fitchecks and surface check for MFC60",
-    "addedBy": "Melissa Hernandez",
-    "date": "10-04-2026 11:49"
   }
 ]
