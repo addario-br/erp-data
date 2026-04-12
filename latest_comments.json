@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
     "job": "N/A",
+    "comment": "Unable to make progress on MIT troubleshooting yesterday. All Post run maintenance completed.\nPlan today try to make progress on MIT troubleshooting to understand what failed",
+    "addedBy": "Joshua Cheyne",
+    "date": "12-04-2026 05:53"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
     "comment": "Today’s plan Continue troubleshooting of faulty MIT and post run maintenance",
     "addedBy": "Joshua Cheyne",
     "date": "11-04-2026 10:02"
@@ -47,12 +54,5 @@
     "comment": "Tool data downloaded, Data looks good for the 2 passes logged. Tool failed to close at surface. MIT doesnt show any signs of damage\nPlan today complete Post cal and failure investigation",
     "addedBy": "Joshua Cheyne",
     "date": "10-04-2026 07:44"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
-    "job": "N/A",
-    "comment": "Ran brush last night. String checks to be done today. Once access to container established. Most likely next run is expected to be smaller sized broach. Which should arrive at some point today.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "10-04-2026 05:29"
   }
 ]
