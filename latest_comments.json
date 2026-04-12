@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Project re-opened - MSS Mobilisation expected start of May. SIT completed with Welltec/KPO over the weekend with new Stroker/well key",
+    "addedBy": "Rickie Yuill",
+    "date": "12-04-2026 07:38"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
     "job": "N/A",
     "comment": "Rigged down off well. Crew moving and spotting equipment for the next well, no READ involvement. Travelling back to Esbjerg tomorrow.",
@@ -47,12 +54,5 @@
     "comment": "Arrived on site and start postcalibration and MFC24 cleaning. Fitchecks and surface check for MFC60",
     "addedBy": "Melissa Hernandez",
     "date": "10-04-2026 11:49"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Mobilisation delayed to the 15th",
-    "addedBy": "Rickie Yuill",
-    "date": "10-04-2026 09:53"
   }
 ]
