@@ -2,6 +2,13 @@
   {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
+    "comment": "Batery connected @10:47 am. Expected to be out of hole 14:30, for Main pass. Main Pass and repeat pass requested to be done in two separate runs",
+    "addedBy": "Melissa Hernandez",
+    "date": "13-04-2026 11:21"
+  },
+  {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
     "comment": "Arrived to site. Waiting to finish POOH remaining completions",
     "addedBy": "Melissa Hernandez",
     "date": "13-04-2026 09:19"
@@ -47,12 +54,5 @@
     "comment": "Rigged down off well. Crew moving and spotting equipment for the next well, no READ involvement. Travelling back to Esbjerg tomorrow.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "12-04-2026 06:20"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "Unable to make progress on MIT troubleshooting yesterday. All Post run maintenance completed.\nNo permits will be issued today due to issues on HBD with production system and back up generators for the platform",
-    "addedBy": "Joshua Cheyne",
-    "date": "12-04-2026 05:53"
   }
 ]
