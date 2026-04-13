@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "Currently Still waiting on production to start up again.\nWell services have been asked for us to provide support fire watching.\nAim to try get some troubleshooting done today now permits are being issued in between fire watching",
+    "addedBy": "Joshua Cheyne",
+    "date": "13-04-2026 06:04"
+  },
+  {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
     "comment": "Caliper run delay till tomorrow. Perenco has not started to POOH completions. Plan for today stand by",
@@ -47,12 +54,5 @@
     "comment": "Smaller sized Broach received and ran last night. Unable to pass obstruction. MFC run has been cancelled. Client has asked me to go and pack container.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "11-04-2026 06:05"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "Failure symptom - MFC40 failed to motor closed at surface. Follow on investigate has found that the caliper doesn't motor open anymore. All other components of the logging string function as expected, without errors. Next steps - further investigation into the caliper itself",
-    "addedBy": "Craig Fraser",
-    "date": "10-04-2026 13:21"
   }
 ]
