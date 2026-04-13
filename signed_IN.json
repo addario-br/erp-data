@@ -10,9 +10,8 @@
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 3,
     "names": [
-      "Mark Davidson",
       "Ross Fraser",
       "Stewart Steele",
       "Dave Simpson"
@@ -20,9 +19,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
+    "numIn": 2,
     "names": [
-      "George Handsley",
       "Calum Smith",
       "Cherie Bowden"
     ]
