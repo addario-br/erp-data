@@ -3,26 +3,27 @@
     "companyName": "ANSA",
     "numIn": 3,
     "names": [
+      "John Guntoro",
       "Joseph Guyan",
-      "Craig Lamont",
       "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
       "Ross Fraser",
       "Stewart Steele",
       "Dave Simpson",
-      "Mark Davidson",
       "Rob Molina"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 5,
     "names": [
+      "George Handsley",
+      "Calum Smith",
       "Peter Thomson",
       "Cherie Bowden",
       "Liam Strath"
