@@ -15,8 +15,12 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 3,
+    "names": [
+      "Cherie Bowden",
+      "Liam Strath",
+      "George Handsley"
+    ]
   },
   {
     "companyName": "BlueSpark",
