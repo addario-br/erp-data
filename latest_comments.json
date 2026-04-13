@@ -2,6 +2,27 @@
   {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
+    "comment": "Main Pass data Downloaded. Data OK. Now running the repeat pass battery connected @14:46:40 Expected to POOH @ 15:50 be on surface before 17:00",
+    "addedBy": "Melissa Hernandez",
+    "date": "13-04-2026 16:40"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
+    "job": "N/A",
+    "comment": "Arrived onshore 11:00",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "13-04-2026 15:41"
+  },
+  {
+    "project": "PRJ03263 - Perenco - Wytch Farm - 1A-02BI - Leak_Detection",
+    "job": "N/A",
+    "comment": "Confirmation from Perenco that Leak Detection log is required ~Weds 22nd April. Archer S100 tools required",
+    "addedBy": "Craig Fraser",
+    "date": "13-04-2026 15:32"
+  },
+  {
+    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "job": "N/A",
     "comment": "Batery connected @10:47 am. Expected to be out of hole 14:30, for Main pass. Main Pass and repeat pass requested to be done in two separate runs",
     "addedBy": "Melissa Hernandez",
     "date": "13-04-2026 11:21"
@@ -33,26 +54,5 @@
     "comment": "Currently Still waiting on production to start up again.\nWell services have been asked for us to provide support fire watching.\nAim to try get some troubleshooting done today now permits are being issued in between fire watching",
     "addedBy": "Joshua Cheyne",
     "date": "13-04-2026 06:04"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Caliper run delay till tomorrow. Perenco has not started to POOH completions. Plan for today stand by",
-    "addedBy": "Melissa Hernandez",
-    "date": "12-04-2026 08:02"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Project re-opened - MSS Mobilisation expected start of May. SIT completed with Welltec/KPO over the weekend with new Stroker/well key",
-    "addedBy": "Rickie Yuill",
-    "date": "12-04-2026 07:38"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
-    "job": "N/A",
-    "comment": "Rigged down off well. Crew moving and spotting equipment for the next well, no READ involvement. Travelling back to Esbjerg tomorrow.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "12-04-2026 06:20"
   }
 ]
