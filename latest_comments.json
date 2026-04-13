@@ -7,6 +7,13 @@
     "date": "13-04-2026 16:40"
   },
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "TotalEnergies are planning to proceed with this campaign. The current plan is for loadout on 18 May for the first job - GBN-12",
+    "addedBy": "Craig Fraser",
+    "date": "13-04-2026 15:55"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
     "job": "N/A",
     "comment": "Arrived onshore 11:00",
@@ -47,12 +54,5 @@
     "comment": "Crew working on DFA-6. Travelling to Esbjerg should arrive onshore at 12:00",
     "addedBy": "Abdilmalik Mohamed",
     "date": "13-04-2026 07:29"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "Currently Still waiting on production to start up again.\nWell services have been asked for us to provide support fire watching.\nAim to try get some troubleshooting done today now permits are being issued in between fire watching",
-    "addedBy": "Joshua Cheyne",
-    "date": "13-04-2026 06:04"
   }
 ]
