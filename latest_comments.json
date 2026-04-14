@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "job": "N/A",
+    "comment": "SLB rigging down off HBA-21 and moving to HBA-2\nPlan today perform 1hr test on all batteries to ensure all remaining batteries are working and acceptable to run on next well",
+    "addedBy": "Joshua Cheyne",
+    "date": "14-04-2026 07:15"
+  },
+  {
     "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
     "job": "N/A",
     "comment": "Data handed it to the client. Data ok. Now preparing backload. Fit checks pending to do. Only for the MFC60 and the PRCs Pendign to get return ticket.",
@@ -47,12 +54,5 @@
     "comment": "Arrived to site. Waiting to finish POOH remaining completions",
     "addedBy": "Melissa Hernandez",
     "date": "13-04-2026 09:19"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Spoke to Gary . 12 joints remaining to be out. Be on site around 9:00.",
-    "addedBy": "Melissa Hernandez",
-    "date": "13-04-2026 08:09"
   }
 ]
