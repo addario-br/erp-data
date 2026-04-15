@@ -1,8 +1,9 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 9,
+    "numIn": 10,
     "names": [
+      "Heather Caldwell",
       "Mohamed Selim",
       "John Guntoro",
       "Jenni Michie",
@@ -48,9 +49,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
-    "names": [
-      "Ross Thornton"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
