@@ -1,10 +1,9 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Mohamed Selim",
-      "Joseph Guyan",
       "Craig Lamont",
       "Jenni Michie",
       "Maurillio Addario",
@@ -13,9 +12,8 @@
   },
   {
     "companyName": "READ",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Chris Kennedy",
       "Stewart Steele"
     ]
   },
