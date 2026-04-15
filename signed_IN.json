@@ -15,22 +15,19 @@
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 4,
     "names": [
       "Ross Fraser",
-      "Mark Davidson",
       "Chris Kennedy",
       "Stewart Steele",
-      "Dave Simpson",
-      "Russell Edgar"
+      "Dave Simpson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 2,
     "names": [
       "Cherie Bowden",
-      "Calum Smith",
       "George Handsley"
     ]
   },
