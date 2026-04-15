@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03263 - Perenco - Wytch Farm - 1A-02BI - Leak_Detection",
+    "job": "N/A",
+    "comment": "Perenco have requested to collect the leak detection tool's on Friday. They will arrive from Archer shortly and be tested tomorrow along with our QPC's and PRT's in preparation for the loadout.",
+    "addedBy": "Dave Simpson",
+    "date": "15-04-2026 16:17"
+  },
+  {
     "project": "PRJ03270 - Archer - Archer - Blackburn - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Archer collected 2 x RBT'S and 4 x PRC041'S on 14th April - SHI04293. The rental period is expected to be around 1 week.",
@@ -47,12 +54,5 @@
     "comment": "Data handed it to the client. Data ok. Now preparing backload. Fit checks pending to do. Only for the MFC60 and the PRCs Pendign to get return ticket.",
     "addedBy": "Melissa Hernandez",
     "date": "13-04-2026 18:51"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Main Pass data Downloaded. Data OK. Now running the repeat pass battery connected @14:46:40 Expected to POOH @ 15:50 be on surface before 17:00",
-    "addedBy": "Melissa Hernandez",
-    "date": "13-04-2026 16:40"
   }
 ]
