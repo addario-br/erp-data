@@ -1,8 +1,10 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 7,
     "names": [
+      "Jenni Michie",
+      "Maurillio Addario",
       "Lewis Emslie",
       "Craig Lamont",
       "Joseph Guyan",
@@ -43,7 +45,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Ross Thornton"
+    ]
   }
 ]
