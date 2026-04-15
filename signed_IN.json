@@ -1,8 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 9,
     "names": [
+      "Joseph Guyan",
+      "Craig Lamont",
+      "Jenni Michie",
       "Heather Caldwell",
       "John Guntoro",
       "Maurillio Addario",
@@ -13,12 +16,11 @@
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Chris Kennedy",
       "Stewart Steele",
       "Dave Simpson",
-      "Ross Fraser",
       "Russell Edgar",
       "Mark Davidson"
     ]
