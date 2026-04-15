@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Continue Rig up on HBA-02\nPack read container as they plan to reorganise the deck to make space for e-line kit arriving this week",
+    "addedBy": "Joshua Cheyne",
+    "date": "15-04-2026 06:38"
+  },
+  {
     "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Further delays due to flooding in the field. possibly the 20th for mobilising.",
@@ -47,12 +54,5 @@
     "comment": "Arrived onshore 11:00",
     "addedBy": "Abdilmalik Mohamed",
     "date": "13-04-2026 15:41"
-  },
-  {
-    "project": "PRJ03263 - Perenco - Wytch Farm - 1A-02BI - Leak_Detection",
-    "job": "N/A",
-    "comment": "Confirmation from Perenco that Leak Detection log is required ~Weds 22nd April. Archer S100 tools required",
-    "addedBy": "Craig Fraser",
-    "date": "13-04-2026 15:32"
   }
 ]
