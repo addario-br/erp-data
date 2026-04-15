@@ -1,10 +1,9 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 8,
+    "numIn": 7,
     "names": [
       "Heather Caldwell",
-      "Mohamed Selim",
       "John Guntoro",
       "Maurillio Addario",
       "Lewis Emslie",
@@ -15,8 +14,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 6,
     "names": [
+      "Chris Kennedy",
       "Stewart Steele",
       "Dave Simpson",
       "Ross Fraser",
