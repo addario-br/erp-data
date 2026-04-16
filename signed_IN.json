@@ -1,22 +1,20 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Craig Lamont",
       "John Guntoro",
       "Joseph Guyan",
       "Maurillio Addario",
-      "Jay Purves",
-      "Lewis Emslie"
+      "Jay Purves"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Chris Kennedy",
-      "Dave Simpson"
+      "Chris Kennedy"
     ]
   },
   {
