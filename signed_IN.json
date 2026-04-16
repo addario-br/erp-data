@@ -6,13 +6,16 @@
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Ross Fraser"
+    ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Liam Strath",
       "George Handsley"
     ]
   },
