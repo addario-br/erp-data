@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
+    "comment": "Lenny Lapiso to up man on the 23rd April with a 07:00 Check in. LL to travel across to DK on the 22nd.",
+    "addedBy": "James Law",
+    "date": "16-04-2026 09:30"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
     "comment": "JC being down manned today flight to Esbjerg around 12:30",
     "addedBy": "Joshua Cheyne",
     "date": "16-04-2026 06:31"
@@ -47,12 +54,5 @@
     "comment": "Job completed travel to London around 9:00 am departing from hotel ETA 12:00 the return car and go to airport",
     "addedBy": "Melissa Hernandez",
     "date": "14-04-2026 08:23"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "SLB waiting on data from Well explorer to before rigging down off HBA-21 and moving to HBA-2\nPlan today perform 1hr test on all batteries to ensure all remaining batteries are working and acceptable to run on next well",
-    "addedBy": "Joshua Cheyne",
-    "date": "14-04-2026 07:15"
   }
 ]
