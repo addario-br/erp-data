@@ -1,7 +1,7 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 8,
+    "numIn": 7,
     "names": [
       "Tim Farrar",
       "Craig Lamont",
@@ -9,16 +9,15 @@
       "Joseph Guyan",
       "Maurillio Addario",
       "Jay Purves",
-      "Lewis Emslie",
-      "Alan Walsh"
+      "Lewis Emslie"
     ]
   },
   {
     "companyName": "READ",
     "numIn": 6,
     "names": [
-      "Melissa Hernandez",
       "Chris Kennedy",
+      "Melissa Hernandez",
       "Stewart Steele",
       "Dave Simpson",
       "Mark Davidson",
