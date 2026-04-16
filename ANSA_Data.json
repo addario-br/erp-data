@@ -1,8 +1,16 @@
 {
   "Sheet1": [
     {
+      "5": 2,
+      "Total Reports": "Total FTAs"
+    },
+    {
       "5": "Jenny",
-      "Number of Reports ": "Quickest FTA"
+      "Total Reports": "Quickest FTA"
+    },
+    {
+      "5": "Bob",
+      "Total Reports": "Most FTAs"
     }
   ]
 }
