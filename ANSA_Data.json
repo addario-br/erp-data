@@ -3,17 +3,12 @@
     {
       "[object Object]": {
         "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*Priority*\")",
-        "result": {
-          "error": "#VALUE!"
-        }
+        "result": 7
       }
     },
     {
       "[object Object]": {
-        "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*FTA*\")",
-        "result": {
-          "error": "#VALUE!"
-        }
+        "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*FTA*\")"
       }
     },
     {
