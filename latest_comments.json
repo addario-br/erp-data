@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "This job is now on the lookahead for the 13th May",
+    "addedBy": "Rickie Yuill",
+    "date": "17-04-2026 09:22"
+  },
+  {
     "project": "PRJ03263 - Perenco - Wytch Farm - 1A-02BI - Leak_Detection",
     "job": "N/A",
     "comment": "Update from Perenco this afternoon is the job has been cancelled - A-02 has been moved off the priority list. They may return to this well later in the year.",
@@ -47,12 +54,5 @@
     "comment": "Continue Rig up on HBA-02\nPack read container as they plan to reorganise the deck to make space for e-line kit arriving this week",
     "addedBy": "Joshua Cheyne",
     "date": "15-04-2026 06:38"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Further delays due to flooding in the field. possibly the 20th for mobilising.",
-    "addedBy": "Rickie Yuill",
-    "date": "14-04-2026 09:13"
   }
 ]
