@@ -1,16 +1,21 @@
 {
   "Sheet1": [
     {
-      "5": 2,
-      "Standard / Priority Analyses Completed": "FTAs Completed"
+      "Standard Analyses Completed": "Priority Analyses Completed",
+      "[object Object]": {
+        "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*Priority*\")",
+        "result": 7
+      }
     },
     {
-      "5": "Jenny",
-      "Standard / Priority Analyses Completed": "Quickest FTA"
+      "Standard Analyses Completed": "FTAs Completed",
+      "[object Object]": {
+        "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*FTA*\")"
+      }
     },
     {
-      "5": "Bob",
-      "Standard / Priority Analyses Completed": "Most FTAs"
+      "Standard Analyses Completed": "Most FTAs",
+      "[object Object]": "Bob"
     }
   ]
 }
