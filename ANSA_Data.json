@@ -2,15 +2,15 @@
   "Sheet1": [
     {
       "5": 2,
-      "Total Reports": "Total FTAs"
+      "Standard / Priority Analyses Completed": "FTAs Completed"
     },
     {
       "5": "Jenny",
-      "Total Reports": "Quickest FTA"
+      "Standard / Priority Analyses Completed": "Quickest FTA"
     },
     {
       "5": "Bob",
-      "Total Reports": "Most FTAs"
+      "Standard / Priority Analyses Completed": "Most FTAs"
     }
   ]
 }
