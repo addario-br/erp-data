@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Mobilisation confirmed for tomorrow. READ equipment will go to the field, personel will go when the Welltec milling is complete.",
+    "addedBy": "Rickie Yuill",
+    "date": "19-04-2026 13:34"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Replacement caliper mobilised from Aberdeen to Esbjerg to replace the faulty caliper from last run.",
@@ -47,12 +54,5 @@
     "comment": "Perenco have requested to collect the leak detection tool's on Friday. They will arrive from Archer shortly and be tested tomorrow along with our QPC's and PRT's in preparation for the loadout.",
     "addedBy": "Dave Simpson",
     "date": "15-04-2026 16:17"
-  },
-  {
-    "project": "PRJ03270 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Archer collected 2 x RBT'S and 4 x PRC041'S on 14th April - SHI04293. The rental period is expected to be around 1 week.",
-    "addedBy": "Dave Simpson",
-    "date": "15-04-2026 11:57"
   }
 ]
