@@ -2,6 +2,13 @@
   {
     "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
+    "comment": "Equipment mobilised to the field 13:00 KT",
+    "addedBy": "Rickie Yuill",
+    "date": "20-04-2026 10:28"
+  },
+  {
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
     "comment": "Mobilisation confirmed for tomorrow. READ equipment will go to the field, personel will go when the Welltec milling is complete.",
     "addedBy": "Rickie Yuill",
     "date": "19-04-2026 13:34"
@@ -47,12 +54,5 @@
     "comment": "JC being down manned today flight to Esbjerg around 12:30",
     "addedBy": "Joshua Cheyne",
     "date": "16-04-2026 06:31"
-  },
-  {
-    "project": "PRJ03263 - Perenco - Wytch Farm - 1A-02BI - Leak_Detection",
-    "job": "N/A",
-    "comment": "Perenco have requested to collect the leak detection tool's on Friday. They will arrive from Archer shortly and be tested tomorrow along with our QPC's and PRT's in preparation for the loadout.",
-    "addedBy": "Dave Simpson",
-    "date": "15-04-2026 16:17"
   }
 ]
