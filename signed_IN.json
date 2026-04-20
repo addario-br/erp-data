@@ -1,13 +1,10 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 2,
     "names": [
-      "John Guntoro",
       "Craig Lamont",
-      "Joseph Guyan",
-      "Jennifer Leyes",
-      "Heather Caldwell"
+      "Joseph Guyan"
     ]
   },
   {
@@ -20,9 +17,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
-      "Calum Smith",
       "Cherie Bowden",
       "Peter Thomson",
       "Liam Strath",
