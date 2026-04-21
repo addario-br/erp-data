@@ -1,11 +1,10 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Craig Lamont",
       "Mohamed Selim",
-      "Tim Farrar",
       "John Guntoro",
       "Joseph Guyan",
       "Alan Walsh"
@@ -13,21 +12,17 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 3,
     "names": [
       "Thomas Dyke",
       "Chris Kennedy",
-      "Melissa Hernandez",
-      "Ross Fraser",
-      "Dave Simpson"
+      "Melissa Hernandez"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
-    "names": [
-      "Cherie Bowden"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
