@@ -10,15 +10,17 @@
   },
   {
     "companyName": "READ",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Chris Kennedy",
       "Dave Simpson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
+      "Calum Smith",
       "Cherie Bowden",
       "Liam Strath",
       "Peter Thomson"
