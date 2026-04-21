@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
+    "job": "N/A",
+    "comment": "Abdilmalik Mohamed will travel to Repsol Claymore on Friday 24th April for Archer UK. Check in time TBC.",
+    "addedBy": "James Law",
+    "date": "21-04-2026 10:49"
+  },
+  {
     "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
     "comment": "Welltec start to RIH with RCB at 06:00am KT",
@@ -47,12 +54,5 @@
     "comment": "Update from Perenco this afternoon is the job has been cancelled - A-02 has been moved off the priority list. They may return to this well later in the year.",
     "addedBy": "Dave Simpson",
     "date": "16-04-2026 16:22"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Lenny Lapiso to up man on the 23rd April with a 07:00 Check in. LL to travel across to DK on the 22nd.",
-    "addedBy": "James Law",
-    "date": "16-04-2026 09:30"
   }
 ]
