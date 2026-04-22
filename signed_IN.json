@@ -1,21 +1,14 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
-    "names": [
-      "Mohamed Selim",
-      "Craig Lamont",
-      "Jay Purves",
-      "Joseph Guyan",
-      "Alan Walsh"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 2,
     "names": [
       "Thomas Dyke",
-      "Chris Kennedy",
       "Stewart Steele"
     ]
   },
