@@ -1,8 +1,12 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 4,
+    "numIn": 8,
     "names": [
+      "Jay Purves",
+      "John Guntoro",
+      "Craig Lamont",
+      "Jennifer Leyes",
       "Joseph Guyan",
       "Alan Walsh",
       "Jenni Michie",
@@ -11,8 +15,11 @@
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 6,
     "names": [
+      "Ross Fraser",
+      "Thomas Dyke",
+      "Dave Simpson",
       "Chris Kennedy",
       "Mark Davidson",
       "Russell Edgar"
@@ -36,8 +43,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
