@@ -14,6 +14,13 @@
     "date": "22-04-2026 16:26"
   },
   {
+    "project": "PRJ03270 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "RBT's and PRC041's returned from Archer. Rental stopped yesterday.",
+    "addedBy": "Dave Simpson",
+    "date": "22-04-2026 16:22"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "LL arrived in Esbjerg. 7am check in to HSBC for tomorrow am.",
@@ -47,12 +54,5 @@
     "comment": "Equipment mobilised to the field 13:00 KT",
     "addedBy": "Rickie Yuill",
     "date": "20-04-2026 10:28"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Mobilisation confirmed for tomorrow. READ equipment will go to the field, personel will go when the Welltec milling is complete.",
-    "addedBy": "Rickie Yuill",
-    "date": "19-04-2026 13:34"
   }
 ]
