@@ -1,10 +1,8 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 7,
+    "numIn": 5,
     "names": [
-      "Mohamed Selim",
-      "Jay Purves",
       "Craig Lamont",
       "Jennifer Leyes",
       "Alan Walsh",
@@ -14,13 +12,11 @@
   },
   {
     "companyName": "READ",
-    "numIn": 7,
+    "numIn": 5,
     "names": [
       "Stewart Steele",
       "Ross Fraser",
-      "Thomas Dyke",
       "Dave Simpson",
-      "Chris Kennedy",
       "Mark Davidson",
       "Russell Edgar"
     ]
