@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
+    "job": "N/A",
+    "comment": "Check in has been delayed to the 4th of May.",
+    "addedBy": "James Law",
+    "date": "22-04-2026 16:28"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Pre Job brief carried out with LL this afternoon.",
+    "addedBy": "James Law",
+    "date": "22-04-2026 16:26"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "LL arrived in Esbjerg. 7am check in to HSBC for tomorrow am.",
@@ -40,19 +54,5 @@
     "comment": "Mobilisation confirmed for tomorrow. READ equipment will go to the field, personel will go when the Welltec milling is complete.",
     "addedBy": "Rickie Yuill",
     "date": "19-04-2026 13:34"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Replacement caliper mobilised from Aberdeen to Esbjerg to replace the faulty caliper from last run.",
-    "addedBy": "Dave Simpson",
-    "date": "17-04-2026 11:42"
-  },
-  {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
-    "job": "N/A",
-    "comment": "Equipment has arrived back into Aberdeen",
-    "addedBy": "Dave Simpson",
-    "date": "17-04-2026 11:23"
   }
 ]
