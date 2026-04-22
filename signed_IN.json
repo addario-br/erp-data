@@ -1,12 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 7,
+    "numIn": 6,
     "names": [
       "Jennifer Leyes",
       "Jenni Michie",
       "Jay Purves",
-      "Mohamed Selim",
       "Joseph Guyan",
       "Alan Walsh",
       "Heather Caldwell"
@@ -14,11 +13,12 @@
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 5,
     "names": [
+      "Thomas Dyke",
+      "Chris Kennedy",
       "Stewart Steele",
       "Dave Simpson",
-      "Mark Davidson",
       "Russell Edgar"
     ]
   },
