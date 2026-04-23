@@ -11,10 +11,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
       "Chris Kennedy",
-      "Ross Fraser",
       "Stewart Steele",
       "Thomas Dyke",
       "Mark Davidson"
@@ -22,10 +21,9 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
+    "numIn": 3,
     "names": [
       "Peter Thomson",
-      "George Handsley",
       "Liam Strath",
       "Cherie Bowden"
     ]
