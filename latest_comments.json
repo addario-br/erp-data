@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "Update from Luis: job changed from confirmed to contingency. He has also requested an engineer to support. Will be short notice call out.",
+    "addedBy": "Dave Simpson",
+    "date": "23-04-2026 15:49"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "LL arrived on board Halfdan B platform. Currently ops: Slb rigged up Eline on HBA-11 to run mill. Will then rig back to slickline for drift then MFC40. Latest lookahead has late Friday at the earliest for running the drift but subject to change. FTA required.",
@@ -47,12 +54,5 @@
     "comment": "Welltec RCB ops ongoing",
     "addedBy": "Rickie Yuill",
     "date": "22-04-2026 07:01"
-  },
-  {
-    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
-    "job": "N/A",
-    "comment": "Abdilmalik Mohamed will travel to Repsol Claymore on Friday 24th April for Archer UK. Check in time TBC.",
-    "addedBy": "James Law",
-    "date": "21-04-2026 10:49"
   }
 ]
