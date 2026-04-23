@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
+    "comment": "RIH. Confirm RSS#3-9 are open. If not open it. 03:00 am",
+    "addedBy": "Salman Kassen",
+    "date": "23-04-2026 23:04"
+  },
+  {
     "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
     "job": "N/A",
     "comment": "Update from Luis: job changed from confirmed to contingency. He has also requested an engineer to support. Will be short notice call out.",
@@ -47,12 +54,5 @@
     "comment": "LL arrived in Esbjerg. 7am check in to HBC for tomorrow am.",
     "addedBy": "Leonard Lapiso",
     "date": "22-04-2026 11:47"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Welltec RCB ops ongoing",
-    "addedBy": "Rickie Yuill",
-    "date": "22-04-2026 07:01"
   }
 ]
