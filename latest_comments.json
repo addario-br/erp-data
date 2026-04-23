@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "LL arrived on board Halfdan B platform. Currently ops: Slb rigged up Eline to run mill. Will then rig back to slickline for drift then MFC40. Latest lookahead has late Friday at the earliest for running the drift but subject to change. FTA required.",
+    "addedBy": "Leonard Lapiso",
+    "date": "23-04-2026 08:47"
+  },
+  {
     "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Welltec ops ongoing, as they were unable to pass RSS#3 KPO have decided to POOH and move onto the FS shifting ops. SK will mobilise to the field tonight.",
@@ -47,12 +54,5 @@
     "comment": "Abdilmalik Mohamed will travel to Repsol Claymore on Friday 24th April for Archer UK. Check in time TBC.",
     "addedBy": "James Law",
     "date": "21-04-2026 10:49"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
-    "comment": "Welltec start to RIH with RCB at 06:00am KT",
-    "addedBy": "Rickie Yuill",
-    "date": "21-04-2026 06:40"
   }
 ]
