@@ -1,35 +1,29 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 7,
+    "numIn": 4,
     "names": [
       "Tim Farrar",
       "John Guntoro",
-      "Craig Lamont",
       "Lewis Emslie",
-      "Alan Walsh",
-      "Joseph Guyan",
-      "Heather Caldwell"
+      "Joseph Guyan"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 2,
     "names": [
       "Ross Fraser",
-      "Chris Kennedy",
-      "Stewart Steele",
-      "Mark Davidson"
+      "Stewart Steele"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
+    "numIn": 3,
     "names": [
       "Cherie Bowden",
       "Calum Smith",
-      "Peter Thomson",
-      "Liam Strath"
+      "Peter Thomson"
     ]
   },
   {
