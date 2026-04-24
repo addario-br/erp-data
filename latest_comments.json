@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
+    "comment": "All RSS#3 to 9 are confirmed open. POOH. Expect to be back at surface for 21:00 KT",
+    "addedBy": "Rickie Yuill",
+    "date": "24-04-2026 10:37"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "Slb continuing to mill on HBA-11. Current lookahead has rig up for drift run/MFC Saturday Evening 25/04/26, but depends on progress made with milling. Caliper tool string function checked and good to go.",
@@ -47,12 +54,5 @@
     "comment": "Pre Job brief carried out with LL this afternoon.",
     "addedBy": "James Law",
     "date": "22-04-2026 16:26"
-  },
-  {
-    "project": "PRJ03270 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "RBT's and PRC041's returned from Archer. Rental stopped yesterday.",
-    "addedBy": "Dave Simpson",
-    "date": "22-04-2026 16:22"
   }
 ]
