@@ -1,13 +1,16 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Craig Lamont"
+    ]
   },
   {
     "companyName": "READ",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Dave Simpson",
       "Mark Davidson"
     ]
   },
