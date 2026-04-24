@@ -1,8 +1,10 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Craig Lamont"
+    ]
   },
   {
     "companyName": "READ",
@@ -14,11 +16,9 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 1,
     "names": [
-      "Calum Smith",
-      "Peter Thomson",
-      "George Handsley"
+      "Peter Thomson"
     ]
   },
   {
