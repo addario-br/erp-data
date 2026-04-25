@@ -2,6 +2,13 @@
   {
     "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
+    "comment": "Equipment de-mob from the field at 8am KT",
+    "addedBy": "Rickie Yuill",
+    "date": "25-04-2026 06:16"
+  },
+  {
+    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
     "comment": "All RSS#3 to 9 are confirmed open. POOH. Expect to be back at surface for 21:00 KT",
     "addedBy": "Rickie Yuill",
     "date": "24-04-2026 10:37"
@@ -47,12 +54,5 @@
     "comment": "Check in has been delayed to the 4th of May.",
     "addedBy": "James Law",
     "date": "22-04-2026 16:28"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Pre Job brief carried out with LL this afternoon.",
-    "addedBy": "James Law",
-    "date": "22-04-2026 16:26"
   }
 ]
