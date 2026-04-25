@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
+    "comment": "Slb milled and flowed the well yesterday for a few hours, then continued milling during the night shift. Expect to rig up MFC tomorrow (26/04/26) around 15:00. Confirmed FTA required. Replacement MFC40 could arrive tomorrow afternoon as well.",
+    "addedBy": "Leonard Lapiso",
+    "date": "25-04-2026 06:51"
+  },
+  {
     "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
     "comment": "Equipment de-mob from the field at 8am KT",
@@ -47,12 +54,5 @@
     "comment": "Welltec ops ongoing, as they were unable to pass RSS#3 KPO have decided to POOH and move onto the FS shifting ops. SK will mobilise to the field tonight.",
     "addedBy": "Rickie Yuill",
     "date": "23-04-2026 07:46"
-  },
-  {
-    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
-    "job": "N/A",
-    "comment": "Check in has been delayed to the 4th of May.",
-    "addedBy": "James Law",
-    "date": "22-04-2026 16:28"
   }
 ]
