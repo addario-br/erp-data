@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
+    "comment": "Slickline ran simulated drift for MFC40 and reached ~6000ft. Rigged up MFC40 to log from this depth. Battery connected @00:09, fingers set to close @08:19. Expect to upload data ~9:30 onwards (local time).",
+    "addedBy": "Leonard Lapiso",
+    "date": "26-04-2026 23:54"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "Slb finished milling earlier than expected but there were Delays in rigging over to slickline due to production issues. Currently in hole with the slickline brush. Expect to rig up for drift ~16:00 and MFC40 ~20:00 local time. Estimate for uploading data Monday morning at some point.",
     "addedBy": "Leonard Lapiso",
     "date": "26-04-2026 06:53"
@@ -47,12 +54,5 @@
     "comment": "Update from Luis: job changed from confirmed to contingency. He has also requested an engineer to support. Will be short notice call out.",
     "addedBy": "Dave Simpson",
     "date": "23-04-2026 15:49"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "LL arrived on board Halfdan B platform. Currently ops: Slb rigged up Eline on HBA-11 to run mill. Will then rig back to slickline for drift then MFC40. Latest lookahead has late Friday at the earliest for running the drift but subject to change. FTA required.",
-    "addedBy": "Leonard Lapiso",
-    "date": "23-04-2026 08:47"
   }
 ]
