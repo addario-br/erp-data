@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
+    "comment": "Slb finished milling earlier than expected but there were Delays in rigging over to slickline due to production issues. Currently in hole with the slickline brush. Expect to rig up for drift ~16:00 and MFC40 ~20:00 local time. Estimate for uploading data Monday morning at some point.",
+    "addedBy": "Leonard Lapiso",
+    "date": "26-04-2026 06:53"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "Slb milled and flowed the well yesterday for a few hours, then continued milling during the night shift. Expect to rig up MFC tomorrow (26/04/26) around 15:00. Confirmed FTA required. Replacement MFC40 could arrive tomorrow afternoon as well.",
     "addedBy": "Leonard Lapiso",
     "date": "25-04-2026 06:51"
@@ -47,12 +54,5 @@
     "comment": "LL arrived on board Halfdan B platform. Currently ops: Slb rigged up Eline on HBA-11 to run mill. Will then rig back to slickline for drift then MFC40. Latest lookahead has late Friday at the earliest for running the drift but subject to change. FTA required.",
     "addedBy": "Leonard Lapiso",
     "date": "23-04-2026 08:47"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Welltec ops ongoing, as they were unable to pass RSS#3 KPO have decided to POOH and move onto the FS shifting ops. SK will mobilise to the field tonight.",
-    "addedBy": "Rickie Yuill",
-    "date": "23-04-2026 07:46"
   }
 ]
