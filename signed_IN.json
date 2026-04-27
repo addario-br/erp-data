@@ -1,20 +1,26 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Jennifer Leyes",
       "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Mark Davidson"
+    ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
+    "numIn": 4,
     "names": [
+      "Cherie Bowden",
+      "Calum Smith",
+      "Peter Thomson",
       "James Reid"
     ]
   },
