@@ -1,29 +1,26 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
       "John Guntoro",
       "Craig Lamont",
       "Joseph Guyan",
-      "Jay Purves",
-      "Jennifer Leyes"
+      "Jay Purves"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 2,
     "names": [
       "Ross Fraser",
-      "Dave Simpson",
-      "Mark Davidson"
+      "Dave Simpson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Peter Thomson",
       "James Reid"
     ]
   },
