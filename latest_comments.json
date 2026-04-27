@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
+    "comment": "Replacement MFC40 and clamps arrived on board yesterday. MFC40 and clamps for backload packed in container #44061 for Backload on next available boat.",
+    "addedBy": "Leonard Lapiso",
+    "date": "27-04-2026 06:50"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "Slickline ran simulated drift for MFC40 and reached ~6000ft. Rigged up MFC40 to log from this depth. Battery connected @00:09, fingers set to close @08:19. Expect to upload data ~9:30 onwards (local time).",
     "addedBy": "Leonard Lapiso",
     "date": "26-04-2026 23:54"
@@ -47,12 +54,5 @@
     "comment": "RIH. Confirm RSS#3-9 are open. If not open it. 03:00 am",
     "addedBy": "Salman Kassen",
     "date": "23-04-2026 23:04"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "Update from Luis: job changed from confirmed to contingency. He has also requested an engineer to support. Will be short notice call out.",
-    "addedBy": "Dave Simpson",
-    "date": "23-04-2026 15:49"
   }
 ]
