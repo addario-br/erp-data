@@ -30,7 +30,7 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
-    "comment": "Slickline ran simulated drift for MFC40 and reached ~6000ft. Rigged up MFC40 to log from this depth. Battery connected @00:09, fingers set to close @08:19. Expect to upload data ~9:30 onwards (local time).",
+    "comment": "Slickline ran simulated drift for MFC40 and reached ~7950ft. Rigged up MFC40 to log from 6000ft. Battery connected @00:09, fingers set to close @08:19. Expect to upload data ~9:30 onwards (local time).",
     "addedBy": "Leonard Lapiso",
     "date": "26-04-2026 23:54"
   },
