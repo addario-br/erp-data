@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
+    "comment": "MFC40 log completed and laid down toolstring at 9:05 local time. Data uploading to ANSA for analysis. Will continue with Post Calibration and Upload once complete. Slb to run Well Explorer.",
+    "addedBy": "Leonard Lapiso",
+    "date": "27-04-2026 09:11"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "Replacement MFC40 and clamps arrived on board yesterday. MFC40 and clamps for backload packed in container #44061 for Backload on next available boat.",
     "addedBy": "Leonard Lapiso",
     "date": "27-04-2026 06:50"
@@ -47,12 +54,5 @@
     "comment": "Slb continuing to mill on HBA-11. Current lookahead has rig up for drift run/MFC Saturday Evening 25/04/26, but depends on progress made with milling. Caliper tool string function checked and good to go.",
     "addedBy": "Leonard Lapiso",
     "date": "24-04-2026 06:34"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
-    "comment": "RIH. Confirm RSS#3-9 are open. If not open it. 03:00 am",
-    "addedBy": "Salman Kassen",
-    "date": "23-04-2026 23:04"
   }
 ]
