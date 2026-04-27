@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "QELNG have informed Baker Hughes that there is discussion to mobilise to WHP-2(S) ~7-May. Personnel and equipment readiness date to be shared with Baker based on MEV and gate pass applications.\n\nWell Run\nNFR 2-1A NA\nNFR 2-2 MFC\nNFR 2-3 NA\nNFR 2-4 NA\nNFR 2-5A MFC",
+    "addedBy": "Craig Fraser",
+    "date": "27-04-2026 12:20"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "MFC40 log completed and laid down toolstring at 9:05 local time. Data uploading to ANSA for analysis. Will continue with Post Calibration and Upload once complete. Slb to run Well Explorer.",
@@ -47,12 +54,5 @@
     "comment": "All RSS#3 to 9 are confirmed open. POOH. Expect to be back at surface for 21:00 KT",
     "addedBy": "Rickie Yuill",
     "date": "24-04-2026 10:37"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
-    "comment": "Slb continuing to mill on HBA-11. Current lookahead has rig up for drift run/MFC Saturday Evening 25/04/26, but depends on progress made with milling. Caliper tool string function checked and good to go.",
-    "addedBy": "Leonard Lapiso",
-    "date": "24-04-2026 06:34"
   }
 ]
