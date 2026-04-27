@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
+    "job": "N/A",
+    "comment": "Total have requested the equipment to mobilise back to Dan today. Melissa Hernandez will mobilise to Billund via Amsterdam this evening, for a 2pm check-in tomorrow",
+    "addedBy": "Craig Fraser",
+    "date": "27-04-2026 13:22"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "QELNG have informed Baker Hughes that there is discussion to mobilise to WHP-2(S) ~7-May. Personnel and equipment readiness date to be shared with Baker based on MEV and gate pass applications.\n\nWell Run\nNFR 2-1A NA\nNFR 2-2 MFC\nNFR 2-3 NA\nNFR 2-4 NA\nNFR 2-5A MFC",
@@ -47,12 +54,5 @@
     "comment": "Equipment de-mob from the field at 8am KT",
     "addedBy": "Rickie Yuill",
     "date": "25-04-2026 06:16"
-  },
-  {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03244-1 Karachaganak 9850 SSD Position",
-    "comment": "All RSS#3 to 9 are confirmed open. POOH. Expect to be back at surface for 21:00 KT",
-    "addedBy": "Rickie Yuill",
-    "date": "24-04-2026 10:37"
   }
 ]
