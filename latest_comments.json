@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "This operation is not fully cancelled yet, further update from WSG expected this week",
+    "addedBy": "Craig Fraser",
+    "date": "28-04-2026 08:41"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
     "comment": "Inflow testing on HBA-11 and should start rigging down off the well today and expect to rig up on HBA-16 tonight. Latest lookahead has memory MFC run on HBA-16 ~1am Friday 01/05/26, with FTA required. Carry on with post job maintenance.",
@@ -47,12 +54,5 @@
     "comment": "Slb finished milling earlier than expected but there were Delays in rigging over to slickline due to production issues. Currently in hole with the slickline brush. Expect to rig up for drift ~16:00 and MFC40 ~20:00 local time. Estimate for uploading data Monday morning at some point.",
     "addedBy": "Leonard Lapiso",
     "date": "26-04-2026 06:53"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
-    "comment": "Slb milled and flowed the well yesterday for a few hours, then continued milling during the night shift. Expect to rig up MFC tomorrow (26/04/26) around 15:00. Confirmed FTA required. Replacement MFC40 could arrive tomorrow afternoon as well.",
-    "addedBy": "Leonard Lapiso",
-    "date": "25-04-2026 06:51"
   }
 ]
