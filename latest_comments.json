@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "The scope is actually 2 wells only now on that platfrom 2-2 and 2-5, planned mob is 15-May.",
+    "addedBy": "Craig Fraser",
+    "date": "28-04-2026 10:38"
+  },
+  {
     "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - NA",
     "job": "N/A",
     "comment": "Archer enquiry for MFC80 package",
@@ -47,12 +54,5 @@
     "comment": "Replacement MFC40 and clamps arrived on board yesterday. MFC40 and clamps for backload packed in container #44061 for Backload on next available boat.",
     "addedBy": "Leonard Lapiso",
     "date": "27-04-2026 06:50"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
-    "comment": "Slickline ran simulated drift for MFC40 and reached ~7950ft. Rigged up MFC40 to log from 6000ft. Battery connected @00:09, fingers set to close @08:19. Expect to upload data ~9:30 onwards (local time).",
-    "addedBy": "Leonard Lapiso",
-    "date": "26-04-2026 23:54"
   }
 ]
