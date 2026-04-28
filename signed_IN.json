@@ -30,9 +30,9 @@
     "companyName": "HydraWell",
     "numIn": 4,
     "names": [
+      "Calum Smith",
       "Cherie Bowden",
       "Peter Thomson",
-      "Calum Smith",
       "James Reid"
     ]
   },
@@ -43,8 +43,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
