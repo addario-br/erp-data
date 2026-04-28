@@ -1,8 +1,9 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 7,
     "names": [
+      "Joseph Guyan",
       "Mohamed Selim",
       "John Guntoro",
       "Craig Lamont",
@@ -13,9 +14,8 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
-      "Ross Fraser",
       "Stewart Steele",
       "Craig Fraser",
       "Mark Davidson",
