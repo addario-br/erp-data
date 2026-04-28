@@ -1,25 +1,20 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 9,
+    "numIn": 5,
     "names": [
-      "Mohamed Selim",
-      "John Guntoro",
       "Craig Lamont",
       "Lewis Emslie",
       "Alan Walsh",
-      "Joseph Guyan",
       "Jennifer Leyes",
-      "Jenni Michie",
       "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Stewart Steele",
-      "Chris Kennedy",
       "Ross Fraser",
       "Craig Fraser",
       "Mark Davidson",
