@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "WSG have requested a READ engineer for this operation. Abdil planned to travel to Amsterdam tomorrow morning. Pending further information from WSG.",
+    "addedBy": "Craig Fraser",
+    "date": "29-04-2026 16:21"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "READ MFC may not be required for WHP-2. Possibility of Baker running this with own caliper. TBC",
@@ -47,12 +54,5 @@
     "comment": "Archer enquiry for MFC80 package",
     "addedBy": "Craig Fraser",
     "date": "28-04-2026 10:22"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "This operation is not fully cancelled yet, further update from WSG expected this week",
-    "addedBy": "Craig Fraser",
-    "date": "28-04-2026 08:41"
   }
 ]
