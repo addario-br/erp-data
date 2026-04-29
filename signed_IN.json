@@ -1,8 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 9,
     "names": [
+      "Lewis Emslie",
+      "Jenni Michie",
+      "Tim Farrar",
       "Alan Walsh",
       "Craig Lamont",
       "Maurillio Addario",
@@ -13,8 +16,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 6,
     "names": [
+      "Dave Simpson",
       "Craig Fraser",
       "Stewart Steele",
       "Russell Edgar",
@@ -43,7 +47,12 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 4,
+    "names": [
+      "Borge Richard Kolstad",
+      "Stian Vemmestad",
+      "John Sayer",
+      "Orjan Gjerde"
+    ]
   }
 ]
