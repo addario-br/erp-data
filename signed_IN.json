@@ -41,12 +41,11 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 4,
+    "numIn": 3,
     "names": [
       "Dave Ross",
       "Borge Richard Kolstad",
-      "Stian Vemmestad",
-      "John Sayer"
+      "Stian Vemmestad"
     ]
   }
 ]
