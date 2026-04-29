@@ -1,23 +1,13 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
-    "names": [
-      "John Guntoro",
-      "Tim Farrar",
-      "Joseph Guyan",
-      "Alan Walsh",
-      "Craig Lamont",
-      "Maurillio Addario"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
-    "numIn": 2,
-    "names": [
-      "Ross Fraser",
-      "Stewart Steele"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
