@@ -26,11 +26,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 3,
-    "names": [
-      "Dave Ross",
-      "Borge Richard Kolstad",
-      "Stian Vemmestad"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
