@@ -1,12 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 7,
+    "numIn": 6,
     "names": [
       "John Guntoro",
       "Tim Farrar",
       "Joseph Guyan",
-      "Lewis Emslie",
       "Alan Walsh",
       "Craig Lamont",
       "Maurillio Addario"
@@ -14,11 +13,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 2,
     "names": [
       "Ross Fraser",
-      "Dave Simpson",
-      "Craig Fraser",
       "Stewart Steele"
     ]
   },
