@@ -1,13 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 9,
+    "numIn": 7,
     "names": [
       "John Guntoro",
-      "Jenni Michie",
       "Tim Farrar",
       "Joseph Guyan",
-      "Jennifer Leyes",
       "Lewis Emslie",
       "Alan Walsh",
       "Craig Lamont",
@@ -26,9 +24,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Calum Smith",
       "Cherie Bowden"
     ]
   },
@@ -44,13 +41,12 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
       "Dave Ross",
       "Borge Richard Kolstad",
       "Stian Vemmestad",
-      "John Sayer",
-      "Orjan Gjerde"
+      "John Sayer"
     ]
   }
 ]
