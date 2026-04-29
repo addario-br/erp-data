@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
+    "comment": "Continue rigging up on HBA-16. Equipment spotted and in place. Expect MFC40 to be pushed to the weekend, most likely saturday at some point as there will be significant brushing over the target straddle setting areas. Post job FIT checks completed.",
+    "addedBy": "Leonard Lapiso",
+    "date": "29-04-2026 07:08"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
     "job": "N/A",
     "comment": "Arrived to DAN F, induction done, pending to do HSE induction outside. Now working on HB21, Valve injection being replaced, pending BlueSpark run and R/D and move to HB11 where the Caliper run will be need it, Caliper Run Schedule now on Friday. Plan for tomorrow is unpacked container and test tools.",
@@ -47,12 +54,5 @@
     "comment": "QELNG have informed Baker Hughes that there is discussion to mobilise to WHP-2(S) ~7-May. Personnel and equipment readiness date to be shared with Baker based on MEV and gate pass applications.\n\nWell Run\nNFR 2-1A NA\nNFR 2-2 MFC\nNFR 2-3 NA\nNFR 2-4 NA\nNFR 2-5A MFC",
     "addedBy": "Craig Fraser",
     "date": "27-04-2026 12:20"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-2 Halfdan HBA11 (HBA-11) Tubular Integrity",
-    "comment": "MFC40 log completed and laid down toolstring at 9:05 local time. Data uploading to ANSA for analysis. Will continue with Post Calibration and Upload once complete. Slb to run Well Explorer.",
-    "addedBy": "Leonard Lapiso",
-    "date": "27-04-2026 09:11"
   }
 ]
