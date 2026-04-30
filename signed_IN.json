@@ -1,20 +1,17 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 4,
+    "numIn": 2,
     "names": [
-      "Tim Farrar",
-      "Craig Lamont",
       "Alan Walsh",
       "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Grant Patterson",
-      "Ross Fraser",
       "Dave Simpson",
       "Stewart Steele",
       "Mark Davidson",
