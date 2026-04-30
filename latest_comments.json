@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "Arrived on location at 9pm. Start preparing for rigup",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "01-05-2026 00:06"
+  },
+  {
     "project": "PRJ01477 - SLB - Saudi Arabia - 13_27_46_50_4_30_37_18_14_59_35_38_8_24_32_26_28_53_63_03_04a_33_50 - MFC",
     "job": "N/A",
     "comment": "Tools received back in Aberdeen 9th April 2026. Assessment underway of condition of the fleet prior to repair charges to SLB",
@@ -47,12 +54,5 @@
     "comment": "READ MFC may not be required for WHP-2. Possibility of Baker running this with own caliper. TBC",
     "addedBy": "Craig Fraser",
     "date": "29-04-2026 15:12"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Container #44061 containintg1 x MFC40 and 1 x lifting clamp just loaded onto boat for backload to Esbjerg.",
-    "addedBy": "Leonard Lapiso",
-    "date": "29-04-2026 10:33"
   }
 ]
