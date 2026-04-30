@@ -10,19 +10,17 @@
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 3,
     "names": [
       "Ross Fraser",
       "Dave Simpson",
-      "Stewart Steele",
-      "Mark Davidson"
+      "Stewart Steele"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Calum Smith",
       "Cherie Bowden"
     ]
   },
