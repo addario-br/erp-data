@@ -1,18 +1,27 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Heather Caldwell"
+    ]
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "Mark Davidson",
+      "Rob Molina"
+    ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 3,
+    "names": [
+      "Calum Smith",
+      "Cherie Bowden",
+      "Peter Thomson"
+    ]
   },
   {
     "companyName": "BlueSpark",
