@@ -1,5 +1,33 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
+    "job": "N/A",
+    "comment": "Now R/D HB21. Plan is R/U on HB11 tonight and do the drift run. Caliper run schedule on Friday afternoon depending on the progress of the well. No FTA required. Today's activities check backup tools",
+    "addedBy": "Melissa Hernandez",
+    "date": "30-04-2026 09:03"
+  },
+  {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "Well Sanam is expected to mobilize on 7 May for a 7–10 day job, after which they will move to the well where we have memory MFC. Once Well Sanam mobilizes, we’ll have a 7–10 day window to bring the crew in.",
+    "addedBy": "Craig Fraser",
+    "date": "30-04-2026 07:24"
+  },
+  {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "READ engineer (Abdil) will be lead along with WSG trainee. The scope of the Job is to run a Memory GR-CCL run on Slickline to identify the HUD using GR (Check if the clean out was deep enough or not). Land operation in Groningen. Exlog organising flights, accom and hire car.",
+    "addedBy": "Craig Fraser",
+    "date": "30-04-2026 07:11"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
+    "comment": "Rigged up onto HBA-16, pressure tested and currently RIH with 4.5\" slickline drift to target depth 9158ft. According to the lookahead there is 2 X sets of brush then injection for 12 hours at a time and rig up for MFC40 will be Friday (01/05/26) 20:00, however this may change.",
+    "addedBy": "Leonard Lapiso",
+    "date": "30-04-2026 06:29"
+  },
+  {
     "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
     "job": "N/A",
     "comment": "WSG have requested a READ engineer for this operation. Abdil planned to travel to Amsterdam tomorrow morning. Pending further information from WSG.",
@@ -26,33 +54,5 @@
     "comment": "Now Running blue Spark treatment on well 21. MFC Run Schedule on Friday. Plan for today unpack and test Main toolstring",
     "addedBy": "Melissa Hernandez",
     "date": "29-04-2026 09:33"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "Continue rigging up on HBA-16. Equipment spotted and in place. Expect MFC40 to be pushed to the weekend, most likely saturday at some point as there will be significant brushing over the target straddle setting areas. Post job FIT checks completed.",
-    "addedBy": "Leonard Lapiso",
-    "date": "29-04-2026 07:08"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
-    "job": "N/A",
-    "comment": "Arrived to DAN F, induction done, pending to do HSE induction outside. Now working on HB21, Valve injection being replaced, pending BlueSpark run and R/D and move to HB11 where the Caliper run will be need it, Caliper Run Schedule now on Friday. Plan for tomorrow is unpacked container and test tools.",
-    "addedBy": "Melissa Hernandez",
-    "date": "28-04-2026 17:50"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "The scope is actually 2 wells only now on that platfrom 2-2 and 2-5, planned mob is 15-May.",
-    "addedBy": "Craig Fraser",
-    "date": "28-04-2026 10:38"
-  },
-  {
-    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - NA",
-    "job": "N/A",
-    "comment": "Archer enquiry for MFC80 package",
-    "addedBy": "Craig Fraser",
-    "date": "28-04-2026 10:22"
   }
 ]
