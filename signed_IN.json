@@ -8,17 +8,14 @@
   },
   {
     "companyName": "READ",
-    "numIn": 1,
-    "names": [
-      "Dave Simpson"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Colin Campbell",
-      "Cherie Bowden"
+      "Colin Campbell"
     ]
   },
   {
