@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "Tools unable to pass TRSSV, way forward TBC.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "01-05-2026 07:26"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-1 Dan DFB11 (MFB-11)",
     "comment": "Now, building the scalfolding in the well. Once finish drift run. MFC run Expected today after lunch.",
@@ -47,12 +54,5 @@
     "comment": "READ engineer (Abdil) will be lead along with WSG trainee. The scope of the Job is to run a Memory GR-CCL run on Slickline to identify the HUD using GR (Check if the clean out was deep enough or not). Land operation in Groningen. Exlog organising flights, accom and hire car.",
     "addedBy": "Craig Fraser",
     "date": "30-04-2026 07:11"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "Rigged up onto HBA-16, pressure tested and currently RIH with 4.5\" slickline drift to target depth 9158ft. According to the lookahead there is 2 X sets of brush then injection for 12 hours at a time and rig up for MFC40 will be Friday (01/05/26) 20:00, however this may change.",
-    "addedBy": "Leonard Lapiso",
-    "date": "30-04-2026 06:29"
   }
 ]
