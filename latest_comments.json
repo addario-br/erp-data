@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - NA",
+    "job": "N/A",
+    "comment": "Currently looking at logging Wednesday/Thursday. MIT 80, Centralisers suitable for 18 5/8\" casing and panels etc.",
+    "addedBy": "Craig Fraser",
+    "date": "01-05-2026 08:47"
+  },
+  {
     "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
     "job": "N/A",
     "comment": "Tools unable to pass TRSSV, way forward TBC.",
@@ -47,12 +54,5 @@
     "comment": "Well Sanam is expected to mobilize on 7 May for a 7–10 day job, after which they will move to the well where we have memory MFC. Once Well Sanam mobilizes, we’ll have a 7–10 day window to bring the crew in.",
     "addedBy": "Craig Fraser",
     "date": "30-04-2026 07:24"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "READ engineer (Abdil) will be lead along with WSG trainee. The scope of the Job is to run a Memory GR-CCL run on Slickline to identify the HUD using GR (Check if the clean out was deep enough or not). Land operation in Groningen. Exlog organising flights, accom and hire car.",
-    "addedBy": "Craig Fraser",
-    "date": "30-04-2026 07:11"
   }
 ]
