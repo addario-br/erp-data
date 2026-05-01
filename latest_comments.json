@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
+    "comment": "RIH with MFC40. Battery connected @19:51, Fingers fully closed @05:35. Should be uploading FTA data to ANSA from ~6:30 onwards.",
+    "addedBy": "Leonard Lapiso",
+    "date": "01-05-2026 19:41"
+  },
+  {
     "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
     "job": "N/A",
     "comment": "Engineer requirement - 11th May for Claymore. JL and AM booked in for training at Kaseum Monday 4th May",
@@ -47,12 +54,5 @@
     "comment": "Tools received back in Aberdeen 9th April 2026. Assessment underway of condition of the fleet prior to repair charges to SLB",
     "addedBy": "Craig Fraser",
     "date": "30-04-2026 11:59"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Now R/D DFB21. Plan is R/U on DFB11 tonight and do the drift run. Caliper run schedule on Friday afternoon depending on the progress of the well. No FTA required. Today's activities check backup tools",
-    "addedBy": "Melissa Hernandez",
-    "date": "30-04-2026 09:03"
   }
 ]
