@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
+    "job": "N/A",
+    "comment": "Engineer requirement - 11th May for Claymore. JL and AM booked in for training at Kaseum Monday 4th May",
+    "addedBy": "Craig Fraser",
+    "date": "01-05-2026 11:23"
+  },
+  {
     "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - NA",
     "job": "N/A",
     "comment": "Currently looking at logging Wednesday/Thursday. MIT 80, Centralisers suitable for 18 5/8\" casing and panels etc.",
@@ -47,12 +54,5 @@
     "comment": "Now R/D DFB21. Plan is R/U on DFB11 tonight and do the drift run. Caliper run schedule on Friday afternoon depending on the progress of the well. No FTA required. Today's activities check backup tools",
     "addedBy": "Melissa Hernandez",
     "date": "30-04-2026 09:03"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
-    "job": "N/A",
-    "comment": "Well Sanam is expected to mobilize on 7 May for a 7–10 day job, after which they will move to the well where we have memory MFC. Once Well Sanam mobilizes, we’ll have a 7–10 day window to bring the crew in.",
-    "addedBy": "Craig Fraser",
-    "date": "30-04-2026 07:24"
   }
 ]
