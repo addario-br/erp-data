@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-1 Dan DFB11 (MFB-11)",
+    "comment": "Batery connected @23:27, Expected to be on surface @ 07:00. Data expected around 08:00. No FTA required for this well",
+    "addedBy": "Melissa Hernandez",
+    "date": "01-05-2026 23:23"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
     "comment": "RIH with MFC40. Battery connected @19:51, Fingers fully closed @05:35. Should be uploading FTA data to ANSA from ~6:30 onwards.",
@@ -47,12 +54,5 @@
     "comment": "Arrived on location at 9pm. Start preparing for rigup",
     "addedBy": "Abdilmalik Mohamed",
     "date": "01-05-2026 00:06"
-  },
-  {
-    "project": "PRJ01477 - SLB - Saudi Arabia - 13_27_46_50_4_30_37_18_14_59_35_38_8_24_32_26_28_53_63_03_04a_33_50 - MFC",
-    "job": "N/A",
-    "comment": "Tools received back in Aberdeen 9th April 2026. Assessment underway of condition of the fleet prior to repair charges to SLB",
-    "addedBy": "Craig Fraser",
-    "date": "30-04-2026 11:59"
   }
 ]
