@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-1 Dan DFB11 (MFB-11)",
+    "comment": "Now, building the scalfolding in the well. Once finish drift run. MFC run Expected today after lunch.",
+    "addedBy": "Melissa Hernandez",
+    "date": "01-05-2026 06:25"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
     "comment": "Injected the well all night shift. New brush arrives on board this morning. According to lookahead plan is to continue brushing today, inject the well, then rig up MFC40 19:00. If all goes to plan will be uploading data for FTA early Saturday morning.",
@@ -47,12 +54,5 @@
     "comment": "Rigged up onto HBA-16, pressure tested and currently RIH with 4.5\" slickline drift to target depth 9158ft. According to the lookahead there is 2 X sets of brush then injection for 12 hours at a time and rig up for MFC40 will be Friday (01/05/26) 20:00, however this may change.",
     "addedBy": "Leonard Lapiso",
     "date": "30-04-2026 06:29"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "WSG have requested a READ engineer for this operation. Abdil planned to travel to Amsterdam tomorrow morning. Pending further information from WSG.",
-    "addedBy": "Craig Fraser",
-    "date": "29-04-2026 16:21"
   }
 ]
