@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "Job completed travelling back to Aberdeen.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "02-05-2026 15:57"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-1 Dan DFB11 (MFB-11)",
     "comment": "MFC24 Run completed. No errors. Data on sharepoint. Pending clean up and post calibration of the MIT24 and fitchecks",
@@ -47,12 +54,5 @@
     "comment": "Currently looking at logging Wednesday/Thursday. MIT 80, Centralisers suitable for 18 5/8\" casing and panels etc.",
     "addedBy": "Craig Fraser",
     "date": "01-05-2026 08:47"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "Tools unable to pass TRSSV, way forward TBC.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "01-05-2026 07:26"
   }
 ]
