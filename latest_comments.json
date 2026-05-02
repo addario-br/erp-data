@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
+    "comment": "Project re-opened. Salman and jon howe assigned. XY lshifting string is required To determine the sleeve positions before and after a Plug is set above RSS4. Estimate to Mobilise crew on 6th May. Equipment to mobilise on 4th May.",
+    "addedBy": "Jonathan Howe",
+    "date": "02-05-2026 07:27"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-1 Dan DFB11 (MFB-11)",
     "comment": "Batery connected @23:27, Expected to be on surface @ 07:00. Data expected around 08:00. No FTA required for this well",
@@ -47,12 +54,5 @@
     "comment": "Injected the well all night shift. New brush arrives on board this morning. According to lookahead plan is to continue brushing today, inject the well, then rig up MFC40 19:00. If all goes to plan will be uploading data for FTA early Saturday morning.",
     "addedBy": "Leonard Lapiso",
     "date": "01-05-2026 06:25"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "Arrived on location at 9pm. Start preparing for rigup",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "01-05-2026 00:06"
   }
 ]
