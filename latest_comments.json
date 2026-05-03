@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
+    "comment": "After running drift for straddle on slickline, rigged over to eline to set the lower packer of the straddle element. Once complete will rig back over to slickline to set the remainder. Continue with post MFC FIT checks/paperwork.",
+    "addedBy": "Leonard Lapiso",
+    "date": "03-05-2026 06:40"
+  },
+  {
     "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
     "job": "N/A",
     "comment": "Job completed travelling back to Aberdeen.",
@@ -47,12 +54,5 @@
     "comment": "Engineer requirement - 11th May for Claymore. JL and AM booked in for training at Kaseum Monday 4th May",
     "addedBy": "Craig Fraser",
     "date": "01-05-2026 11:23"
-  },
-  {
-    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - NA",
-    "job": "N/A",
-    "comment": "Currently looking at logging Wednesday/Thursday. MIT 80, Centralisers suitable for 18 5/8\" casing and panels etc.",
-    "addedBy": "Craig Fraser",
-    "date": "01-05-2026 08:47"
   }
 ]
