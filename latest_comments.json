@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "GR/CCL run for HUD. Run 1 was unable to pass TRSSSV. Run 2 Using the same tools was able to reach bottom and log HUD. HUD is 10 meters above expected. Data shared with client. Equipment packed after the job and sent to EXLOG Base.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "03-05-2026 06:48"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Next well will be HBA-22. According to the program there is a MFC run with no FTA required. Latest lookahead has Wednesday 06/05/26 for rigging up MFC, pending current operations on HBA-16.",
@@ -47,12 +54,5 @@
     "comment": "Batery connected @23:27, Expected to be on surface @ 07:00. Data expected around 08:00. No FTA required for this well",
     "addedBy": "Melissa Hernandez",
     "date": "01-05-2026 23:23"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "RIH with MFC40. Battery connected @19:51, Fingers fully closed @05:35. Should be uploading FTA data to ANSA from ~6:30 onwards.",
-    "addedBy": "Leonard Lapiso",
-    "date": "01-05-2026 19:41"
   }
 ]
