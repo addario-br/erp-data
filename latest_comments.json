@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "Arrived in Aberdeen",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "03-05-2026 09:17"
+  },
+  {
     "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
     "comment": "Equipment is due to be mobilised midday today and Crew will be required tonight to start Rig up. estaimated logging will start Tomorrow evening.",
@@ -47,12 +54,5 @@
     "comment": "MFC24 Run completed. No errors. Data on sharepoint. Pending clean up and post calibration of the MIT24 and fitchecks",
     "addedBy": "Melissa Hernandez",
     "date": "02-05-2026 08:34"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "MFC at surface fingers did not close and there was damage to finger #22 and finger #38. Full dataset downloaded with errors but most likely due to breaking the toolstring mid tools to get MFC40 out. Data uploaded to ANSA and confirmed good for analysis.",
-    "addedBy": "Leonard Lapiso",
-    "date": "02-05-2026 07:31"
   }
 ]
