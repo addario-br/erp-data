@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Next well will be HBA-22. According to the program there is a MFC run with no FTA required. Latest lookahead has Wednesday 06/05/26 for rigging up MFC, pending current operations on HBA-16.",
+    "addedBy": "Leonard Lapiso",
+    "date": "03-05-2026 06:40"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
     "comment": "After running drift for straddle on slickline, rigged over to eline to set the lower packer of the straddle element. Once complete will rig back over to slickline to set the remainder. Continue with post MFC FIT checks/paperwork.",
     "addedBy": "Leonard Lapiso",
@@ -47,12 +54,5 @@
     "comment": "RIH with MFC40. Battery connected @19:51, Fingers fully closed @05:35. Should be uploading FTA data to ANSA from ~6:30 onwards.",
     "addedBy": "Leonard Lapiso",
     "date": "01-05-2026 19:41"
-  },
-  {
-    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
-    "job": "N/A",
-    "comment": "Engineer requirement - 11th May for Claymore. JL and AM booked in for training at Kaseum Monday 4th May",
-    "addedBy": "Craig Fraser",
-    "date": "01-05-2026 11:23"
   }
 ]
