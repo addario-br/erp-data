@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "SRO PLT+SNL planned for 25th May",
+    "addedBy": "Craig Fraser",
+    "date": "04-05-2026 13:31"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Enquiry made with Baker to action supplementary pass for Josh - gates 130,131. Precaution for potential upcoming work",
@@ -47,12 +54,5 @@
     "comment": "Arrived in Aberdeen",
     "addedBy": "Abdilmalik Mohamed",
     "date": "03-05-2026 09:17"
-  },
-  {
-    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
-    "comment": "Equipment is due to be mobilised midday today and Crew will be required tonight to start Rig up. estaimated logging will start Tomorrow evening.",
-    "addedBy": "Jonathan Howe",
-    "date": "03-05-2026 07:57"
   }
 ]
