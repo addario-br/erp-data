@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
+    "comment": "RIH 11:00 am RSS#1-4 close and confirm RSS#5-8 open",
+    "addedBy": "Salman Kassen",
+    "date": "04-05-2026 07:11"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
     "comment": "Finish installation of upper straddle and inflow test. If all is good will start rigging down off DFA-16 in the afternoon. Carry on with post job maintenance and general prep for next caliper run on HBA-22 which is still scheduled for Wed 06/05/26",
@@ -47,12 +54,5 @@
     "comment": "After running drift for straddle on slickline, rigged over to eline to set the lower packer of the straddle element. Once complete will rig back over to slickline to set the remainder. Continue with post MFC FIT checks/paperwork.",
     "addedBy": "Leonard Lapiso",
     "date": "03-05-2026 06:40"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "Job completed travelling back to Aberdeen.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "02-05-2026 15:57"
   }
 ]
