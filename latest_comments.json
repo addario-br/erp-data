@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "R/U completed now in DFB16. Now running the gauge cutter if SLB manage to open the well to the safety valve, milling wont be need it and the MFC40 run is schedule 05/05/2026, tomorrow morning.",
+    "addedBy": "Melissa Hernandez",
+    "date": "04-05-2026 07:25"
+  },
+  {
     "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
     "comment": "RIH 11:00 am RSS#1-4 close and confirm RSS#5-8 open",
@@ -45,13 +52,6 @@
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Next well will be HBA-22. According to the program there is a MFC run with no FTA required. Latest lookahead has Wednesday 06/05/26 for rigging up MFC, pending current operations on HBA-16.",
-    "addedBy": "Leonard Lapiso",
-    "date": "03-05-2026 06:40"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "After running drift for straddle on slickline, rigged over to eline to set the lower packer of the straddle element. Once complete will rig back over to slickline to set the remainder. Continue with post MFC FIT checks/paperwork.",
     "addedBy": "Leonard Lapiso",
     "date": "03-05-2026 06:40"
   }
