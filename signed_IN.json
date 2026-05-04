@@ -3,8 +3,8 @@
     "companyName": "ANSA",
     "numIn": 3,
     "names": [
-      "Craig Lamont",
       "Jennifer Leyes",
+      "Craig Lamont",
       "Heather Caldwell"
     ]
   },
@@ -18,9 +18,8 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 2,
     "names": [
-      "Calum Smith",
       "Cherie Bowden",
       "Peter Thomson"
     ]
