@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Enquiry made with Baker to action supplementary pass for Josh - gates 130,131. Precaution for potential upcoming work",
+    "addedBy": "Craig Fraser",
+    "date": "04-05-2026 11:55"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
     "job": "N/A",
     "comment": "Josh Cheyne has valid QID and gate pass for this operation. GP and AM currently awaiting MEV prior to activating in country and applying for gate passes",
@@ -47,12 +54,5 @@
     "comment": "Equipment is due to be mobilised midday today and Crew will be required tonight to start Rig up. estaimated logging will start Tomorrow evening.",
     "addedBy": "Jonathan Howe",
     "date": "03-05-2026 07:57"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-1 Dan DFB11 (MFB-11) Tubular Integrity",
-    "comment": "Leak Detection Run Done. Now R/D on MFB11. Once done we are going to move to DFB16",
-    "addedBy": "Melissa Hernandez",
-    "date": "03-05-2026 07:30"
   }
 ]
