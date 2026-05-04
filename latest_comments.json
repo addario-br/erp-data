@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "Josh Cheyne has valid QID and gate pass for this operation. GP and AM currently awaiting MEV prior to activating in country and applying for gate passes",
+    "addedBy": "Craig Fraser",
+    "date": "04-05-2026 11:50"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
     "comment": "Further Update from 02/05/26 Post MFC40: run, Broken pieces from MFC40 fingers recovered from top of the swab valve for a ~7.75 hour turnaround counting as NPT attributed to READ. Investigation covered in SIF00295.",
@@ -47,12 +54,5 @@
     "comment": "Leak Detection Run Done. Now R/D on MFB11. Once done we are going to move to DFB16",
     "addedBy": "Melissa Hernandez",
     "date": "03-05-2026 07:30"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "GR/CCL run for HUD. Run 1 was unable to pass TRSSSV. Run 2 Using the same tools was able to reach bottom and log HUD. HUD is 10 meters above expected. Data shared with client. Equipment packed after the job and sent to EXLOG Base.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "03-05-2026 06:48"
   }
 ]
