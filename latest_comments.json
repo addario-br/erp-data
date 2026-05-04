@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "SLB expect to start operations late May early June",
+    "addedBy": "Craig Fraser",
+    "date": "04-05-2026 14:49"
+  },
+  {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "Well Sanam expected to mob 9th May now. Plan is to mob READ engineer on this date for gate pass application and QAQC process",
+    "addedBy": "Craig Fraser",
+    "date": "04-05-2026 14:04"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "SRO PLT+SNL planned for 25th May",
@@ -40,19 +54,5 @@
     "comment": "RIH 11:00 am RSS#1-4 close and confirm RSS#5-8 open",
     "addedBy": "Salman Kassen",
     "date": "04-05-2026 07:11"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "Finish installation of upper straddle and inflow test. If all is good will start rigging down off DFA-16 in the afternoon. Carry on with post job maintenance and general prep for next caliper run on HBA-22 which is still scheduled for Wed 06/05/26",
-    "addedBy": "Leonard Lapiso",
-    "date": "04-05-2026 06:28"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "Arrived in Aberdeen",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "03-05-2026 09:17"
   }
 ]
