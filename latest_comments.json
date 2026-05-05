@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02707 - Welltec - Welltec - Kazakhstan - T-4838_T-4850_T-5654_T-6238 - PLT",
+    "job": "N/A",
+    "comment": "Lukotrans will ship the goods with the next groupage trailer to NL. Rough ETA back at Openfield - beginning of next week",
+    "addedBy": "Craig Fraser",
+    "date": "05-05-2026 09:53"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "Manage to open the well with GC to Safety valve. Plan for today is retrieve the safety valve and do the drift run. If everything goes according to the plan, MFC40 run is schedule tomorrow morning. FTA will be need it.",
@@ -47,12 +54,5 @@
     "comment": "Enquiry made with Baker to action supplementary pass for Josh - gates 130,131. Precaution for potential upcoming work",
     "addedBy": "Craig Fraser",
     "date": "04-05-2026 11:55"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
-    "job": "N/A",
-    "comment": "Josh Cheyne has valid QID and gate pass for this operation. GP and AM currently awaiting MEV prior to activating in country and applying for gate passes",
-    "addedBy": "Craig Fraser",
-    "date": "04-05-2026 11:50"
   }
 ]
