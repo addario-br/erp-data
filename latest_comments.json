@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "Manage to open the well with GC to Safety valve. Plan for today is retrieve the safety valve and do the drift run. If everything goes according to the plan, MFC40 run is schedule tomorrow morning. FTA will be need it.",
+    "addedBy": "Melissa Hernandez",
+    "date": "05-05-2026 06:43"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "HBA-22 well handover completed at midnight. Continue rig up onto HBA-22. Latest lookahead has rig up for MFC40 at midnight tonight. As per program no FTA required but will double check today.",
+    "addedBy": "Leonard Lapiso",
+    "date": "05-05-2026 06:39"
+  },
+  {
     "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
     "comment": "Reach surface at 06:15am. close in well and rig down Read equipment ready to set plug betweeen rss4 and rss5.",
@@ -40,19 +54,5 @@
     "comment": "Josh Cheyne has valid QID and gate pass for this operation. GP and AM currently awaiting MEV prior to activating in country and applying for gate passes",
     "addedBy": "Craig Fraser",
     "date": "04-05-2026 11:50"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-3 Halfdan HBA16 (HBA-16A) Tubular Integrity",
-    "comment": "Further Update from 02/05/26 Post MFC40: run, Broken pieces from MFC40 fingers recovered from top of the swab valve for a ~7.75 hour turnaround counting as NPT attributed to READ. Investigation covered in SIF00295.",
-    "addedBy": "Leonard Lapiso",
-    "date": "04-05-2026 10:36"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
-    "comment": "R/U completed now in DFB16. Now running the gauge cutter if SLB manage to open the well to the safety valve, milling wont be need it and the MFC40 run is schedule 05/05/2026, tomorrow morning.",
-    "addedBy": "Melissa Hernandez",
-    "date": "04-05-2026 07:25"
   }
 ]
