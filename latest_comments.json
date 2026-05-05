@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
+    "comment": "Crew back to base at 17:00. Equipment due to be shipped once plug is set and job is completed. Probably in another 2 days.",
+    "addedBy": "Jonathan Howe",
+    "date": "05-05-2026 12:45"
+  },
+  {
     "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
     "job": "N/A",
     "comment": "Abdil travelled back to Aberdeen via Heathrow on Saturday 2nd May, organised through READ/QA. Flight delayed which required an overnight - Heathrow to Aberdeen on Sunday morning.",
@@ -47,12 +54,5 @@
     "comment": "Well Sanam expected to mob 9th May now. Plan is to mob READ engineer on this date for gate pass application and QAQC process",
     "addedBy": "Craig Fraser",
     "date": "04-05-2026 14:04"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "SRO PLT+SNL planned for 25th May",
-    "addedBy": "Craig Fraser",
-    "date": "04-05-2026 13:31"
   }
 ]
