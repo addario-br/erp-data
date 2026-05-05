@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
+    "comment": "Reach surface at 06:15am. close in well and rig down Read equipment ready to set plug betweeen rss4 and rss5.",
+    "addedBy": "Jonathan Howe",
+    "date": "05-05-2026 03:29"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "SLB expect to start operations late May early June",
@@ -47,12 +54,5 @@
     "comment": "R/U completed now in DFB16. Now running the gauge cutter if SLB manage to open the well to the safety valve, milling wont be need it and the MFC40 run is schedule 05/05/2026, tomorrow morning.",
     "addedBy": "Melissa Hernandez",
     "date": "04-05-2026 07:25"
-  },
-  {
-    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
-    "comment": "RIH 11:00 am RSS#1-4 close and confirm RSS#5-8 open",
-    "addedBy": "Salman Kassen",
-    "date": "04-05-2026 07:11"
   }
 ]
