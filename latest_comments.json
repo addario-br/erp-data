@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Confirmed no FTA requirements for HBA-22. Rig up MFC40 probably early hours of the morning. Plan is to log up to surface, positioning the MFC in the riser above the Wellhead/below slickline BOPs and wait for the fingers to close before shut-in/bleed off. This will reduce the need for downward movement. Extra care to be taken when rigging down.",
+    "addedBy": "Leonard Lapiso",
+    "date": "05-05-2026 14:40"
+  },
+  {
     "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
     "comment": "Crew back to base at 17:00. Equipment due to be shipped once plug is set and job is completed. Probably in another 2 days.",
@@ -47,12 +54,5 @@
     "comment": "SLB expect to start operations late May early June",
     "addedBy": "Craig Fraser",
     "date": "04-05-2026 14:49"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
-    "job": "N/A",
-    "comment": "Well Sanam expected to mob 9th May now. Plan is to mob READ engineer on this date for gate pass application and QAQC process",
-    "addedBy": "Craig Fraser",
-    "date": "04-05-2026 14:04"
   }
 ]
