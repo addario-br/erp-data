@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "Abdil travelled back to Aberdeen via Heathrow on Saturday 2nd May, organised through READ/QA. Flight delayed which required an overnight - Heathrow to Aberdeen on Sunday morning.",
+    "addedBy": "Craig Fraser",
+    "date": "05-05-2026 10:40"
+  },
+  {
     "project": "PRJ02707 - Welltec - Welltec - Kazakhstan - T-4838_T-4850_T-5654_T-6238 - PLT",
     "job": "N/A",
     "comment": "Lukotrans will ship the goods with the next groupage trailer to NL. Rough ETA back at Openfield - beginning of next week",
@@ -47,12 +54,5 @@
     "comment": "SRO PLT+SNL planned for 25th May",
     "addedBy": "Craig Fraser",
     "date": "04-05-2026 13:31"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Enquiry made with Baker to action supplementary pass for Josh - gates 130,131. Precaution for potential upcoming work",
-    "addedBy": "Craig Fraser",
-    "date": "04-05-2026 11:55"
   }
 ]
