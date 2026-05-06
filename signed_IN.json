@@ -1,18 +1,16 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "Alan Walsh",
       "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 4,
     "names": [
       "Stewart Steele",
-      "Ross Fraser",
       "Dave Simpson",
       "Mark Davidson",
       "Rob Molina"
@@ -20,8 +18,9 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Calum Smith",
       "Cherie Bowden",
       "Peter Thomson"
     ]
