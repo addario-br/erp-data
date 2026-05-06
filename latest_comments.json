@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Plan forward is to try bleed off into a donor well and see if clears debris, then try inject again. Rig up timing for MFC TBC. If logging delays further in line with arrival of replacement batteries on board, the plan will be to get these tested in line with SIF00228 to determine the best one to run for the job.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-05-2026 07:01"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Replacement MIT fingers received. Slickline ran Shallow Drift with 4.65\" Gauge Cutter and sat down @87ft. Hand jarred, injected the well and reached 902ft. Tried to inject the well again but unable to, most likely packed off by scale. Latest lookahead has rig up MFC tomorrow 11am, but depends on plan forward. TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "06-05-2026 06:08"
@@ -47,12 +54,5 @@
     "comment": "HBA-22 well handover completed at midnight. Continue rig up onto HBA-22. Latest lookahead has rig up for MFC40 at midnight tonight. As per program no FTA required but will double check today.",
     "addedBy": "Leonard Lapiso",
     "date": "05-05-2026 06:39"
-  },
-  {
-    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
-    "comment": "Reach surface at 06:15am. close in well and rig down Read equipment ready to set plug betweeen rss4 and rss5.",
-    "addedBy": "Jonathan Howe",
-    "date": "05-05-2026 03:29"
   }
 ]
