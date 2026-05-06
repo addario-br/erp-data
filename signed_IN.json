@@ -1,8 +1,9 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 6,
     "names": [
+      "Lewis Emslie",
       "Jenni Michie",
       "Alan Walsh",
       "Tim Farrar",
@@ -12,8 +13,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
+      "Ross Fraser",
       "Dave Simpson",
       "Mark Davidson",
       "Rob Molina"
