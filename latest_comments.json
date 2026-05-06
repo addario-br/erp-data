@@ -2,6 +2,13 @@
   {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "MFC40run completed. Data downloaded. No errors. Data on sharepoint.",
+    "addedBy": "Melissa Hernandez",
+    "date": "06-05-2026 23:45"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "Battery connected at 16:04, RIIH at 16:30. Finger fully open at 19:20. Start to POOH 19:30. On surface around 23:35. Expecting data around midnight",
     "addedBy": "Melissa Hernandez",
     "date": "06-05-2026 15:43"
@@ -47,12 +54,5 @@
     "comment": "Crew back to base at 17:00. Equipment due to be shipped once plug is set and job is completed. Probably in another 2 days.",
     "addedBy": "Jonathan Howe",
     "date": "05-05-2026 12:45"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "Abdil travelled back to Aberdeen via Heathrow on Saturday 2nd May, organised through READ/QA. Flight delayed which required an overnight - Heathrow to Aberdeen on Sunday morning.",
-    "addedBy": "Craig Fraser",
-    "date": "05-05-2026 10:40"
   }
 ]
