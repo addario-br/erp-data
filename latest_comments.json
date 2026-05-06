@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
+    "job": "N/A",
+    "comment": "No further requirement for READ supplied engineer",
+    "addedBy": "Craig Fraser",
+    "date": "06-05-2026 15:07"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "Unable to pass +- 4000 during drift run seems being stuck in the sidepocket. Slb plan is to run a 3\" flexidrift. MFC40 being delayed to this afternoon depending on the progress.",
@@ -47,12 +54,5 @@
     "comment": "Lukotrans will ship the goods with the next groupage trailer to NL. Rough ETA back at Openfield - beginning of next week",
     "addedBy": "Craig Fraser",
     "date": "05-05-2026 09:53"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
-    "comment": "Manage to open the well with GC to Safety valve. Plan for today is retrieve the safety valve and do the drift run. If everything goes according to the plan, MFC40 run is schedule tomorrow morning. FTA will be need it.",
-    "addedBy": "Melissa Hernandez",
-    "date": "05-05-2026 06:43"
   }
 ]
