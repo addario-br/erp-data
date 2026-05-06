@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Replacement MIT fingers received. Slickline ran Shallow Drift with 4.65\" Gauge Cutter and sat down @87ft. Hand jarred, injected the well and reached 902ft. Tried to inject the well again but unable to, most likely packed off by scale. Latest lookahead has rig up MFC tomorrow 11am, but depends on plan forward. TBC.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-05-2026 06:08"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Confirmed no FTA requirements for HBA-22. Rig up MFC40 probably early hours of the morning. Plan is to log up to surface, positioning the MFC in the riser above the Wellhead/below slickline BOPs and wait for the fingers to close before shut-in/bleed off. This will reduce the need for downward movement. Extra care to be taken when rigging down.",
     "addedBy": "Leonard Lapiso",
     "date": "05-05-2026 14:40"
@@ -47,12 +54,5 @@
     "comment": "Reach surface at 06:15am. close in well and rig down Read equipment ready to set plug betweeen rss4 and rss5.",
     "addedBy": "Jonathan Howe",
     "date": "05-05-2026 03:29"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "SLB expect to start operations late May early June",
-    "addedBy": "Craig Fraser",
-    "date": "04-05-2026 14:49"
   }
 ]
