@@ -43,8 +43,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Colin Greig",
       "Gary Smith",
       "Colin Greig"
     ]
