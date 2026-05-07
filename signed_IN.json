@@ -10,8 +10,9 @@
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 7,
     "names": [
+      "Ross Fraser",
       "Craig Fraser",
       "Dave Simpson",
       "Stewart Steele",
@@ -41,11 +42,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 3,
+    "numIn": 1,
     "names": [
-      "Colin Greig",
-      "Gary Smith",
-      "Colin Greig"
+      "Gary Smith"
     ]
   }
 ]
