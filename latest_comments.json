@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "Request for logging programme and lookahead to confirm workscope sent to MCubed. Awaiting a response from Karam at Well Sanam",
+    "addedBy": "Craig Fraser",
+    "date": "07-05-2026 09:38"
+  },
+  {
     "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
     "comment": "Equipment arrived back to base 18:00 06-05-26",
@@ -47,12 +54,5 @@
     "comment": "Unable to pass +- 4000 during drift run seems being stuck in the sidepocket. Slb plan is to run a 3\" flexidrift. MFC40 being delayed to this afternoon depending on the progress.",
     "addedBy": "Melissa Hernandez",
     "date": "06-05-2026 07:16"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
-    "comment": "Plan forward is to try bleed off into a donor well and see if clears debris, then try inject again. Rig up timing for MFC TBC. If logging delays further, in line with arrival of replacement batteries on board, the plan will be to get these tested in line with SIF00228 to determine the best one to run for the job.",
-    "addedBy": "Leonard Lapiso",
-    "date": "06-05-2026 07:01"
   }
 ]
