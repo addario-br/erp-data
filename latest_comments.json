@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "Now running Well explorer next step is change to eline and then start milling in the setting plug section, to run again caliper.",
+    "addedBy": "Melissa Hernandez",
+    "date": "07-05-2026 12:16"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Container : 44071delivered to quayside this morning with 9 x BAT009 to loadout to Dan today.",
     "addedBy": "Dave Simpson",
@@ -47,12 +54,5 @@
     "comment": "Request for logging programme and lookahead to confirm workscope sent to MCubed. Awaiting a response from Karam at Well Sanam",
     "addedBy": "Craig Fraser",
     "date": "07-05-2026 09:38"
-  },
-  {
-    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
-    "comment": "Equipment arrived back to base 18:00 06-05-26",
-    "addedBy": "Jonathan Howe",
-    "date": "07-05-2026 08:29"
   }
 ]
