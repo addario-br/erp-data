@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Backup MFC40 repaired with replacement fingers, master calibration and full string checks good. Managed to get the well injecting again. Have been running gauge cutter and hand jarring 50ft followed by 1 hour injection. Have reached a depth of 1268 ft so far. Current lookahead for MFC40 run is tomorrow Morning ~6am. Boat with replacement batteries leaving Esjberg today.",
+    "addedBy": "Leonard Lapiso",
+    "date": "07-05-2026 06:45"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "MFC40run completed. Data downloaded. No errors. Data on sharepoint.",
@@ -47,12 +54,5 @@
     "comment": "Confirmed no FTA requirements for HBA-22. Rig up MFC40 probably early hours of the morning. Plan is to log up to surface, positioning the MFC in the riser above the Wellhead/below slickline BOPs and wait for the fingers to close before shut-in/bleed off. This will reduce the need for downward movement. Extra care to be taken when rigging down.",
     "addedBy": "Leonard Lapiso",
     "date": "05-05-2026 14:40"
-  },
-  {
-    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ00224-2 Karachaganak 9861 SSD Position",
-    "comment": "Crew back to base at 17:00. Equipment due to be shipped once plug is set and job is completed. Probably in another 2 days.",
-    "addedBy": "Jonathan Howe",
-    "date": "05-05-2026 12:45"
   }
 ]
