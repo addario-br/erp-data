@@ -1,5 +1,26 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "This opportunity is live again. Work scope reduced to just the caliper wells. Provisional date of 15th May. Grant mobilising to activate MEV and gate pass application in process for Josh\n\nWell Run\nNFR 2-2 MFC\nNFR 2-5A MFC",
+    "addedBy": "Craig Fraser",
+    "date": "07-05-2026 09:52"
+  },
+  {
+    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
+    "job": "N/A",
+    "comment": "WSG carried out one further run after READ departed the wellsite. Equipment now returned to Emmen. Abdil still assigned to populate run info. Equipment can be shipped from the PRJ once completed",
+    "addedBy": "Craig Fraser",
+    "date": "07-05-2026 09:51"
+  },
+  {
+    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - NA",
+    "job": "N/A",
+    "comment": "Equipment collected yesterday. Issues experienced with depth interface through READ supplied laptop. Remote troubleshooting from Rob Molina pin pointed this to incorrect driver install",
+    "addedBy": "Craig Fraser",
+    "date": "07-05-2026 09:49"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
     "job": "N/A",
     "comment": "Request for logging programme and lookahead to confirm workscope sent to MCubed. Awaiting a response from Karam at Well Sanam",
@@ -33,26 +54,5 @@
     "comment": "MFC40run completed. Data downloaded. No errors. Data on sharepoint.",
     "addedBy": "Melissa Hernandez",
     "date": "06-05-2026 23:45"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
-    "comment": "Battery connected at 16:04, RIIH at 16:30. Finger fully open at 19:20. Start to POOH 19:30. On surface around 23:35. Expecting data around midnight",
-    "addedBy": "Melissa Hernandez",
-    "date": "06-05-2026 15:43"
-  },
-  {
-    "project": "PRJ03119 - Archer - Archer - Blackburn - Unknown - NA",
-    "job": "N/A",
-    "comment": "No further requirement for READ supplied engineer",
-    "addedBy": "Craig Fraser",
-    "date": "06-05-2026 15:07"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
-    "comment": "Unable to pass +- 4000 during drift run seems being stuck in the sidepocket. Slb plan is to run a 3\" flexidrift. MFC40 being delayed to this afternoon depending on the progress.",
-    "addedBy": "Melissa Hernandez",
-    "date": "06-05-2026 07:16"
   }
 ]
