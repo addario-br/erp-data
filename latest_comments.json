@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "MFC40 run done, plan for today is do fitchecks, post calibration and paperwork.",
+    "addedBy": "Melissa Hernandez",
+    "date": "07-05-2026 07:47"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Backup MFC40 repaired with replacement fingers, master calibration and full string checks good. Managed to get the well injecting again. Have been running gauge cutter and hand jarring 50ft followed by 1 hour injection. Have reached a depth of 1268 ft so far. Current lookahead for MFC40 run is tomorrow Morning ~6am. Boat with replacement batteries leaving Esjberg today.",
@@ -47,12 +54,5 @@
     "comment": "Replacement MIT fingers received. Slickline ran Shallow Drift with 4.65\" Gauge Cutter and sat down @87ft. Hand jarred, injected the well and reached 902ft. Tried to inject the well again but unable to, most likely packed off by scale. Latest lookahead has rig up MFC tomorrow 11am, but depends on plan forward. TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "06-05-2026 06:08"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
-    "comment": "Confirmed no FTA requirements for HBA-22. Rig up MFC40 probably early hours of the morning. Plan is to log up to surface, positioning the MFC in the riser above the Wellhead/below slickline BOPs and wait for the fingers to close before shut-in/bleed off. This will reduce the need for downward movement. Extra care to be taken when rigging down.",
-    "addedBy": "Leonard Lapiso",
-    "date": "05-05-2026 14:40"
   }
 ]
