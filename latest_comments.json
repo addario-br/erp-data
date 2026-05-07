@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Possibility of 1x MFC60-ext rental to Halliburton. Made live to track possible short notice call off",
+    "addedBy": "Craig Fraser",
+    "date": "07-05-2026 12:59"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "Now running Well explorer next step is change to eline and then start milling in the setting plug section, to run again caliper.",
@@ -47,12 +54,5 @@
     "comment": "Equipment collected yesterday. Issues experienced with depth interface through READ supplied laptop. Remote troubleshooting from Rob Molina pin pointed this to incorrect driver install",
     "addedBy": "Craig Fraser",
     "date": "07-05-2026 09:49"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
-    "job": "N/A",
-    "comment": "Request for logging programme and lookahead to confirm workscope sent to MCubed. Awaiting a response from Karam at Well Sanam",
-    "addedBy": "Craig Fraser",
-    "date": "07-05-2026 09:38"
   }
 ]
