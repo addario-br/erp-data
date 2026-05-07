@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Packing list populated and Coil Depth Interface box fully understood. Equipment readiness in Aberdeen planned for end of May. Routine PMs and calibrations to be performed",
+    "addedBy": "Craig Fraser",
+    "date": "07-05-2026 09:59"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "This opportunity is live again. Work scope reduced to just the caliper wells. Provisional date of 15th May. Grant mobilising to activate MEV and gate pass application in process for Josh\n\nWell Run\nNFR 2-2 MFC\nNFR 2-5A MFC",
@@ -47,12 +54,5 @@
     "comment": "Backup MFC40 repaired with replacement fingers, master calibration and full string checks good. Managed to get the well injecting again. Have been running gauge cutter and hand jarring 50ft followed by 1 hour injection. Have reached a depth of 1268 ft so far. Current lookahead for MFC40 run is tomorrow Morning ~6am. Boat with replacement batteries leaving Esjberg today.",
     "addedBy": "Leonard Lapiso",
     "date": "07-05-2026 06:45"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
-    "comment": "MFC40run completed. Data downloaded. No errors. Data on sharepoint.",
-    "addedBy": "Melissa Hernandez",
-    "date": "06-05-2026 23:45"
   }
 ]
