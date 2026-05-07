@@ -1,35 +1,23 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 2,
     "names": [
-      "Tim Farrar",
       "Craig Lamont",
-      "John Guntoro",
-      "Lewis Emslie",
       "Jay Purves"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 1,
     "names": [
-      "Craig Fraser",
-      "Dave Simpson",
-      "Stewart Steele",
-      "Russell Edgar",
-      "Rob Molina",
-      "Mark Davidson"
+      "Stewart Steele"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
-    "names": [
-      "Calum Smith",
-      "Cherie Bowden",
-      "Peter Thomson"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
