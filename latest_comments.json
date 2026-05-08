@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Job is likely delayed until the 19th May.",
+    "addedBy": "Jonathan Howe",
+    "date": "08-05-2026 09:13"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "SLB leak detection done. Stand by till further decision to see if we move to next well, or keep working in DFB16. Activity for today finish paperwork.",
+    "addedBy": "Melissa Hernandez",
+    "date": "08-05-2026 08:07"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Continue hand-jarring to safety valve with 4.65 GC. Injecting the well for ~1 hour every 30ft of hand jarring due to continual packing off of debris. Reached 1700ft at shift change. Latest lookahead has tonight 21:00 for rig up MFC if all goes to plan.",
@@ -40,19 +54,5 @@
     "comment": "Packing list populated and Coil Depth Interface box fully understood. Equipment readiness in Aberdeen planned for end of May. Routine PMs and calibrations to be performed",
     "addedBy": "Craig Fraser",
     "date": "07-05-2026 09:59"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "This opportunity is live again. Work scope reduced to just the caliper wells. Provisional date of 15th May. Grant mobilising to activate MEV and gate pass application in process for Josh\n\nWell Run\nNFR 2-2 MFC\nNFR 2-5A MFC",
-    "addedBy": "Craig Fraser",
-    "date": "07-05-2026 09:52"
-  },
-  {
-    "project": "PRJ03266 - Well Services Group (Exlog) - Exlog (WSG) - WRF-2 - GR_CCL",
-    "job": "N/A",
-    "comment": "WSG carried out one further run after READ departed the wellsite. Equipment now returned to Emmen. Abdil still assigned to populate run info. Equipment can be shipped from the PRJ once completed",
-    "addedBy": "Craig Fraser",
-    "date": "07-05-2026 09:51"
   }
 ]
