@@ -40,9 +40,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
-    "names": [
-      "Gary Smith"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
