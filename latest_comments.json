@@ -1,6 +1,13 @@
 [
   {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-4848_T-108 - MFC",
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Replacement Lithium Batteries have arrived on board and have commenced 1 hour tests.",
+    "addedBy": "Leonard Lapiso",
+    "date": "08-05-2026 13:33"
+  },
+  {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-4848_T-108_TBC - MFC",
     "job": "N/A",
     "comment": "MFC24 planned to be run before and after Tubing cut perfromed by Welltec.\nExpected to mobilise from Aksai to Tengiz on 12th May with Rig up confirmed on the 14th May.\nDonald Campbell assigned.",
     "addedBy": "Jonathan Howe",
@@ -47,12 +54,5 @@
     "comment": "Container : 44071delivered to quayside this morning with 9 x BAT009 to loadout to Dan today.",
     "addedBy": "Dave Simpson",
     "date": "07-05-2026 11:42"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
-    "comment": "Container : 44260 delivered to quayside this morning with 8 x BAT009 to loadout to HalfDan today.",
-    "addedBy": "Dave Simpson",
-    "date": "07-05-2026 11:41"
   }
 ]
