@@ -1,22 +1,29 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Craig Lamont",
       "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 1,
+    "numIn": 5,
     "names": [
+      "Ross Fraser",
+      "Dave Simpson",
+      "Mark Davidson",
+      "Russell Edgar",
       "Rob Molina"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
+      "Calum Smith",
+      "Cherie Bowden",
       "Peter Thomson"
     ]
   },
@@ -32,7 +39,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gary Smith"
+    ]
   }
 ]
