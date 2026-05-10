@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "Keep working on DFB16, brush the well and installed safety valve. Read not be required for further operations for now. M.H will be down man tomorrow. Check in before 8:30. If nothing changes during the day.",
+    "addedBy": "Melissa Hernandez",
+    "date": "10-05-2026 08:32"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Rigged up Memory MFC40. Battery on @04:01; Fingers fully closed @13:10.",
@@ -47,12 +54,5 @@
     "comment": "SLB leak detection done. Stand by till further decision to see if we move to next well, or keep working in DFB16. Activity for today finish paperwork.",
     "addedBy": "Melissa Hernandez",
     "date": "08-05-2026 08:07"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
-    "comment": "Continue hand-jarring to safety valve with 4.65 GC. Injecting the well for ~1 hour every 30ft of hand jarring due to continual packing off of debris. Reached 1700ft at shift change. Latest lookahead has tonight 21:00 for rig up MFC if all goes to plan.",
-    "addedBy": "Leonard Lapiso",
-    "date": "08-05-2026 06:39"
   }
 ]
