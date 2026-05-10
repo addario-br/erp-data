@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Rigged up Memory MFC40. Battery on @04:01; Fingers fully closed @13:10.",
+    "addedBy": "Leonard Lapiso",
+    "date": "10-05-2026 03:51"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "Client still discussing to move next well DFB15. Plan for today is prepare container (44195) to backload. Also container(44071) with batteries will be send it back. Read will not be required for the next wells depending on further descisions",
@@ -47,12 +54,5 @@
     "comment": "Continue hand-jarring to safety valve with 4.65 GC. Injecting the well for ~1 hour every 30ft of hand jarring due to continual packing off of debris. Reached 1700ft at shift change. Latest lookahead has tonight 21:00 for rig up MFC if all goes to plan.",
     "addedBy": "Leonard Lapiso",
     "date": "08-05-2026 06:39"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Possibility of 1x MFC60-ext rental to Halliburton. Made live to track possible short notice call off",
-    "addedBy": "Craig Fraser",
-    "date": "07-05-2026 12:59"
   }
 ]
