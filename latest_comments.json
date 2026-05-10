@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "GP & AM arrived in country at 04:00. Gate pass application in progress and H2S course booked for 11th. Latest crew mob date has slipped to the 18th.",
+    "addedBy": "Grant Patterson",
+    "date": "10-05-2026 09:48"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
     "comment": "Keep working on DFB16, brush the well and installed safety valve. Read not be required for further operations for now. M.H will be down man tomorrow. Check in before 8:30. If nothing changes during the day.",
@@ -47,12 +54,5 @@
     "comment": "Job is likely delayed until the 19th May.",
     "addedBy": "Jonathan Howe",
     "date": "08-05-2026 09:13"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
-    "comment": "SLB leak detection done. Stand by till further decision to see if we move to next well, or keep working in DFB16. Activity for today finish paperwork.",
-    "addedBy": "Melissa Hernandez",
-    "date": "08-05-2026 08:07"
   }
 ]
