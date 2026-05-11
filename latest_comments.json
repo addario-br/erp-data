@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Josh will change out Lenny on 14th May - check-in has been confirmed for 10:30am . Josh will travel to Esbjerg on the 13th and stay overnight in the Cabinn Plus",
+    "addedBy": "Dave Simpson",
+    "date": "11-05-2026 15:23"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Keep cleaning out MFC40 to get it to close fully, and continue with Post job calibration, checks and paperwork. After MFC Slb ran a brush and set the safety valve. Will inflow test today and if all good, start rigging down from HBA-22 and onto HBA-06 (Water Injector well), with latest lookahed as rig up MFC40 early Wednesday morning, but TBC. Analysis requirement TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "11-05-2026 06:32"
@@ -47,12 +54,5 @@
     "comment": "Tested 3 X batteries yesterday and will continue today. Delay for MFC run caused by trip on production and unable to inject. Night shift ran GC to safety valve and then at shift change started injecting to clear it out before going in to retrieve it. Latest lookahead has rig up early morning tomorrow but TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "09-05-2026 06:31"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
-    "comment": "Replacement Lithium Batteries/spares have arrived on board and have commenced 1 hour tests.",
-    "addedBy": "Leonard Lapiso",
-    "date": "08-05-2026 13:33"
   }
 ]
