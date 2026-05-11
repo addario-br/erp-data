@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Keep cleaning out MFC40 to get it to close fully, and continue with Post job calibration, checks and paperwork. After MFC Slb ran a brush and set the safety valve. Will inflow test today and if all good, start rigging down from HBA-22 and onto HBA-06 (Water Injector well), with latest lookahed as rig up MFC40 early Wednesday morning, but TBC. Analysis requirement TBC.",
+    "addedBy": "Leonard Lapiso",
+    "date": "11-05-2026 06:32"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Run complete. Max depth of 7586ft reached (Slickline depth). Data downloaded with no errors. Fingers not fully closed at surface (~70% closed) but looks to be due to debris in the yolks - will confirm during post job calibration. Will upload data to ANSA sharepoint for standard analysis.",
     "addedBy": "Leonard Lapiso",
     "date": "10-05-2026 14:14"
@@ -47,12 +54,5 @@
     "comment": "Replacement Lithium Batteries/spares have arrived on board and have commenced 1 hour tests.",
     "addedBy": "Leonard Lapiso",
     "date": "08-05-2026 13:33"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-4848_T-108_TBC - MFC",
-    "job": "N/A",
-    "comment": "MFC24 planned to be run before and after Tubing cut perfromed by Welltec.\nExpected to mobilise from Aksai to Tengiz on 12th May with Rig up confirmed on the 14th May.\nDonald Campbell assigned.",
-    "addedBy": "Jonathan Howe",
-    "date": "08-05-2026 11:56"
   }
 ]
