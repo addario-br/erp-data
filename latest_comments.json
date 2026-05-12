@@ -1,37 +1,37 @@
 [
   {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
-    "comment": "Failure symptom - MFC40 failed to motor closed at surface. Follow on investigate has found that the caliper doesn't motor open anymore. All other components of the logging string function as expected, without errors. Next steps - further investigation into the caliper itself",
-    "addedBy": "Craig Fraser",
-    "date": "10-04-2026 13:21"
+    "comment": "Latest update received from SLB. Loadout planned for 29th May. We will plan to mobilise our equipment from Aberdeen on the Norsea trunker, leaving 22nd May.",
+    "addedBy": "Dave Simpson",
+    "date": "12-05-2026 09:54"
   },
   {
-    "project": "PRJ03277 - Perenco - Wytch Farm - F-02 - MFC",
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
-    "comment": "Arrived on site and start postcalibration and MFC24 cleaning. Fitchecks and surface check for MFC60",
-    "addedBy": "Melissa Hernandez",
-    "date": "10-04-2026 11:49"
+    "comment": "Rigged down off HBA-22 at shift change yesterday. Rig up onto HBA-06 delayed due to weather, should get rigged up on the well today. MFC40 cleaned with pressure washer and now fully closes. Continue with general prep for HBA-06. Latest lookahead has rig up MFC40 tomorrow night 22:00. According to the program no FTA required.",
+    "addedBy": "Leonard Lapiso",
+    "date": "12-05-2026 06:23"
   },
   {
-    "project": "PRJ03244 - Welltec - Welltec - Kazakhstan - 9850 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Mobilisation delayed to the 15th",
-    "addedBy": "Rickie Yuill",
-    "date": "10-04-2026 09:53"
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Josh will change out Lenny on 14th May - check-in has been confirmed for 10:30am . Josh will travel to Esbjerg on the 13th and stay overnight in the Cabinn Plus",
+    "addedBy": "Dave Simpson",
+    "date": "11-05-2026 15:23"
   },
   {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21) - MFC",
-    "job": "N/A",
-    "comment": "Tool data downloaded, Data looks good for the 2 passes logged. Tool failed to close at surface. MIT doesnt show any signs of damage\nPlan today complete Post cal and failure investigation",
-    "addedBy": "Joshua Cheyne",
-    "date": "10-04-2026 07:44"
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Keep cleaning out MFC40 to get it to close fully, and continue with Post job calibration, checks and paperwork. After MFC Slb ran a brush and set the safety valve. Will inflow test today and if all good, start rigging down from HBA-22 and onto HBA-06 (Water Injector well), with latest lookahed as rig up MFC40 early Wednesday morning, but TBC. Analysis requirement TBC.",
+    "addedBy": "Leonard Lapiso",
+    "date": "11-05-2026 06:32"
   },
   {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18) - MFC",
-    "job": "N/A",
-    "comment": "Ran brush last night. String checks to be done today. Once access to container established. Most likely next run is expected to be smaller sized broach. Which should arrive at some point today.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "10-04-2026 05:29"
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
+    "comment": "Run complete. Max depth of 7586ft reached (Slickline depth). Data downloaded with no errors. Fingers not fully closed at surface (~70% closed) but looks to be due to debris in the yolks - will confirm during post job calibration. Will upload data to ANSA sharepoint for standard analysis.",
+    "addedBy": "Leonard Lapiso",
+    "date": "10-05-2026 14:14"
   }
 ]
