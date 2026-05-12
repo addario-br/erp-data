@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Rigged down off HBA-22 at shift change yesterday. Rig up onto HBA-06 delayed due to weather, should get rigged up on the well today. MFC40 cleaned with pressure washer and now fully closes. Continue with general prep for HBA-06. Latest lookahead has rig up MFC40 tomorrow night 22:00. According to the program no FTA required.",
+    "addedBy": "Leonard Lapiso",
+    "date": "12-05-2026 06:23"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
     "comment": "Josh will change out Lenny on 14th May - check-in has been confirmed for 10:30am . Josh will travel to Esbjerg on the 13th and stay overnight in the Cabinn Plus",
     "addedBy": "Dave Simpson",
@@ -47,12 +54,5 @@
     "comment": "Client still discussing to move next well DFB15. Plan for today is prepare container (44195) to backload. Also container(44071) with batteries will be send it back. Read will not be required for the next wells depending on further descisions",
     "addedBy": "Melissa Hernandez",
     "date": "09-05-2026 08:11"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-4 Halfdan HBA22 (HBA-22A) Tubular Integrity",
-    "comment": "Tested 3 X batteries yesterday and will continue today. Delay for MFC run caused by trip on production and unable to inject. Night shift ran GC to safety valve and then at shift change started injecting to clear it out before going in to retrieve it. Latest lookahead has rig up early morning tomorrow but TBC.",
-    "addedBy": "Leonard Lapiso",
-    "date": "09-05-2026 06:31"
   }
 ]
