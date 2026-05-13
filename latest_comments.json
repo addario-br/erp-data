@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "JC arrived in Esbjerg 10:30am checkin tomorrow",
+    "addedBy": "Joshua Cheyne",
+    "date": "13-05-2026 12:46"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Total have called for the Dan kit to mob back out to DFB16 for a continuation of the original work-scope - Leaking GLV remediation. Equipment will mob Thursday, 21st and and Engineer 22nd. Engineer still to be assigned.",
@@ -26,12 +33,5 @@
     "comment": "Latest update received from SLB. Loadout planned for 29th May. We will plan to mobilise our equipment from Aberdeen on the Norsea trunker, leaving 22nd May.",
     "addedBy": "Dave Simpson",
     "date": "12-05-2026 09:54"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Rigged down off HBA-22 at shift change yesterday. Rig up onto HBA-06 delayed due to weather, should get rigged up on the well today. MFC40 cleaned with pressure washer and now fully closes. Continue with general prep for HBA-06. Latest lookahead has rig up MFC40 tomorrow night 22:00. According to the program no FTA required.",
-    "addedBy": "Leonard Lapiso",
-    "date": "12-05-2026 06:23"
   }
 ]
