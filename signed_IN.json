@@ -6,8 +6,11 @@
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "Dave Simpson",
+      "Rob Molina"
+    ]
   },
   {
     "companyName": "HydraWell",
