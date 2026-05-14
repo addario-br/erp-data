@@ -5,11 +5,11 @@
     "names": [
       "Lewis Emslie",
       "Maurillio Addario",
+      "Joseph Guyan",
+      "Tim Farrar",
       "Alan Walsh",
       "John Guntoro",
       "Jenni Michie",
-      "Joseph Guyan",
-      "Tim Farrar",
       "Craig Lamont"
     ]
   },
@@ -45,7 +45,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Derek Joss"
+    ]
   }
 ]
