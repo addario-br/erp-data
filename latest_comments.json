@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - MFC",
+    "job": "N/A",
+    "comment": "Archer returned the MFC80 kit yesterday, 13-May-26",
+    "addedBy": "Dave Simpson",
+    "date": "14-05-2026 10:45"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-5 Halfdan HBA06 (HBA-06) Tubular Integrity",
     "comment": "Rigged up onto HBA-06. RIH with 4.65\" Gauge Cutter and hung up @89ft so have been hand-jarring since. Reached ~700ft and currently in hole with the 4.5\" I-broach. Injecting the Well every 100ft. Latest lookahed for MFC Sunday Evening. LL cc with JC today.",
@@ -26,12 +33,5 @@
     "comment": "Welltec Cutter Stuck in Amsterdam, so mobilisation is delayed. Curretly unknown Mob date, may mob on 17th. from Aksai.",
     "addedBy": "Jonathan Howe",
     "date": "13-05-2026 07:43"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-5 Halfdan HBA06 (HBA-06) Tubular Integrity",
-    "comment": "Maintenance complete and Main/backup tools prepped and ready. Building scaffold and pressure testing slickline PCE today. Latest lookahead has MFC logging on Friday evening, but this could come forward.",
-    "addedBy": "Leonard Lapiso",
-    "date": "13-05-2026 06:54"
   }
 ]
