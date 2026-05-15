@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-4848_T-108_TBC - MFC",
+    "job": "N/A",
+    "comment": "Job Is now delayed until 29th May. But could come forward.",
+    "addedBy": "Jonathan Howe",
+    "date": "15-05-2026 12:18"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Job Is now expected 21st May",
+    "addedBy": "Jonathan Howe",
+    "date": "15-05-2026 12:17"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB continuing with Hand jarring down to TRSSSV with 4.6” broach then Run 4.65” GC before pulling Safety Valve.\nCurrent look ahead has MFC Monday morning",
@@ -19,19 +33,5 @@
     "comment": "Archer returned the MFC80 kit yesterday, 13-May-26",
     "addedBy": "Dave Simpson",
     "date": "14-05-2026 10:45"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-5 Halfdan HBA06 (HBA-06) Tubular Integrity",
-    "comment": "Rigged up onto HBA-06. RIH with 4.65\" Gauge Cutter and hung up @89ft so have been hand-jarring since. Reached ~700ft and currently in hole with the 4.5\" I-broach. Injecting the Well every 100ft. Latest lookahed for MFC Sunday Evening. LL cc with JC today.",
-    "addedBy": "Leonard Lapiso",
-    "date": "14-05-2026 06:36"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "JC arrived in Esbjerg 10:30am checkin tomorrow",
-    "addedBy": "Joshua Cheyne",
-    "date": "13-05-2026 12:46"
   }
 ]
