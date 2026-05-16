@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Mobilisation delayed to 22nd at the earliest. QA/QC complete. Gate passes ready to collect on the 17th, awaiting supplementary passes for RLIC incase of boat transfer. AM returned to UK 16th. GP due to return to UK on 18th dependent on updates on 17th regarding potential Wellsanam job.",
+    "addedBy": "Grant Patterson",
+    "date": "16-05-2026 19:44"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB continued to work through restrictions with 4.62” broach 4.65” GC held up at 430ft.\nContinue to broach until they can drift to WRSSSV and Pull the WRSSSV.\nCurrent look ahead MFC run Monday Afternoon this could come forward depending on progress made over the next 24hrs",
@@ -26,12 +33,5 @@
     "comment": "SLB continuing with Hand jarring down to TRSSSV with 4.6” broach then Run 4.65” GC before pulling Safety Valve.\nCurrent look ahead has MFC Monday morning",
     "addedBy": "Joshua Cheyne",
     "date": "15-05-2026 06:20"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "LL arrived back in Abz",
-    "addedBy": "Leonard Lapiso",
-    "date": "14-05-2026 23:07"
   }
 ]
