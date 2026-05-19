@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Latest from Baker Hughes is that the job has slipped again. Earliest expected mobilisation is now the 25th with latest possibly the 31st May.",
+    "addedBy": "Grant Patterson",
+    "date": "19-05-2026 12:43"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
     "job": "N/A",
     "comment": "Wellsanam have mobilised with Haliburton to start off the campaign, giving us a 7 day window to get ready for the start of our planned ops. However due to \"issues\" Wellsanam are currently in discussion with QE LNG for us to displace Halliburton. We are expecting an update later today and this could potentially be mobilising this week. Inspection of READ equipment has been arranged for tomorrow morning.",
@@ -26,12 +33,5 @@
     "comment": "Job Has come forward, due to mobilise from Aksai on the 21st and Rig up on the 23rd May,",
     "addedBy": "Jonathan Howe",
     "date": "18-05-2026 09:48"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Drift to WRSSSV and Pull safety valve\nMFC run scheduled for Tomorrow evening",
-    "addedBy": "Joshua Cheyne",
-    "date": "18-05-2026 05:33"
   }
 ]
