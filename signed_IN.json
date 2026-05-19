@@ -9,13 +9,17 @@
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Mark Davidson"
+    ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Peter Thomson"
+    ]
   },
   {
     "companyName": "BlueSpark",
