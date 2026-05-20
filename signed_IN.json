@@ -49,8 +49,10 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
+      "Eileen Tocher",
+      "Paul Robertson",
       "Colin Greig"
     ]
   }
