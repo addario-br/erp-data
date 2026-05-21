@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "SLB are continuing rigging up on HBA-14\nToday plan Continue post run maintenance/ prep for HBA-14\nLook ahead has MFC run tomorrow FTA is required",
+    "addedBy": "Joshua Cheyne",
+    "date": "21-05-2026 08:30"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "N/A",
     "comment": "Equipment and Donald Mobilised to Tengiz Today.",
@@ -26,12 +33,5 @@
     "comment": "Abdil is assigned to support this job. He will travel to Billund on the 6am flight 21st May and he has a check-in at 14:00 on 22nd. He will stay in the Cabinn Plus for 1 night.",
     "addedBy": "Dave Simpson",
     "date": "19-05-2026 15:55"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Latest from Baker Hughes is that the job has slipped again. Earliest expected mobilisation is now the 25th with latest possibly the 31st May.",
-    "addedBy": "Grant Patterson",
-    "date": "19-05-2026 12:43"
   }
 ]
