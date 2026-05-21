@@ -40,8 +40,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Kevin Pert",
       "Colin Greig"
     ]
   }
