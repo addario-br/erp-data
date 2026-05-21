@@ -3,9 +3,9 @@
     "companyName": "ANSA",
     "numIn": 3,
     "names": [
-      "Alan Walsh",
       "Tim Farrar",
-      "John Guntoro"
+      "John Guntoro",
+      "Alan Walsh"
     ]
   },
   {
@@ -42,10 +42,10 @@
     "companyName": "Visitors",
     "numIn": 4,
     "names": [
-      "Claire Walsh",
       "Colin Greig",
       "Michael Taggart",
-      "Kevin Pert"
+      "Kevin Pert",
+      "Claire Walsh"
     ]
   }
 ]
