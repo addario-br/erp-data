@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Baker have been informed by QE that they will need to wait for Slickline (Wellsanam) to finish on WHP2. This will delay mobilisation until the start of June. GP to travel home tonight.",
+    "addedBy": "Grant Patterson",
+    "date": "21-05-2026 13:46"
+  },
+  {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "Internal meetings still need to take place between Wellsanam and QE LNG. Unsure when this will be scheduled for and Eid will start next Tuesday, closing the offices for a week.",
+    "addedBy": "Grant Patterson",
+    "date": "21-05-2026 13:44"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB are continuing rigging up on HBA-14\nToday plan Continue post run maintenance/ prep for HBA-14\nLook ahead has MFC run tomorrow FTA is required",
@@ -19,19 +33,5 @@
     "comment": "Inspection has been delayed until confirmation of the job.",
     "addedBy": "Grant Patterson",
     "date": "20-05-2026 08:47"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Perform post Run maintenance and prepare tools for HBA-14",
-    "addedBy": "Joshua Cheyne",
-    "date": "20-05-2026 05:59"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Abdil is assigned to support this job. He will travel to Billund on the 6am flight 21st May and he has a check-in at 14:00 on 22nd. He will stay in the Cabinn Plus for 1 night.",
-    "addedBy": "Dave Simpson",
-    "date": "19-05-2026 15:55"
   }
 ]
