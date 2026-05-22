@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Job is now scheduled for the 26th May.",
+    "addedBy": "Jonathan Howe",
+    "date": "22-05-2026 07:44"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB drifted to 7494ft with 4.35 FlexiDrift and 8986 Ft with 3” FlexiDrift\nAim to Rig up MFC around 8:30am",
@@ -26,12 +33,5 @@
     "comment": "SLB are continuing rigging up on HBA-14\nToday plan Continue post run maintenance/ prep for HBA-14\nLook ahead has MFC run tomorrow FTA is required",
     "addedBy": "Joshua Cheyne",
     "date": "21-05-2026 08:30"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "N/A",
-    "comment": "Equipment and Donald Mobilised to Tengiz Today.",
-    "addedBy": "Jonathan Howe",
-    "date": "21-05-2026 08:07"
   }
 ]
