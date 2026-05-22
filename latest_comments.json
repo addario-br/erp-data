@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
+    "comment": "Departed Aksai at 12:30hrs KT on Thursday 21st and arrived at Tengiz at 13:45 hrs KT on 22nd May. Equipment and logging truck has arrived outside the field too. Weather windy and exceeding working limit for the crane at the wellsite. Liaising with the wellsite supervisor regarding taking the trucks with equipment and the logging truck onto the well site.",
+    "addedBy": "Donald Campbell",
+    "date": "22-05-2026 10:54"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Battery on 08:31 Data expected around 17:00",
@@ -26,12 +33,5 @@
     "comment": "Baker have been informed by QE that they will need to wait for Slickline (Wellsanam) to finish on WHP2. This will delay mobilisation until the start of June. GP to travel home tonight.",
     "addedBy": "Grant Patterson",
     "date": "21-05-2026 13:46"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
-    "job": "N/A",
-    "comment": "Internal meetings still need to take place between Wellsanam and QE LNG. Unsure when this will be scheduled for and Eid will start next Tuesday, closing the offices for a week.",
-    "addedBy": "Grant Patterson",
-    "date": "21-05-2026 13:44"
   }
 ]
