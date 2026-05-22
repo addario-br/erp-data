@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Battery on 08:31 Data expected around 17:00",
+    "addedBy": "Joshua Cheyne",
+    "date": "22-05-2026 08:26"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Job is now scheduled for the 26th May.",
@@ -26,12 +33,5 @@
     "comment": "Internal meetings still need to take place between Wellsanam and QE LNG. Unsure when this will be scheduled for and Eid will start next Tuesday, closing the offices for a week.",
     "addedBy": "Grant Patterson",
     "date": "21-05-2026 13:44"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "SLB are continuing rigging up on HBA-14\nToday plan Continue post run maintenance/ prep for HBA-14\nLook ahead has MFC run tomorrow FTA is required",
-    "addedBy": "Joshua Cheyne",
-    "date": "21-05-2026 08:30"
   }
 ]
