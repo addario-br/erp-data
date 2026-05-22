@@ -1,29 +1,20 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
-    "names": [
-      "John Guntoro"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 1,
     "names": [
-      "Dave Simpson",
-      "Rob Molina",
-      "Ross Fraser"
+      "Dave Simpson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
-    "names": [
-      "James Reid",
-      "Peter Thomson",
-      "George Handsley",
-      "Cherie Bowden"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
@@ -32,17 +23,12 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 1,
-    "names": [
-      "Colin Greig"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
-    "names": [
-      "Paul Cunningham",
-      "Sarah Bissett"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
