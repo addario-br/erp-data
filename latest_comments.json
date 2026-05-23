@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
+    "comment": "Started prepping and checking equipment and tools this morning and Schlumberger finished, rigged down and moved out. Welltec are spotting equipment prior to rigging up for the MFC run. BOP stack requires a nitrogen pressure test prior to rigging it up. Expect to be RIH this evening Kazakh time.",
+    "addedBy": "Donald Campbell",
+    "date": "23-05-2026 10:11"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Crew switched over to Eline. Bluespark run to be done next. Waiting on Read Container to come onboard for equipment.",
@@ -26,12 +33,5 @@
     "comment": "Arrived offshore 4pm. Equipment expected tomorrow at some point. Switching to Eline for Blue spark operations.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "22-05-2026 18:01"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
-    "job": "N/A",
-    "comment": "ABI Equipment collected. ETA first thing Wednesday. 27th. Modified tele cartridge will be shipped from ALT HQ on Tuesday 26th. Lenny assigned to support this job and will travel 26th - travel still to be arranged",
-    "addedBy": "Dave Simpson",
-    "date": "22-05-2026 15:26"
   }
 ]
