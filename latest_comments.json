@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Crew switched over to Eline. Bluespark run to be done next. Waiting on Read Container to come onboard for equipment.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "23-05-2026 06:03"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB will continue to rig down off HBA-14 and then over to HBA-11\nNo read requirement for this well but will be needed on HBB-01 current look ahead has MFC run Thursday afternoon\nPlan today finish data package and complete post run maintenance.",
@@ -26,12 +33,5 @@
     "comment": "ABI Equipment collected. ETA first thing Wednesday. 27th. Modified tele cartridge will be shipped from ALT HQ on Tuesday 26th. Lenny assigned to support this job and will travel 26th - travel still to be arranged",
     "addedBy": "Dave Simpson",
     "date": "22-05-2026 15:26"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
-    "comment": "Departed Aksai at 12:30hrs KT on Thursday 21st and arrived at Tengiz at 13:45 hrs KT on 22nd May. Equipment and logging truck has arrived outside the field too. Weather windy and exceeding working limit for the crane at the wellsite. Liaising with the wellsite supervisor regarding taking the trucks with equipment and the logging truck onto the well site.",
-    "addedBy": "Donald Campbell",
-    "date": "22-05-2026 10:54"
   }
 ]
