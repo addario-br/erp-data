@@ -2,6 +2,13 @@
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
+    "comment": "SLB will continue to rig down off HBA-14 and then over to HBA-11\nNo read requirement for this well but will be needed on HBB-01 current look ahead has MFC run Thursday afternoon\nPlan today finish data package and complete post run maintenance.",
+    "addedBy": "Joshua Cheyne",
+    "date": "23-05-2026 05:45"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
     "comment": "UMT downloaded and data uploaded to ansa sharepoint for FTA.",
     "addedBy": "Joshua Cheyne",
     "date": "22-05-2026 18:41"
@@ -26,12 +33,5 @@
     "comment": "Departed Aksai at 12:30hrs KT on Thursday 21st and arrived at Tengiz at 13:45 hrs KT on 22nd May. Equipment and logging truck has arrived outside the field too. Weather windy and exceeding working limit for the crane at the wellsite. Liaising with the wellsite supervisor regarding taking the trucks with equipment and the logging truck onto the well site.",
     "addedBy": "Donald Campbell",
     "date": "22-05-2026 10:54"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Battery on 08:31 Data expected around 17:00",
-    "addedBy": "Joshua Cheyne",
-    "date": "22-05-2026 08:26"
   }
 ]
