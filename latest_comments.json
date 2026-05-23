@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "GP back in Aberdeen 23:45 on the 23rd.",
+    "addedBy": "Grant Patterson",
+    "date": "23-05-2026 13:15"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
     "comment": "Started prepping and checking equipment and tools this morning and Schlumberger finished, rigged down and moved out. Welltec are spotting equipment prior to rigging up for the MFC run. BOP stack requires a nitrogen pressure test prior to rigging it up. Expect to be RIH this evening Kazakh time.",
@@ -26,12 +33,5 @@
     "comment": "UMT downloaded and data uploaded to ansa sharepoint for FTA.",
     "addedBy": "Joshua Cheyne",
     "date": "22-05-2026 18:41"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Arrived offshore 4pm. Equipment expected tomorrow at some point. Switching to Eline for Blue spark operations.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "22-05-2026 18:01"
   }
 ]
