@@ -2,6 +2,13 @@
   {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
+    "comment": "Ran MFC survey overnight and Tim confirmed that the RCT cut had been unsuccessful. Back at surface at 08:00hrs KT and currently bleeding down and waiting to flush the lubricator and tool with diesel prior to rigging down the MFC string. TCO arranged a meeting to discuss the report and the next operation is likely to be the Welltec cutter.",
+    "addedBy": "Donald Campbell",
+    "date": "24-05-2026 04:17"
+  },
+  {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
     "comment": "Just about to pick up the lubricator and tools. String check witnessed by DSS.",
     "addedBy": "Donald Campbell",
     "date": "23-05-2026 15:57"
@@ -26,12 +33,5 @@
     "comment": "Crew switched over to Eline. Bluespark run to be done next. Waiting on Read Container to come onboard for equipment.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "23-05-2026 06:03"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "SLB will continue to rig down off HBA-14 and then over to HBA-11\nNo read requirement for this well but will be needed on HBB-01 current look ahead has MFC run Thursday afternoon\nPlan today finish data package and complete post run maintenance.",
-    "addedBy": "Joshua Cheyne",
-    "date": "23-05-2026 05:45"
   }
 ]
