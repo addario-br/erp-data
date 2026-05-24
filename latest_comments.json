@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
+    "comment": "Welltec have run their cutter, performed creep tests and are now correlating for the cut. An online meeting was held by TCO to review the correlation and confirm the cut depth and the goahead has been given to proceed. A further MFC24 run will follow the cutting run to confirm the cut depth and evaluate the cut.",
+    "addedBy": "Donald Campbell",
+    "date": "24-05-2026 17:35"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Blue Spark run complete. Rig up slickline and perform drift and brush. Before MFC run. Equipment checked last night.",
@@ -26,12 +33,5 @@
     "comment": "Just about to pick up the lubricator and tools. String check witnessed by DSS.",
     "addedBy": "Donald Campbell",
     "date": "23-05-2026 15:57"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "GP back in Aberdeen 23:45 on the 23rd.",
-    "addedBy": "Grant Patterson",
-    "date": "23-05-2026 13:15"
   }
 ]
