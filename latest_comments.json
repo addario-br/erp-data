@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Closed due to no further comms from Halliburton",
+    "addedBy": "Craig Fraser",
+    "date": "25-05-2026 12:08"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
     "comment": "Welltec cutter cut confirmed by the MFC24. Back at surface flushing with diesel. About to rig down and demobilise.",
@@ -26,12 +33,5 @@
     "comment": "Data okay, FTA sent to client.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "25-05-2026 05:23"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
-    "comment": "Rig up calliper and RIH at 03:45hrs to evaluate the Welltec cut.",
-    "addedBy": "Donald Campbell",
-    "date": "24-05-2026 23:54"
   }
 ]
