@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "DFB16 being flowed to see the affects of the Bluespark run on SPM 2/3. Decision of way ahead of to rig down or do another Bluespark and Caliper run to be decided in the morning.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "25-05-2026 19:58"
+  },
+  {
     "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
     "job": "N/A",
     "comment": "LL travelling to Munich tomorrow. Expect to be ready to log ABI Wednesday afternoon or Thursday. Modified Telemetry cartridge arrives later on Wednesday. Operations on site are 7am-7pm. At this stage BPC will log their RSBT first and ABI is contingency if the client isn't happy with the data (Cement Evaluation in 18-5/8\" Casing).",
@@ -26,12 +33,5 @@
     "comment": "Engineer requested for 10th June. Loadout expected from Esbjerg ~5th June",
     "addedBy": "Craig Fraser",
     "date": "25-05-2026 12:34"
-  },
-  {
-    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - MFC",
-    "job": "N/A",
-    "comment": "Invoice no. populated, job closed",
-    "addedBy": "Craig Fraser",
-    "date": "25-05-2026 12:23"
   }
 ]
