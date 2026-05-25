@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03301 - Archer - Archer - Blackburn - Unknown Well - MFC",
+    "job": "N/A",
+    "comment": "Invoice no. populated, job closed",
+    "addedBy": "Craig Fraser",
+    "date": "25-05-2026 12:23"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Closed due to no further comms from Halliburton",
@@ -26,12 +33,5 @@
     "comment": "The scope of work has now changed. there is a Leak somewhere in the tubing with THP dropping from 1100 psi to 400 psi within 10 minutes. KPO want to run leak detection toolstring combined with shifting tools. Mobilisation still expected to be 26th afternoon. JH and SK assigned. depending on what depth the leak is found will determine whether or not the shifting program is to be completed by welltec wireline or by Coil tubing with Acid Spotting.",
     "addedBy": "Jonathan Howe",
     "date": "25-05-2026 08:30"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Data okay, FTA sent to client.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "25-05-2026 05:23"
   }
 ]
