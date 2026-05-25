@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "The scope of work has now changed. there is a Leak somewhere in the tubing with THP dropping from 1100 psi to 400 psi within 10 minutes. KPO want to run leak detection toolstring combined with shifting tools. Mobilisation still expected to be 26th afternoon. JH and SK assigned. depending on what depth the leak is found will determine whether or not the shifting program is to be completed by welltec wireline or by Coil tubing with Acid Spotting.",
+    "addedBy": "Jonathan Howe",
+    "date": "25-05-2026 08:30"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Data okay, FTA sent to client.",
@@ -26,12 +33,5 @@
     "comment": "Welltec have run their cutter, performed creep tests and are now correlating for the cut. An online meeting was held by TCO to review the correlation and confirm the cut depth and the goahead has been given to proceed. A further MFC24 run will follow the cutting run to confirm the cut depth and evaluate the cut.",
     "addedBy": "Donald Campbell",
     "date": "24-05-2026 17:35"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Blue Spark run complete. Rig up slickline and perform drift and brush. Before MFC run. Equipment checked last night.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "24-05-2026 07:39"
   }
 ]
