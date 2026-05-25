@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Invoice number added, project closed out",
+    "addedBy": "Craig Fraser",
+    "date": "25-05-2026 12:39"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Engineer requested for 10th June. Loadout expected from Esbjerg ~5th June",
@@ -26,12 +33,5 @@
     "comment": "Welltec cutter cut confirmed by the MFC24. Back at surface flushing with diesel. About to rig down and demobilise.",
     "addedBy": "Donald Campbell",
     "date": "25-05-2026 11:32"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "SLB continuing work on HBA-11\nLook head has MFC Friday",
-    "addedBy": "Joshua Cheyne",
-    "date": "25-05-2026 08:57"
   }
 ]
