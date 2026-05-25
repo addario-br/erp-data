@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Due to the Scope of work changing from a MSS to Leak detection job with last minute notice, it has been identified that Salman has not had sufficient training to carry out the Leak detection logging. To mitigate this, Salman will be utilised to carry out Rig up and down and RIH / POOH work only. Jon Howe will be Focused on the Logging itself. A timing chart has been produced to estimate approximately 13 hours for logging passes. so both engineers will have to be on swing shifts with our own driver.",
+    "addedBy": "Jonathan Howe",
+    "date": "25-05-2026 14:04"
+  },
+  {
     "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Invoice number added, project closed out",
@@ -26,12 +33,5 @@
     "comment": "Closed due to no further comms from Halliburton",
     "addedBy": "Craig Fraser",
     "date": "25-05-2026 12:08"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
-    "comment": "Welltec cutter cut confirmed by the MFC24. Back at surface flushing with diesel. About to rig down and demobilise.",
-    "addedBy": "Donald Campbell",
-    "date": "25-05-2026 11:32"
   }
 ]
