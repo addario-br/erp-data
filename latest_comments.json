@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
+    "job": "N/A",
+    "comment": "LL travelling to Munich tomorrow. Expect to be ready to log ABI Wednesday afternoon or Thursday. Modified Telemetry cartridge arrives later on Wednesday. Operations on site are 7am-7pm. At this stage BPC will log their RSBT first and ABI is contingency if the client isn't happy with the data (Cement Evaluation in 18-5/8\" Casing).",
+    "addedBy": "Leonard Lapiso",
+    "date": "25-05-2026 18:51"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Due to the Scope of work changing from a MSS to Leak detection job with last minute notice, it has been identified that Salman has not had sufficient training to carry out the Leak detection logging. To mitigate this, Salman will be utilised to carry out Rig up and down and RIH / POOH work only. Jon Howe will be Focused on the Logging itself. A timing chart has been produced to estimate approximately 13 hours for logging passes. so both engineers will have to be on swing shifts with our own driver.",
@@ -26,12 +33,5 @@
     "comment": "Invoice no. populated, job closed",
     "addedBy": "Craig Fraser",
     "date": "25-05-2026 12:23"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Closed due to no further comms from Halliburton",
-    "addedBy": "Craig Fraser",
-    "date": "25-05-2026 12:08"
   }
 ]
