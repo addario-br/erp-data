@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "DFB16 WRSSSV being set on slickline, plan is then to rig down and move to DFA18 is the currently.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "26-05-2026 19:54"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-2 Dan DFB-16 Tubular Integrity",
+    "comment": "DFB16 WRSSSV being set on slickline, plan is then to rig down and move to DFA18 is the currently.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "26-05-2026 19:54"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
     "comment": "DC currently on route from Tengiz to Aksai. expected to arrive late night on 27th May. Equipment Due to arrive 28th or 29th May.",
@@ -19,19 +33,5 @@
     "comment": "Pre job completed with CF.",
     "addedBy": "Leonard Lapiso",
     "date": "26-05-2026 18:28"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
-    "job": "N/A",
-    "comment": "LL arrived at hotel in Oberhaching. Met BPC crew and latest is they had issues with their run today, so that has pushed the ABI log to Thursday at the earliest. Plan for tomorrow will be to go to location and test the ABI equipment once it has arrived on location. Might not be able to test with BPC cable as they will be logging but can at least test with DLC.",
-    "addedBy": "Leonard Lapiso",
-    "date": "26-05-2026 18:05"
-  },
-  {
-    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
-    "job": "N/A",
-    "comment": "WSG expect this job 1st week of June for 7-10 days between mobilization and Demob.\nClient is Storengy. Well EN35.\n\nThe job is confirmed, tools mobilization also, not the run yet and is could be dependent on the clean out run from the 1st Coil run.",
-    "addedBy": "Craig Fraser",
-    "date": "26-05-2026 16:08"
   }
 ]
