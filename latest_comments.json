@@ -2,6 +2,13 @@
   {
     "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
     "job": "N/A",
+    "comment": "Pre job completed with CF.",
+    "addedBy": "Leonard Lapiso",
+    "date": "26-05-2026 18:28"
+  },
+  {
+    "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
+    "job": "N/A",
     "comment": "LL arrived at hotel in Oberhaching. Met BPC crew and latest is they had issues with their run today, so that has pushed the ABI log to Thursday at the earliest. Plan for tomorrow will be to go to location and test the ABI equipment once it has arrived on location. Might not be able to test with BPC cable as they will be logging but can at least test with DLC.",
     "addedBy": "Leonard Lapiso",
     "date": "26-05-2026 18:05"
@@ -26,12 +33,5 @@
     "comment": "After a good inflow test on the SPM. Decision has been made to continue and not rerun. Equipment to be packed today",
     "addedBy": "Abdilmalik Mohamed",
     "date": "26-05-2026 13:12"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
-    "job": "N/A",
-    "comment": "Standard ANSA processing required for ABI data.",
-    "addedBy": "Leonard Lapiso",
-    "date": "26-05-2026 12:44"
   }
 ]
