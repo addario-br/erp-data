@@ -8,15 +8,18 @@
   },
   {
     "companyName": "READ",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
-      "Rob Molina"
+      "Rob Molina",
+      "Mark Davidson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Peter Thomson"
+    ]
   },
   {
     "companyName": "BlueSpark",
