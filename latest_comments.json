@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
+    "job": "N/A",
+    "comment": "WSG expect this job 1st week of June for 7-10 days between mobilization and Demob.\nClient is Storengy. Well EN35.\n\nThe job is confirmed, tools mobilization also, not the run yet and is could be dependent on the clean out run from the 1st Coil run.",
+    "addedBy": "Craig Fraser",
+    "date": "26-05-2026 16:08"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Loadout now Tuesday 2nd June",
@@ -26,12 +33,5 @@
     "comment": "Decision on way forward to be decided by Total",
     "addedBy": "Abdilmalik Mohamed",
     "date": "26-05-2026 08:56"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "SLB to run FTET and exercise the TRSSSV then will be on standby until oilenco tool comes on board.\nLookahead has MFC run on Saturday afternoon",
-    "addedBy": "Joshua Cheyne",
-    "date": "26-05-2026 06:48"
   }
 ]
