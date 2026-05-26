@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Decision on way forward to be decided by Total",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "26-05-2026 08:56"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB to run FTET and exercise the TRSSSV then will be on standby until oilenco tool comes on board.\nLookahead has MFC run on Saturday afternoon",
@@ -26,12 +33,5 @@
     "comment": "Due to the Scope of work changing from a MSS to Leak detection job with last minute notice, it has been identified that Salman has not had sufficient training to carry out the Leak detection logging. To mitigate this, Salman will be utilised to carry out Rig up and down and RIH / POOH work only. Jon Howe will be Focused on the Logging itself. A timing chart has been produced to estimate approximately 13 hours for logging passes. so both engineers will have to be on swing shifts with our own driver.",
     "addedBy": "Jonathan Howe",
     "date": "25-05-2026 14:04"
-  },
-  {
-    "project": "PRJ00224 - Welltec - Welltec - Kazakhstan - 9861 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Invoice number added, project closed out",
-    "addedBy": "Craig Fraser",
-    "date": "25-05-2026 12:39"
   }
 ]
