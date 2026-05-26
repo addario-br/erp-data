@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "Equipment and Night shift arrived on site. begin spot and prep equipement ready for rig up and RIH.",
+    "addedBy": "Jonathan Howe",
+    "date": "26-05-2026 19:47"
+  },
+  {
     "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
     "job": "N/A",
     "comment": "Pre job completed with CF.",
@@ -26,12 +33,5 @@
     "comment": "Loadout now Tuesday 2nd June",
     "addedBy": "Craig Fraser",
     "date": "26-05-2026 14:25"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "After a good inflow test on the SPM. Decision has been made to continue and not rerun. Equipment to be packed today",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "26-05-2026 13:12"
   }
 ]
