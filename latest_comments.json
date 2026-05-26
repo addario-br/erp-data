@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
+    "comment": "DC currently on route from Tengiz to Aksai. expected to arrive late night on 27th May. Equipment Due to arrive 28th or 29th May.",
+    "addedBy": "Jonathan Howe",
+    "date": "26-05-2026 19:52"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
     "comment": "Equipment and Night shift arrived on site. begin spot and prep equipement ready for rig up and RIH.",
@@ -26,12 +33,5 @@
     "comment": "WSG expect this job 1st week of June for 7-10 days between mobilization and Demob.\nClient is Storengy. Well EN35.\n\nThe job is confirmed, tools mobilization also, not the run yet and is could be dependent on the clean out run from the 1st Coil run.",
     "addedBy": "Craig Fraser",
     "date": "26-05-2026 16:08"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Loadout now Tuesday 2nd June",
-    "addedBy": "Craig Fraser",
-    "date": "26-05-2026 14:25"
   }
 ]
