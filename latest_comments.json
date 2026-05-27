@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "712870 Grant Patterson is now booked 10/6 with BBX609, check in at 10:30.\nHis inbound for now is 26/6, but we cannot promise it won’t change.",
+    "addedBy": "Craig Fraser",
+    "date": "27-05-2026 15:29"
+  },
+  {
     "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
     "job": "N/A",
     "comment": "Depth kit not sent with loadout from Abz so plan forward is for components required for depth acquisition to be hand-carried to Munich and LL can pick them up from there.",
@@ -26,12 +33,5 @@
     "comment": "Equipment from Abz just arrived on location, will go through and check main and backup strings. BPC currently logging. Still looks like later Thursday for rig up ABI, pending arrival of trial telemetry cartridge from ALT",
     "addedBy": "Leonard Lapiso",
     "date": "27-05-2026 07:24"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
-    "comment": "RIH started at 11:00 am.",
-    "addedBy": "Salman Kassen",
-    "date": "27-05-2026 07:17"
   }
 ]
