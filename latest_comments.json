@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "Performed Baseline shut in Log for temperature and Noise. Found RSS#3 open. Went down to relog RSS3 and attempted to close. after 2 strokes of trying to close the sleeve we were unable to tractor in hole. Decided to Inject well at 1bbl/min and log from 5535m to 4400m. Then will Shut in well and pooh for fault finding. All read tools still comunicating well.",
+    "addedBy": "Jonathan Howe",
+    "date": "28-05-2026 00:29"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "712870 Grant Patterson is now booked 10/6 with BBX609, check in at 10:30.\nHis inbound for now is 26/6, but we cannot promise it won’t change.",
@@ -26,12 +33,5 @@
     "comment": "Good test on safety valve. Crew rigging down and preparing equipment to transfer.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "27-05-2026 08:23"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
-    "job": "N/A",
-    "comment": "Equipment from Abz just arrived on location, will go through and check main and backup strings. BPC currently logging. Still looks like later Thursday for rig up ABI, pending arrival of trial telemetry cartridge from ALT",
-    "addedBy": "Leonard Lapiso",
-    "date": "27-05-2026 07:24"
   }
 ]
