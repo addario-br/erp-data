@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "RIH started at 11:00 am.",
+    "addedBy": "Salman Kassen",
+    "date": "27-05-2026 07:17"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "SLB and oilenco running a brush today and then syringe tool. Current look ahead MFC run Sunday morning",
@@ -26,12 +33,5 @@
     "comment": "DC currently on route from Tengiz to Aksai. expected to arrive late night on 27th May. Equipment Due to arrive 28th or 29th May.",
     "addedBy": "Jonathan Howe",
     "date": "26-05-2026 19:52"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
-    "comment": "Equipment and Night shift arrived on site. begin spot and prep equipement ready for rig up and RIH.",
-    "addedBy": "Jonathan Howe",
-    "date": "26-05-2026 19:47"
   }
 ]
