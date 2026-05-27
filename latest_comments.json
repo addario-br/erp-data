@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "PLT+SNL confirmed. Expected to mobilise 4th June. Awaiting to see what the outcome is with 9886 as to what personnel we can assign.",
+    "addedBy": "Jonathan Howe",
+    "date": "27-05-2026 09:01"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Good test on safety valve. Crew rigging down and preparing equipment to transfer.",
@@ -26,12 +33,5 @@
     "comment": "SLB and oilenco running a brush today and then syringe tool. Current look ahead MFC run Sunday morning",
     "addedBy": "Joshua Cheyne",
     "date": "27-05-2026 05:39"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "DFB16 WRSSSV being set on slickline, plan is then to rig down and move to DFA18 is the currently.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "26-05-2026 19:54"
   }
 ]
