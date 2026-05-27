@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03246 - Balance Point Control - BPC - Celle - Unknown Well - MFC_ MTT",
+    "job": "N/A",
+    "comment": "Equipment from Abz just arrived on location, will go through and check main and backup strings. BPC currently logging. Still looks like later Thursday for rig up ABI, pending arrival of trial telemetry cartridge from ALT",
+    "addedBy": "Leonard Lapiso",
+    "date": "27-05-2026 07:24"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
     "comment": "RIH started at 11:00 am.",
@@ -26,12 +33,5 @@
     "comment": "DFB16 WRSSSV being set on slickline, plan is then to rig down and move to DFA18 is the currently.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "26-05-2026 19:54"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-1 Tengiz T-108 Tubular Integrity",
-    "comment": "DC currently on route from Tengiz to Aksai. expected to arrive late night on 27th May. Equipment Due to arrive 28th or 29th May.",
-    "addedBy": "Jonathan Howe",
-    "date": "26-05-2026 19:52"
   }
 ]
