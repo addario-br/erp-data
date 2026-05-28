@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "Once at suface it was discovered that the bottom shroud of the CTF and the CFSM was missing, left inside the well. The plan is for Welltec to arrange a 3 1/8 drift to push this to the bottom of the well.",
+    "addedBy": "Jonathan Howe",
+    "date": "28-05-2026 16:19"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Equipment moved to A platform. Spotting equipment and preparing for rig up on DFA18",
@@ -26,12 +33,5 @@
     "comment": "Start to POOH at 06:30am KT, awaiting plan from Welltec / KPO as to whether or not another run is required or they will use CT.",
     "addedBy": "Jonathan Howe",
     "date": "28-05-2026 02:49"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
-    "comment": "Leak Signature Found at OH packer. 5291.4m unable to validate through stations due to not being able to get back on depth. but it is an obvious leak signature and able to compare to sI baseline.",
-    "addedBy": "Jonathan Howe",
-    "date": "28-05-2026 02:47"
   }
 ]
