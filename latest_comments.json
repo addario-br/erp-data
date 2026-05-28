@@ -2,6 +2,13 @@
   {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "Start to POOH at 06:30am KT, awaiting plan from Welltec / KPO as to whether or not another run is required or they will use CT.",
+    "addedBy": "Jonathan Howe",
+    "date": "28-05-2026 02:49"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
     "comment": "Leak Signature Found at OH packer. 5291.4m unable to validate through stations due to not being able to get back on depth. but it is an obvious leak signature and able to compare to sI baseline.",
     "addedBy": "Jonathan Howe",
     "date": "28-05-2026 02:47"
@@ -26,12 +33,5 @@
     "comment": "Depth kit not sent with loadout from Abz so plan forward is for components required for depth acquisition to be hand-carried to Munich and LL can pick them up from there.",
     "addedBy": "Leonard Lapiso",
     "date": "27-05-2026 10:09"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "PLT+SNL confirmed. Expected to mobilise 4th June. Awaiting to see what the outcome is with 9886 as to what personnel we can assign.",
-    "addedBy": "Jonathan Howe",
-    "date": "27-05-2026 09:01"
   }
 ]
