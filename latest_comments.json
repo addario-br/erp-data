@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
+    "job": "N/A",
+    "comment": "ABI run not required by client. Equipment packed for Demob to Celle with BPC truck/trailer, then will be Backloaded to Abz. Will leave tomorrow. LL flying back to Abz tomorrow.",
+    "addedBy": "Leonard Lapiso",
+    "date": "28-05-2026 17:54"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
     "comment": "Once at suface it was discovered that the bottom shroud of the CTF and the CFSM was missing, left inside the well. The plan is for Welltec to arrange a 3 1/8 drift to push this to the bottom of the well.",
@@ -26,12 +33,5 @@
     "comment": "Oilenco syringe tool was ran last night inflow test currently underway\nHBB-01 MFC run still currently scheduled for Sunday",
     "addedBy": "Joshua Cheyne",
     "date": "28-05-2026 07:19"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
-    "comment": "Start to POOH at 06:30am KT, awaiting plan from Welltec / KPO as to whether or not another run is required or they will use CT.",
-    "addedBy": "Jonathan Howe",
-    "date": "28-05-2026 02:49"
   }
 ]
