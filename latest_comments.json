@@ -2,6 +2,13 @@
   {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "Leak Signature Found at OH packer. 5291.4m unable to validate through stations due to not being able to get back on depth. but it is an obvious leak signature and able to compare to sI baseline.",
+    "addedBy": "Jonathan Howe",
+    "date": "28-05-2026 02:47"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
     "comment": "Performed Baseline shut in Log for temperature and Noise. Found RSS#3 open. Went down to relog RSS3 and attempted to close. after 2 strokes of trying to close the sleeve we were unable to tractor in hole. Decided to Inject well at 1bbl/min and log from 5535m to 4400m. Then will Shut in well and pooh for fault finding. All read tools still comunicating well.",
     "addedBy": "Jonathan Howe",
     "date": "28-05-2026 00:29"
@@ -26,12 +33,5 @@
     "comment": "PLT+SNL confirmed. Expected to mobilise 4th June. Awaiting to see what the outcome is with 9886 as to what personnel we can assign.",
     "addedBy": "Jonathan Howe",
     "date": "27-05-2026 09:01"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Good test on safety valve. Crew rigging down and preparing equipment to transfer.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "27-05-2026 08:23"
   }
 ]
