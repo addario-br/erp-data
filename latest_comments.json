@@ -1,7 +1,7 @@
 [
   {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier), Intelligent Drift",
     "comment": "Fish pushed down to 5850m which is below RSS#1. No issues whatsoever. POOH to continue with leak detection operation.",
     "addedBy": "Donald Campbell",
     "date": "29-05-2026 05:30"
@@ -14,8 +14,8 @@
     "date": "28-05-2026 17:54"
   },
   {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier), Intelligent Drift",
     "comment": "Once at suface it was discovered that the bottom shroud of the CTF and the CFSM was missing, left inside the well. The plan is for Welltec to arrange a 3 1/8 drift to push this to the bottom of the well.",
     "addedBy": "Jonathan Howe",
     "date": "28-05-2026 16:19"
