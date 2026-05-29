@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
+    "job": "N/A",
+    "comment": "LL arrived back in Abz.",
+    "addedBy": "Leonard Lapiso",
+    "date": "29-05-2026 13:13"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Wireline crew now rigging up on DFA-18",
@@ -26,12 +33,5 @@
     "comment": "ABI run not required by client. Equipment packed for Demob to Celle with BPC truck/trailer, then will be Backloaded to Abz. Will leave tomorrow. LL flying back to Abz tomorrow.",
     "addedBy": "Leonard Lapiso",
     "date": "28-05-2026 17:54"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier), Intelligent Drift",
-    "comment": "Once at suface it was discovered that the bottom shroud of the CTF and the CFSM was missing, left inside the well. The plan is for Welltec to arrange a 3 1/8 drift to push this to the bottom of the well.",
-    "addedBy": "Jonathan Howe",
-    "date": "28-05-2026 16:19"
   }
 ]
