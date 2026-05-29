@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier), Intelligent Drift",
+    "comment": "Rigged up Shifting and Leak detection toolstring, RIH at 21;50 KT. Plan is to shift RSS3 closed. Perfrom Active logging survey from 5838 to 4400m then Open RSS1.",
+    "addedBy": "Jonathan Howe",
+    "date": "29-05-2026 18:07"
+  },
+  {
     "project": "PRJ03321 - SLB - SLB Denmark - HBB-01 - MFC",
     "job": "N/A",
     "comment": "Omega gauge rental to SLB DK. Gauges to be delivered to SLB from Norsea Tuesday 2nd June latest",
@@ -26,12 +33,5 @@
     "comment": "Continue to inflow test TRSSSV before replacing blind hub on CINJV look ahead has MFC run Tuesday but this could change depending on how the inflow test is",
     "addedBy": "Joshua Cheyne",
     "date": "29-05-2026 07:33"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier), Intelligent Drift",
-    "comment": "Fish pushed down to 5850m which is below RSS#1. No issues whatsoever. POOH to continue with leak detection operation.",
-    "addedBy": "Donald Campbell",
-    "date": "29-05-2026 05:30"
   }
 ]
