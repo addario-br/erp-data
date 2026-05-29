@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier)",
+    "comment": "Fish pushed down to 5850m which is below RSS#1. No issues whatsoever. POOH to continue with leak detection operation.",
+    "addedBy": "Donald Campbell",
+    "date": "29-05-2026 05:30"
+  },
+  {
     "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
     "job": "N/A",
     "comment": "ABI run not required by client. Equipment packed for Demob to Celle with BPC truck/trailer, then will be Backloaded to Abz. Will leave tomorrow. LL flying back to Abz tomorrow.",
@@ -26,12 +33,5 @@
     "comment": "Both toolstrings checked with test cable. At end of shift spent ~30 minutes testing tools with BPC wireline (7000m) but unable to get Comms. BPC also have a 4000m cable on site. Last night received the Depth equipment from MD in Munich. Plan today - test depth equipment and hopefully test tools with 4000m cable offline if possible. BPB currently logging RSBT-MFC60 in 9-5/8\" and 10-3/8\" casing. Yesterday they logged the 18-3/8\" casing and data looked good, just waiting for confirmation from the client if they are happy with it.",
     "addedBy": "Leonard Lapiso",
     "date": "28-05-2026 07:38"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Oilenco syringe tool was ran last night inflow test currently underway\nHBB-01 MFC run still currently scheduled for Sunday",
-    "addedBy": "Joshua Cheyne",
-    "date": "28-05-2026 07:19"
   }
 ]
