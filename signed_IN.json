@@ -11,11 +11,11 @@
     "companyName": "READ",
     "numIn": 5,
     "names": [
-      "Rob Molina",
       "Mark Davidson",
       "Dave Simpson",
       "Ross Fraser",
-      "Leonard Lapiso"
+      "Leonard Lapiso",
+      "Rob Molina"
     ]
   },
   {
@@ -23,9 +23,9 @@
     "numIn": 4,
     "names": [
       "Peter Thomson",
-      "Liam Strath",
       "George Handsley",
-      "James Reid"
+      "James Reid",
+      "Liam Strath"
     ]
   },
   {
