@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "9896 PLT delayed until 14th June currently",
+    "addedBy": "Jonathan Howe",
+    "date": "30-05-2026 13:29"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "No scaffolding on nights and so continue scaffolding before continuing the rig up. Drift first to see accessibility. MFC is contingency and so no confirmation of at which point in the operation it may be required.",
@@ -26,12 +33,5 @@
     "comment": "Omega gauge rental to SLB DK. Gauges to be delivered to SLB from Norsea Tuesday 2nd June latest",
     "addedBy": "Craig Fraser",
     "date": "29-05-2026 14:42"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
-    "job": "N/A",
-    "comment": "LL arrived back in Abz.",
-    "addedBy": "Leonard Lapiso",
-    "date": "29-05-2026 13:13"
   }
 ]
