@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "SLB rigged back onto HBA-11 plan now to set interwell plug. MFC run currently still wednesday but could slip now extra work has been added to HBA-11",
+    "addedBy": "Joshua Cheyne",
+    "date": "31-05-2026 08:34"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-3 Karachaganak 9886 SSD Position, Leak Detection (Primary Barrier), Intelligent Drift",
     "comment": "Logging finished, RSS#1 Opened. Spinner cals completed between 4480 and 4580. Start to POOH at 02:20 KT.",
@@ -26,12 +33,5 @@
     "comment": "9896 PLT delayed until 14th June currently",
     "addedBy": "Jonathan Howe",
     "date": "30-05-2026 13:29"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "No scaffolding on nights and so continue scaffolding before continuing the rig up. Drift first to see accessibility. MFC is contingency and so no confirmation of at which point in the operation it may be required.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "30-05-2026 09:36"
   }
 ]
