@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "LL arrived on board Halfdan B.",
+    "addedBy": "Leonard Lapiso",
+    "date": "01-06-2026 11:54"
+  },
+  {
+    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
+    "job": "N/A",
+    "comment": "2 x PRT's and 2 x QPC' newly calibrated were collected on Friday, 29th May. ETA at WSG base Tuesday, 2nd June. WSG organised the shipment.",
+    "addedBy": "Dave Simpson",
+    "date": "01-06-2026 11:53"
+  },
+  {
     "project": "PRJ03321 - SLB - SLB Denmark - HBB-01 - MFC",
     "job": "N/A",
     "comment": "Gauges have been tested, inventoried and delivered to SLB. Loadout planned on Thursday. Rental for SLB Wellsat campaign",
@@ -19,19 +33,5 @@
     "comment": "SLB currently rigged up on HBA-11 set interwell plug last night they will the change out the Blind Hub before pulling the plug and rigging down.\nJC crew changing today",
     "addedBy": "Joshua Cheyne",
     "date": "01-06-2026 08:03"
-  },
-  {
-    "project": "PRJ03329 - Hilcorp - Hilcorp North Slope, LLC - PBU F-09C - MFC",
-    "job": "PRJ03329-1 Prudhoe Bay PBU F-09C Tubular Integrity",
-    "comment": "31-May-26 11:00 Travel\n12:10 Arrive - On Location\n12:15 Safety Meeting\n12:27 Program Tool\n12:46 Connect Battery\n12:56 Stab on Lubricator - Run 1\n14:20 Wait for Tool To Open\n13:01 Run In Hole\n14:40 Log Up\n15:52 Tool Closing\n14:55 Pull Out of Hole\n16:06 Break Off Lubricator - Run 1\n16:11 Download Tool\n16:30 Travel\n17:00 Arrive - Not On Location\n17:00 Service Tools\n18:00 End Ticket",
-    "addedBy": "Robert Holden",
-    "date": "01-06-2026 02:25"
-  },
-  {
-    "project": "PRJ03329 - Hilcorp - Hilcorp North Slope, LLC - PBU F-09C - MFC",
-    "job": "N/A",
-    "comment": "31-May-26 11:00 Travel\n12:10 Arrive - On Location\n12:15 Safety Meeting\n12:27 Program Tool\n12:46 Connect Battery\n12:56 Stab on Lubricator - Run 1\n14:20 Wait for Tool To Open\n13:01 Run In Hole\n14:40 Log Up\n15:52 Tool Closing\n14:55 Pull Out of Hole\n16:06 Break Off Lubricator - Run 1\n16:11 Download Tool\n16:30 Travel\n17:00 Arrive - Not On Location\n17:00 Service Tools\n18:00 End Ticket",
-    "addedBy": "Robert Holden",
-    "date": "01-06-2026 02:22"
   }
 ]
