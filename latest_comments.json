@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "We have just received PO: 4302457112 for the rental of x1 MFC60 w/ ext fingers",
+    "addedBy": "Craig Fraser",
+    "date": "02-06-2026 12:02"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Project re-opened, Expected to mob directly after 9896 PLT. approximately 8th June.",
@@ -26,12 +33,5 @@
     "comment": "PLT confirmed for tomorrow 3rd June. JH/RY and DC assigned to the job.",
     "addedBy": "Jonathan Howe",
     "date": "02-06-2026 06:29"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Rigging down off HBA-11. Expect to start `HBB-01 ops today midday, will start moving equipment from A platform and spotting it to B. As per latest lookahead, MFC logging scheduled for early Friday morning.",
-    "addedBy": "Leonard Lapiso",
-    "date": "02-06-2026 05:47"
   }
 ]
