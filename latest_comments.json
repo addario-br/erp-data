@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Project re-opened, Expected to mob directly after 9896 PLT. approximately 8th June.",
+    "addedBy": "Jonathan Howe",
+    "date": "02-06-2026 06:39"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "MSS logging expected to mobilise on 4th June. SK and GP assigned.",
@@ -26,12 +33,5 @@
     "comment": "Rigging down off HBA-11. Expect to start `HBB-01 ops today midday, will start moving equipment from A platform and spotting it to B. As per latest lookahead, MFC logging scheduled for early Friday morning.",
     "addedBy": "Leonard Lapiso",
     "date": "02-06-2026 05:47"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "confirmation from Total. READ equipment should be ready for load out Friday the 5th of June",
-    "addedBy": "Craig Fraser",
-    "date": "01-06-2026 12:33"
   }
 ]
