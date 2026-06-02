@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "PLT confirmed for tomorrow 3rd June. JH/RY and DC assigned to the job.",
+    "addedBy": "Jonathan Howe",
+    "date": "02-06-2026 06:29"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Rigging down off HBA-11. Expect to start `HBB-01 ops today midday, will start moving equipment from A platform and spotting it to B. As per latest lookahead, MFC logging scheduled for early Friday morning.",
@@ -26,12 +33,5 @@
     "comment": "2 x PRT's and 2 x QPC' newly calibrated were collected on Friday, 29th May. ETA at WSG base Tuesday, 2nd June. WSG organised the shipment.",
     "addedBy": "Dave Simpson",
     "date": "01-06-2026 11:53"
-  },
-  {
-    "project": "PRJ03321 - SLB - SLB Denmark - HBB-01 - MFC",
-    "job": "N/A",
-    "comment": "Gauges have been tested, inventoried and delivered to SLB. Loadout planned on Thursday. Rental for SLB Wellsat campaign",
-    "addedBy": "Craig Fraser",
-    "date": "01-06-2026 11:48"
   }
 ]
