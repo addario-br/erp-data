@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "MSS logging expected to mobilise on 4th June. SK and GP assigned.",
+    "addedBy": "Jonathan Howe",
+    "date": "02-06-2026 06:34"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "GP mobilised due to Welltec not being able to charge for remote logging and KPO not wanting remote logging.",
+    "addedBy": "Jonathan Howe",
+    "date": "02-06-2026 06:34"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "PLT confirmed for tomorrow 3rd June. JH/RY and DC assigned to the job.",
@@ -19,19 +33,5 @@
     "comment": "confirmation from Total. READ equipment should be ready for load out Friday the 5th of June",
     "addedBy": "Craig Fraser",
     "date": "01-06-2026 12:33"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "LL arrived on board Halfdan B.",
-    "addedBy": "Leonard Lapiso",
-    "date": "01-06-2026 11:54"
-  },
-  {
-    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
-    "job": "N/A",
-    "comment": "2 x PRT's and 2 x QPC' newly calibrated were collected on Friday, 29th May. ETA at WSG base Tuesday, 2nd June. WSG organised the shipment.",
-    "addedBy": "Dave Simpson",
-    "date": "01-06-2026 11:53"
   }
 ]
