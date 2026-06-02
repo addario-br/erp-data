@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Check-in no later than 09.06.2026 10:30. Engineer required to be sourced externally",
+    "addedBy": "Craig Fraser",
+    "date": "02-06-2026 16:01"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
     "comment": "No expected logging in the coming days. Logging program and information shared with ANSA.",
@@ -24,13 +31,6 @@
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "MSS logging expected to mobilise on 4th June. SK and GP assigned.",
-    "addedBy": "Jonathan Howe",
-    "date": "02-06-2026 06:34"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "GP mobilised due to Welltec not being able to charge for remote logging and KPO not wanting remote logging.",
     "addedBy": "Jonathan Howe",
     "date": "02-06-2026 06:34"
   }
