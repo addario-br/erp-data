@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "No expected logging in the coming days. Logging program and information shared with ANSA.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "02-06-2026 13:43"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "We have just received PO: 4302457112 for the rental of x1 MFC60 w/ ext fingers",
@@ -26,12 +33,5 @@
     "comment": "GP mobilised due to Welltec not being able to charge for remote logging and KPO not wanting remote logging.",
     "addedBy": "Jonathan Howe",
     "date": "02-06-2026 06:34"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "PLT confirmed for tomorrow 3rd June. JH/RY and DC assigned to the job.",
-    "addedBy": "Jonathan Howe",
-    "date": "02-06-2026 06:29"
   }
 ]
