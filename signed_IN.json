@@ -8,14 +8,18 @@
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "Rob Molina",
+      "Dave Simpson"
+    ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
-      "Peter Thomson"
+      "Peter Thomson",
+      "George Handsley"
     ]
   },
   {
