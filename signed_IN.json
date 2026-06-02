@@ -1,23 +1,25 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 6,
     "names": [
       "Heather Caldwell",
       "Jennifer Leyes",
       "Joseph Guyan",
       "Maurillio Addario",
-      "Craig Lamont"
+      "Craig Lamont",
+      "Alan Walsh"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 5,
     "names": [
       "Rob Molina",
       "Dave Simpson",
       "Mark Davidson",
-      "Ross Fraser"
+      "Ross Fraser",
+      "Craig Fraser"
     ]
   },
   {
