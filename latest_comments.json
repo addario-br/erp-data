@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "No logging expected in the next day couple of daya",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "03-06-2026 08:50"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
     "comment": "Continue rigging up onto HBB-01. Latest lookahead has Thursday 17:00 for rigging up MFC.",
@@ -26,12 +33,5 @@
     "comment": "We have just received PO: 4302457112 for the rental of x1 MFC60 w/ ext fingers",
     "addedBy": "Craig Fraser",
     "date": "02-06-2026 12:02"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Project re-opened, Expected to mob directly after 9896 PLT. approximately 8th June.",
-    "addedBy": "Jonathan Howe",
-    "date": "02-06-2026 06:39"
   }
 ]
