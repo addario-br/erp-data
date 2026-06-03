@@ -33,8 +33,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
