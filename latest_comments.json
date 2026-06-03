@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "Arrive on site 19:00, Begin spot and prep of equipment.",
+    "addedBy": "Jonathan Howe",
+    "date": "03-06-2026 18:27"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Checkin has come forward, Sunday trave for a Check-in no later than 08.06.2026 14:00",
@@ -26,12 +33,5 @@
     "comment": "Continue rigging up onto HBB-01. Latest lookahead has Thursday 17:00 for rigging up MFC.",
     "addedBy": "Leonard Lapiso",
     "date": "03-06-2026 06:04"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Check-in no later than 09.06.2026 10:30. Engineer required to be sourced externally",
-    "addedBy": "Craig Fraser",
-    "date": "02-06-2026 16:01"
   }
 ]
