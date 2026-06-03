@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
+    "comment": "Continue rigging up onto HBB-01. Latest lookahead has Thursday 17:00 for rigging up MFC.",
+    "addedBy": "Leonard Lapiso",
+    "date": "03-06-2026 06:04"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Check-in no later than 09.06.2026 10:30. Engineer required to be sourced externally",
@@ -26,12 +33,5 @@
     "comment": "Project re-opened, Expected to mob directly after 9896 PLT. approximately 8th June.",
     "addedBy": "Jonathan Howe",
     "date": "02-06-2026 06:39"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "MSS logging expected to mobilise on 4th June. SK and GP assigned.",
-    "addedBy": "Jonathan Howe",
-    "date": "02-06-2026 06:34"
   }
 ]
