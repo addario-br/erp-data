@@ -1,13 +1,15 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 7,
     "names": [
       "Heather Caldwell",
       "Jennifer Leyes",
       "Joseph Guyan",
       "Alan Walsh",
-      "Maurillio Addario"
+      "Maurillio Addario",
+      "Lewis Emslie",
+      "Craig Lamont"
     ]
   },
   {
@@ -40,7 +42,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Kjetil Fosse"
+    ]
   }
 ]
