@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
+    "job": "N/A",
+    "comment": "SLB just been informed that load out has been put back to Thursday next week now",
+    "addedBy": "Craig Fraser",
+    "date": "03-06-2026 12:42"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
     "comment": "No logging expected in the next day couple of daya",
@@ -26,12 +33,5 @@
     "comment": "No expected logging in the coming days. Logging program and information shared with ANSA.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "02-06-2026 13:43"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "We have just received PO: 4302457112 for the rental of x1 MFC60 w/ ext fingers",
-    "addedBy": "Craig Fraser",
-    "date": "02-06-2026 12:02"
   }
 ]
