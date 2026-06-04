@@ -1,10 +1,8 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
-    "names": [
-      "Craig Lamont"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
@@ -23,10 +21,8 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 1,
-    "names": [
-      "Gordon Bennett"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "Visitors",
