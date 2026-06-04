@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Email sent to Diego to confirm way forward with Rental opportunity",
+    "addedBy": "Craig Fraser",
+    "date": "04-06-2026 14:48"
+  },
+  {
     "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
     "job": "N/A",
     "comment": "Ecoil Back up Tool. (QPC-PRT-XTU) mobilizing next Tuesday 9th June for 7-10 Days in Sorengy France, Land Job.",
@@ -26,12 +33,5 @@
     "comment": "Logging not expected in the next two days",
     "addedBy": "Abdilmalik Mohamed",
     "date": "04-06-2026 09:07"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
-    "job": "N/A",
-    "comment": "Questions from QE LNG on PRC034 suitability seem to be delaying operations. Further updates requested through MCubed",
-    "addedBy": "Craig Fraser",
-    "date": "04-06-2026 08:47"
   }
 ]
