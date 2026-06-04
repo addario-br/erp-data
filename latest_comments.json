@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
+    "comment": "RIgged up onto HBB-01 but delays with pressure testing PCE stack due to weather. Expect to continue today with pressure test followed by drift. Latest lookahead has MFC logging tonight @19:00, depending on the drift run.",
+    "addedBy": "Leonard Lapiso",
+    "date": "04-06-2026 06:06"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "Arrive on site 19:00, Begin spot and prep of equipment.",
@@ -26,12 +33,5 @@
     "comment": "No logging expected in the next day couple of daya",
     "addedBy": "Abdilmalik Mohamed",
     "date": "03-06-2026 08:50"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
-    "comment": "Continue rigging up onto HBB-01. Latest lookahead has Thursday 17:00 for rigging up MFC.",
-    "addedBy": "Leonard Lapiso",
-    "date": "03-06-2026 06:04"
   }
 ]
