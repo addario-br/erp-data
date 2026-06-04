@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "Questions from QE LNG on PRC034 suitability seem to be delaying operations. Further updates requested through MCubed",
+    "addedBy": "Craig Fraser",
+    "date": "04-06-2026 08:47"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "10:00hrs KT. Pick up lubricator, connect PLT and SNL tools, stab on and pressure test.",
@@ -26,12 +33,5 @@
     "comment": "Checkin has come forward, Sunday trave for a Check-in no later than 08.06.2026 14:00",
     "addedBy": "Craig Fraser",
     "date": "03-06-2026 12:54"
-  },
-  {
-    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
-    "job": "N/A",
-    "comment": "SLB just been informed that load out has been put back to Thursday next week now",
-    "addedBy": "Craig Fraser",
-    "date": "03-06-2026 12:42"
   }
 ]
