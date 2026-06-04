@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "Logging not expected in the next two days",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "04-06-2026 09:07"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
     "job": "N/A",
     "comment": "Questions from QE LNG on PRC034 suitability seem to be delaying operations. Further updates requested through MCubed",
@@ -26,12 +33,5 @@
     "comment": "Arrive on site 19:00, Begin spot and prep of equipment.",
     "addedBy": "Jonathan Howe",
     "date": "03-06-2026 18:27"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Checkin has come forward, Sunday trave for a Check-in no later than 08.06.2026 14:00",
-    "addedBy": "Craig Fraser",
-    "date": "03-06-2026 12:54"
   }
 ]
