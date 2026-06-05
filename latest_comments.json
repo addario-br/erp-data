@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
+    "comment": "First 3\" flexidrift run made it to 9000ft. Was sticky RIH and high tension on pickup weights so decision was made to change over to Braided line. Prior to changing over, by a 3.62\" flexidrift was run, that made it to 10182ft. Today will be pressure testing the PCE for braided setup, followed by MFC. Latest lookahed has 11am today rig up.",
+    "addedBy": "Leonard Lapiso",
+    "date": "05-06-2026 05:53"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "Lubricator stabbed on 06:00 KT, Expect to RIH late this afternoon.",
@@ -26,12 +33,5 @@
     "comment": "Email sent to Diego to confirm way forward with Rental opportunity",
     "addedBy": "Craig Fraser",
     "date": "04-06-2026 14:48"
-  },
-  {
-    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
-    "job": "N/A",
-    "comment": "Ecoil Back up Tool. (QPC-PRT-XTU) mobilizing next Tuesday 9th June for 7-10 Days in Sorengy France, Land Job.",
-    "addedBy": "Craig Fraser",
-    "date": "04-06-2026 14:43"
   }
 ]
