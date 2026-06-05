@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "We will be running MFC on HBB-01 during the weekend and then backload equipment – last job on the Halfdan campaign.\nLeonard Lapiso provisionally planned to CC Abdil on Dan end of next week",
+    "addedBy": "Craig Fraser",
+    "date": "05-06-2026 07:25"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
     "comment": "First 3\" flexidrift run made it to 9000ft. Was sticky RIH and high tension pickup weights. Decision made to change over to Braided line. Prior to changing over, a 3.62\" flexidrift was run, that made it to 10182ft. Today: pressure testing the PCE for braided setup, followed by MFC. Slb also waiting on a cutter sub to arrive this morning. Latest lookahed has 11am today rig up.",
     "addedBy": "Leonard Lapiso",
@@ -26,12 +33,5 @@
     "comment": "All equipment checked and ready to pick up. Frac job will be carried out during the day followed by Run 1 to close RSS#1 and open RSS#2",
     "addedBy": "Rickie Yuill",
     "date": "04-06-2026 23:59"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Email sent to Diego to confirm way forward with Rental opportunity",
-    "addedBy": "Craig Fraser",
-    "date": "04-06-2026 14:48"
   }
 ]
