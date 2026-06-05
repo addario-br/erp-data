@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "Dynamic passes started at 19:58 KT.",
+    "addedBy": "Grant Patterson",
+    "date": "05-06-2026 16:07"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "TCO have requested we mobilise to perform another MFC / welltec cut in the same well. Mobilising on the 12th June.",
+    "addedBy": "Rickie Yuill",
+    "date": "05-06-2026 16:06"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RIH 18:30 KT",
@@ -19,19 +33,5 @@
     "comment": "Provisional crew lookahead for Dan\nDFA18 expected until 12/6\n12-19th June - DFE06 - no need for READ\n19th June to 7th July - DFA16 - READ upman required\n\nThe above information means Abdil's crew change may not be needed and downman instead",
     "addedBy": "Craig Fraser",
     "date": "05-06-2026 07:28"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "We will be running MFC on HBB-01 during the weekend and then backload equipment – last job on the Halfdan campaign.\nLeonard Lapiso provisionally planned to CC Abdil on Dan end of next week",
-    "addedBy": "Craig Fraser",
-    "date": "05-06-2026 07:25"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
-    "comment": "First 3\" flexidrift run made it to 9000ft. Was sticky RIH and high tension pickup weights. Decision made to change over to Braided line. Prior to changing over, a 3.62\" flexidrift was run, that made it to 10182ft. Today: pressure testing the PCE for braided setup, followed by MFC. Slb also waiting on a cutter sub to arrive this morning. Latest lookahed has 11am today rig up.",
-    "addedBy": "Leonard Lapiso",
-    "date": "05-06-2026 05:53"
   }
 ]
