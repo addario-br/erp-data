@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "Static passes complete. Currently performing the TGT SNL station stops. Expect to finish around 9am KT, before starting dynamic regime.",
+    "addedBy": "Grant Patterson",
+    "date": "05-06-2026 01:04"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "All equipment checked and ready to pick up. Frac job will be carried out during the day followed by Run 1 to close RSS#1 and open RSS#2",
@@ -26,12 +33,5 @@
     "comment": "RIH 12:00hrs and currently performing static spinner calibration passes between 4100 and 4200m",
     "addedBy": "Donald Campbell",
     "date": "04-06-2026 14:39"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Mobilise to the wellsite, spot and prep equipment",
-    "addedBy": "Rickie Yuill",
-    "date": "04-06-2026 13:31"
   }
 ]
