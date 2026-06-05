@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "Lubricator stabbed on 06:00 KT, Expect to RIH late this afternoon.",
+    "addedBy": "Rickie Yuill",
+    "date": "05-06-2026 02:05"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "Static passes complete. Currently performing the TGT SNL station stops. Expect to finish around 9am KT, before starting dynamic regime.",
@@ -26,12 +33,5 @@
     "comment": "Ecoil Back up Tool. (QPC-PRT-XTU) mobilizing next Tuesday 9th June for 7-10 Days in Sorengy France, Land Job.",
     "addedBy": "Craig Fraser",
     "date": "04-06-2026 14:43"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
-    "comment": "RIH 12:00hrs and currently performing static spinner calibration passes between 4100 and 4200m",
-    "addedBy": "Donald Campbell",
-    "date": "04-06-2026 14:39"
   }
 ]
