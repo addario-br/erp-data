@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Provisional crew lookahead for Dan\nDFA18 expected until 12/6\n12-19th June - DFE06 - no need for READ\n19th June to 7th July - DFA16 - READ upman required\n\nThe above information means Abdil's crew change may not be needed and downman instead",
+    "addedBy": "Craig Fraser",
+    "date": "05-06-2026 07:28"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "We will be running MFC on HBB-01 during the weekend and then backload equipment – last job on the Halfdan campaign.\nLeonard Lapiso provisionally planned to CC Abdil on Dan end of next week",
@@ -26,12 +33,5 @@
     "comment": "Static passes complete. Currently performing the TGT SNL station stops. Expect to finish around 9am KT, before starting dynamic regime.",
     "addedBy": "Grant Patterson",
     "date": "05-06-2026 01:04"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "All equipment checked and ready to pick up. Frac job will be carried out during the day followed by Run 1 to close RSS#1 and open RSS#2",
-    "addedBy": "Rickie Yuill",
-    "date": "04-06-2026 23:59"
   }
 ]
