@@ -1,29 +1,18 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 2,
-    "names": [
-      "Heather Caldwell",
-      "Craig Lamont"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
-    "numIn": 2,
-    "names": [
-      "Ross Fraser",
-      "Dave Simpson"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
-    "names": [
-      "James Reid",
-      "George Handsley",
-      "Calum Smith",
-      "Peter Thomson"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
