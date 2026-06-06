@@ -2,6 +2,13 @@
   {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "RSS#2 closed, RSS#3 opened. start to POOH at 3am KT. Expect to be back at surface at 9am.",
+    "addedBy": "Rickie Yuill",
+    "date": "06-06-2026 23:16"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RIH with Run 1 at 17:50 to close RSS#2 and open RSS#3",
     "addedBy": "Rickie Yuill",
     "date": "06-06-2026 15:05"
@@ -26,12 +33,5 @@
     "comment": "Logging not expected over the weekend",
     "addedBy": "Abdilmalik Mohamed",
     "date": "06-06-2026 09:20"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Battery connected @19:28 last night . Fingers closing @ 07:46. Expect to be uploading data from ~09:30 local time.",
-    "addedBy": "Leonard Lapiso",
-    "date": "06-06-2026 03:57"
   }
 ]
