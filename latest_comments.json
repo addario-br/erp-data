@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "Logging not expected over the weekend",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "06-06-2026 09:20"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Battery connected @19:28 last night . Fingers closing @ 07:46. Expect to be uploading data from ~09:30 local time.",
@@ -26,12 +33,5 @@
     "comment": "PLT Mobilisation expected around the 20th June. Still TBC",
     "addedBy": "Rickie Yuill",
     "date": "05-06-2026 16:21"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
-    "comment": "Dynamic passes started at 19:58 KT.",
-    "addedBy": "Grant Patterson",
-    "date": "05-06-2026 16:07"
   }
 ]
