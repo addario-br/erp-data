@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "Changed out tractor. Changed spinners and FDI too due to asphaltines and gas ingress to FDI. RIH run 2 at 16:10hrs KT.",
+    "addedBy": "Donald Campbell",
+    "date": "06-06-2026 12:16"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
     "comment": "Logging not expected over the weekend",
@@ -26,12 +33,5 @@
     "comment": "During the 2nd down pass the tractor developed a fault and over current shutdowns. READ logging tools are still working but now unable to tractor down. Decision made to POOH and swap to back-ups at 01:50 KT.",
     "addedBy": "Grant Patterson",
     "date": "06-06-2026 02:05"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "PLT Mobilisation expected around the 20th June. Still TBC",
-    "addedBy": "Rickie Yuill",
-    "date": "05-06-2026 16:21"
   }
 ]
