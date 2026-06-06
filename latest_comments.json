@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Battery connected @19:28 last night . Fingers closing @ 07:46. Expect to be uploading data from ~09:30 local time.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-06-2026 03:57"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RSS#1 closed, RSS#2 opened, POOH at 5am KT, expect to be back at surface around 11am.",
@@ -26,12 +33,5 @@
     "comment": "Dynamic passes started at 19:58 KT.",
     "addedBy": "Grant Patterson",
     "date": "05-06-2026 16:07"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "TCO have requested we mobilise to perform another MFC / welltec cut in the same well. Mobilising on the 12th June.",
-    "addedBy": "Rickie Yuill",
-    "date": "05-06-2026 16:06"
   }
 ]
