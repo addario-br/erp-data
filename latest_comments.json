@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
+    "comment": "Full dataset downloaded with no errors. Notified by Total no FTA required, only standard analysis. Carry on with Post Calibrations, FIT checks and paperwork.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-06-2026 12:49"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "Changed out tractor. Changed spinners and FDI too due to asphaltines and gas ingress to FDI. RIH run 2 at 16:10hrs KT.",
@@ -26,12 +33,5 @@
     "comment": "RSS#1 closed, RSS#2 opened, POOH at 5am KT, expect to be back at surface around 11am.",
     "addedBy": "Rickie Yuill",
     "date": "06-06-2026 02:36"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
-    "comment": "During the 2nd down pass the tractor developed a fault and over current shutdowns. READ logging tools are still working but now unable to tractor down. Decision made to POOH and swap to back-ups at 01:50 KT.",
-    "addedBy": "Grant Patterson",
-    "date": "06-06-2026 02:05"
   }
 ]
