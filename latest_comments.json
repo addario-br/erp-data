@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "RSS#1 closed, RSS#2 opened, POOH at 5am KT, expect to be back at surface around 11am.",
+    "addedBy": "Rickie Yuill",
+    "date": "06-06-2026 02:36"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "During the 2nd down pass the tractor developed a fault and over current shutdowns. READ logging tools are still working but now unable to tractor down. Decision made to POOH and swap to back-ups at 01:50 KT.",
@@ -26,12 +33,5 @@
     "comment": "TCO have requested we mobilise to perform another MFC / welltec cut in the same well. Mobilising on the 12th June.",
     "addedBy": "Rickie Yuill",
     "date": "05-06-2026 16:06"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "RIH 18:30 KT",
-    "addedBy": "Rickie Yuill",
-    "date": "05-06-2026 14:34"
   }
 ]
