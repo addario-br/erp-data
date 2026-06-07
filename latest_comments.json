@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "Dynamic passes started at 05:56 KT.",
+    "addedBy": "Grant Patterson",
+    "date": "07-06-2026 02:11"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RSS#2 closed, RSS#3 opened. start to POOH at 3am KT. Expect to be back at surface at 9am.",
@@ -26,12 +33,5 @@
     "comment": "Changed out tractor. Changed spinners and FDI too due to asphaltines and gas ingress to FDI. RIH run 2 at 16:10hrs KT.",
     "addedBy": "Donald Campbell",
     "date": "06-06-2026 12:16"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
-    "comment": "Logging not expected over the weekend",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "06-06-2026 09:20"
   }
 ]
