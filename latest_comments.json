@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
+    "comment": "Continue with post run FIT checks and paperwork. Pack equipment ready for Backload. LL booked for tomorrow afternoon chopper to Esbjerg @16:21.",
+    "addedBy": "Leonard Lapiso",
+    "date": "07-06-2026 06:56"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "First run#2 down pass completed and logging the up pass now. A further down pass at 10m/min required then the SNL survey.",
@@ -26,12 +33,5 @@
     "comment": "RIH with Run 1 at 17:50 to close RSS#2 and open RSS#3",
     "addedBy": "Rickie Yuill",
     "date": "06-06-2026 15:05"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
-    "comment": "Full dataset downloaded with no errors. Notified by Total no FTA required, only standard analysis. Carry on with Post Calibrations, FIT checks and paperwork.",
-    "addedBy": "Leonard Lapiso",
-    "date": "06-06-2026 12:49"
   }
 ]
