@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "RIH. Run3 MSS job Close RSS#3 and Open RSS#4 at 17:10",
+    "addedBy": "Salman Kassen",
+    "date": "07-06-2026 13:15"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
     "comment": "No movement of equipment or people. Logging is not expected over the next two days.",
@@ -26,12 +33,5 @@
     "comment": "Dynamic passes started at 05:56 KT.",
     "addedBy": "Grant Patterson",
     "date": "07-06-2026 02:11"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "RSS#2 closed, RSS#3 opened. start to POOH at 3am KT. Expect to be back at surface at 9am.",
-    "addedBy": "Rickie Yuill",
-    "date": "06-06-2026 23:16"
   }
 ]
