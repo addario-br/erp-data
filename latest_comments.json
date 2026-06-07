@@ -2,6 +2,13 @@
   {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "First run#2 down pass completed and logging the up pass now. A further down pass at 10m/min required then the SNL survey.",
+    "addedBy": "Donald Campbell",
+    "date": "07-06-2026 03:40"
+  },
+  {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "Dynamic passes started at 05:56 KT.",
     "addedBy": "Grant Patterson",
     "date": "07-06-2026 02:11"
@@ -26,12 +33,5 @@
     "comment": "Full dataset downloaded with no errors. Notified by Total no FTA required, only standard analysis. Carry on with Post Calibrations, FIT checks and paperwork.",
     "addedBy": "Leonard Lapiso",
     "date": "06-06-2026 12:49"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
-    "comment": "Changed out tractor. Changed spinners and FDI too due to asphaltines and gas ingress to FDI. RIH run 2 at 16:10hrs KT.",
-    "addedBy": "Donald Campbell",
-    "date": "06-06-2026 12:16"
   }
 ]
