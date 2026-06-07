@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "No movement of equipment or people. Logging is not expected over the next two days.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "07-06-2026 08:15"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
     "comment": "Continue with post run FIT checks and paperwork. Pack equipment ready for Backload. LL booked for tomorrow afternoon chopper to Esbjerg @16:21.",
@@ -26,12 +33,5 @@
     "comment": "RSS#2 closed, RSS#3 opened. start to POOH at 3am KT. Expect to be back at surface at 9am.",
     "addedBy": "Rickie Yuill",
     "date": "06-06-2026 23:16"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "RIH with Run 1 at 17:50 to close RSS#2 and open RSS#3",
-    "addedBy": "Rickie Yuill",
-    "date": "06-06-2026 15:05"
   }
 ]
