@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
+    "comment": "FIT checks completed and equipment packed in container #44269 ready for backload. Plan today: Finish up paperwork and downman today.",
+    "addedBy": "Leonard Lapiso",
+    "date": "08-06-2026 06:15"
+  },
+  {
     "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
     "comment": "SNL and transient passes complete. Currently POOH. ETA at surface 06:05 KT.",
@@ -26,12 +33,5 @@
     "comment": "No movement of equipment or people. Logging is not expected over the next two days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "07-06-2026 08:15"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
-    "comment": "Continue with post run FIT checks and paperwork. Pack equipment ready for Backload. LL booked for tomorrow afternoon chopper to Esbjerg @16:21.",
-    "addedBy": "Leonard Lapiso",
-    "date": "07-06-2026 06:56"
   }
 ]
