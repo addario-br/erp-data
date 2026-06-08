@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Rental opportunity fallen through. READ operation for Perenco scheduled for end of the month instead",
+    "addedBy": "Craig Fraser",
+    "date": "08-06-2026 10:56"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Perenco have an upcoming workover on F-22 due to start on the 24th of June and will be looking to run a 60MFC log of the 9 5/8” casing on slickline. The well is horizontal with a max dev of 75 deg. We would ideally like to log as much of the 9 5/8” as possible, to top of fish at 3065mbrt.\nThe well was last logged in 2018 and was unable to pass any deeper than +/- 985m due to deviation and incorrect tool string set up. BHA for this has been requested to understand lessons learned.\n\nPerenco will be looking to run the log around the 27th of June (TBC).",
@@ -26,12 +33,5 @@
     "comment": "Michel Heidbuurt (contractor) mobilising today. Caliper logging expected Wednesday",
     "addedBy": "Craig Fraser",
     "date": "08-06-2026 08:49"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
-    "job": "N/A",
-    "comment": "Ticket & evaluation uploaded to Sharepoint, PRJ ready to close",
-    "addedBy": "Craig Fraser",
-    "date": "08-06-2026 08:48"
   }
 ]
