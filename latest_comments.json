@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "Run#4 - RIH at 17:20 to Close RSS#4 and Open RSS#5.",
+    "addedBy": "Grant Patterson",
+    "date": "08-06-2026 16:21"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "N/A",
     "comment": "Mob date has now come forward to the 11th June",
@@ -26,12 +33,5 @@
     "comment": "Perenco have an upcoming workover on F-22 due to start on the 24th of June and will be looking to run a 60MFC log of the 9 5/8” casing on slickline. The well is horizontal with a max dev of 75 deg. We would ideally like to log as much of the 9 5/8” as possible, to top of fish at 3065mbrt.\nThe well was last logged in 2018 and was unable to pass any deeper than +/- 985m due to deviation and incorrect tool string set up. BHA for this has been requested to understand lessons learned.\n\nPerenco will be looking to run the log around the 27th of June (TBC).",
     "addedBy": "Craig Fraser",
     "date": "08-06-2026 10:20"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
-    "comment": "No movement of READ people or equipment. Logging not expected in the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "08-06-2026 09:20"
   }
 ]
