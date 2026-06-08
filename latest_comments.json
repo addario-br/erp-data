@@ -1,5 +1,26 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Expected mob date slipped to ~20th June.",
+    "addedBy": "Craig Fraser",
+    "date": "08-06-2026 08:51"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Michel Heidbuurt (contractor) mobilising today. Caliper logging expected Wednesday",
+    "addedBy": "Craig Fraser",
+    "date": "08-06-2026 08:49"
+  },
+  {
+    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
+    "job": "N/A",
+    "comment": "Ticket & evaluation uploaded to Sharepoint, PRJ ready to close",
+    "addedBy": "Craig Fraser",
+    "date": "08-06-2026 08:48"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "PRJ03261-7 Halfdan HBB-01 Tubular Integrity",
     "comment": "FIT checks completed and equipment packed in container #44269 ready for backload. Plan today: Finish up paperwork and downman in the afternoon.",
@@ -12,26 +33,5 @@
     "comment": "SNL and transient passes complete. Currently POOH. ETA at surface 06:05 KT.",
     "addedBy": "Grant Patterson",
     "date": "08-06-2026 01:47"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "RSS#3 closed, RSS#4 opened. POOH at 2am KT. Expect to be back at surface around 8am",
-    "addedBy": "Rickie Yuill",
-    "date": "07-06-2026 22:12"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "RIH. Run3 MSS job Close RSS#3 and Open RSS#4 at 17:10",
-    "addedBy": "Salman Kassen",
-    "date": "07-06-2026 13:15"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
-    "comment": "No movement of equipment or people. Logging is not expected over the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "07-06-2026 08:15"
   }
 ]
