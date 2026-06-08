@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "No movement of READ people or equipment. Logging not expected in the next two days.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "08-06-2026 09:20"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Expected mob date slipped to ~20th June.",
@@ -26,12 +33,5 @@
     "comment": "FIT checks completed and equipment packed in container #44269 ready for backload. Plan today: Finish up paperwork and downman in the afternoon.",
     "addedBy": "Leonard Lapiso",
     "date": "08-06-2026 06:15"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
-    "comment": "SNL and transient passes complete. Currently POOH. ETA at surface 06:05 KT.",
-    "addedBy": "Grant Patterson",
-    "date": "08-06-2026 01:47"
   }
 ]
