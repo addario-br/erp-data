@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Project re-opened. FS Shifting 1 run. Mobilisation expected around the 16th. After current MSS shifting on 9886",
+    "addedBy": "Rickie Yuill",
+    "date": "08-06-2026 11:35"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Rental opportunity fallen through. READ operation for Perenco scheduled for end of the month instead",
@@ -26,12 +33,5 @@
     "comment": "Expected mob date slipped to ~20th June.",
     "addedBy": "Craig Fraser",
     "date": "08-06-2026 08:51"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Michel Heidbuurt (contractor) mobilising today. Caliper logging expected Wednesday",
-    "addedBy": "Craig Fraser",
-    "date": "08-06-2026 08:49"
   }
 ]
