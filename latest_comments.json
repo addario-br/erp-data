@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
+    "comment": "SNL and transient passes complete. Currently POOH. ETA at surface 06:05 KT.",
+    "addedBy": "Grant Patterson",
+    "date": "08-06-2026 01:47"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RSS#3 closed, RSS#4 opened. POOH at 2am KT. Expect to be back at surface around 8am",
@@ -26,12 +33,5 @@
     "comment": "Continue with post run FIT checks and paperwork. Pack equipment ready for Backload. LL booked for tomorrow afternoon chopper to Esbjerg @16:21.",
     "addedBy": "Leonard Lapiso",
     "date": "07-06-2026 06:56"
-  },
-  {
-    "project": "PRJ03248 - Welltec - Welltec - Kazakhstan - 9896 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03248-2 Karachaganak 9896 Production (Two Phase)",
-    "comment": "First run#2 down pass completed and logging the up pass now. A further down pass at 10m/min required then the SNL survey.",
-    "addedBy": "Donald Campbell",
-    "date": "07-06-2026 03:40"
   }
 ]
