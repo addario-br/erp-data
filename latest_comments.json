@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "Run#5 - RIH at 19:25 to close RSS#5 and open RSS#6.",
+    "addedBy": "Grant Patterson",
+    "date": "09-06-2026 18:13"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "LL arrived in Aberdeen.",
@@ -26,12 +33,5 @@
     "comment": "Equipment arrived onboard. Michel undergoing tool checks and calibrations. Logging expected tomorrow",
     "addedBy": "Craig Fraser",
     "date": "09-06-2026 13:55"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
-    "comment": "Logging is not expected in the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "09-06-2026 08:44"
   }
 ]
