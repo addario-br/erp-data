@@ -9,9 +9,11 @@
   },
   {
     "companyName": "READ",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
-      "Ross Fraser"
+      "Ross Fraser",
+      "Mark Davidson",
+      "Dave Simpson"
     ]
   },
   {
