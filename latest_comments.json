@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "Run#5 - Closed RSS#5 and opened RSS#6. Currently POOH, ETA at surface 10:00 KT.",
+    "addedBy": "Grant Patterson",
+    "date": "10-06-2026 00:53"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
     "comment": "Logging not expected to start until Thursday morning",
@@ -26,12 +33,5 @@
     "comment": "Draft BHA supplied to Perenco and uploaded to PRJ attachments",
     "addedBy": "Craig Fraser",
     "date": "09-06-2026 14:05"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Equipment backloaded, awaiting confirmation from Total of its arrival",
-    "addedBy": "Craig Fraser",
-    "date": "09-06-2026 14:03"
   }
 ]
