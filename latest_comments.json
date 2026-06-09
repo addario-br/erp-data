@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "LL arrived in Aberdeen.",
+    "addedBy": "Leonard Lapiso",
+    "date": "09-06-2026 16:05"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Draft BHA supplied to Perenco and uploaded to PRJ attachments",
@@ -26,12 +33,5 @@
     "comment": "Logging is not expected in the next two days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "09-06-2026 08:44"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "RSS#4 closed and RSS#5 opened. Currently POOH. ETA at surface 07:50.",
-    "addedBy": "Grant Patterson",
-    "date": "09-06-2026 02:27"
   }
 ]
