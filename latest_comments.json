@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "Logging is not expected in the next two days.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "09-06-2026 08:44"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RSS#4 closed and RSS#5 opened. Currently POOH. ETA at surface 07:50.",
@@ -26,12 +33,5 @@
     "comment": "Project re-opened. FS Shifting 1 run. Mobilisation expected around the 16th. After current MSS shifting on 9886",
     "addedBy": "Rickie Yuill",
     "date": "08-06-2026 11:35"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Rental opportunity fallen through. READ operation for Perenco scheduled for end of the month instead",
-    "addedBy": "Craig Fraser",
-    "date": "08-06-2026 10:56"
   }
 ]
