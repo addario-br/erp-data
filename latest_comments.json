@@ -2,6 +2,13 @@
   {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "RSS#4 closed and RSS#5 opened. Currently POOH. ETA at surface 07:50.",
+    "addedBy": "Grant Patterson",
+    "date": "09-06-2026 02:27"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "Run#4 - RIH at 17:20 to Close RSS#4 and Open RSS#5.",
     "addedBy": "Grant Patterson",
     "date": "08-06-2026 16:21"
@@ -26,12 +33,5 @@
     "comment": "Rental opportunity fallen through. READ operation for Perenco scheduled for end of the month instead",
     "addedBy": "Craig Fraser",
     "date": "08-06-2026 10:56"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Perenco have an upcoming workover on F-22 due to start on the 24th of June and will be looking to run a 60MFC log of the 9 5/8” casing on slickline. The well is horizontal with a max dev of 75 deg. We would ideally like to log as much of the 9 5/8” as possible, to top of fish at 3065mbrt.\nThe well was last logged in 2018 and was unable to pass any deeper than +/- 985m due to deviation and incorrect tool string set up. BHA for this has been requested to understand lessons learned.\n\nPerenco will be looking to run the log around the 27th of June (TBC).",
-    "addedBy": "Craig Fraser",
-    "date": "08-06-2026 10:20"
   }
 ]
