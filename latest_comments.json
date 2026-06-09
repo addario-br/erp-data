@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Draft BHA supplied to Perenco and uploaded to PRJ attachments",
+    "addedBy": "Craig Fraser",
+    "date": "09-06-2026 14:05"
+  },
+  {
+    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
+    "job": "N/A",
+    "comment": "Equipment backloaded, awaiting confirmation from Total of its arrival",
+    "addedBy": "Craig Fraser",
+    "date": "09-06-2026 14:03"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
     "comment": "Equipment arrived onboard. Michel undergoing tool checks and calibrations. Logging expected tomorrow",
@@ -19,19 +33,5 @@
     "comment": "RSS#4 closed and RSS#5 opened. Currently POOH. ETA at surface 07:50.",
     "addedBy": "Grant Patterson",
     "date": "09-06-2026 02:27"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "Run#4 - RIH at 17:20 to Close RSS#4 and Open RSS#5.",
-    "addedBy": "Grant Patterson",
-    "date": "08-06-2026 16:21"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "N/A",
-    "comment": "Mob date has now come forward to the 11th June",
-    "addedBy": "Rickie Yuill",
-    "date": "08-06-2026 11:44"
   }
 ]
