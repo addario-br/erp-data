@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
+    "comment": "Equipment arrived onboard. Michel undergoing tool checks and calibrations. Logging expected tomorrow",
+    "addedBy": "Craig Fraser",
+    "date": "09-06-2026 13:55"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
     "comment": "Logging is not expected in the next two days.",
@@ -26,12 +33,5 @@
     "comment": "Mob date has now come forward to the 11th June",
     "addedBy": "Rickie Yuill",
     "date": "08-06-2026 11:44"
-  },
-  {
-    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Project re-opened. FS Shifting 1 run. Mobilisation expected around the 16th. After current MSS shifting on 9886",
-    "addedBy": "Rickie Yuill",
-    "date": "08-06-2026 11:35"
   }
 ]
