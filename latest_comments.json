@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
+    "job": "N/A",
+    "comment": "The Wellsenam opportunity is still not clear in terms of when it will take place.\n\nBaker is expected to mobilize on the 16th for one X-Y job using the new PRC34 modification to test it out. After this job, the client will decide the way forward.",
+    "addedBy": "Craig Fraser",
+    "date": "10-06-2026 14:02"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
     "comment": "SLB should be at surface at 17:00 with the plug. READ-SLB Depth interface cable will then be tested.\nSample depth file received from CT and tested with Memlog data.\nDepending if they get plug out easily we should be starting with MFC tomorrow morning.\nMichel booked for chopper on Friday. After the cleanout below plug they will know if RCCL run is still contingent or not.",
@@ -26,12 +33,5 @@
     "comment": "No Logging on DFA-18. Leonards check in is cancelled and I will be down manned on Friday 12th.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "10-06-2026 11:48"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "Run#5 - Closed RSS#5 and opened RSS#6. Currently POOH, ETA at surface 10:00 KT.",
-    "addedBy": "Grant Patterson",
-    "date": "10-06-2026 00:53"
   }
 ]
