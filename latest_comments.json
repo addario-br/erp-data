@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
+    "job": "N/A",
+    "comment": "Equipment mobilized yesterday.\nSRO + QPC + PRTs.\n\nLikelihood is low of running the equipment, as this is the back up for WSG Ecoil Tool.\nBut will be +/-7 days rentals for sure.",
+    "addedBy": "Craig Fraser",
+    "date": "10-06-2026 14:16"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - TBC - MFC",
     "job": "N/A",
     "comment": "The Wellsenam opportunity is still not clear in terms of when it will take place.\n\nBaker is expected to mobilize on the 16th for one X-Y job using the new PRC34 modification to test it out. After this job, the client will decide the way forward.",
@@ -26,12 +33,5 @@
     "comment": "Caliper log on DFA-18 cancelled. Leonards check in for Friday cancelled. Abdilmalik to be down manned Friday 12th June.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "10-06-2026 12:17"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
-    "comment": "No Logging on DFA-18. Leonards check in is cancelled and I will be down manned on Friday 12th.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "10-06-2026 11:48"
   }
 ]
