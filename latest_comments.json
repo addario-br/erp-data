@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
+    "comment": "No Logging on DFA-18. Leonards check in is cancelled and I will be down manned on Friday 12th.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "10-06-2026 11:48"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "Run#5 - Closed RSS#5 and opened RSS#6. Currently POOH, ETA at surface 10:00 KT.",
@@ -26,12 +33,5 @@
     "comment": "LL arrived in Aberdeen.",
     "addedBy": "Leonard Lapiso",
     "date": "09-06-2026 16:05"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Draft BHA supplied to Perenco and uploaded to PRJ attachments",
-    "addedBy": "Craig Fraser",
-    "date": "09-06-2026 14:05"
   }
 ]
