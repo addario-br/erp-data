@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
+    "job": "N/A",
+    "comment": "Unfortunately due to operational changes the load out for these was cancelled, TOTAL will revert back next week with new date required.",
+    "addedBy": "Craig Fraser",
+    "date": "10-06-2026 14:19"
+  },
+  {
     "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
     "job": "N/A",
     "comment": "Equipment mobilized yesterday.\nSRO + QPC + PRTs.\n\nLikelihood is low of running the equipment, as this is the back up for WSG Ecoil Tool.\nBut will be +/-7 days rentals for sure.",
@@ -26,12 +33,5 @@
     "comment": "Run#6 RIH at 16:30. Close RSS#6 and Open RSS#7",
     "addedBy": "Salman Kassen",
     "date": "10-06-2026 12:28"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Caliper log on DFA-18 cancelled. Leonards check in for Friday cancelled. Abdilmalik to be down manned Friday 12th June.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "10-06-2026 12:17"
   }
 ]
