@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "RIH#6 - Closed RSS#6 and opened RSS#7. POOH, ETA at surface 07:00 KT.",
+    "addedBy": "Grant Patterson",
+    "date": "10-06-2026 21:54"
+  },
+  {
     "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
     "job": "N/A",
     "comment": "Unfortunately due to operational changes the load out for these was cancelled, TOTAL will revert back next week with new date required.",
@@ -26,12 +33,5 @@
     "comment": "SLB should be at surface at 17:00 with the plug. READ-SLB Depth interface cable will then be tested.\nSample depth file received from CT and tested with Memlog data.\nDepending if they get plug out easily we should be starting with MFC tomorrow morning.\nMichel booked for chopper on Friday. After the cleanout below plug they will know if RCCL run is still contingent or not.",
     "addedBy": "Craig Fraser",
     "date": "10-06-2026 12:34"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "Run#6 RIH at 16:30. Close RSS#6 and Open RSS#7",
-    "addedBy": "Salman Kassen",
-    "date": "10-06-2026 12:28"
   }
 ]
