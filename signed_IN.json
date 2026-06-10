@@ -15,10 +15,10 @@
     "companyName": "READ",
     "numIn": 4,
     "names": [
-      "Dave Simpson",
       "Stewart Steele",
       "Russell Edgar",
-      "Mark Davidson"
+      "Mark Davidson",
+      "Dave Simpson"
     ]
   },
   {
@@ -26,10 +26,10 @@
     "numIn": 5,
     "names": [
       "James Reid",
-      "Calum Smith",
       "George Handsley",
       "Peter Thomson",
-      "Liam Strath"
+      "Liam Strath",
+      "Calum Smith"
     ]
   },
   {
