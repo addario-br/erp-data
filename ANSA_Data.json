@@ -3,13 +3,17 @@
     {
       "[object Object]": {
         "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*Priority*\")",
-        "result": 2
+        "result": {
+          "error": "#VALUE!"
+        }
       }
     },
     {
       "[object Object]": {
         "formula": "COUNTIF('[1]READ-3rd'!$H$46:$H$72,\"*FTA*\")",
-        "result": 3
+        "result": {
+          "error": "#VALUE!"
+        }
       }
     },
     {
@@ -17,6 +21,15 @@
         "formula": "'[2]Analyst Report Delivery_2026'!$B$14",
         "result": "Jeniffer"
       }
+    },
+    {
+      "[object Object]": "A"
+    },
+    {
+      "[object Object]": "B"
+    },
+    {
+      "[object Object]": "C"
     }
   ]
 }
