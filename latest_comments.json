@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "Run#6 RIH at 16:30. Close RSS#6 and Open RSS#7",
+    "addedBy": "Salman Kassen",
+    "date": "10-06-2026 12:28"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Caliper log on DFA-18 cancelled. Leonards check in for Friday cancelled. Abdilmalik to be down manned Friday 12th June.",
@@ -26,12 +33,5 @@
     "comment": "Logging not expected to start until Thursday morning",
     "addedBy": "Craig Fraser",
     "date": "09-06-2026 21:39"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "Run#5 - RIH at 19:25 to close RSS#5 and open RSS#6.",
-    "addedBy": "Grant Patterson",
-    "date": "09-06-2026 18:13"
   }
 ]
