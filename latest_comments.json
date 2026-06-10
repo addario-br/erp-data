@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Caliper log on DFA-18 cancelled. Leonards check in for Friday cancelled. Abdilmalik to be down manned Friday 12th June.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "10-06-2026 12:17"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-4 Dan DFA18 (MFA-18)",
     "comment": "No Logging on DFA-18. Leonards check in is cancelled and I will be down manned on Friday 12th.",
     "addedBy": "Abdilmalik Mohamed",
@@ -26,12 +33,5 @@
     "comment": "Run#5 - RIH at 19:25 to close RSS#5 and open RSS#6.",
     "addedBy": "Grant Patterson",
     "date": "09-06-2026 18:13"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "LL arrived in Aberdeen.",
-    "addedBy": "Leonard Lapiso",
-    "date": "09-06-2026 16:05"
   }
 ]
