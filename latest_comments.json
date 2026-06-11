@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "A.M to be down manned tomorrow.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "11-06-2026 09:15"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "tools are carried out to maintain after RUN#6 to do pm at 09:00 am",
@@ -26,12 +33,5 @@
     "comment": "Unfortunately due to operational changes the load out for these was cancelled, TOTAL will revert back next week with new date required.",
     "addedBy": "Craig Fraser",
     "date": "10-06-2026 14:19"
-  },
-  {
-    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
-    "job": "N/A",
-    "comment": "Equipment mobilized yesterday.\nSRO + QPC + PRTs.\n\nLikelihood is low of running the equipment, as this is the back up for WSG Ecoil Tool.\nBut will be +/-7 days rentals for sure.",
-    "addedBy": "Craig Fraser",
-    "date": "10-06-2026 14:16"
   }
 ]
