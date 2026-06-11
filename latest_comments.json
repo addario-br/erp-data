@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "N/A",
+    "comment": "RY left for Atyrau at 8:45am. Equipment will mobilise from Welltec at 10am",
+    "addedBy": "Rickie Yuill",
+    "date": "11-06-2026 05:05"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "RIH#6 - Closed RSS#6 and opened RSS#7. POOH, ETA at surface 07:00 KT.",
@@ -26,12 +33,5 @@
     "comment": "The Wellsenam opportunity is still not clear in terms of when it will take place.\n\nBaker is expected to mobilize on the 16th for one X-Y job using the new PRC34 modification to test it out. After this job, the client will decide the way forward.",
     "addedBy": "Craig Fraser",
     "date": "10-06-2026 14:02"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
-    "comment": "SLB should be at surface at 17:00 with the plug. READ-SLB Depth interface cable will then be tested.\nSample depth file received from CT and tested with Memlog data.\nDepending if they get plug out easily we should be starting with MFC tomorrow morning.\nMichel booked for chopper on Friday. After the cleanout below plug they will know if RCCL run is still contingent or not.",
-    "addedBy": "Craig Fraser",
-    "date": "10-06-2026 12:34"
   }
 ]
