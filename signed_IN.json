@@ -3,10 +3,10 @@
     "companyName": "ANSA",
     "numIn": 4,
     "names": [
-      "Joseph Guyan",
       "Craig Lamont",
       "Tim Farrar",
-      "John Guntoro"
+      "John Guntoro",
+      "Joseph Guyan"
     ]
   },
   {
@@ -14,8 +14,8 @@
     "numIn": 4,
     "names": [
       "Dave Simpson",
-      "Mark Davidson",
       "Ross Fraser",
+      "Mark Davidson",
       "Craig Fraser"
     ]
   },
@@ -25,8 +25,8 @@
     "names": [
       "Liam Strath",
       "George Handsley",
-      "Calum Smith",
-      "James Reid"
+      "James Reid",
+      "Calum Smith"
     ]
   },
   {
