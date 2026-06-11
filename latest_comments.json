@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
+    "comment": "SLB were unsuccessful pulling the plug to surface.\nMFC logging not expected until the weekend at least. It all depends on when SLB retrieve the plug.",
+    "addedBy": "Craig Fraser",
+    "date": "11-06-2026 10:48"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "A.M to be down manned tomorrow.",
@@ -26,12 +33,5 @@
     "comment": "RIH#6 - Closed RSS#6 and opened RSS#7. POOH, ETA at surface 07:00 KT.",
     "addedBy": "Grant Patterson",
     "date": "10-06-2026 21:54"
-  },
-  {
-    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
-    "job": "N/A",
-    "comment": "Unfortunately due to operational changes the load out for these was cancelled, TOTAL will revert back next week with new date required.",
-    "addedBy": "Craig Fraser",
-    "date": "10-06-2026 14:19"
   }
 ]
