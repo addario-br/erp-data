@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
+    "comment": "CT still unsuccessful at retrieving the plug.\nPlan forward TBD. Caliper run not expected over the next 48 hrs",
+    "addedBy": "Craig Fraser",
+    "date": "12-06-2026 09:09"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "A.Mohamed to be down manned today. On the afternoon flight.",
@@ -26,12 +33,5 @@
     "comment": "SLB were unsuccessful pulling the plug to surface.\nMFC logging not expected until the weekend at least. It all depends on when SLB retrieve the plug.",
     "addedBy": "Craig Fraser",
     "date": "11-06-2026 10:48"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "A.M to be down manned tomorrow.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "11-06-2026 09:15"
   }
 ]
