@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "A.Mohamed to be down manned today. On the afternoon flight.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "12-06-2026 08:05"
+  },
+  {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "POOH at 11:30 am. Opened RSS#1,2,3,4 and confirmed RSS#7 is still. Still needs to Open RSS#5,6 as WK could not latched on sleeves. Will be next Run8. ETA at surface around 17:00.",
@@ -26,12 +33,5 @@
     "comment": "A.M to be down manned tomorrow.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "11-06-2026 09:15"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "tools are carried out to maintain after RUN#6 to do pm at 09:00 am",
-    "addedBy": "Salman Kassen",
-    "date": "11-06-2026 09:05"
   }
 ]
