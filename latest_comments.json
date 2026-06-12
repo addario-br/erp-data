@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "N/A",
+    "comment": "RY arrived at TCO camp. Rig up for Welltec cut tomorrow morning (13th) followed by MFC24.\nTim on standby for log QC",
+    "addedBy": "Rickie Yuill",
+    "date": "12-06-2026 11:18"
+  },
+  {
     "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
     "job": "N/A",
     "comment": "Half Dan container 44269 arrived back at the quay side this morning.",
@@ -26,12 +33,5 @@
     "comment": "A.Mohamed to be down manned today. On the afternoon flight.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "12-06-2026 08:05"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "POOH at 11:30 am. Opened RSS#1,2,3,4 and confirmed RSS#7 is still. Still needs to Open RSS#5,6 as WK could not latched on sleeves. Will be next Run8. ETA at surface around 17:00.",
-    "addedBy": "Salman Kassen",
-    "date": "12-06-2026 07:56"
   }
 ]
