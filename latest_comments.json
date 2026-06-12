@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Arrived onshore 17:15",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "12-06-2026 17:25"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "N/A",
     "comment": "RY arrived at TCO camp. Rig up for Welltec cut tomorrow morning (13th) followed by MFC24.\nTim on standby for log QC",
@@ -26,12 +33,5 @@
     "comment": "CT still unsuccessful at retrieving the plug.\nPlan forward TBD. Caliper run not expected over the next 48 hrs",
     "addedBy": "Craig Fraser",
     "date": "12-06-2026 09:09"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "A.Mohamed to be down manned today. On the afternoon flight.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "12-06-2026 08:05"
   }
 ]
