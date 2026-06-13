@@ -2,6 +2,20 @@
   {
     "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
     "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
+    "comment": "Ops complete. Prepare equipment for move to 9854.",
+    "addedBy": "Rickie Yuill",
+    "date": "13-06-2026 16:24"
+  },
+  {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
+    "comment": "Welltec started to RIH with the cutter @ 19:47 kT. MFC logging will start tomorrow morning.",
+    "addedBy": "Rickie Yuill",
+    "date": "13-06-2026 16:22"
+  },
+  {
+    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
     "comment": "Run#8 - RIH at 21:45 to open RSS# 5 and 6.",
     "addedBy": "Grant Patterson",
     "date": "12-06-2026 18:49"
@@ -19,19 +33,5 @@
     "comment": "RY arrived at TCO camp. Rig up for Welltec cut tomorrow morning (13th) followed by MFC24.\nTim on standby for log QC",
     "addedBy": "Rickie Yuill",
     "date": "12-06-2026 11:18"
-  },
-  {
-    "project": "PRJ03261 - SLB - SLB Denmark - HBA21 (HBA-21)_HBA11 (HBA-11) - MFC",
-    "job": "N/A",
-    "comment": "Half Dan container 44269 arrived back at the quay side this morning.",
-    "addedBy": "Dave Simpson",
-    "date": "12-06-2026 10:01"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Equipment to stay onboard DFB.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "12-06-2026 09:17"
   }
 ]
