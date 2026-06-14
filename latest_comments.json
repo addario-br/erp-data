@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Mobilise to wellsite straight after 9886 on the 14th. Spot equipment complete and currently setting up on wellhead.",
+    "addedBy": "Grant Patterson",
+    "date": "14-06-2026 21:19"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
     "comment": "RIH 19:30 KT",
@@ -26,12 +33,5 @@
     "comment": "Welltec started to RIH with the cutter @ 19:47 kT. MFC logging will start tomorrow morning.",
     "addedBy": "Rickie Yuill",
     "date": "13-06-2026 16:22"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "Run#8 - RIH at 21:45 to open RSS# 5 and 6.",
-    "addedBy": "Grant Patterson",
-    "date": "12-06-2026 18:49"
   }
 ]
