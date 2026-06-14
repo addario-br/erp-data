@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
+    "comment": "Main and repeat pass completed, Data QC'd by ANSA. POOH. Expect to be back at surface around 05:00am",
+    "addedBy": "Rickie Yuill",
+    "date": "14-06-2026 21:34"
+  },
+  {
     "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Mobilise to wellsite straight after 9886 on the 14th. Spot equipment complete and currently setting up on wellhead.",
@@ -26,12 +33,5 @@
     "comment": "Ops complete. Prepare equipment for move to 9854.",
     "addedBy": "Rickie Yuill",
     "date": "13-06-2026 16:24"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
-    "comment": "Welltec started to RIH with the cutter @ 19:47 kT. MFC logging will start tomorrow morning.",
-    "addedBy": "Rickie Yuill",
-    "date": "13-06-2026 16:22"
   }
 ]
