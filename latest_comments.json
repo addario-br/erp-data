@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Mob slipped to 25th June",
+    "addedBy": "Craig Fraser",
+    "date": "15-06-2026 08:49"
+  },
+  {
     "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
     "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
     "comment": "RIH at 10:30 am Open RSS#10. Reach depth 5230 m around 16:30.",
@@ -26,12 +33,5 @@
     "comment": "Mobilise to wellsite straight after 9886 on the 14th. Spot equipment complete and currently setting up on wellhead.",
     "addedBy": "Grant Patterson",
     "date": "14-06-2026 21:19"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
-    "comment": "RIH 19:30 KT",
-    "addedBy": "Rickie Yuill",
-    "date": "14-06-2026 15:31"
   }
 ]
