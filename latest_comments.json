@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
+    "comment": "Caliper log completed over the weekend and FTA provided to client from ANSA. READ personnel expected to downman at some point this week. Upman will be required for the next well - GBN-43",
+    "addedBy": "Craig Fraser",
+    "date": "15-06-2026 08:52"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Mob slipped to 25th June",
@@ -26,12 +33,5 @@
     "comment": "Main and repeat pass completed, Data QC'd by ANSA. POOH. Expect to be back at surface around 05:00am",
     "addedBy": "Rickie Yuill",
     "date": "14-06-2026 21:34"
-  },
-  {
-    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Mobilise to wellsite straight after 9886 on the 14th. Spot equipment complete and currently setting up on wellhead.",
-    "addedBy": "Grant Patterson",
-    "date": "14-06-2026 21:19"
   }
 ]
