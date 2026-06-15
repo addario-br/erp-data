@@ -2,6 +2,13 @@
   {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
+    "comment": "Tools back at surface 05:45am KT. Prepare for de-mob",
+    "addedBy": "Rickie Yuill",
+    "date": "15-06-2026 01:45"
+  },
+  {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
     "comment": "Main and repeat pass completed, Data QC'd by ANSA. POOH. Expect to be back at surface around 05:00am",
     "addedBy": "Rickie Yuill",
     "date": "14-06-2026 21:34"
@@ -26,12 +33,5 @@
     "comment": "Welltec currently POOH, Good conformation of cut. READ tools ready to pick up. Data expected around 23:00 UK time, ANSA are aware.",
     "addedBy": "Rickie Yuill",
     "date": "14-06-2026 09:34"
-  },
-  {
-    "project": "PRJ02722 - Welltec - Welltec - Kazakhstan - 9886 - I-Drift_ Leak_Detection_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ02722-4 Karachaganak 9886 SSD Position",
-    "comment": "Ops complete. Prepare equipment for move to 9854.",
-    "addedBy": "Rickie Yuill",
-    "date": "13-06-2026 16:24"
   }
 ]
