@@ -2,6 +2,13 @@
   {
     "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
     "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
+    "comment": "Tools at surface 22:50, break out tools at 23:40. Tools in good condition and packed for backload.",
+    "addedBy": "Grant Patterson",
+    "date": "15-06-2026 20:55"
+  },
+  {
+    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
     "comment": "RSS#10 is now Open. POOH. ETA at surface around 11:00 pm.",
     "addedBy": "Salman Kassen",
     "date": "15-06-2026 13:37"
@@ -26,12 +33,5 @@
     "comment": "Tyra Campaign expected to start ~early-July (ex-Halfdan package)",
     "addedBy": "Craig Fraser",
     "date": "15-06-2026 09:09"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
-    "comment": "Caliper log completed over the weekend and FTA provided to client from ANSA. READ personnel expected to downman at some point this week. Upman will be required for the next well - GBN-43\n\nThe equipment will be backloaded on Wednesdays boat. Michel currently also booked on a chopper for Wednesday returning to shore.",
-    "addedBy": "Craig Fraser",
-    "date": "15-06-2026 08:52"
   }
 ]
