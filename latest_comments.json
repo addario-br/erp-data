@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
+    "job": "N/A",
+    "comment": "Tyra Campaign expected to start ~early-July (ex-Halfdan package)",
+    "addedBy": "Craig Fraser",
+    "date": "15-06-2026 09:09"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "PRJ03160-1 Gorm GBN12 (N-12) Tubular Integrity",
     "comment": "Caliper log completed over the weekend and FTA provided to client from ANSA. READ personnel expected to downman at some point this week. Upman will be required for the next well - GBN-43",
@@ -26,12 +33,5 @@
     "comment": "Tools back at surface 05:45am KT. Prepare for de-mob",
     "addedBy": "Rickie Yuill",
     "date": "15-06-2026 01:45"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
-    "comment": "Main and repeat pass completed, Data QC'd by ANSA. POOH. Expect to be back at surface around 05:00am",
-    "addedBy": "Rickie Yuill",
-    "date": "14-06-2026 21:34"
   }
 ]
