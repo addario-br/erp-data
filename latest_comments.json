@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "BHA confirmed by Perenco - MFC60 + GR/CCL. Equipment collection beginning of next week. Confirmed mob date expected to be received by tomorrow.",
+    "addedBy": "Craig Fraser",
+    "date": "15-06-2026 11:37"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
     "job": "N/A",
     "comment": "Tyra Campaign expected to start ~early-July (ex-Halfdan package)",
@@ -26,12 +33,5 @@
     "comment": "RIH at 10:30 am Open RSS#10. Reach depth 5230 m around 16:30.",
     "addedBy": "Salman Kassen",
     "date": "15-06-2026 06:35"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "PRJ03313-2 Tengiz T-108 Tubular Integrity",
-    "comment": "Tools back at surface 05:45am KT. Prepare for de-mob",
-    "addedBy": "Rickie Yuill",
-    "date": "15-06-2026 01:45"
   }
 ]
