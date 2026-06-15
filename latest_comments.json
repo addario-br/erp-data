@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
+    "comment": "RSS#10 is now Open. POOH. ETA at surface around 11:00 pm.",
+    "addedBy": "Salman Kassen",
+    "date": "15-06-2026 13:37"
+  },
+  {
     "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
     "job": "N/A",
     "comment": "RY will travel from Tengiz to Atyrau on Tuesday 15th, and from Atyrau back to Aksai on Wednesday 16th.",
@@ -26,12 +33,5 @@
     "comment": "Caliper log completed over the weekend and FTA provided to client from ANSA. READ personnel expected to downman at some point this week. Upman will be required for the next well - GBN-43\n\nThe equipment will be backloaded on Wednesdays boat. Michel currently also booked on a chopper for Wednesday returning to shore.",
     "addedBy": "Craig Fraser",
     "date": "15-06-2026 08:52"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Mob slipped to 25th June",
-    "addedBy": "Craig Fraser",
-    "date": "15-06-2026 08:49"
   }
 ]
