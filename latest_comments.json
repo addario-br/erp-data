@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
+    "job": "N/A",
+    "comment": "• Load out date – 30th June\n• 2 month campaign\n• 4 wells",
+    "addedBy": "Craig Fraser",
+    "date": "16-06-2026 16:09"
+  },
+  {
     "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
     "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
     "comment": "Tools at surface 22:50, break out tools at 23:40. Tools in good condition and packed for backload.",
@@ -26,12 +33,5 @@
     "comment": "BHA confirmed by Perenco - MFC60 + GR/CCL. Equipment collection beginning of next week. Confirmed mob date expected to be received by tomorrow.",
     "addedBy": "Craig Fraser",
     "date": "15-06-2026 11:37"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
-    "job": "N/A",
-    "comment": "Tyra Campaign expected to start ~early-July (ex-Halfdan package)",
-    "addedBy": "Craig Fraser",
-    "date": "15-06-2026 09:09"
   }
 ]
