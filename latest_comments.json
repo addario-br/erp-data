@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Perenco looking to collect the kit on Tuesday 23rd and mobilise an engineer on the 25th , if all goes to plan, they would be looking to run the log on the 26th",
+    "addedBy": "Craig Fraser",
+    "date": "17-06-2026 09:44"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Michel expected to be back onshore ~15:00. Update requested from SLB on timing of next well",
@@ -26,12 +33,5 @@
     "comment": "RSS#10 is now Open. POOH. ETA at surface around 11:00 pm.",
     "addedBy": "Salman Kassen",
     "date": "15-06-2026 13:37"
-  },
-  {
-    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
-    "job": "N/A",
-    "comment": "RY will travel from Tengiz to Atyrau on Tuesday 15th, and from Atyrau back to Aksai on Wednesday 16th.",
-    "addedBy": "Rickie Yuill",
-    "date": "15-06-2026 13:23"
   }
 ]
