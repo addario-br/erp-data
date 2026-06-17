@@ -1,8 +1,10 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Joseph Guyan"
+    ]
   },
   {
     "companyName": "READ",
