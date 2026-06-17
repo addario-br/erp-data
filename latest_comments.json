@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "SLB moving over to DFA-16 tomorrow. Lenny Lapiso upmanning on Friday 19th June",
+    "addedBy": "Craig Fraser",
+    "date": "17-06-2026 11:28"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Perenco looking to collect the kit on Tuesday 23rd and mobilise an engineer on the 25th , if all goes to plan, they would be looking to run the log on the 26th",
@@ -26,12 +33,5 @@
     "comment": "Tools at surface 22:50, break out tools at 23:40. Tools in good condition and packed for backload.",
     "addedBy": "Grant Patterson",
     "date": "15-06-2026 20:55"
-  },
-  {
-    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
-    "comment": "RSS#10 is now Open. POOH. ETA at surface around 11:00 pm.",
-    "addedBy": "Salman Kassen",
-    "date": "15-06-2026 13:37"
   }
 ]
