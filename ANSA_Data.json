@@ -275,7 +275,7 @@
     },
     {
       " ": "2026-06-17T00:00:00.000Z",
-      "undefined": "N"
+      "undefined": "OOH QC on 13-Jun, OH QC on 14-May"
     },
     {
       " ": "June",
@@ -303,13 +303,13 @@
       " ": "ANSA Services ",
       "undefined": {
         "formula": "SUMIF($C$49:$C$76,\"*ANSA*\",$J$49:$J$76)",
-        "result": 9560.793317572128
+        "result": 11916.497167698832
       }
     },
     {
       "undefined": {
         "formula": "SUM(C83:C85)",
-        "result": 38498.17447342758
+        "result": 40853.87832355428
       }
     }
   ],
