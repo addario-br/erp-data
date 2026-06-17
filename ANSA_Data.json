@@ -275,7 +275,7 @@
     },
     {
       " ": "2026-06-17T00:00:00.000Z",
-      "undefined": "PLT (Injection)"
+      "undefined": "N"
     },
     {
       " ": "June",
@@ -18931,7 +18931,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H50:H79,\"*Priority*\")",
-        "result": 4
+        "result": 5
       }
     },
     {
@@ -18955,7 +18955,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "74+32+B2+B3+B4",
-        "result": 124
+        "result": 125
       }
     },
     {
