@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Michel expected to be back onshore ~15:00. Update requested from SLB on timing of next well",
+    "addedBy": "Craig Fraser",
+    "date": "17-06-2026 09:37"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
     "job": "N/A",
     "comment": "• Load out date – 30th June\n• 2 month campaign\n• 4 wells",
@@ -26,12 +33,5 @@
     "comment": "RY will travel from Tengiz to Atyrau on Tuesday 15th, and from Atyrau back to Aksai on Wednesday 16th.",
     "addedBy": "Rickie Yuill",
     "date": "15-06-2026 13:23"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "BHA confirmed by Perenco - MFC60 + GR/CCL. Equipment collection beginning of next week. Confirmed mob date expected to be received by tomorrow.",
-    "addedBy": "Craig Fraser",
-    "date": "15-06-2026 11:37"
   }
 ]
