@@ -18914,30 +18914,51 @@
   ],
   "Pulse": [
     {
+      "Month": {
+        "formula": "_xlfn.CONCAT(\"Standard Reports in \",B1)",
+        "result": "Standard Reports in Jun"
+      },
+      "[object Object]": {
+        "formula": "COUNTIF('READ-3rd'!H50:H79,\"*Standard*\")",
+        "result": 8
+      }
+    },
+    {
+      "Month": {
+        "formula": "_xlfn.CONCAT(\"Priority Reports in \",B1)",
+        "result": "Priority Reports in Jun"
+      },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H50:H79,\"*Priority*\")",
         "result": 4
       }
     },
     {
+      "Month": {
+        "formula": "_xlfn.CONCAT(\"FTAs Completed in \",B1)",
+        "result": "FTAs Completed in Jun"
+      },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H50:H79,\"*FTA*\")",
         "result": 6
       }
     },
     {
+      "Month": "Total Analyses Delivered (Last Month)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1707:H1712,Delivered!H1714:H1723,Delivered!H1725:H1733)",
         "result": 25
       }
     },
     {
+      "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
-        "formula": "74+32+B1+B2+B3",
+        "formula": "74+32+B2+B3+B4",
         "result": 124
       }
     },
     {
+      "Month": "Most Analyses Delivered (YTD)",
       "[object Object]": "Jeniffer"
     }
   ]
