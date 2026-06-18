@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03313 - Welltec - Welltec - Kazakhstan - T-108 - MFC",
+    "job": "N/A",
+    "comment": "RY and Equipment arrived back in Aksai 17th-June",
+    "addedBy": "Rickie Yuill",
+    "date": "18-06-2026 05:50"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "SLB moving over to DFA-16 tomorrow. Lenny Lapiso upmanning on Friday 19th June",
@@ -26,12 +33,5 @@
     "comment": "• Load out date – 30th June\n• 2 month campaign\n• 4 wells",
     "addedBy": "Craig Fraser",
     "date": "16-06-2026 16:09"
-  },
-  {
-    "project": "PRJ02698 - Welltec - Welltec - Kazakhstan - 9854 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ02698-2 Karachaganak 9854 SSD Position",
-    "comment": "Tools at surface 22:50, break out tools at 23:40. Tools in good condition and packed for backload.",
-    "addedBy": "Grant Patterson",
-    "date": "15-06-2026 20:55"
   }
 ]
