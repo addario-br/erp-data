@@ -278,6 +278,10 @@
       "undefined": "Y"
     },
     {
+      " ": "2026-06-17T00:00:00.000Z",
+      "undefined": "Priority + Data QC (2 hrs OOH, 2 hrs Office)"
+    },
+    {
       " ": "June",
       "undefined": "June"
     },
@@ -18931,7 +18935,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H49:H78,\"*Priority*\")",
-        "result": 6
+        "result": 7
       }
     },
     {
@@ -18955,7 +18959,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "74+32+B2+B3+B4",
-        "result": 126
+        "result": 127
       }
     },
     {
