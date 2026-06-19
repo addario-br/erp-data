@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
+    "job": "N/A",
+    "comment": "Tyra starting July.\n1x READ Engineer 3/7-10/7",
+    "addedBy": "Craig Fraser",
+    "date": "19-06-2026 08:41"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "LL check in for DanF today, before 14:00.",
@@ -26,12 +33,5 @@
     "comment": "Perenco looking to collect the kit on Tuesday 23rd and mobilise an engineer on the 25th , if all goes to plan, they would be looking to run the log on the 26th",
     "addedBy": "Craig Fraser",
     "date": "17-06-2026 09:44"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Michel expected to be back onshore ~15:00. Update requested from SLB on timing of next well",
-    "addedBy": "Craig Fraser",
-    "date": "17-06-2026 09:37"
   }
 ]
