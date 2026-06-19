@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N46",
+        "formula": "'READ-3rd'!N47",
         "result": 1.34567
       }
     },
@@ -163,6 +163,10 @@
     {
       " ": "READ Inc",
       "undefined": "N"
+    },
+    {
+      " ": "READ Inc",
+      "undefined": "Y"
     },
     {
       " ": "ANSA",
@@ -284,27 +288,27 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*Ltd*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$47:$C$74,\"*Ltd*\",$J$47:$J$74)",
         "result": 22710
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*Inc*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$47:$C$74,\"*Inc*\",$J$47:$J$74)",
         "result": 7431.242429421774
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*ANSA*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$47:$C$74,\"*ANSA*\",$J$47:$J$74)",
         "result": 13752.01404776601
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C80:C82)",
+        "formula": "SUM(C81:C83)",
         "result": 43893.25647718778
       }
     }
@@ -18916,7 +18920,7 @@
         "result": "Standard Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Standard*\")",
         "result": 8
       }
     },
@@ -18926,7 +18930,7 @@
         "result": "Priority Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Priority*\")",
         "result": 7
       }
     },
@@ -18936,7 +18940,7 @@
         "result": "FTAs Completed in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*FTA*\")",
         "result": 6
       }
     },
