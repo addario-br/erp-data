@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N47",
+        "formula": "'READ-3rd'!N46",
         "result": 1.34567
       }
     },
@@ -155,10 +155,6 @@
     {
       " ": "READ Ltd",
       "undefined": "FT (FTA on 15 Jun)"
-    },
-    {
-      " ": "ANSA",
-      "undefined": "QC + Priority"
     },
     {
       " ": "ANSA",
@@ -282,6 +278,10 @@
       "undefined": "N"
     },
     {
+      " ": "2026-06-19T00:00:00.000Z",
+      "undefined": "Y"
+    },
+    {
       " ": "June",
       "undefined": "June"
     },
@@ -292,28 +292,28 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$47:$C$74,\"*Ltd*\",$J$47:$J$74)",
+        "formula": "SUMIF($C$46:$C$73,\"*Ltd*\",$J$46:$J$73)",
         "result": 22710
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$47:$C$74,\"*Inc*\",$J$47:$J$74)",
+        "formula": "SUMIF($C$46:$C$73,\"*Inc*\",$J$46:$J$73)",
         "result": 8768.866066717694
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$47:$C$74,\"*ANSA*\",$J$47:$J$74)",
-        "result": 13752.01404776601
+        "formula": "SUMIF($C$46:$C$73,\"*ANSA*\",$J$46:$J$73)",
+        "result": 15424.043594385908
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C81:C83)",
-        "result": 45230.880114483705
+        "formula": "SUM(C80:C82)",
+        "result": 46902.90966110361
       }
     }
   ],
@@ -18924,7 +18924,7 @@
         "result": "Standard Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Standard*\")",
         "result": 8
       }
     },
@@ -18934,8 +18934,8 @@
         "result": "Priority Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Priority*\")",
-        "result": 7
+        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Priority*\")",
+        "result": 8
       }
     },
     {
@@ -18944,7 +18944,7 @@
         "result": "FTAs Completed in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*FTA*\")",
         "result": 7
       }
     },
@@ -18959,7 +18959,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "74+32+B2+B3+B4",
-        "result": 128
+        "result": 129
       }
     },
     {
