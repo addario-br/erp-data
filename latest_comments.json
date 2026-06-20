@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Job has delayed a few days. KPO will confirm on Monday if we will mob on Tuesday or Wed",
+    "addedBy": "Rickie Yuill",
+    "date": "20-06-2026 10:08"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Ops on standby since yesterday due to issues with crane, so unable to move Slb equipment to DFA platform. Plan for today: locate container and check equipment. Very rough estimate for MFC logging ~29/06/26.",
@@ -26,12 +33,5 @@
     "comment": "Michel returned home Weds 17th - end of contractor hire.\nTotal/SLB in discussion to log caliper across safety valve on GBN-43, possible check-in as early as Monday",
     "addedBy": "Craig Fraser",
     "date": "19-06-2026 08:57"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
-    "job": "N/A",
-    "comment": "Tyra starting July.\n1x READ Engineer 3/7-10/7",
-    "addedBy": "Craig Fraser",
-    "date": "19-06-2026 08:41"
   }
 ]
