@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Ops still on standby due to crane repairs.",
+    "addedBy": "Leonard Lapiso",
+    "date": "21-06-2026 06:15"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Mobilisation confirmed for Monday 22nd.",
@@ -26,12 +33,5 @@
     "comment": "Ops on standby since yesterday due to issues with crane, so unable to move Slb equipment to DFA platform. Plan for today: locate container and check equipment. Very rough estimate for MFC logging ~29/06/26.",
     "addedBy": "Leonard Lapiso",
     "date": "20-06-2026 06:31"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "LL arrived on board and completed induction.",
-    "addedBy": "Leonard Lapiso",
-    "date": "19-06-2026 16:38"
   }
 ]
