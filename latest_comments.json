@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Mobilisation confirmed for Monday 22nd.",
+    "addedBy": "Rickie Yuill",
+    "date": "21-06-2026 05:38"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Found out container was Backloaded to Esbjerg and is currently at SLB. Hopefully get it sent back to DanF early next week.",
@@ -26,12 +33,5 @@
     "comment": "LL arrived on board and completed induction.",
     "addedBy": "Leonard Lapiso",
     "date": "19-06-2026 16:38"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
-    "job": "N/A",
-    "comment": "Signed program for TEC03 received. This will be the first well on campaign starting 1/7.",
-    "addedBy": "Craig Fraser",
-    "date": "19-06-2026 10:08"
   }
 ]
