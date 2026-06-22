@@ -271,7 +271,7 @@
     },
     {
       " ": "2026-06-19T00:00:00.000Z",
-      "undefined": "N"
+      "undefined": "Y"
     },
     {
       " ": "2026-06-19T00:00:00.000Z",
@@ -279,6 +279,10 @@
     },
     {
       " ": "2026-06-19T00:00:00.000Z",
+      "undefined": "Y"
+    },
+    {
+      " ": "2026-06-21T00:00:00.000Z",
       "undefined": "Y"
     },
     {
@@ -300,7 +304,7 @@
       " ": "READ Cased Hole Inc.",
       "undefined": {
         "formula": "SUMIF($C$45:$C$72,\"*Inc*\",$J$45:$J$72)",
-        "result": 8768.866066717694
+        "result": 10180.80212830783
       }
     },
     {
@@ -313,7 +317,7 @@
     {
       "undefined": {
         "formula": "SUM(C79:C81)",
-        "result": 49582.90966110361
+        "result": 50994.84572269373
       }
     }
   ],
@@ -18945,7 +18949,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H46:H75,\"*FTA*\")",
-        "result": 7
+        "result": 8
       }
     },
     {
@@ -18959,7 +18963,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "74+32+B2+B3+B4",
-        "result": 130
+        "result": 131
       }
     },
     {
