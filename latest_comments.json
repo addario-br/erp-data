@@ -2,6 +2,13 @@
   {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Managed to get the crane to run. Deck chess this morning on A platform then will start rigging up onto DFA16. WSS chasing up onshore to get READ kit sent back out from Esbjerg. Latest estimate for MFC log is 30/06/26.",
+    "addedBy": "Leonard Lapiso",
+    "date": "22-06-2026 06:00"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Ops still on standby due to crane repairs.",
     "addedBy": "Leonard Lapiso",
     "date": "21-06-2026 06:15"
@@ -26,12 +33,5 @@
     "comment": "Job has delayed a few days. KPO will confirm on Monday if we will mob on Tuesday or Wed",
     "addedBy": "Rickie Yuill",
     "date": "20-06-2026 10:08"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Ops on standby since yesterday due to issues with crane, so unable to move Slb equipment to DFA platform. Plan for today: locate container and check equipment. Very rough estimate for MFC logging ~29/06/26.",
-    "addedBy": "Leonard Lapiso",
-    "date": "20-06-2026 06:31"
   }
 ]
