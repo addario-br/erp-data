@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
+    "job": "N/A",
+    "comment": "Mark travelling to Esbjerg Tues 23rd to perform PMs prior to equipment mob",
+    "addedBy": "Craig Fraser",
+    "date": "22-06-2026 08:54"
+  },
+  {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Equipment checked and ready for collection on Tues 23rd. Pre-job with Josh scheduled for 10.30 today",
+    "addedBy": "Craig Fraser",
+    "date": "22-06-2026 08:50"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Abdil will travel to Esbjerg today for morning check-in tomorrow. MFC40s to be placed in container and MFC24s removed. Logging of SSSV expected Thursday at earliest",
@@ -19,19 +33,5 @@
     "comment": "Ops still on standby due to crane repairs.",
     "addedBy": "Leonard Lapiso",
     "date": "21-06-2026 06:15"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Mobilisation confirmed for Monday 22nd.",
-    "addedBy": "Rickie Yuill",
-    "date": "21-06-2026 05:38"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Found out container was Backloaded to Esbjerg and is currently at SLB. Hopefully get it sent back to DanF early next week.",
-    "addedBy": "Leonard Lapiso",
-    "date": "20-06-2026 15:54"
   }
 ]
