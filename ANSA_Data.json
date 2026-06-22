@@ -290,6 +290,10 @@
       "undefined": "Y"
     },
     {
+      " ": "2026-06-16T00:00:00.000Z",
+      "undefined": "Y"
+    },
+    {
       " ": "June",
       "undefined": "June"
     },
@@ -301,7 +305,7 @@
       " ": "READ Cased Hole Ltd.",
       "undefined": {
         "formula": "SUMIF($C$46:$C$73,\"*Ltd*\",$J$46:$J$73)",
-        "result": 25390
+        "result": 26090
       }
     },
     {
@@ -321,7 +325,7 @@
     {
       "undefined": {
         "formula": "SUM(C80:C82)",
-        "result": 50994.84572269373
+        "result": 51694.84572269373
       }
     }
   ],
