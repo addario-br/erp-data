@@ -13,10 +13,10 @@
     "companyName": "READ",
     "numIn": 4,
     "names": [
-      "Mark Davidson",
       "Dave Simpson",
       "Stewart Steele",
-      "Rob Molina"
+      "Rob Molina",
+      "Mark Davidson"
     ]
   },
   {
@@ -46,13 +46,13 @@
     "companyName": "Visitors",
     "numIn": 7,
     "names": [
-      "Adam Finnigan",
-      "Valentin Yague",
-      "Florian Henry",
       "Austen Main",
       "Adam Finnigan",
       "Marcin Bloch",
-      "Michael Taggart"
+      "Michael Taggart",
+      "Adam Finnigan",
+      "Valentin Yague",
+      "Florian Henry"
     ]
   }
 ]
