@@ -44,7 +44,10 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "Austen Main",
+      "Adam Finnigan"
+    ]
   }
 ]
