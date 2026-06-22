@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Crew mobilisation Monday 29th June",
+    "addedBy": "Craig Fraser",
+    "date": "22-06-2026 13:15"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Equipment will mobilise to the field at 17:00 KT. Expect to start RIH tomorrow morning.",
@@ -26,12 +33,5 @@
     "comment": "Equipment checked and ready for collection on Tues 23rd. Pre-job with Josh scheduled for 10.30 today",
     "addedBy": "Craig Fraser",
     "date": "22-06-2026 08:50"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Abdil will travel to Esbjerg today for morning check-in tomorrow. MFC40s to be placed in container and MFC24s removed. Logging of SSSV expected Thursday at earliest",
-    "addedBy": "Craig Fraser",
-    "date": "22-06-2026 08:47"
   }
 ]
