@@ -42,7 +42,11 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 3,
+    "names": [
+      "Adam Finnigan",
+      "Valentin Yague",
+      "Florian Henry"
+    ]
   }
 ]
