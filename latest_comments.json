@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Arrived onboard. Equipment not onboard yet. Logging not expected in the next two days.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "23-06-2026 15:43"
+  },
+  {
     "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
     "job": "N/A",
     "comment": "ABI kit received back from BPC this afternoon.",
@@ -26,12 +33,5 @@
     "comment": "GORM kit arrived back onshore 19th June. It container Well Explorer equipment and was delivered to SLB. Norsea collected equipment from SLB. 22nd June. MFC24 finger calipers removed and MFC40's added. Kit delivered back to the quay side this morning for loading back out to the GORM.",
     "addedBy": "Dave Simpson",
     "date": "23-06-2026 10:10"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Equipment has been collected by Dyce Carriers. Transport cost absorbed by Perenco",
-    "addedBy": "Dave Simpson",
-    "date": "23-06-2026 09:45"
   }
 ]
