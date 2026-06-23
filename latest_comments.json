@@ -2,6 +2,13 @@
   {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
+    "comment": "During tractor check at 2100m we were unable to get comms with the tools during LWT, feedthrough still works. Fault finding found nothing with surface set-up. POOH to investigate. ETA at surface 05:00 KT.",
+    "addedBy": "Grant Patterson",
+    "date": "24-06-2026 00:04"
+  },
+  {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "Battery on at 18:59:20. RIH at 21:57 KT.",
     "addedBy": "Grant Patterson",
     "date": "23-06-2026 17:58"
@@ -26,12 +33,5 @@
     "comment": "Gauges were mobilized on Friday 19th June",
     "addedBy": "Craig Fraser",
     "date": "23-06-2026 12:26"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Logging now delayed to Saturday afternoon into Sunday morning",
-    "addedBy": "Craig Fraser",
-    "date": "23-06-2026 10:15"
   }
 ]
