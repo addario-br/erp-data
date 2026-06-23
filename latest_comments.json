@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
+    "comment": "Equipment spotted, test tools and prepare for rig up.",
+    "addedBy": "Rickie Yuill",
+    "date": "23-06-2026 04:27"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Crew mobilisation Monday 29th June",
@@ -26,12 +33,5 @@
     "comment": "Mark travelling to Esbjerg Tues 23rd to perform PMs prior to equipment mob",
     "addedBy": "Craig Fraser",
     "date": "22-06-2026 08:54"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Equipment checked and ready for collection on Tues 23rd. Pre-job with Josh scheduled for 10.30 today",
-    "addedBy": "Craig Fraser",
-    "date": "22-06-2026 08:50"
   }
 ]
