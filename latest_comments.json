@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Continue rigging up on DFA-16. Possibly run slickline tonight. READ kit should be arriving on boat later in the afternoon. Rough estimate for MFC log still ~29th/30th June.",
+    "addedBy": "Leonard Lapiso",
+    "date": "23-06-2026 06:04"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "Equipment spotted, test tools and prepare for rig up.",
@@ -26,12 +33,5 @@
     "comment": "Caliper logging expected first thing on Friday morning. Josh to travel on Thursday morning",
     "addedBy": "Craig Fraser",
     "date": "22-06-2026 11:27"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15 - MFC",
-    "job": "N/A",
-    "comment": "Mark travelling to Esbjerg Tues 23rd to perform PMs prior to equipment mob",
-    "addedBy": "Craig Fraser",
-    "date": "22-06-2026 08:54"
   }
 ]
