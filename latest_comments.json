@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Equipment has been collected by Dyce Carriers. Transport cost absorbed by Perenco",
+    "addedBy": "Dave Simpson",
+    "date": "23-06-2026 09:45"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "Tools are ready and pulled inside the lubricator. Currently waiting on weather. Wind is up until around 8pm KT. HSE inspection plannned for 2pm",
@@ -26,12 +33,5 @@
     "comment": "Crew mobilisation Monday 29th June",
     "addedBy": "Craig Fraser",
     "date": "22-06-2026 13:15"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "Equipment will mobilise to the field at 17:00 KT. Expect to start RIH tomorrow morning.",
-    "addedBy": "Rickie Yuill",
-    "date": "22-06-2026 12:50"
   }
 ]
