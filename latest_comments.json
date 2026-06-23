@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
+    "job": "N/A",
+    "comment": "Gauges were mobilized on Friday 19th June",
+    "addedBy": "Craig Fraser",
+    "date": "23-06-2026 12:26"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Logging now delayed to Saturday afternoon into Sunday morning",
@@ -26,12 +33,5 @@
     "comment": "Tools are ready and pulled inside the lubricator. Currently waiting on weather. Wind is up until around 8pm KT. HSE inspection plannned for 2pm",
     "addedBy": "Rickie Yuill",
     "date": "23-06-2026 09:04"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Continue rigging up on DFA-16. Possibly run slickline tonight. READ kit should be arriving on boat later in the afternoon. Rough estimate for MFC log still ~29th/30th June.",
-    "addedBy": "Leonard Lapiso",
-    "date": "23-06-2026 06:04"
   }
 ]
