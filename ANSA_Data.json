@@ -153,8 +153,8 @@
       "undefined": 7
     },
     {
-      " ": "ANSA",
-      "undefined": "N"
+      " ": "READ Inc",
+      "undefined": "Y"
     },
     {
       " ": "READ Inc",
@@ -165,10 +165,8 @@
       "undefined": "MS"
     },
     {
-      " ": "READ Inc",
-      "undefined": {
-        "formula": "DATEDIF(I6,J6,\"D\")"
-      }
+      " ": "ANSA",
+      "undefined": "N"
     },
     {
       " ": "READ Ltd",
