@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Rigged up slickline and pressure tested PCE. Ops on standby troubleshooting faulty S/L weight indicator. Boat with READ kit expected today at some point, but will be put on the B platform, as A platform crane is non operational - also means Slb 5/16 eline cable required for milling can't be brought on board yet. MFC timing TBC but well after 29th June.",
+    "addedBy": "Leonard Lapiso",
+    "date": "24-06-2026 06:30"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43)",
     "comment": "Equipment not arrived onboard yet. Logging not expected in the next two days.",
@@ -26,12 +33,5 @@
     "comment": "Arrived onboard. Equipment not onboard yet. Logging not expected in the next two days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "23-06-2026 15:43"
-  },
-  {
-    "project": "PRJ03246 - Balance Point Control - BPC - Celle - GT3a - MFC_ MTT",
-    "job": "N/A",
-    "comment": "ABI kit received back from BPC this afternoon.",
-    "addedBy": "Dave Simpson",
-    "date": "23-06-2026 15:03"
   }
 ]
