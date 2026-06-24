@@ -27,11 +27,11 @@
     "companyName": "HydraWell",
     "numIn": 5,
     "names": [
-      "James Reid",
       "Liam Strath",
       "George Handsley",
       "Cherie Bowden",
-      "Calum Smith"
+      "Calum Smith",
+      "James Reid"
     ]
   },
   {
@@ -52,8 +52,8 @@
     "companyName": "Visitors",
     "numIn": 4,
     "names": [
-      "Florian Henry",
       "Adam Finnigan",
+      "Florian Henry",
       "Adam Finnigan",
       "Florian Henry"
     ]
