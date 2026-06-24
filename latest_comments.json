@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
+    "comment": "Equipment expected to arrive onboard tomorrow.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "24-06-2026 09:33"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "Once we reached surface the SRO string was removed and found that there was no voltage on bottom of tractor during lwt. switched out tractor electronics and function test all ok. umt re- programed and battery on at 10:10. start to RIH at 12:25",
@@ -26,12 +33,5 @@
     "comment": "During tractor check at 2100m we were unable to get comms with the tools during LWT, feedthrough still works. Fault finding found nothing with surface set-up. POOH to investigate. ETA at surface 05:00 KT.",
     "addedBy": "Grant Patterson",
     "date": "24-06-2026 00:04"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
-    "comment": "Battery on at 18:59:20. RIH at 21:57 KT.",
-    "addedBy": "Grant Patterson",
-    "date": "23-06-2026 17:58"
   }
 ]
