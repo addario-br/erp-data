@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
+    "comment": "Equipment not arrived onboard yet. Logging not expected in the next two days.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "24-06-2026 06:24"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "During tractor check at 2100m we were unable to get comms with the tools during LWT, feedthrough still works. Fault finding found nothing with surface set-up. POOH to investigate. ETA at surface 05:00 KT.",
@@ -26,12 +33,5 @@
     "comment": "ABI kit received back from BPC this afternoon.",
     "addedBy": "Dave Simpson",
     "date": "23-06-2026 15:03"
-  },
-  {
-    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
-    "job": "N/A",
-    "comment": "Gauges were mobilized on Friday 19th June",
-    "addedBy": "Craig Fraser",
-    "date": "23-06-2026 12:26"
   }
 ]
