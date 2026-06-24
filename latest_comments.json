@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
+    "comment": "Once we reached surface the SRO string was removed and found that there was no voltage on bottom of tractor during lwt. switched out tractor electronics and function test all ok. umt re- programed and battery on at 10:10. start to RIH at 12:25",
+    "addedBy": "Jonathan Howe",
+    "date": "24-06-2026 08:21"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Rigged up S/L and pressure tested PCE. Ops on standby due to faulty S/L weight indicator. Boat with READ kit expected today, to be loaded on the B platform, as A platform crane is non operational - also means Slb 5/16 eline cable required for milling can't be brought on board yet. MFC timing TBC but well after 29th June.",
@@ -26,12 +33,5 @@
     "comment": "Battery on at 18:59:20. RIH at 21:57 KT.",
     "addedBy": "Grant Patterson",
     "date": "23-06-2026 17:58"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Arrived onboard. Equipment not onboard yet. Logging not expected in the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "23-06-2026 15:43"
   }
 ]
