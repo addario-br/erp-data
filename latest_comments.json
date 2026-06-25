@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
+    "comment": "During Shut in survey the ILS and DBT were reading zero( suspected clogged) toolstring was unable to tractor in hole at around 5012m, decision made to inject the well. after about 20 mins, spinners started to respond. attempted to tracxtor in hole but now cannot pass rss#6 at 5487m. waiting on decision from KPO how to proceed.",
+    "addedBy": "Jonathan Howe",
+    "date": "25-06-2026 03:18"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43)",
     "comment": "Equipment expected to arrive onboard tomorrow.",
@@ -26,12 +33,5 @@
     "comment": "Equipment not arrived onboard yet. Logging not expected in the next two days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "24-06-2026 06:24"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
-    "comment": "During tractor check at 2100m we were unable to get comms with the tools during LWT, feedthrough still works. Fault finding found nothing with surface set-up. POOH to investigate. ETA at surface 05:00 KT.",
-    "addedBy": "Grant Patterson",
-    "date": "24-06-2026 00:04"
   }
 ]
