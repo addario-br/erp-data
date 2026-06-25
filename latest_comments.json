@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "S/L retrieved IVC, ran 3.6\" drift, tagged HUD @1861ft. DFA crane still down. 5/16\" Eline cable on DFB. Once DFA crane is repaired, need to wait for a boat to transport the cable from DFB to DFA. READ kit on board DFB late yesterday afternoon. Plan today: string check tools in memory mode. Timing for MFC run TBC.",
+    "addedBy": "Leonard Lapiso",
+    "date": "25-06-2026 06:12"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "During Shut in survey the ILS and DBT were reading zero( suspected clogged) toolstring was unable to tractor in hole at around 5012m, decision made to inject the well. after about 20 mins, spinners started to respond. attempted to tracxtor in hole but now cannot pass rss#6 at 5487m. waiting on decision from KPO how to proceed.",
@@ -26,12 +33,5 @@
     "comment": "Rigged up S/L and pressure tested PCE. Ops on standby due to faulty S/L weight indicator. Boat with READ kit expected today, to be loaded on the B platform, as A platform crane is non operational - also means Slb 5/16 eline cable required for milling can't be brought on board yet. MFC timing TBC but well after 29th June.",
     "addedBy": "Leonard Lapiso",
     "date": "24-06-2026 06:30"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Equipment not arrived onboard yet. Logging not expected in the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "24-06-2026 06:24"
   }
 ]
