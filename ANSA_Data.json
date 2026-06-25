@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N46",
+        "formula": "'READ-3rd'!N47",
         "result": 1.34567
       }
     },
@@ -167,6 +167,10 @@
     {
       " ": "READ Ltd",
       "undefined": "JL"
+    },
+    {
+      " ": "READ Ltd",
+      "undefined": "N"
     },
     {
       " ": "READ Ltd",
@@ -308,27 +312,27 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*Ltd*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$47:$C$74,\"*Ltd*\",$J$47:$J$74)",
         "result": 26090
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*Inc*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$47:$C$74,\"*Inc*\",$J$47:$J$74)",
         "result": 11592.738189897967
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*ANSA*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$47:$C$74,\"*ANSA*\",$J$47:$J$74)",
         "result": 15424.043594385908
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C80:C82)",
+        "formula": "SUM(C81:C83)",
         "result": 53106.78178428387
       }
     }
@@ -18940,7 +18944,7 @@
         "result": "Standard Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Standard*\")",
         "result": 9
       }
     },
@@ -18950,7 +18954,7 @@
         "result": "Priority Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Priority*\")",
         "result": 8
       }
     },
@@ -18960,7 +18964,7 @@
         "result": "FTAs Completed in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*FTA*\")",
         "result": 9
       }
     },
