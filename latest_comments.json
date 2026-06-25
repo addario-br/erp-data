@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
+    "comment": "READ Logging passes static and temperature transient complete. Currently performing TGT SNL pass. Expect to be back at surface arount 11am KT.",
+    "addedBy": "Grant Patterson",
+    "date": "25-06-2026 21:56"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43)",
     "comment": "Equipment expected onboard today at some point. No logging expected in the next two days.",
@@ -26,12 +33,5 @@
     "comment": "Equipment expected to arrive onboard tomorrow.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "24-06-2026 09:33"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
-    "comment": "Once we reached surface the SRO string was removed and found that there was no voltage on bottom of tractor during lwt. switched out tractor electronics and function test all ok. umt re- programed and battery on at 10:10. start to RIH at 12:25",
-    "addedBy": "Jonathan Howe",
-    "date": "24-06-2026 08:21"
   }
 ]
