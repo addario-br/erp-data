@@ -3,12 +3,12 @@
     "companyName": "ANSA",
     "numIn": 6,
     "names": [
-      "Tim Farrar",
       "Craig Lamont",
       "Heather Caldwell",
       "John Guntoro",
       "Alan Walsh",
-      "Joseph Guyan"
+      "Joseph Guyan",
+      "Tim Farrar"
     ]
   },
   {
@@ -46,11 +46,11 @@
     "companyName": "Visitors",
     "numIn": 5,
     "names": [
-      "Florian Henry",
-      "Adam Finnigan",
       "Michael Taggart",
       "Adam Finnigan",
-      "Florian Henry"
+      "Florian Henry",
+      "Florian Henry",
+      "Adam Finnigan"
     ]
   }
 ]
