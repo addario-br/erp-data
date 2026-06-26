@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "No further communication on crew or equipment mobilisation. Standby for further instructions from Baker. Container ready for packing at Al Khor.",
+    "addedBy": "Craig Fraser",
+    "date": "26-06-2026 08:21"
+  },
+  {
     "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
     "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
     "comment": "Reach surface at 12:03KT, Close in Well, Bleed off and lay down lubricator. start to clean and pack tools ready for back load to base.",
@@ -26,12 +33,5 @@
     "comment": "READ Logging passes static and temperature transient complete. Currently performing TGT SNL pass. Expect to be back at surface arount 11am KT.",
     "addedBy": "Grant Patterson",
     "date": "25-06-2026 21:56"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Equipment expected onboard today at some point. No logging expected in the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "25-06-2026 06:55"
   }
 ]
