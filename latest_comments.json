@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
+    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
+    "comment": "Reach surface at 12:03KT, Close in Well, Bleed off and lay down lubricator. start to clean and pack tools ready for back load to base.",
+    "addedBy": "Jonathan Howe",
+    "date": "26-06-2026 08:13"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Ops still on stand by due to DFA Crane. Continue with pre job checks. MFC logging timings TBC, not within the next few days at the very least.",
@@ -26,12 +33,5 @@
     "comment": "Equipment expected onboard today at some point. No logging expected in the next two days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "25-06-2026 06:55"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "S/L retrieved IVC, ran 3.6\" drift, tagged HUD @1861ft. DFA crane still down. 5/16\" Eline cable on DFB. Once DFA crane is repaired, need to wait for a boat to transport the cable from DFB to DFA. READ kit on board DFB late yesterday afternoon. Plan today: string check tools in memory mode. Timing for MFC run TBC.",
-    "addedBy": "Leonard Lapiso",
-    "date": "25-06-2026 06:12"
   }
 ]
