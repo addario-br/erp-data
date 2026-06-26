@@ -28,8 +28,10 @@
   },
   {
     "companyName": "BlueSpark",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Robert Hunter"
+    ]
   },
   {
     "companyName": "OTS",
@@ -38,8 +40,10 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
+      "Adam Finnigan",
+      "Florian Henry",
       "Michael Taggart"
     ]
   }
