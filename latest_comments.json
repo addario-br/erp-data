@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Operations have slipped, looking like Perenco will not be running the log until Thursday at the earliest. Crew assignment now TBC",
+    "addedBy": "Craig Fraser",
+    "date": "26-06-2026 09:54"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "No further communication on crew or equipment mobilisation. Standby for further instructions from Baker. Container ready for packing at Al Khor.",
@@ -26,12 +33,5 @@
     "comment": "Equipment onboard. Logging not expected for a few days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "26-06-2026 03:54"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
-    "comment": "READ Logging passes static and temperature transient complete. Currently performing TGT SNL pass. Expect to be back at surface arount 11am KT.",
-    "addedBy": "Grant Patterson",
-    "date": "25-06-2026 21:56"
   }
 ]
