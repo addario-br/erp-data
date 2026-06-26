@@ -312,28 +312,28 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*Ltd*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$46:$C$76,\"*Ltd*\",$J$46:$J$76)",
         "result": 26090
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*Inc*\",$J$46:$J$73)",
-        "result": 11592.738189897967
+        "formula": "SUMIF($C$46:$C$76,\"*Inc*\",$J$46:$J$76)",
+        "result": 12796.599463464296
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$73,\"*ANSA*\",$J$46:$J$73)",
+        "formula": "SUMIF($C$46:$C$76,\"*ANSA*\",$J$46:$J$76)",
         "result": 15424.043594385908
       }
     },
     {
       "undefined": {
         "formula": "SUM(C80:C82)",
-        "result": 53106.78178428387
+        "result": 54310.643057850204
       }
     }
   ],
