@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Logging not likely this weekend",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "26-06-2026 14:46"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Operations have slipped, looking like Perenco will not be running the log until Thursday at the earliest. Crew assignment now TBC",
@@ -26,12 +33,5 @@
     "comment": "Ops still on stand by due to DFA Crane. Continue with pre job checks. MFC logging timings TBC, not within the next few days at the very least.",
     "addedBy": "Leonard Lapiso",
     "date": "26-06-2026 06:15"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Equipment onboard. Logging not expected for a few days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "26-06-2026 03:54"
   }
 ]
