@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
+    "comment": "Equipment received. Logging not expected in the next two days",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "27-06-2026 09:06"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Ops on standby due to DFA crane. MFC timing TBC, not in the next few days.",
@@ -26,12 +33,5 @@
     "comment": "Operations have slipped, looking like Perenco will not be running the log until Thursday at the earliest. Crew assignment now TBC",
     "addedBy": "Craig Fraser",
     "date": "26-06-2026 09:54"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "No further communication on crew or equipment mobilisation. Standby for further instructions from Baker. Container ready for packing at Al Khor.",
-    "addedBy": "Craig Fraser",
-    "date": "26-06-2026 08:21"
   }
 ]
