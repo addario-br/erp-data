@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
+    "job": "N/A",
+    "comment": "The Storengy job was completed last week/weekend.\nEquipment mobilized 9th June and arrived to Emmen last Sunday 21st. Total 12 days rentals.",
+    "addedBy": "Craig Fraser",
+    "date": "28-06-2026 22:38"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Logging not expected over the next two days.",
@@ -26,12 +33,5 @@
     "comment": "Ops on standby due to DFA crane. MFC timing TBC, not in the next few days.",
     "addedBy": "Leonard Lapiso",
     "date": "27-06-2026 06:17"
-  },
-  {
-    "project": "PRJ03259 - Welltec - Welltec - Kazakhstan - 9895 - PLT_ SSD (ZeroTime / X-Y)",
-    "job": "PRJ03259-2 Karachaganak 9895 Production (Single Phase)",
-    "comment": "Crew departed wellsite at 18:00 and arrived back to Aksai at 19:00. Equipment expected to arrive at base tomorrow morning.",
-    "addedBy": "Jonathan Howe",
-    "date": "26-06-2026 15:56"
   }
 ]
