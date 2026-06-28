@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Equipment mobilising Monday 29th June. Engineer check-in Wednesday 1st July. GP assigned.",
+    "addedBy": "Craig Fraser",
+    "date": "28-06-2026 22:43"
+  },
+  {
     "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
     "job": "N/A",
     "comment": "The Storengy job was completed last week/weekend.\nEquipment mobilized 9th June and arrived to Emmen last Sunday 21st. Total 12 days rentals.",
@@ -26,12 +33,5 @@
     "comment": "Equipment received. Logging not expected in the next two days",
     "addedBy": "Abdilmalik Mohamed",
     "date": "27-06-2026 09:06"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Ops on standby due to DFA crane. MFC timing TBC, not in the next few days.",
-    "addedBy": "Leonard Lapiso",
-    "date": "27-06-2026 06:17"
   }
 ]
