@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Loadout date confirmed Tuesday 30th June. Engineer check-in Friday 3rd July. MH assigned",
+    "addedBy": "Craig Fraser",
+    "date": "28-06-2026 22:44"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Equipment mobilising Monday 29th June. Engineer check-in Wednesday 1st July. GP assigned.",
@@ -26,12 +33,5 @@
     "comment": "Ops on standby due to DFA crane. MFC timing TBC, not in the next few days.",
     "addedBy": "Leonard Lapiso",
     "date": "28-06-2026 06:02"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Equipment received. Logging not expected in the next two days",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "27-06-2026 09:06"
   }
 ]
