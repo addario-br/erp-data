@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
+    "job": "N/A",
+    "comment": "Converted to Memory PDC opportunity with use of PRC022s. Dual pressure sensor required in the string.",
+    "addedBy": "Craig Fraser",
+    "date": "29-06-2026 11:38"
+  },
+  {
     "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
     "job": "N/A",
     "comment": "Current plan is to mobilise on the 12th July.\nThe MFC24 will be conducted during the week commencing 13th July.",
@@ -26,12 +33,5 @@
     "comment": "Container FDOT 3017 loaded and collected today @10:15am",
     "addedBy": "Joshua Cheyne",
     "date": "29-06-2026 08:23"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "DFA Crane repaired, swapped out cable drums. Slb currently rigging up Eline PCE/building cablehead for Welltec milling runs, which should commence at some point today. Main/backup MFC strings checked in memory mode. Latest lookahead has Sat 04th July for MFC log, depending on how milling goes.",
-    "addedBy": "Leonard Lapiso",
-    "date": "29-06-2026 06:24"
   }
 ]
