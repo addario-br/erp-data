@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Latest lookahead suggests Weds AM logging. Confirmation requested from Perenco prior to arranging Engineer travel for tomorrow",
+    "addedBy": "Craig Fraser",
+    "date": "29-06-2026 09:22"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43)",
     "comment": "Start of logging run expected tomorrow",
@@ -26,12 +33,5 @@
     "comment": "Loadout date confirmed Tuesday 30th June. Engineer check-in Friday 3rd July. MH assigned",
     "addedBy": "Craig Fraser",
     "date": "28-06-2026 22:44"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Equipment mobilising Monday 29th June. Engineer check-in Wednesday 1st July. GP assigned.",
-    "addedBy": "Craig Fraser",
-    "date": "28-06-2026 22:43"
   }
 ]
