@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "Current plan is to mobilise on the 12th July.\nThe MFC40 will be conducted during the week commencing 13th July.",
+    "addedBy": "Craig Fraser",
+    "date": "29-06-2026 10:48"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Latest lookahead suggests Weds AM logging. Confirmation requested from Perenco prior to arranging Engineer travel for tomorrow",
@@ -26,12 +33,5 @@
     "comment": "DFA Crane repaired, swapped out cable drums. Slb currently rigging up Eline PCE/building cablehead for Welltec milling runs, which should commence at some point today. Main/backup MFC strings checked in memory mode. Latest lookahead has Sat 04th July for MFC log, depending on how milling goes.",
     "addedBy": "Leonard Lapiso",
     "date": "29-06-2026 06:24"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Loadout date confirmed Tuesday 30th June. Engineer check-in Friday 3rd July. MH assigned",
-    "addedBy": "Craig Fraser",
-    "date": "28-06-2026 22:44"
   }
 ]
