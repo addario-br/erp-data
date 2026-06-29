@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Container FDOT 3017 loaded and collected today @10:15am",
+    "addedBy": "Joshua Cheyne",
+    "date": "29-06-2026 08:23"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "DFA Crane repaired, swapped out cable drums. Slb currently rigging up Eline PCE/building cablehead for Welltec milling runs, which should commence at some point today. Main/backup MFC strings checked in memory mode. Latest lookahead has Sat 04th July for MFC log, depending on how milling goes.",
@@ -26,12 +33,5 @@
     "comment": "The Storengy job was completed last week/weekend.\nEquipment mobilized 9th June and arrived to Emmen last Sunday 21st. Total 12 days rentals.",
     "addedBy": "Craig Fraser",
     "date": "28-06-2026 22:38"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Logging not expected over the next two days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "28-06-2026 09:10"
   }
 ]
