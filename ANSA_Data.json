@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N46",
+        "formula": "'READ-3rd'!N47",
         "result": 1.34567
       }
     },
@@ -167,6 +167,11 @@
     {
       " ": "READ Ltd",
       "undefined": "N"
+    },
+    {
+      "undefined": {
+        "formula": "DATEDIF(I7,J7,\"D\")"
+      }
     },
     {
       " ": "READ Ltd",
@@ -312,27 +317,27 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$76,\"*Ltd*\",$J$46:$J$76)",
+        "formula": "SUMIF($C$47:$C$77,\"*Ltd*\",$J$47:$J$77)",
         "result": 26090
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$76,\"*Inc*\",$J$46:$J$76)",
+        "formula": "SUMIF($C$47:$C$77,\"*Inc*\",$J$47:$J$77)",
         "result": 12796.599463464296
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$46:$C$76,\"*ANSA*\",$J$46:$J$76)",
+        "formula": "SUMIF($C$47:$C$77,\"*ANSA*\",$J$47:$J$77)",
         "result": 15424.043594385908
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C80:C82)",
+        "formula": "SUM(C81:C83)",
         "result": 54310.643057850204
       }
     }
@@ -18944,7 +18949,7 @@
         "result": "Standard Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Standard*\")",
         "result": 9
       }
     },
@@ -18954,7 +18959,7 @@
         "result": "Priority Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Priority*\")",
         "result": 9
       }
     },
@@ -18964,7 +18969,7 @@
         "result": "FTAs Completed in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H47:H76,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*FTA*\")",
         "result": 9
       }
     },
