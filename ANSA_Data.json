@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N47",
+        "formula": "'READ-3rd'!N48",
         "result": 1.34567
       }
     },
@@ -169,9 +169,12 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I7,J7,\"D\")"
-      }
+      " ": "ANSA",
+      "undefined": "FTA + Standard"
+    },
+    {
+      " ": "ANSA",
+      "undefined": "N"
     },
     {
       " ": "READ Ltd",
@@ -317,27 +320,27 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$47:$C$77,\"*Ltd*\",$J$47:$J$77)",
+        "formula": "SUMIF($C$48:$C$78,\"*Ltd*\",$J$48:$J$78)",
         "result": 26090
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$47:$C$77,\"*Inc*\",$J$47:$J$77)",
+        "formula": "SUMIF($C$48:$C$78,\"*Inc*\",$J$48:$J$78)",
         "result": 12796.599463464296
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$47:$C$77,\"*ANSA*\",$J$47:$J$77)",
+        "formula": "SUMIF($C$48:$C$78,\"*ANSA*\",$J$48:$J$78)",
         "result": 15424.043594385908
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C81:C83)",
+        "formula": "SUM(C82:C84)",
         "result": 54310.643057850204
       }
     }
@@ -18949,7 +18952,7 @@
         "result": "Standard Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H49:H78,\"*Standard*\")",
         "result": 9
       }
     },
@@ -18959,7 +18962,7 @@
         "result": "Priority Reports in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H49:H78,\"*Priority*\")",
         "result": 9
       }
     },
@@ -18969,7 +18972,7 @@
         "result": "FTAs Completed in June"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H77,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H49:H78,\"*FTA*\")",
         "result": 9
       }
     },
