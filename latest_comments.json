@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
+    "comment": "Start of logging run expected tomorrow",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "29-06-2026 09:18"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Container FDOT 3017 loaded and collected today @10:15am",
@@ -26,12 +33,5 @@
     "comment": "Equipment mobilising Monday 29th June. Engineer check-in Wednesday 1st July. GP assigned.",
     "addedBy": "Craig Fraser",
     "date": "28-06-2026 22:43"
-  },
-  {
-    "project": "PRJ03306 - Well Services Group (Exlog) - Exlog (WSG) - EN35 - PLT",
-    "job": "N/A",
-    "comment": "The Storengy job was completed last week/weekend.\nEquipment mobilized 9th June and arrived to Emmen last Sunday 21st. Total 12 days rentals.",
-    "addedBy": "Craig Fraser",
-    "date": "28-06-2026 22:38"
   }
 ]
