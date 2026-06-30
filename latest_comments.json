@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
+    "comment": "Logging expected this afternoon. Data therefore would be early morning.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "30-06-2026 06:45"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Slb RIH with Welltec milling BHA. At 1700ft, beaned up. Observed large tension drop so POOH. Second attempt to RIH and had a similar result, so pulled into catcher and been flowing since 03:30. WSS crew change this morning so will continue after lunch. Lookahead has 4th July for MFC but TBC.",
@@ -26,12 +33,5 @@
     "comment": "Current plan is to mobilise on the 12th July.\nThe MFC24 will be conducted during the week commencing 13th July.",
     "addedBy": "Craig Fraser",
     "date": "29-06-2026 10:48"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Latest lookahead suggests Weds AM logging. Confirmation requested from Perenco prior to arranging Engineer travel for tomorrow",
-    "addedBy": "Craig Fraser",
-    "date": "29-06-2026 09:22"
   }
 ]
