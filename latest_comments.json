@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Abdil's trip extended to Friday 3rd July to cover logging operation. TBC with Total if downman or CC for GBN-17.",
+    "addedBy": "Craig Fraser",
+    "date": "30-06-2026 08:48"
+  },
+  {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Grant travelling from Kazakhstan to Qatar today, expected in Doha 07:30 tomorrow morning. Way forward with this operation TBC today",
+    "addedBy": "Craig Fraser",
+    "date": "30-06-2026 08:47"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
     "job": "N/A",
     "comment": "QAQC requested for tomorrow. Equipment & personnel mob TBC. QPS & QPC shipping from Aberdeen to provide 2x pressure sensors in the string",
@@ -19,19 +33,5 @@
     "comment": "Halliburton have been back in touch, looking at taking 1x MFC60(ext) on rental from Monday. This will be once the equipment is received back from Perenco",
     "addedBy": "Craig Fraser",
     "date": "30-06-2026 08:37"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Logging expected this afternoon. Data therefore would be early morning.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "30-06-2026 06:45"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Slb RIH with Welltec milling BHA. At 1700ft, beaned up. Observed large tension drop so POOH. Second attempt to RIH and had a similar result, so pulled into catcher and been flowing since 03:30. WSS crew change this morning so will continue after lunch. Lookahead has 4th July for MFC but TBC.",
-    "addedBy": "Leonard Lapiso",
-    "date": "30-06-2026 06:29"
   }
 ]
