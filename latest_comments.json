@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Halliburton have been back in touch, looking at taking 1x MFC60(ext) on rental from Monday. This will be once the equipment is received back from Perenco",
+    "addedBy": "Craig Fraser",
+    "date": "30-06-2026 08:37"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43)",
     "comment": "Logging expected this afternoon. Data therefore would be early morning.",
@@ -26,12 +33,5 @@
     "comment": "Converted to Memory PDC opportunity with use of PRC022s. Dual pressure sensor required in the string.",
     "addedBy": "Craig Fraser",
     "date": "29-06-2026 11:38"
-  },
-  {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
-    "job": "N/A",
-    "comment": "Current plan is to mobilise on the 12th July.\nThe MFC24 will be conducted during the week commencing 13th July.",
-    "addedBy": "Craig Fraser",
-    "date": "29-06-2026 10:48"
   }
 ]
