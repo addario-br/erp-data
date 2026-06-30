@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
+    "job": "N/A",
+    "comment": "READ guys are booked for 7th July\n1. Abdilmalik Mohamed 215348\n2. Grant Patterson 60693",
+    "addedBy": "Craig Fraser",
+    "date": "30-06-2026 12:38"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "MH arrived to London. Bags still in Aberdeen, could take 24-48 hours to receive the bags. Depending on BA, maybe they keep them in Aberdeen.",
@@ -26,12 +33,5 @@
     "comment": "QAQC requested for tomorrow. Equipment & personnel mob TBC. QPS & QPC shipping from Aberdeen to provide 2x pressure sensors in the string",
     "addedBy": "Craig Fraser",
     "date": "30-06-2026 08:44"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Melissa on 06:00 flight to London today. MFC run expected to begin 09:30 tomorrow",
-    "addedBy": "Craig Fraser",
-    "date": "30-06-2026 08:43"
   }
 ]
