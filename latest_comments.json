@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
+    "job": "N/A",
+    "comment": "QAQC requested for tomorrow. Equipment & personnel mob TBC. QPS & QPC shipping from Aberdeen to provide 2x pressure sensors in the string",
+    "addedBy": "Craig Fraser",
+    "date": "30-06-2026 08:44"
+  },
+  {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Melissa on 06:00 flight to London today. MFC run expected to begin 09:30 tomorrow",
+    "addedBy": "Craig Fraser",
+    "date": "30-06-2026 08:43"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Halliburton have been back in touch, looking at taking 1x MFC60(ext) on rental from Monday. This will be once the equipment is received back from Perenco",
@@ -19,19 +33,5 @@
     "comment": "Slb RIH with Welltec milling BHA. At 1700ft, beaned up. Observed large tension drop so POOH. Second attempt to RIH and had a similar result, so pulled into catcher and been flowing since 03:30. WSS crew change this morning so will continue after lunch. Lookahead has 4th July for MFC but TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "30-06-2026 06:29"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Logging run expected tomorrow morning. Data expected tomorrow night.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "29-06-2026 18:22"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
-    "job": "N/A",
-    "comment": "Converted to Memory PDC opportunity with use of PRC022s. Dual pressure sensor required in the string.",
-    "addedBy": "Craig Fraser",
-    "date": "29-06-2026 11:38"
   }
 ]
