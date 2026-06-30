@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "MH arrived to London. Bags still in Aberdeen, could take 24-48 hours to receive the bags. Depending on BA, maybe they keep them in Aberdeen.",
+    "addedBy": "Melissa Hernandez",
+    "date": "30-06-2026 10:35"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Abdil's trip extended to Friday 3rd July to cover logging operation. TBC with Total if downman or CC for GBN-17.",
@@ -26,12 +33,5 @@
     "comment": "Melissa on 06:00 flight to London today. MFC run expected to begin 09:30 tomorrow",
     "addedBy": "Craig Fraser",
     "date": "30-06-2026 08:43"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Halliburton have been back in touch, looking at taking 1x MFC60(ext) on rental from Monday. This will be once the equipment is received back from Perenco",
-    "addedBy": "Craig Fraser",
-    "date": "30-06-2026 08:37"
   }
 ]
