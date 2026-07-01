@@ -2,6 +2,13 @@
   {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
+    "comment": "Job completed. Equipment ready to be backloaded to Aberdeen. Pending cleaning of the equipment, Also pending finish all paperwork, and pending London- Denmark Ticket. MH Leaving site 22:20",
+    "addedBy": "Melissa Hernandez",
+    "date": "01-07-2026 23:18"
+  },
+  {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
     "comment": "Data downloaded. No errors. Data merged and corrected. Data deliverd to the client",
     "addedBy": "Melissa Hernandez",
     "date": "01-07-2026 19:54"
@@ -26,12 +33,5 @@
     "comment": "Operation has been cancelled (suspect due to crane malfunction). Container is at Shorebase yard #5 and comms have been sent to Pentagon to collect",
     "addedBy": "Craig Fraser",
     "date": "01-07-2026 10:12"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
-    "comment": "Caliper Run ongoing data expected around 22:30 Denmark time.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "01-07-2026 08:23"
   }
 ]
