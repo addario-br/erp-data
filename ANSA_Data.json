@@ -157,16 +157,16 @@
       "undefined": "JL"
     },
     {
-      " ": "READ Inc",
-      "undefined": "Y"
-    },
-    {
       " ": "READ Ltd",
       "undefined": "Y"
     },
     {
       " ": "ANSA",
       "undefined": "FTA + Standard"
+    },
+    {
+      " ": "READ Inc",
+      "undefined": "Y"
     },
     {
       " ": "ANSA",
@@ -18965,7 +18965,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Standard Reports in \",B1)",
-        "result": "Standard Reports in June"
+        "result": "Standard Reports in July"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H52:H81,\"*Standard*\")",
@@ -18975,7 +18975,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Priority Reports in \",B1)",
-        "result": "Priority Reports in June"
+        "result": "Priority Reports in July"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H52:H81,\"*Priority*\")",
@@ -18985,7 +18985,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"FTAs Completed in \",B1)",
-        "result": "FTAs Completed in June"
+        "result": "FTAs Completed in July"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H52:H81,\"*FTA*\")",
