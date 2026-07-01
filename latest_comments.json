@@ -7,6 +7,13 @@
     "date": "01-07-2026 23:18"
   },
   {
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Archer tool rental opportunity - 2x RBT, 3x PRC041, 1x PKJ13\nLoadout date - 13th July",
+    "addedBy": "Craig Fraser",
+    "date": "01-07-2026 22:28"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Data downloaded. No errors. Data merged and corrected. Data deliverd to the client",
@@ -26,12 +33,5 @@
     "comment": "Batery connected 9:39:00. Expected to be in TD before 11:45:00. POOH 12:00. Expected be on surface 17:00 No FTA required.",
     "addedBy": "Melissa Hernandez",
     "date": "01-07-2026 10:56"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Operation has been cancelled (suspect due to crane malfunction). Container is at Shorebase yard #5 and comms have been sent to Pentagon to collect",
-    "addedBy": "Craig Fraser",
-    "date": "01-07-2026 10:12"
   }
 ]
