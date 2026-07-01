@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Receive clients call. MFC 60 will be this morning.",
+    "addedBy": "Melissa Hernandez",
+    "date": "01-07-2026 07:29"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "GP arrived in Doha 07:00.",
@@ -26,12 +33,5 @@
     "comment": "READ guys are booked for 7th July\n1. Abdilmalik Mohamed 215348\n2. Grant Patterson 60693",
     "addedBy": "Craig Fraser",
     "date": "30-06-2026 12:38"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "MH arrived to London. Bags still in Aberdeen, could take 24-48 hours to receive the bags. Depending on BA, maybe they keep them in Aberdeen.",
-    "addedBy": "Melissa Hernandez",
-    "date": "30-06-2026 10:35"
   }
 ]
