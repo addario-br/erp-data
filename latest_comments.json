@@ -7,6 +7,13 @@
     "date": "01-07-2026 10:56"
   },
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Operation has been cancelled (suspect due to crane malfunction). Container is at Shorebase yard #5 and comms have been sent to Pentagon to collect",
+    "addedBy": "Craig Fraser",
+    "date": "01-07-2026 10:12"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43)",
     "comment": "Caliper Run ongoing data expected around 22:30 Denmark time.",
@@ -26,12 +33,5 @@
     "comment": "GP arrived in Doha 07:00.",
     "addedBy": "Grant Patterson",
     "date": "01-07-2026 06:35"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Unsuccessful attempt made to RIH with milling BHA with well flowing, reached 240ft then POOH due to large drops in tension. Flowing well since night shift. Plan forward is to try flow the well at a lower choke and make another attempt at some point today. Latest lookahed has MFC rig up 6th July but TBC as yet to start milling.",
-    "addedBy": "Leonard Lapiso",
-    "date": "01-07-2026 06:07"
   }
 ]
