@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Data downloaded. No errors. Data merged and corrected. Data deliverd to the client",
+    "addedBy": "Melissa Hernandez",
+    "date": "01-07-2026 19:54"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Total have postponed the load out of equipment for GBN-17 (MFC24s) until Tuesday next week - 7th July",
@@ -26,12 +33,5 @@
     "comment": "Caliper Run ongoing data expected around 22:30 Denmark time.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "01-07-2026 08:23"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Receive clients call. MFC 60 will be this morning.",
-    "addedBy": "Melissa Hernandez",
-    "date": "01-07-2026 07:29"
   }
 ]
