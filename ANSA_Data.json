@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N51",
+        "formula": "'READ-3rd'!N52",
         "result": 1.34567
       }
     },
@@ -171,6 +171,10 @@
     {
       " ": "ANSA",
       "undefined": "N"
+    },
+    {
+      " ": "ANSA",
+      "undefined": "QC"
     },
     {
       " ": "READ Ltd",
@@ -336,27 +340,27 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$51:$C$81,\"*Ltd*\",$J$51:$J$81)",
+        "formula": "SUMIF($C$52:$C$82,\"*Ltd*\",$J$52:$J$82)",
         "result": 26090
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$51:$C$81,\"*Inc*\",$J$51:$J$81)",
+        "formula": "SUMIF($C$52:$C$82,\"*Inc*\",$J$52:$J$82)",
         "result": 14000.460737030624
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$51:$C$81,\"*ANSA*\",$J$51:$J$81)",
+        "formula": "SUMIF($C$52:$C$82,\"*ANSA*\",$J$52:$J$82)",
         "result": 15424.043594385908
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C85:C87)",
+        "formula": "SUM(C86:C88)",
         "result": 55514.50433141654
       }
     }
@@ -18968,7 +18972,7 @@
         "result": "Standard Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H81,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H53:H82,\"*Standard*\")",
         "result": 9
       }
     },
@@ -18978,7 +18982,7 @@
         "result": "Priority Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H81,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H53:H82,\"*Priority*\")",
         "result": 10
       }
     },
@@ -18988,7 +18992,7 @@
         "result": "FTAs Completed in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H81,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H53:H82,\"*FTA*\")",
         "result": 9
       }
     },
