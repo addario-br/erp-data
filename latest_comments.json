@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Unsuccessful attempt made to RIH with milling BHA with well flowing, reached 240ft then POOH due to large drops in tension. Flowing well since night shift. Plan forward is to try flow the well at a lower choke and make another attempt at some point today. Latest lookahed has MFC rig up 6th July but TBC as yet to start milling.",
+    "addedBy": "Leonard Lapiso",
+    "date": "01-07-2026 06:07"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "MH arrived on site Perenco, gave me a coverall. Now start testing tool. Logging expect tomorrow nigth.",
@@ -26,12 +33,5 @@
     "comment": "Abdil's trip extended to Friday 3rd July to cover logging operation. TBC with Total if downman or CC for GBN-17.\nNo need for a cc for Abdilmalik Mohamed Friday 3/7, but we would need an engineer for 8/7",
     "addedBy": "Craig Fraser",
     "date": "30-06-2026 08:48"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Grant travelling from Kazakhstan to Qatar today, expected in Doha 07:30 tomorrow morning. Way forward with this operation TBC today",
-    "addedBy": "Craig Fraser",
-    "date": "30-06-2026 08:47"
   }
 ]
