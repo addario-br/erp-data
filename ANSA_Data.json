@@ -169,20 +169,16 @@
       "undefined": "FTA + Standard"
     },
     {
+      " ": "ANSA",
+      "undefined": "N"
+    },
+    {
       " ": "READ Inc",
       "undefined": "Y"
     },
     {
       " ": "ANSA",
-      "undefined": "N"
-    },
-    {
-      " ": "ANSA",
       "undefined": "JV"
-    },
-    {
-      " ": "READ Ltd",
-      "undefined": "N"
     },
     {
       " ": "READ Inc",
@@ -199,6 +195,10 @@
     {
       " ": "READ Ltd",
       "undefined": "Y"
+    },
+    {
+      " ": "READ Ltd",
+      "undefined": "N"
     },
     {
       " ": "ANSA",
