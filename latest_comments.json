@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "MH arrived to Esbjerg. Check in tomorrow before 10:30.",
+    "addedBy": "Melissa Hernandez",
+    "date": "02-07-2026 23:27"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
     "comment": "Departure date now changed to the 10th of July. If MFC rerun is required is not confirmed yet. Will update all relevant parties once confirmed.",
@@ -26,12 +33,5 @@
     "comment": "Mobilisation for kit now planned for the 7th. Inspection delayed until start of next week.",
     "addedBy": "Grant Patterson",
     "date": "02-07-2026 07:22"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Container returned to READ yard 01/07/26.",
-    "addedBy": "Grant Patterson",
-    "date": "02-07-2026 07:21"
   }
 ]
