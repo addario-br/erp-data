@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
+    "job": "N/A",
+    "comment": "Mobilisation for kit now planned for the 7th. Inspection delayed until start of next week.",
+    "addedBy": "Grant Patterson",
+    "date": "02-07-2026 07:22"
+  },
+  {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Container returned to READ yard 01/07/26.",
+    "addedBy": "Grant Patterson",
+    "date": "02-07-2026 07:21"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Decision made to mill while injecting water. Milled 1856ft - 1910ft, over ~12 hour period, then POOH, laid down lubricator and mast due to expected high wind speed. Ops on standby pending winds, expected to come down early tomorrow am. Timing for MFC logging TBC.",
@@ -19,19 +33,5 @@
     "comment": "Archer tool rental opportunity - 2x RBT, 3x PRC041, 1x PKJ13\nLoadout date - 13th July",
     "addedBy": "Craig Fraser",
     "date": "01-07-2026 22:28"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Data downloaded. No errors. Data merged and corrected. Data deliverd to the client",
-    "addedBy": "Melissa Hernandez",
-    "date": "01-07-2026 19:54"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Total have postponed the load out of equipment for GBN-17 (MFC24s) until Tuesday next week - 7th July",
-    "addedBy": "Craig Fraser",
-    "date": "01-07-2026 12:07"
   }
 ]
