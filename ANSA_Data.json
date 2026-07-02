@@ -169,14 +169,6 @@
       "undefined": "N"
     },
     {
-      " ": "READ Inc",
-      "undefined": "N"
-    },
-    {
-      " ": "READ Inc",
-      "undefined": "Y"
-    },
-    {
       " ": "ANSA",
       "undefined": "JV"
     },
@@ -187,6 +179,14 @@
     {
       " ": "ANSA",
       "undefined": "FT"
+    },
+    {
+      " ": "READ Inc",
+      "undefined": "N"
+    },
+    {
+      " ": "READ Inc",
+      "undefined": "Y"
     },
     {
       " ": "READ Ltd",
