@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43)",
+    "comment": "Down manning for tomorrow not confirmed yet.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "02-07-2026 09:22"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "MH arrived to Heathrow. Bags were sent back to Aberdeen. According to the BA and due to the high volume of claims they will contact me once my bags are ready to be delivered.",
@@ -26,12 +33,5 @@
     "comment": "Decision made to mill while injecting water. Milled 1856ft - 1910ft, over ~12 hour period, then POOH, laid down lubricator and mast due to expected high wind speed. Ops on standby pending winds, expected to come down early tomorrow am. Timing for MFC logging TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "02-07-2026 06:57"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Job completed. Equipment ready to be backloaded to Aberdeen. Pending cleaning of the equipment, Also pending finish all paperwork, and pending London- Denmark Ticket. MH Leaving site 22:20",
-    "addedBy": "Melissa Hernandez",
-    "date": "01-07-2026 23:18"
   }
 ]
