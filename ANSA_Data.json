@@ -230,6 +230,7 @@
       "undefined": " "
     },
     {
+      " ": "2026-07-02T00:00:00.000Z",
       "undefined": " "
     },
     {
@@ -19340,7 +19341,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H56:H85,\"*FTA*\")",
-        "result": 1
+        "result": 2
       }
     },
     {
@@ -19354,7 +19355,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "74+32+B2+B3+B4",
-        "result": 107
+        "result": 108
       }
     },
     {
