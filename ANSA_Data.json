@@ -158,7 +158,7 @@
     },
     {
       " ": "READ Ltd",
-      "undefined": "JM"
+      "undefined": "JM (FTA on 02 Jul)"
     },
     {
       " ": "ANSA",
@@ -219,127 +219,149 @@
       "undefined": "95 KB"
     },
     {
-      " ": "Delivered - June"
+      " ": "Delivered - July"
     },
     {
       " ": "Date Delivered",
       "undefined": " "
     },
     {
-      " ": "2026-06-02T00:00:00.000Z",
+      " ": "2026-07-02T00:00:00.000Z",
       "undefined": " "
     },
     {
-      " ": "2026-06-02T00:00:00.000Z",
       "undefined": " "
     },
     {
-      " ": "2026-06-05T00:00:00.000Z",
       "undefined": " "
     },
     {
-      " ": "2026-06-05T00:00:00.000Z",
       "undefined": " "
     },
     {
-      " ": "2026-06-08T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I60/N55"
+      }
     },
     {
-      " ": "2026-06-08T00:00:00.000Z",
-      "undefined": "INV-0577"
+      "undefined": {
+        "formula": "I61/$N$58"
+      }
     },
     {
-      " ": "2026-06-09T00:00:00.000Z",
-      "undefined": "READ Ltd pass through revenue"
+      "undefined": {
+        "formula": "I62/N58"
+      }
     },
     {
-      " ": "2026-06-09T00:00:00.000Z",
-      "undefined": "READ Ltd pass through revenue"
+      "undefined": {
+        "formula": "I63/N58"
+      }
     },
     {
-      " ": "2026-06-09T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I64/N55"
+      }
     },
     {
-      " ": "2026-06-10T00:00:00.000Z",
-      "undefined": "READ Ltd pass through revenue"
+      "undefined": {
+        "formula": "I65/N58"
+      }
     },
     {
-      " ": "2026-06-11T00:00:00.000Z",
-      "undefined": "INV-0583"
+      "undefined": {
+        "formula": "I66/N58"
+      }
     },
     {
-      " ": "2026-06-12T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I67/N55"
+      }
     },
     {
-      " ": "2026-06-12T00:00:00.000Z",
-      "undefined": "INV-0585"
+      "undefined": {
+        "formula": "I68"
+      }
     },
     {
-      " ": "2026-06-14T00:00:00.000Z",
-      "undefined": "INV-0585"
+      "undefined": {
+        "formula": "I69"
+      }
     },
     {
-      " ": "2026-06-14T00:00:00.000Z",
-      "undefined": "READ Inc pass through revenue"
+      "undefined": {
+        "formula": "I70/N55"
+      }
     },
     {
-      " ": "2026-06-15T00:00:00.000Z",
-      "undefined": "INV-0585"
+      "undefined": {
+        "formula": "I71"
+      }
     },
     {
-      " ": "2026-06-16T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I72/N55"
+      }
     },
     {
-      " ": "2026-06-16T00:00:00.000Z",
-      "undefined": "INV-0585"
+      "undefined": {
+        "formula": "I73"
+      }
     },
     {
-      " ": "2026-06-17T00:00:00.000Z",
-      "undefined": "OOH QC on 13-Jun, OH QC on 14-May"
+      "undefined": {
+        "formula": "I74/N55"
+      }
     },
     {
-      " ": "2026-06-17T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I75/N55"
+      }
     },
     {
-      " ": "2026-06-17T00:00:00.000Z",
-      "undefined": "OOH QC on 15-Jun"
+      "undefined": {
+        "formula": "I76/N55"
+      }
     },
     {
-      " ": "2026-06-19T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I77/N55"
+      }
     },
     {
-      " ": "2026-06-19T00:00:00.000Z",
-      "undefined": "INV-0582"
+      "undefined": {
+        "formula": "I78/N55"
+      }
     },
     {
-      " ": "2026-06-19T00:00:00.000Z",
-      "undefined": "INV-0585"
+      "undefined": {
+        "formula": "I79"
+      }
     },
     {
-      " ": "2026-06-21T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I80/N55"
+      }
     },
     {
-      " ": "2026-06-16T00:00:00.000Z",
-      "undefined": "INV-0585"
+      "undefined": {
+        "formula": "I81"
+      }
     },
     {
-      " ": "2026-06-23T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I82/N55"
+      }
     },
     {
-      " ": "2026-06-26T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I83/N55"
+      }
     },
     {
-      " ": "2026-06-29T00:00:00.000Z",
-      "undefined": "INV-0584"
+      "undefined": {
+        "formula": "I84/N55"
+      }
     },
     {
       " ": "June",
@@ -352,28 +374,24 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$55:$C$85,\"*Ltd*\",$J$55:$J$85)",
-        "result": 26090
+        "formula": "SUMIF($C$55:$C$85,\"*Ltd*\",$J$55:$J$85)"
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$55:$C$85,\"*Inc*\",$J$55:$J$85)",
-        "result": 14000.460737030624
+        "formula": "SUMIF($C$55:$C$85,\"*Inc*\",$J$55:$J$85)"
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$55:$C$85,\"*ANSA*\",$J$55:$J$85)",
-        "result": 15424.043594385908
+        "formula": "SUMIF($C$55:$C$85,\"*ANSA*\",$J$55:$J$85)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C89:C91)",
-        "result": 55514.50433141654
+        "formula": "SUM(C89:C91)"
       }
     }
   ],
@@ -19303,8 +19321,7 @@
         "result": "Standard Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*Standard*\")",
-        "result": 9
+        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*Standard*\")"
       }
     },
     {
@@ -19313,8 +19330,7 @@
         "result": "Priority Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*Priority*\")",
-        "result": 10
+        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*Priority*\")"
       }
     },
     {
@@ -19324,7 +19340,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H56:H85,\"*FTA*\")",
-        "result": 9
+        "result": 1
       }
     },
     {
@@ -19338,7 +19354,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "74+32+B2+B3+B4",
-        "result": 134
+        "result": 107
       }
     },
     {
