@@ -2,7 +2,14 @@
   {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
-    "comment": "Batery connected @ 18:13:55. Fingers open at 21:22:55. Start to POOH @ 21:36:00.",
+    "comment": "TEC03 MFC40 run Completed. Data ok no errors. LAS now in Ansa Share point. Pendint to complete paperwork and fitcheck.",
+    "addedBy": "Melissa Hernandez",
+    "date": "05-07-2026 06:07"
+  },
+  {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Batery connected @ 18:13:55. Fingers open at 21:22:55. Start to POOH @ 21:36:00. Expected on surface 02:30 am",
     "addedBy": "Melissa Hernandez",
     "date": "04-07-2026 19:04"
   },
@@ -26,12 +33,5 @@
     "comment": "Data expected today afternoon.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "04-07-2026 01:20"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "MH arrived to TE, induction done. NO access to container. MFC40 caliper expected tomorrow morning. Checks expected to do tonight., Once I get access. FTA No required",
-    "addedBy": "Melissa Hernandez",
-    "date": "03-07-2026 16:27"
   }
 ]
