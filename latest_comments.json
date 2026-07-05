@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
+    "job": "N/A",
+    "comment": "Additional tools arrived today and tested with back-up string. Inspection planned for tomorrow morning at 9:30am. Still waiting for any updates on mobilisation date.",
+    "addedBy": "Grant Patterson",
+    "date": "05-07-2026 17:21"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
     "comment": "No logging expected for the next couple\nOf days",
@@ -26,12 +33,5 @@
     "comment": "Batery connected @ 18:13:55. Fingers open at 21:22:55. Start to POOH @ 21:36:00. Expected on surface 02:30 am",
     "addedBy": "Melissa Hernandez",
     "date": "04-07-2026 19:04"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Main Tool string Ready to go . Now running drift run to 7600 ft. MFC40 run expected in a couple of hours.",
-    "addedBy": "Melissa Hernandez",
-    "date": "04-07-2026 09:21"
   }
 ]
