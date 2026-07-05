@@ -7,6 +7,13 @@
     "date": "05-07-2026 06:07"
   },
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Re-started milling during the night shift. At shift change this morning, reached a depth of ~2800ft. Continue milling and most likely flow the well midday, possibly for another 12 hours. Latest lookahead has MFC logging Thursday 9th July.",
+    "addedBy": "Leonard Lapiso",
+    "date": "05-07-2026 05:55"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
     "comment": "Batery connected @ 18:13:55. Fingers open at 21:22:55. Start to POOH @ 21:36:00. Expected on surface 02:30 am",
@@ -26,12 +33,5 @@
     "comment": "Re-commenced milling late yesterday afternoon. Depth of 2482ft reached, then POOH and currently flowing the well for the next ~12 hours. At some point Slb will change out their wireline unit modules, but they might want to mill more before doing so. Latest lookahead has 9th July for MFC log, but TBC.",
     "addedBy": "Leonard Lapiso",
     "date": "04-07-2026 06:28"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
-    "comment": "Data expected today afternoon.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "04-07-2026 01:20"
   }
 ]
