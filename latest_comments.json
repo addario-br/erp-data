@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "Run date to be received once the end client has given HG Wells the final sequencing. Equipment to be ready by Friday 10th Jul",
+    "addedBy": "Craig Fraser",
+    "date": "06-07-2026 13:22"
+  },
+  {
     "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
     "job": "N/A",
     "comment": "Equipment expected to be delivered back to Viking House by Dyce Carriers today",
@@ -26,12 +33,5 @@
     "comment": "Melissa downmanned early this morning. Next engineer mob for Tyra not expected until end of the month ~26th",
     "addedBy": "Craig Fraser",
     "date": "06-07-2026 13:10"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
-    "comment": "No Logging expected for the next couple of days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "06-07-2026 10:44"
   }
 ]
