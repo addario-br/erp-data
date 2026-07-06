@@ -1,6 +1,27 @@
 [
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Request from Total for Abdil's crew change on Friday 10th. MFC24s also requested for this date",
+    "addedBy": "Craig Fraser",
+    "date": "06-07-2026 13:12"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Ariel (contractor) crew changed with Lenny this morning",
+    "addedBy": "Craig Fraser",
+    "date": "06-07-2026 13:12"
+  },
+  {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Melissa downmanned early this morning. Next engineer mob for Tyra not expected until end of the month ~26th",
+    "addedBy": "Craig Fraser",
+    "date": "06-07-2026 13:10"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
     "comment": "No Logging expected for the next couple of days.",
     "addedBy": "Abdilmalik Mohamed",
@@ -12,26 +33,5 @@
     "comment": "Started milling again after midnight. Reached ~3250ft at shift change this morning. Lookahead has 9th July for MFC logging. LL crew changing today.",
     "addedBy": "Leonard Lapiso",
     "date": "06-07-2026 05:53"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
-    "job": "N/A",
-    "comment": "Additional tools arrived today and tested with back-up string. Inspection planned for tomorrow morning at 9:30am. Still waiting for any updates on mobilisation date.",
-    "addedBy": "Grant Patterson",
-    "date": "05-07-2026 17:21"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
-    "comment": "No logging expected for the next couple\nOf days",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "05-07-2026 08:46"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "TEC03 MFC40 run Completed. Data ok no errors. LAS now in Ansa Share point. Pendint to complete paperwork and fitcheck.",
-    "addedBy": "Melissa Hernandez",
-    "date": "05-07-2026 06:07"
   }
 ]
