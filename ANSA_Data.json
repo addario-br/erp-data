@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N55",
+        "formula": "'READ-3rd'!N56",
         "result": 1.32571
       }
     },
@@ -185,11 +185,15 @@
       "undefined": "JL"
     },
     {
-      " ": "READ Inc",
+      " ": "ANSA",
       "undefined": "Y"
     },
     {
-      " ": "ANSA",
+      " ": "READ Inc",
+      "undefined": "N"
+    },
+    {
+      " ": "READ Inc",
       "undefined": "Y"
     },
     {
@@ -247,42 +251,37 @@
     },
     {
       "undefined": {
-        "formula": "I61/$N$58"
+        "formula": "I62/$N$59"
       }
     },
     {
       "undefined": {
-        "formula": "I62/N58"
+        "formula": "I63/N59"
       }
     },
     {
       "undefined": {
-        "formula": "I63/N58"
+        "formula": "I64/N59"
       }
     },
     {
       "undefined": {
-        "formula": "I64/N55"
+        "formula": "I65/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I65/N58"
+        "formula": "I66/N59"
       }
     },
     {
       "undefined": {
-        "formula": "I66/N58"
+        "formula": "I67/N59"
       }
     },
     {
       "undefined": {
-        "formula": "I67/N55"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I68"
+        "formula": "I68/N56"
       }
     },
     {
@@ -292,77 +291,82 @@
     },
     {
       "undefined": {
-        "formula": "I70/N55"
+        "formula": "I70"
       }
     },
     {
       "undefined": {
-        "formula": "I71"
+        "formula": "I71/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I72/N55"
+        "formula": "I72"
       }
     },
     {
       "undefined": {
-        "formula": "I73"
+        "formula": "I73/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I74/N55"
+        "formula": "I74"
       }
     },
     {
       "undefined": {
-        "formula": "I75/N55"
+        "formula": "I75/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I76/N55"
+        "formula": "I76/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I77/N55"
+        "formula": "I77/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I78/N55"
+        "formula": "I78/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I79"
+        "formula": "I79/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I80/N55"
+        "formula": "I80"
       }
     },
     {
       "undefined": {
-        "formula": "I81"
+        "formula": "I81/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I82/N55"
+        "formula": "I82"
       }
     },
     {
       "undefined": {
-        "formula": "I83/N55"
+        "formula": "I83/N56"
       }
     },
     {
       "undefined": {
-        "formula": "I84/N55"
+        "formula": "I84/N56"
+      }
+    },
+    {
+      "undefined": {
+        "formula": "I85/N56"
       }
     },
     {
@@ -376,24 +380,24 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$55:$C$85,\"*Ltd*\",$J$55:$J$85)"
+        "formula": "SUMIF($C$56:$C$86,\"*Ltd*\",$J$56:$J$86)"
       }
     },
     {
       " ": "READ Cased Hole Inc.",
       "undefined": {
-        "formula": "SUMIF($C$55:$C$85,\"*Inc*\",$J$55:$J$85)"
+        "formula": "SUMIF($C$56:$C$86,\"*Inc*\",$J$56:$J$86)"
       }
     },
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$55:$C$85,\"*ANSA*\",$J$55:$J$85)"
+        "formula": "SUMIF($C$56:$C$86,\"*ANSA*\",$J$56:$J$86)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C89:C91)"
+        "formula": "SUM(C90:C92)"
       }
     }
   ],
@@ -19323,7 +19327,7 @@
         "result": "Standard Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H57:H86,\"*Standard*\")",
         "result": 1
       }
     },
@@ -19333,7 +19337,7 @@
         "result": "Priority Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*Priority*\")"
+        "formula": "COUNTIF('READ-3rd'!H57:H86,\"*Priority*\")"
       }
     },
     {
@@ -19342,7 +19346,7 @@
         "result": "FTAs Completed in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H56:H85,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H57:H86,\"*FTA*\")",
         "result": 4
       }
     },
