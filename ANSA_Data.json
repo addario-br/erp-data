@@ -19353,15 +19353,15 @@
     {
       "Month": "Total Analyses Delivered (Last Month)",
       "[object Object]": {
-        "formula": "SUM(Delivered!H1707:H1712,Delivered!H1714:H1723,Delivered!H1725:H1733)",
-        "result": 25
+        "formula": "SUM(Delivered!H1734:H1762)",
+        "result": 29
       }
     },
     {
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
-        "formula": "74+32+B2+B3+B4",
-        "result": 111
+        "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
+        "result": 148
       }
     },
     {
