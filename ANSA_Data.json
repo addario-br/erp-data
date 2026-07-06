@@ -162,15 +162,11 @@
     },
     {
       " ": "ANSA",
-      "undefined": "N"
+      "undefined": "JP"
     },
     {
       " ": "ANSA",
       "undefined": "JV (QC on 03 Jul)"
-    },
-    {
-      " ": "READ Inc",
-      "undefined": "Y"
     },
     {
       " ": "READ Inc",
@@ -183,6 +179,10 @@
     {
       " ": "READ Ltd",
       "undefined": "N"
+    },
+    {
+      " ": "READ Inc",
+      "undefined": "Y"
     },
     {
       " ": "READ Ltd",
