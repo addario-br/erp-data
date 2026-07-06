@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Started milling again after midnight. Reached ~3250ft at shift change this morning. Lookahead has 9th July for MFC logging. LL crew changing today.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-07-2026 05:53"
+  },
+  {
     "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
     "job": "N/A",
     "comment": "Additional tools arrived today and tested with back-up string. Inspection planned for tomorrow morning at 9:30am. Still waiting for any updates on mobilisation date.",
@@ -26,12 +33,5 @@
     "comment": "Re-started milling during the night shift. At shift change this morning, reached a depth of ~2800ft. Continue milling and most likely flow the well midday, possibly for another 12 hours. Latest lookahead has MFC logging Thursday 9th July.",
     "addedBy": "Leonard Lapiso",
     "date": "05-07-2026 05:55"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Batery connected @ 18:13:55. Fingers open at 21:22:55. Start to POOH @ 21:36:00. Expected on surface 02:30 am",
-    "addedBy": "Melissa Hernandez",
-    "date": "04-07-2026 19:04"
   }
 ]
