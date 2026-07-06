@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
+    "job": "N/A",
+    "comment": "Equipment expected to be delivered back to Viking House by Dyce Carriers today",
+    "addedBy": "Craig Fraser",
+    "date": "06-07-2026 13:19"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Request from Total for Abdil's crew change on Friday 10th. MFC24s also requested for this date",
@@ -26,12 +33,5 @@
     "comment": "No Logging expected for the next couple of days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "06-07-2026 10:44"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Started milling again after midnight. Reached ~3250ft at shift change this morning. Lookahead has 9th July for MFC logging. LL crew changing today.",
-    "addedBy": "Leonard Lapiso",
-    "date": "06-07-2026 05:53"
   }
 ]
