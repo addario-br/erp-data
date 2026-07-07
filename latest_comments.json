@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Container No. 44082 arrived back at the quayside today.",
+    "addedBy": "Dave Simpson",
+    "date": "07-07-2026 10:15"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Eline at 3860ft continuing with milling, logging expected towards the end of the week. Depth setup has been tested through SLB system",
@@ -26,12 +33,5 @@
     "comment": "Run date to be received once the end client has given HG Wells the final sequencing. Equipment to be ready by Friday 10th Jul",
     "addedBy": "Craig Fraser",
     "date": "06-07-2026 13:22"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Equipment expected to be delivered back to Viking House by Dyce Carriers today",
-    "addedBy": "Craig Fraser",
-    "date": "06-07-2026 13:19"
   }
 ]
