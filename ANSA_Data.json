@@ -397,13 +397,14 @@
     {
       " ": "ANSA Services ",
       "undefined": {
-        "formula": "SUMIF($C$57:$C$87,\"*ANSA*\",$J$57:$J$87)"
+        "formula": "SUMIF($C$57:$C$87,\"*ANSA*\",$J$57:$J$87)",
+        "result": 3860.4789858683707
       }
     },
     {
       "undefined": {
         "formula": "SUM(C91:C93)",
-        "result": 9500
+        "result": 13360.47898586837
       }
     }
   ],
