@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
+    "comment": "No logging expected for the next couple of days.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "07-07-2026 11:06"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
     "comment": "Container No. 44082 arrived back at the quayside today.",
@@ -26,12 +33,5 @@
     "comment": "Perenco kit has arrived back at Viking House this morning",
     "addedBy": "Dave Simpson",
     "date": "06-07-2026 13:28"
-  },
-  {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
-    "job": "N/A",
-    "comment": "Run date to be received once the end client has given HG Wells the final sequencing. Equipment to be ready by Friday 10th Jul",
-    "addedBy": "Craig Fraser",
-    "date": "06-07-2026 13:22"
   }
 ]
