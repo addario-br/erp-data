@@ -384,7 +384,8 @@
     {
       " ": "READ Cased Hole Ltd.",
       "undefined": {
-        "formula": "SUMIF($C$57:$C$87,\"*Ltd*\",$J$57:$J$87)"
+        "formula": "SUMIF($C$57:$C$87,\"*Ltd*\",$J$57:$J$87)",
+        "result": 9500
       }
     },
     {
@@ -401,7 +402,8 @@
     },
     {
       "undefined": {
-        "formula": "SUM(C91:C93)"
+        "formula": "SUM(C91:C93)",
+        "result": 9500
       }
     }
   ],
