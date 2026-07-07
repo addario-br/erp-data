@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
+    "comment": "Eline at 3860ft continuing with milling, logging expected towards the end of the week. Depth setup has been tested through SLB system",
+    "addedBy": "Craig Fraser",
+    "date": "07-07-2026 09:40"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "9894 MSS job due to comence on 21st July. SK/DC and JH/RY assigned to project. JH/RY to crew change on 22nd july. SK and DC to crew change on 3rd August due to military Service. expected to last 22days.",
@@ -26,12 +33,5 @@
     "comment": "Equipment expected to be delivered back to Viking House by Dyce Carriers today",
     "addedBy": "Craig Fraser",
     "date": "06-07-2026 13:19"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Request from Total for Abdil's crew change on Friday 10th. MFC24s also requested for this date",
-    "addedBy": "Craig Fraser",
-    "date": "06-07-2026 13:12"
   }
 ]
