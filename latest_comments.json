@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Halliburton have collected the MFC60 caliper for rental this morning.",
+    "addedBy": "Dave Simpson",
+    "date": "08-07-2026 09:59"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
     "comment": "No logging expected for the next couple of days.",
@@ -26,12 +33,5 @@
     "comment": "9894 MSS job due to comence on 21st July. SK/DC and JH/RY assigned to project. JH/RY to crew change on 22nd july. SK and DC to crew change on 3rd August due to military Service. expected to last 22days.",
     "addedBy": "Jonathan Howe",
     "date": "07-07-2026 09:30"
-  },
-  {
-    "project": "PRJ03335 - Perenco - Wytch Farm - F-22 - MFC",
-    "job": "N/A",
-    "comment": "Perenco kit has arrived back at Viking House this morning",
-    "addedBy": "Dave Simpson",
-    "date": "06-07-2026 13:28"
   }
 ]
