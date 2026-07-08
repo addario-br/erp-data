@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "The Tyra kit has been collected from the quay-side this morning and is back at Norsea base",
+    "addedBy": "Dave Simpson",
+    "date": "08-07-2026 10:00"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Halliburton have collected the MFC60 caliper for rental this morning.",
@@ -16,7 +23,7 @@
   {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
-    "comment": "Container No. 44082 arrived back at the quayside today.",
+    "comment": "Container No. 44082 arrived back at the quay-side today.",
     "addedBy": "Dave Simpson",
     "date": "07-07-2026 10:15"
   },
@@ -26,12 +33,5 @@
     "comment": "Eline at 3860ft continuing with milling, logging expected towards the end of the week. Depth setup has been tested through SLB system",
     "addedBy": "Craig Fraser",
     "date": "07-07-2026 09:40"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "N/A",
-    "comment": "9894 MSS job due to comence on 21st July. SK/DC and JH/RY assigned to project. JH/RY to crew change on 22nd july. SK and DC to crew change on 3rd August due to military Service. expected to last 22days.",
-    "addedBy": "Jonathan Howe",
-    "date": "07-07-2026 09:30"
   }
 ]
