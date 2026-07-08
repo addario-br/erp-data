@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Archer update - they only want 1 RBT now + the 3 PRC041's and 1 x PKJ. The collection has been pushed back to Tuesday 14th July.",
+    "addedBy": "Dave Simpson",
+    "date": "08-07-2026 15:58"
+  },
+  {
     "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
     "job": "N/A",
     "comment": "Latest update from HG Wells is the MFC24 log has been pushed back to 1st Aug. A further update will be provided next week.",
@@ -26,12 +33,5 @@
     "comment": "Halliburton have collected the MFC60 caliper for rental this morning.",
     "addedBy": "Dave Simpson",
     "date": "08-07-2026 09:59"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
-    "comment": "No logging expected for the next couple of days.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "07-07-2026 11:06"
   }
 ]
