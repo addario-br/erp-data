@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "Latest update from HG Wells is the MFC24 log has been pushed back to 1st Aug. A further update will be provided next week.",
+    "addedBy": "Dave Simpson",
+    "date": "08-07-2026 14:27"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
     "comment": "No logging expected before Crew Change on 10th.",
@@ -26,12 +33,5 @@
     "comment": "No logging expected for the next couple of days.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "07-07-2026 11:06"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Container No. 44082 arrived back at the quay-side today.",
-    "addedBy": "Dave Simpson",
-    "date": "07-07-2026 10:15"
   }
 ]
