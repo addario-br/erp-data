@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-2 Gorm GBN43 (N-43) Tubular Integrity",
+    "comment": "No logging expected before Crew Change on 10th.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "08-07-2026 11:04"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
     "comment": "The Tyra kit has been collected from the quay-side this morning and is back at Norsea base",
@@ -26,12 +33,5 @@
     "comment": "Container No. 44082 arrived back at the quay-side today.",
     "addedBy": "Dave Simpson",
     "date": "07-07-2026 10:15"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Eline at 3860ft continuing with milling, logging expected towards the end of the week. Depth setup has been tested through SLB system",
-    "addedBy": "Craig Fraser",
-    "date": "07-07-2026 09:40"
   }
 ]
