@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "ERF completed. RBT to have annual calibration before loadout. PRC041's and PKJ ready",
+    "addedBy": "Dave Simpson",
+    "date": "09-07-2026 10:32"
+  },
+  {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "ERF completed, packing list and shipment still to be created and kit still to be tested prior to loadout.",
+    "addedBy": "Dave Simpson",
+    "date": "09-07-2026 10:30"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
     "comment": "Actions required prior to re-mob: Warrior keys to be added to kit, FIT checks to be completed, Toolbox restocked, Finger repair to caliper",
@@ -19,19 +33,5 @@
     "comment": "No logging expected over the next couple of days. A.Mohamed off on tomorrows flight.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "09-07-2026 09:28"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Experiencing issues getting stuck during milling, flowing the well periodically in between. Due to this caliper log has been pushed to Sunday 12th on the lookahead",
-    "addedBy": "Craig Fraser",
-    "date": "09-07-2026 09:24"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Melissa travelling to Esbjerg today via Billund to CC Abdil tomorrow",
-    "addedBy": "Craig Fraser",
-    "date": "09-07-2026 08:47"
   }
 ]
