@@ -181,12 +181,12 @@
       "undefined": "TF"
     },
     {
-      " ": "ANSA",
-      "undefined": "MS"
-    },
-    {
       " ": "READ Inc",
       "undefined": "N"
+    },
+    {
+      " ": "ANSA",
+      "undefined": "MS"
     },
     {
       " ": "READ Ltd",
@@ -383,13 +383,13 @@
       " ": "ANSA Services ",
       "undefined": {
         "formula": "SUMIF($C$54:$C$84,\"*ANSA*\",$J$54:$J$84)",
-        "result": 3860.4789858683707
+        "result": 5152.223874864427
       }
     },
     {
       "undefined": {
         "formula": "SUM(C88:C90)",
-        "result": 17237.646692229493
+        "result": 18529.391581225547
       }
     }
   ],
