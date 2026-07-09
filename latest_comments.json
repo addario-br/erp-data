@@ -7,6 +7,13 @@
     "date": "09-07-2026 13:03"
   },
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "GBN-17 Logging Expected Late Monday 13th.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "09-07-2026 12:45"
+  },
+  {
     "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
     "job": "N/A",
     "comment": "ERF completed. RBT to have annual calibration before loadout. PRC041's and PKJ ready",
@@ -26,12 +33,5 @@
     "comment": "Actions required prior to re-mob: Warrior keys to be added to kit, FIT checks to be completed, Toolbox restocked, Finger repair to caliper",
     "addedBy": "Craig Fraser",
     "date": "09-07-2026 09:47"
-  },
-  {
-    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
-    "job": "N/A",
-    "comment": "Gauges arrived back at SLB, Denmark Thurs 2nd July. Rental invoiced on INV-0791",
-    "addedBy": "Craig Fraser",
-    "date": "09-07-2026 09:40"
   }
 ]
