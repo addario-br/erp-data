@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "MH arrived to Esbjerg. Check in tomorrow no later than 7:00. Luggage was lost again.",
+    "addedBy": "Melissa Hernandez",
+    "date": "09-07-2026 13:03"
+  },
+  {
     "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
     "job": "N/A",
     "comment": "ERF completed. RBT to have annual calibration before loadout. PRC041's and PKJ ready",
@@ -26,12 +33,5 @@
     "comment": "Gauges arrived back at SLB, Denmark Thurs 2nd July. Rental invoiced on INV-0791",
     "addedBy": "Craig Fraser",
     "date": "09-07-2026 09:40"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "No logging expected over the next couple of days. A.Mohamed off on tomorrows flight.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "09-07-2026 09:28"
   }
 ]
