@@ -254,9 +254,8 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "I63/N54"
-      }
+      " ": "2026-07-08T00:00:00.000Z",
+      "undefined": "READ Ltd pass-through"
     },
     {
       "undefined": {
@@ -19341,7 +19340,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H55:H84,\"*FTA*\")",
-        "result": 5
+        "result": 6
       }
     },
     {
@@ -19355,7 +19354,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 151
+        "result": 152
       }
     },
     {
