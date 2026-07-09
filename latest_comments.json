@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "caliper service now scheduled to be conducted between the 30th July - 1st August. PO received",
+    "addedBy": "Craig Fraser",
+    "date": "09-07-2026 13:37"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "MH arrived to Esbjerg. Check in tomorrow no later than 7:00. Luggage was lost again.",
@@ -26,12 +33,5 @@
     "comment": "ERF completed, packing list and shipment still to be created and kit still to be tested prior to loadout.",
     "addedBy": "Dave Simpson",
     "date": "09-07-2026 10:30"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Actions required prior to re-mob: Warrior keys to be added to kit, FIT checks to be completed, Toolbox restocked, Finger repair to caliper",
-    "addedBy": "Craig Fraser",
-    "date": "09-07-2026 09:47"
   }
 ]
