@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
+    "job": "N/A",
+    "comment": "Gauges arrived back at SLB, Denmark Thurs 2nd July. Rental invoiced on INV-0791",
+    "addedBy": "Craig Fraser",
+    "date": "09-07-2026 09:40"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "No logging expected over the next couple of days. A.Mohamed off on tomorrows flight.",
@@ -26,12 +33,5 @@
     "comment": "Inspection complete on the 6th. Issues with cranes offshore means they will likely change wellhead. No confirmed date yet. GP arrived back in Aberdeen on the 8th at 19:00.",
     "addedBy": "Grant Patterson",
     "date": "09-07-2026 08:28"
-  },
-  {
-    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Archer update - they only want 1 RBT now + the 3 PRC041's and 1 x PKJ. The collection has been pushed back to Tuesday 14th July.",
-    "addedBy": "Dave Simpson",
-    "date": "08-07-2026 15:58"
   }
 ]
