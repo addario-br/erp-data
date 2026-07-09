@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Actions required prior to re-mob: Warrior keys to be added to kit, FIT checks to be completed, Toolbox restocked, Finger repair to caliper",
+    "addedBy": "Craig Fraser",
+    "date": "09-07-2026 09:47"
+  },
+  {
     "project": "PRJ03321 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
     "job": "N/A",
     "comment": "Gauges arrived back at SLB, Denmark Thurs 2nd July. Rental invoiced on INV-0791",
@@ -26,12 +33,5 @@
     "comment": "Melissa travelling to Esbjerg today via Billund to CC Abdil tomorrow",
     "addedBy": "Craig Fraser",
     "date": "09-07-2026 08:47"
-  },
-  {
-    "project": "PRJ03307 - Well Sanam - Qatar Head Office - NFR4-001_NFR4-009 - MFC",
-    "job": "N/A",
-    "comment": "Inspection complete on the 6th. Issues with cranes offshore means they will likely change wellhead. No confirmed date yet. GP arrived back in Aberdeen on the 8th at 19:00.",
-    "addedBy": "Grant Patterson",
-    "date": "09-07-2026 08:28"
   }
 ]
