@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "No logging expected over the next couple of days. A.Mohamed off on tomorrows flight.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "09-07-2026 09:28"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Experiencing issues getting stuck during milling, flowing the well periodically in between. Due to this caliper log has been pushed to Sunday 12th on the lookahead",
@@ -26,12 +33,5 @@
     "comment": "Archer update - they only want 1 RBT now + the 3 PRC041's and 1 x PKJ. The collection has been pushed back to Tuesday 14th July.",
     "addedBy": "Dave Simpson",
     "date": "08-07-2026 15:58"
-  },
-  {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
-    "job": "N/A",
-    "comment": "Latest update from HG Wells is the MFC24 log has been pushed back to 1st Aug. A further update will be provided next week.",
-    "addedBy": "Dave Simpson",
-    "date": "08-07-2026 14:27"
   }
 ]
