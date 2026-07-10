@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Crew changed for today cancelled due to weather. Crew change now tomorrow Afternoon. A.Mohamed/M.Hernandez",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "10-07-2026 13:01"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
     "comment": "Logging expected late Monday. A.Mohamed CC M.Hernandez",
     "addedBy": "Abdilmalik Mohamed",
@@ -26,12 +33,5 @@
     "comment": "caliper service now scheduled to be conducted between the 30th July - 1st August. PO received",
     "addedBy": "Craig Fraser",
     "date": "09-07-2026 13:37"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "MH arrived to Esbjerg. Check in tomorrow no later than 7:00. Luggage was lost again.",
-    "addedBy": "Melissa Hernandez",
-    "date": "09-07-2026 13:03"
   }
 ]
