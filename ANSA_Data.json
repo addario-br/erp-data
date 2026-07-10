@@ -149,55 +149,42 @@
   ],
   "READ-3rd": [
     {
-      "GBN-17": "Owner",
       "undefined": 7
     },
     {
-      "GBN-17": "READ Ltd",
       "undefined": "JM/JL (FTAs on 02 & 04 Jul)"
     },
     {
-      "GBN-17": "ANSA",
       "undefined": "JP"
     },
     {
-      "GBN-17": "READ Inc",
       "undefined": "MS"
     },
     {
-      "GBN-17": "READ Ltd",
       "undefined": "JV"
     },
     {
-      "GBN-17": "ANSA",
       "undefined": "TF"
     },
     {
-      "GBN-17": "READ Inc",
       "undefined": "FT"
     },
     {
-      "GBN-17": "ANSA",
       "undefined": "MS"
     },
     {
-      "GBN-17": "READ Inc",
       "undefined": "N"
     },
     {
-      "GBN-17": "READ Inc",
       "undefined": "N"
     },
     {
-      "GBN-17": "READ Ltd",
       "undefined": "Y"
     },
     {
-      "GBN-17": "READ Ltd",
       "undefined": "N"
     },
     {
-      "GBN-17": "READ Ltd",
       "undefined": "N"
     },
     {
@@ -207,54 +194,42 @@
       "undefined": "95 KB"
     },
     {
-      "GBN-17": "Delivered - July"
+      "undefined": "Delivered - July"
     },
     {
-      "GBN-17": "Date Delivered",
       "undefined": " "
     },
     {
-      "GBN-17": "2026-07-02T00:00:00.000Z",
       "undefined": " "
     },
     {
-      "GBN-17": "2026-07-02T00:00:00.000Z",
       "undefined": " "
     },
     {
-      "GBN-17": "2026-07-02T00:00:00.000Z",
       "undefined": " "
     },
     {
-      "GBN-17": "2026-07-03T00:00:00.000Z",
       "undefined": " "
     },
     {
-      "GBN-17": "2026-07-04T00:00:00.000Z",
       "undefined": "Y"
     },
     {
-      "GBN-17": "2026-07-07T00:00:00.000Z",
       "undefined": "Y"
     },
     {
-      "GBN-17": "2026-07-07T00:00:00.000Z",
       "undefined": "Y"
     },
     {
-      "GBN-17": "2026-07-08T00:00:00.000Z",
       "undefined": "Y"
     },
     {
-      "GBN-17": "2026-07-08T00:00:00.000Z",
       "undefined": "READ Ltd pass-through"
     },
     {
-      "GBN-17": "2026-07-09T00:00:00.000Z",
       "undefined": "N"
     },
     {
-      "GBN-17": "2026-07-09T00:00:00.000Z",
       "undefined": "N"
     },
     {
@@ -348,29 +323,24 @@
       }
     },
     {
-      "GBN-17": "July",
       "undefined": "July"
     },
     {
-      "GBN-17": "Revenue Source",
       "undefined": "Actual"
     },
     {
-      "GBN-17": "READ Cased Hole Ltd.",
       "undefined": {
         "formula": "SUMIF($C$52:$C$82,\"*Ltd*\",$J$52:$J$82)",
         "result": 9500
       }
     },
     {
-      "GBN-17": "READ Cased Hole Inc.",
       "undefined": {
         "formula": "SUMIF($C$52:$C$82,\"*Inc*\",$J$52:$J$82)",
         "result": 3877.1677063611196
       }
     },
     {
-      "GBN-17": "ANSA Services ",
       "undefined": {
         "formula": "SUMIF($C$52:$C$82,\"*ANSA*\",$J$52:$J$82)",
         "result": 8247.39965920234
