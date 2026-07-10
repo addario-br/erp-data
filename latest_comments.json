@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
+    "comment": "Logging expected late Monday. A.Mohamed CC M.Hernandez",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "10-07-2026 09:32"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Logging now expected to be Monday",
@@ -26,12 +33,5 @@
     "comment": "MH arrived to Esbjerg. Check in tomorrow no later than 7:00. Luggage was lost again.",
     "addedBy": "Melissa Hernandez",
     "date": "09-07-2026 13:03"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "GBN-17 Logging Expected Late Monday 13th.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "09-07-2026 12:45"
   }
 ]
