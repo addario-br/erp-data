@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Actions required prior to re-mob: Finger repair to caliper.\nActions done: Warrior keys to be added to kit, FIT checks to be completed, Toolbox restocked.",
+    "addedBy": "Melissa Hernandez",
+    "date": "11-07-2026 10:58"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "MH Check in no later than 13:45 today.",
+    "addedBy": "Melissa Hernandez",
+    "date": "11-07-2026 10:57"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
     "comment": "Logging not expected over the weekend. Crew Change A.Mohamed for M.Hernandez. Inbound equipment expected tomorrow.",
@@ -19,19 +33,5 @@
     "comment": "Logging expected late Monday. A.Mohamed CC M.Hernandez",
     "addedBy": "Abdilmalik Mohamed",
     "date": "10-07-2026 09:32"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Logging now expected to be Monday",
-    "addedBy": "Craig Fraser",
-    "date": "10-07-2026 09:00"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Check in being delayed tomorrow no later than 14:00",
-    "addedBy": "Melissa Hernandez",
-    "date": "09-07-2026 18:57"
   }
 ]
