@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
+    "comment": "Logging not expected over the weekend. Crew Change A.Mohamed for M.Hernandez. Inbound equipment expected tomorrow.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "11-07-2026 08:33"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Crew changed for today cancelled due to weather. Crew change now tomorrow Afternoon. A.Mohamed/M.Hernandez",
     "addedBy": "Abdilmalik Mohamed",
@@ -26,12 +33,5 @@
     "comment": "Check in being delayed tomorrow no later than 14:00",
     "addedBy": "Melissa Hernandez",
     "date": "09-07-2026 18:57"
-  },
-  {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
-    "job": "N/A",
-    "comment": "caliper service now scheduled to be conducted between the 30th July - 1st August. PO received",
-    "addedBy": "Craig Fraser",
-    "date": "09-07-2026 13:37"
   }
 ]
