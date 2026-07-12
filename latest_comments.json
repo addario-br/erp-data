@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "N/A",
+    "comment": "MFC24 run come forward, seems to be today. Now awaiting for the boat to arrive with calipers. Once here, test the caliper and RIH, MFC24 run expected to take 12 -13 hrs",
+    "addedBy": "Melissa Hernandez",
+    "date": "12-07-2026 06:27"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "N/A",
     "comment": "MH. Arrived on Gorm.",
     "addedBy": "Melissa Hernandez",
     "date": "11-07-2026 17:45"
@@ -26,12 +33,5 @@
     "comment": "Logging not expected over the weekend. Crew Change A.Mohamed for M.Hernandez. Inbound equipment expected tomorrow.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "11-07-2026 08:33"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "Crew changed for today cancelled due to weather. Crew change now tomorrow Afternoon. A.Mohamed/M.Hernandez",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "10-07-2026 13:01"
   }
 ]
