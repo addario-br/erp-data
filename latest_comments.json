@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
+    "comment": "GBN17 MFC24 Run completed. Data on sharepoint",
+    "addedBy": "Melissa Hernandez",
+    "date": "13-07-2026 22:47"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
     "comment": "Client change their mind now FTA is required expected data around 22:00",
     "addedBy": "Melissa Hernandez",
     "date": "13-07-2026 15:35"
@@ -26,12 +33,5 @@
     "comment": "Lookahead now has caliper logging scheduled for Thursday. Planned operation has switched to slickline deployment - MFC in memory mode",
     "addedBy": "Craig Fraser",
     "date": "13-07-2026 09:43"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
-    "comment": "Batery connected 08:07:00. Rig Up vertically. Fingers open @ 14:18, Start to POOH @ 15:20. Expected data @ 22:00",
-    "addedBy": "Melissa Hernandez",
-    "date": "13-07-2026 07:58"
   }
 ]
