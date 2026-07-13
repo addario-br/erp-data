@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
+    "comment": "Batery connected 08:07:00. Rig Up vertically. Fingers open @ 14:18, Start to POOH @ 15:20. Expected data @ 22:00",
+    "addedBy": "Melissa Hernandez",
+    "date": "13-07-2026 07:58"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
     "comment": "Caliper checked , Tool string ready. MFC 24 delayed due to high level of norm. Now follow protocol and flush again",
     "addedBy": "Melissa Hernandez",
     "date": "13-07-2026 02:29"
@@ -26,12 +33,5 @@
     "comment": "Actions required prior to re-mob: Finger repair to caliper.\nActions done: Warrior keys to be added to kit, FIT checks to be completed, Toolbox restocked.",
     "addedBy": "Melissa Hernandez",
     "date": "11-07-2026 10:58"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "MH Check in no later than 13:45 today.",
-    "addedBy": "Melissa Hernandez",
-    "date": "11-07-2026 10:57"
   }
 ]
