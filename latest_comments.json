@@ -7,6 +7,13 @@
     "date": "13-07-2026 14:03"
   },
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A - MFC",
+    "job": "N/A",
+    "comment": "Potential for 4x well campaign beginning ~18th July",
+    "addedBy": "Craig Fraser",
+    "date": "13-07-2026 13:54"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Lookahead now has caliper logging scheduled for Thursday. Planned operation has switched to slickline deployment - MFC in memory mode",
@@ -26,12 +33,5 @@
     "comment": "Caliper checked , Tool string ready. MFC 24 delayed due to high level of norm. Now follow protocol and flush again",
     "addedBy": "Melissa Hernandez",
     "date": "13-07-2026 02:29"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
-    "comment": "MFC24 run come forward, seems to be today. Now awaiting for the boat to arrive with calipers. Once here, test the caliper and RIH, MFC24 run expected to take 12 -13 hr. NO FTA requiered",
-    "addedBy": "Melissa Hernandez",
-    "date": "12-07-2026 05:50"
   }
 ]
