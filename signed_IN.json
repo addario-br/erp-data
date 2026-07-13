@@ -1,8 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "Tyna Witkowska",
+      "Heather Caldwell"
+    ]
   },
   {
     "companyName": "READ",
@@ -11,8 +14,10 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "James Reid"
+    ]
   },
   {
     "companyName": "BlueSpark",
