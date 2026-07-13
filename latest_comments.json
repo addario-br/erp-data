@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
     "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
+    "comment": "Caliper checked , Tool string ready. MFC 24 delayed due to high level of norm. Now follow protocol and flush again",
+    "addedBy": "Melissa Hernandez",
+    "date": "13-07-2026 02:29"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
+    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
     "comment": "MFC24 run come forward, seems to be today. Now awaiting for the boat to arrive with calipers. Once here, test the caliper and RIH, MFC24 run expected to take 12 -13 hr. NO FTA requiered",
     "addedBy": "Melissa Hernandez",
     "date": "12-07-2026 05:50"
@@ -26,12 +33,5 @@
     "comment": "MH Check in no later than 13:45 today.",
     "addedBy": "Melissa Hernandez",
     "date": "11-07-2026 10:57"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
-    "comment": "Logging not expected over the weekend. Crew Change A.Mohamed for M.Hernandez. Inbound equipment expected tomorrow.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "11-07-2026 08:33"
   }
 ]
