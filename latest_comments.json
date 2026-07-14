@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Archer collected equipment today. Loadout from Archer base expected on Monday 20th",
+    "addedBy": "Craig Fraser",
+    "date": "14-07-2026 09:29"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "SLB continuing with milling and flowing the well in stages. Caliper logging is currently early hours on Thursday morning as per lookahead. Data potentially 9am Thursday",
@@ -26,12 +33,5 @@
     "comment": "MFC40 caliper backload being delayed. Crane down for the next 2-3 days.",
     "addedBy": "Melissa Hernandez",
     "date": "13-07-2026 14:03"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A - MFC",
-    "job": "N/A",
-    "comment": "Potential for 4x well campaign beginning ~18th July",
-    "addedBy": "Craig Fraser",
-    "date": "13-07-2026 13:54"
   }
 ]
