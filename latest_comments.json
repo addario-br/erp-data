@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Total want the READ package for TEB-15 going offshore Tuesday 21st. Engineer mob TBC",
+    "addedBy": "Craig Fraser",
+    "date": "14-07-2026 15:13"
+  },
+  {
     "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
     "job": "N/A",
     "comment": "All parts available to repair MFC24-211390, this will hopefully be available prior to HG Wells mobilisation as an alternative to Archer rental",
@@ -26,12 +33,5 @@
     "comment": "GBN17 MFC24 Run completed. Data on sharepoint",
     "addedBy": "Melissa Hernandez",
     "date": "13-07-2026 22:47"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "PRJ03160-3 Gorm GBN17 (N-17) Tubular Integrity",
-    "comment": "Client change their mind now FTA is required expected data around 22:00",
-    "addedBy": "Melissa Hernandez",
-    "date": "13-07-2026 15:35"
   }
 ]
