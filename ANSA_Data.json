@@ -167,7 +167,7 @@
       "undefined": "CW"
     },
     {
-      "undefined": "CW"
+      "undefined": "CW (FTA on 14 Jul)"
     },
     {
       "undefined": "Y"
@@ -236,9 +236,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I65/N50"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
@@ -319,7 +317,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$50:$C$80,\"*Ltd*\",$J$50:$J$80)",
-        "result": 9500
+        "result": 13350
       }
     },
     {
@@ -337,7 +335,7 @@
     {
       "undefined": {
         "formula": "SUM(C84:C86)",
-        "result": 25549.487211573985
+        "result": 29399.487211573985
       }
     }
   ],
@@ -19288,7 +19286,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H51:H80,\"*FTA*\")",
-        "result": 6
+        "result": 7
       }
     },
     {
@@ -19302,7 +19300,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 157
+        "result": 158
       }
     },
     {
