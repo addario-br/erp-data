@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "All parts available to repair MFC24-211390, this will hopefully be available prior to HG Wells mobilisation as an alternative to Archer rental",
+    "addedBy": "Craig Fraser",
+    "date": "14-07-2026 10:11"
+  },
+  {
     "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Archer collected equipment today. Loadout from Archer base expected on Monday 20th",
@@ -26,12 +33,5 @@
     "comment": "Client change their mind now FTA is required expected data around 22:00",
     "addedBy": "Melissa Hernandez",
     "date": "13-07-2026 15:35"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "MFC40 caliper backload being delayed. Crane down for the next 2-3 days.",
-    "addedBy": "Melissa Hernandez",
-    "date": "13-07-2026 14:03"
   }
 ]
