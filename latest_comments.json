@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43)_GBN17 (N-17) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "MH traveling to Aberdeen today. Expected ETA 23:00",
+    "addedBy": "Melissa Hernandez",
+    "date": "15-07-2026 18:36"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Tools are leaving tomorrow and we will be logging 2 wells next week. There is a potential for a third well however that may slide until later this year",
@@ -26,12 +33,5 @@
     "comment": "Total want the READ package for TEB-15 going offshore Tuesday 21st. Engineer mob TBC",
     "addedBy": "Craig Fraser",
     "date": "14-07-2026 15:13"
-  },
-  {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
-    "job": "N/A",
-    "comment": "All parts available to repair MFC24-211390, this will hopefully be available prior to HG Wells mobilisation as an alternative to Archer rental",
-    "addedBy": "Craig Fraser",
-    "date": "14-07-2026 10:11"
   }
 ]
