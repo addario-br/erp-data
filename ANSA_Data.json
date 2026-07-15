@@ -254,14 +254,10 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "I71/N54"
-      }
+      "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I72"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
@@ -333,7 +329,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$54:$C$84,\"*Inc*\",$J$54:$J$84)",
-        "result": 6079.761033710238
+        "result": 8523.734451727752
       }
     },
     {
@@ -345,7 +341,7 @@
     {
       "undefined": {
         "formula": "SUM(C88:C90)",
-        "result": 29399.487211573985
+        "result": 31843.4606295915
       }
     }
   ],
@@ -19286,7 +19282,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H55:H84,\"*Priority*\")",
-        "result": 4
+        "result": 6
       }
     },
     {
@@ -19310,7 +19306,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 159
+        "result": 161
       }
     },
     {
