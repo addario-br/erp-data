@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Tools are leaving tomorrow and we will be logging 2 wells next week. There is a potential for a third well however that may slide until later this year",
+    "addedBy": "Craig Fraser",
+    "date": "15-07-2026 12:17"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
     "comment": "Making progress with the milling. Confident that caliper logging will happen during nightshift tonight, with data available office hours tomorrow morning",
@@ -26,12 +33,5 @@
     "comment": "All parts available to repair MFC24-211390, this will hopefully be available prior to HG Wells mobilisation as an alternative to Archer rental",
     "addedBy": "Craig Fraser",
     "date": "14-07-2026 10:11"
-  },
-  {
-    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Archer collected equipment today. Loadout from Archer base expected on Monday 20th",
-    "addedBy": "Craig Fraser",
-    "date": "14-07-2026 09:29"
   }
 ]
