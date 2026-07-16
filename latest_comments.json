@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
+    "job": "N/A",
+    "comment": "Equipment confirmed for Tuesday's boat. Engineer check-in planned for Friday 24th - GP assigned",
+    "addedBy": "Craig Fraser",
+    "date": "16-07-2026 12:29"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Ariel now changed to tomorrow's inbound flight",
@@ -26,12 +33,5 @@
     "comment": "Logging run carried out overnight and data provided to ANSA this morning. Engineer down-manning today to free up bed space.",
     "addedBy": "Craig Fraser",
     "date": "16-07-2026 09:34"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43)_GBN17 (N-17) - MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "MH traveling to Aberdeen today. Expected ETA 23:00",
-    "addedBy": "Melissa Hernandez",
-    "date": "15-07-2026 18:36"
   }
 ]
