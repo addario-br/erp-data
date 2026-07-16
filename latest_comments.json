@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
+    "job": "N/A",
+    "comment": "Timings would be around 17th August, plan is to run 40 MFC from TRSSSV, with 24 MFC as contingency",
+    "addedBy": "Craig Fraser",
+    "date": "16-07-2026 13:41"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
     "comment": "Equipment confirmed for Tuesday's boat. Engineer check-in planned for Friday 24th - GP assigned",
@@ -25,13 +32,6 @@
     "job": "N/A",
     "comment": "Prj re-opened. Maps +TGT current estimate is for 7th August, however may change. Personnel TBC.",
     "addedBy": "Jonathan Howe",
-    "date": "16-07-2026 09:34"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "PRJ03262-5 Dan DFA16 (MFA-16) Tubular Integrity",
-    "comment": "Logging run carried out overnight and data provided to ANSA this morning. Engineer down-manning today to free up bed space.",
-    "addedBy": "Craig Fraser",
     "date": "16-07-2026 09:34"
   }
 ]
