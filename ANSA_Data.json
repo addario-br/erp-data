@@ -263,13 +263,10 @@
       "undefined": "Y"
     },
     {
-      "undefined": "N"
+      "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I75",
-        "result": 3850
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
