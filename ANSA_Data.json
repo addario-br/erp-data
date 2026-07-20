@@ -182,9 +182,7 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I13,J13,\"D\")"
-      }
+      "undefined": "N"
     },
     {
       "undefined": "MS"
