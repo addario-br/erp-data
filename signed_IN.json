@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 9,
     "names": [
-      "Tyna Witkowska",
       "Maurillio Addario",
       "Joseph Guyan",
       "Jennifer Leyes",
@@ -11,7 +10,8 @@
       "Alan Walsh",
       "John Guntoro",
       "Mohamed Selim",
-      "Craig Lamont"
+      "Craig Lamont",
+      "Tyna Witkowska"
     ]
   },
   {
@@ -29,9 +29,9 @@
     "numIn": 4,
     "names": [
       "Peter Thomson",
-      "George Handsley",
       "Liam Strath",
-      "Calum Smith"
+      "Calum Smith",
+      "George Handsley"
     ]
   },
   {
