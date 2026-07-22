@@ -152,9 +152,6 @@
       "undefined": 7
     },
     {
-      "undefined": "CW (FTA on 14 Jul)"
-    },
-    {
       "undefined": "FT"
     },
     {
@@ -177,6 +174,9 @@
     },
     {
       "undefined": "JL"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "N"
@@ -278,9 +278,7 @@
       "undefined": "READ Ltd pass-through"
     },
     {
-      "undefined": {
-        "formula": "I79/N57"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
@@ -326,7 +324,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$57:$C$87,\"*Ltd*\",$J$57:$J$87)",
-        "result": 23760
+        "result": 26440
       }
     },
     {
@@ -344,7 +342,7 @@
     {
       "undefined": {
         "formula": "SUM(C91:C93)",
-        "result": 43674.38000748716
+        "result": 46354.38000748716
       }
     }
   ],
@@ -19275,7 +19273,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H58:H87,\"*Standard*\")",
-        "result": 7
+        "result": 8
       }
     },
     {
@@ -19309,7 +19307,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 164
+        "result": 165
       }
     },
     {
