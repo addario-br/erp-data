@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 9,
     "names": [
-      "Maurillio Addario",
       "Alan Walsh",
       "John Guntoro",
       "Mohamed Selim",
@@ -11,17 +10,18 @@
       "Tyna Witkowska",
       "Jenni Michie",
       "Jennifer Leyes",
-      "Joseph Guyan"
+      "Joseph Guyan",
+      "Maurillio Addario"
     ]
   },
   {
     "companyName": "READ",
     "numIn": 4,
     "names": [
-      "Stewart Steele",
       "Russell Edgar",
       "Mark Davidson",
-      "Ross Fraser"
+      "Ross Fraser",
+      "Stewart Steele"
     ]
   },
   {
