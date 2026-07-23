@@ -1,20 +1,22 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
-      "Joseph Guyan"
+      "Joseph Guyan",
+      "Maurillio Addario"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 6,
     "names": [
       "Rob Molina",
       "Mark Davidson",
       "Leonard Lapiso",
       "Melissa Hernandez",
-      "Craig Fraser"
+      "Craig Fraser",
+      "Ross Fraser"
     ]
   },
   {
@@ -38,7 +40,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Jamie Duncan"
+    ]
   }
 ]
