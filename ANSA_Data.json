@@ -155,7 +155,7 @@
       "undefined": "JL / JP"
     },
     {
-      "undefined": "JL"
+      "undefined": "JL / MS"
     },
     {
       "undefined": "JV"
@@ -263,7 +263,16 @@
       "undefined": "Y"
     },
     {
-      "undefined": "N"
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "N"
@@ -273,24 +282,6 @@
     },
     {
       "undefined": "N"
-    },
-    {
-      "undefined": {
-        "formula": "I78/N51",
-        "result": 1221.9867090087575
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I79/N54",
-        "result": 637.260811904721
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I80/N54",
-        "result": 637.260811904721
-      }
     },
     {
       "undefined": "July"
