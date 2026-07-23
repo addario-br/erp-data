@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N58",
+        "formula": "'READ-3rd'!N54",
         "result": 1.32571
       }
     },
@@ -161,18 +161,6 @@
       "undefined": "JL / JP"
     },
     {
-      "undefined": "MS"
-    },
-    {
-      "undefined": "JV"
-    },
-    {
-      "undefined": "MS"
-    },
-    {
-      "undefined": "JV"
-    },
-    {
       "undefined": "JL"
     },
     {
@@ -188,10 +176,10 @@
       "undefined": "Y"
     },
     {
-      "undefined": "MS"
+      "undefined": "N"
     },
     {
-      "undefined": "N"
+      "undefined": "MS"
     },
     {
       "undefined": "TBC"
@@ -284,38 +272,30 @@
       "undefined": "Y"
     },
     {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
       "undefined": {
-        "formula": "I81/N58"
+        "formula": "I81/N54"
       }
     },
     {
       "undefined": {
-        "formula": "I82"
+        "formula": "I82/N54"
       }
     },
     {
       "undefined": {
-        "formula": "I83/N58"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I84"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I85/N58"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I86/N58"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I87/N58"
+        "formula": "I83/N54"
       }
     },
     {
@@ -326,26 +306,26 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$58:$C$88,\"*Ltd*\",$J$58:$J$88)",
+        "formula": "SUMIF($C$54:$C$84,\"*Ltd*\",$J$54:$J$84)",
         "result": 26440
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$58:$C$88,\"*Inc*\",$J$58:$J$88)",
+        "formula": "SUMIF($C$54:$C$84,\"*Inc*\",$J$54:$J$84)",
         "result": 8523.734451727752
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$58:$C$88,\"*ANSA*\",$J$58:$J$88)",
-        "result": 11390.645555759409
+        "formula": "SUMIF($C$54:$C$84,\"*ANSA*\",$J$54:$J$84)",
+        "result": 17425.14782246932
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C92:C94)",
-        "result": 46354.38000748716
+        "formula": "SUM(C88:C90)",
+        "result": 52388.88227419707
       }
     }
   ],
@@ -19275,8 +19255,8 @@
         "result": "Standard Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H59:H88,\"*Standard*\")",
-        "result": 8
+        "formula": "COUNTIF('READ-3rd'!H55:H84,\"*Standard*\")",
+        "result": 12
       }
     },
     {
@@ -19285,7 +19265,7 @@
         "result": "Priority Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H59:H88,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H55:H84,\"*Priority*\")",
         "result": 6
       }
     },
@@ -19295,7 +19275,7 @@
         "result": "FTAs Completed in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H59:H88,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H55:H84,\"*FTA*\")",
         "result": 8
       }
     },
@@ -19310,7 +19290,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 165
+        "result": 169
       }
     },
     {
