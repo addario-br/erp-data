@@ -1,37 +1,37 @@
 [
   {
-    "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08) - MFC",
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "N/A",
-    "comment": "Timings would be around 17th August, plan is to run 40 MFC from TRSSSV, with 24 MFC as contingency",
-    "addedBy": "Craig Fraser",
-    "date": "16-07-2026 13:41"
+    "comment": "Equipment expected to arrive today dayshift. Logging not expected in the next 24 hours.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "24-07-2026 05:03"
   },
   {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Equipment confirmed for Tuesday's boat. Engineer check-in planned for Friday 24th - GP assigned",
-    "addedBy": "Craig Fraser",
-    "date": "16-07-2026 12:29"
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "RSS#1 closed and RSS#2 Opened. POOH. ETA at surface 9am KT",
+    "addedBy": "Rickie Yuill",
+    "date": "23-07-2026 23:28"
   },
   {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "Ariel now changed to tomorrow's inbound flight",
-    "addedBy": "Craig Fraser",
-    "date": "16-07-2026 12:14"
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "RY Arrived at 9894 to crew change JH.",
+    "addedBy": "Rickie Yuill",
+    "date": "23-07-2026 15:20"
   },
   {
-    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
     "job": "N/A",
-    "comment": "Note: PRC041 #216017 shipped instead of #212097",
+    "comment": "Enquiry for an engineer to mob to Kittiwake tomorrow for e-line correlation and MFC logging. Melissa assigned",
     "addedBy": "Craig Fraser",
-    "date": "16-07-2026 12:12"
+    "date": "23-07-2026 13:24"
   },
   {
-    "project": "PRJ02578 - Welltec - Welltec - Kazakhstan - T-4848 - MAPS",
-    "job": "N/A",
-    "comment": "Prj re-opened. Maps +TGT current estimate is for 7th August, however may change. Personnel TBC.",
-    "addedBy": "Jonathan Howe",
-    "date": "16-07-2026 09:34"
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "Run1 RIH. Close RSS#1 and Open RSS#2 approximately at 01:00 tools will be at depth",
+    "addedBy": "Salman Kassen",
+    "date": "23-07-2026 13:22"
   }
 ]
