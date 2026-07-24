@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03358 - Well Services Group (Exlog) - Exlog (WSG) - Unknown Well - PLT_ ZeroTime",
+    "job": "N/A",
+    "comment": "Tools are coming back from Offshore. Not run.\nThe client went only for Memory GR/CCL, so WSG ran their our own Probe Correlation Tool.\nThey cancelled the P&T run because they are going for the full PLT job.\nTools rental is from Sunday 19th till most likely Monday 27th (Still TBC…)",
+    "addedBy": "Craig Fraser",
+    "date": "24-07-2026 10:56"
+  },
+  {
     "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
     "job": "N/A",
     "comment": "Total have a 10 day extension on the Tyra project, now 15th Aug hard stop. READ involvement TBC",
@@ -26,12 +33,5 @@
     "comment": "Halliburton expect to complete the current operation today. At present, the next well is scheduled for the 17th. Tool to remain on standby rental",
     "addedBy": "Craig Fraser",
     "date": "24-07-2026 10:28"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "N/A",
-    "comment": "Equipment expected to arrive today dayshift. Logging not expected in the next 24 hours.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "24-07-2026 05:03"
   }
 ]
