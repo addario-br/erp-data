@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
+    "job": "N/A",
+    "comment": "Re-opened for upcoming slickline work on Gorm. Sinker bar drift and MFC24 not required in package. Well GFN-47",
+    "addedBy": "Craig Fraser",
+    "date": "24-07-2026 10:30"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43)_GBN17 (N-17) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Equipment arrived back at Norsea yesterday",
@@ -26,12 +33,5 @@
     "comment": "RSS#1 closed and RSS#2 Opened. POOH. ETA at surface 9am KT",
     "addedBy": "Rickie Yuill",
     "date": "23-07-2026 23:28"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "RY Arrived at 9894 to crew change JH.",
-    "addedBy": "Rickie Yuill",
-    "date": "23-07-2026 15:20"
   }
 ]
