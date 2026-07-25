@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "Run#3 RIH at 15:20 KT. Close RSS#3 and Open RSS#4. Will be at 6000 m around ~6 hours ~ 22:00 KT",
+    "addedBy": "Salman Kassen",
+    "date": "25-07-2026 11:25"
+  },
+  {
     "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
     "comment": "Primary tools checked and calibrated. No day shift due to lack of seat availability. Latest estimate has MFC run starting tomorrow morning.",
@@ -26,12 +33,5 @@
     "comment": "Tools are coming back from Offshore. Not run.\nThe client went only for Memory GR/CCL, so WSG ran their our own Probe Correlation Tool.\nThey cancelled the P&T run because they are going for the full PLT job.\nTools rental is from Sunday 19th till most likely Monday 27th (Still TBC…)",
     "addedBy": "Craig Fraser",
     "date": "24-07-2026 10:56"
-  },
-  {
-    "project": "PRJ03299 - SLB - SLB Denmark - TEB-15_TEC03 (TEC-03A) - MFC",
-    "job": "N/A",
-    "comment": "Total have a 10 day extension on the Tyra project, now 15th Aug hard stop. READ involvement TBC",
-    "addedBy": "Craig Fraser",
-    "date": "24-07-2026 10:37"
   }
 ]
