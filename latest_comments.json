@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Primary tools checked and calibrated. No day shift due to lack of seat availability. Latest estimate has MFC run starting tomorrow morning.",
+    "addedBy": "Grant Patterson",
+    "date": "25-07-2026 05:42"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "RSS#2 closed and RSS#3 Opened. POOH. ETA at surface 8am KT",
@@ -26,12 +33,5 @@
     "comment": "Total have a 10 day extension on the Tyra project, now 15th Aug hard stop. READ involvement TBC",
     "addedBy": "Craig Fraser",
     "date": "24-07-2026 10:37"
-  },
-  {
-    "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
-    "job": "N/A",
-    "comment": "Re-opened for upcoming slickline work on Gorm. Sinker bar drift and MFC24 not required in package. Well GFN-47",
-    "addedBy": "Craig Fraser",
-    "date": "24-07-2026 10:30"
   }
 ]
