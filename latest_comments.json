@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "N/A",
+    "comment": "Equipment received yesterday afternoon. Logging expected this Sunday. Potentially this morning.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "25-07-2026 13:38"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "Run#3 RIH at 15:20 KT. Close RSS#3 and Open RSS#4. Will be at 6000 m around ~6 hours ~ 22:00 KT",
@@ -26,12 +33,5 @@
     "comment": "Run#2 RIH at 16:00 KT. Close RSS#2 and Open RSS#3. Will be at 6140 m around ~6 hours ~ 23:00 KT",
     "addedBy": "Salman Kassen",
     "date": "24-07-2026 12:12"
-  },
-  {
-    "project": "PRJ03358 - Well Services Group (Exlog) - Exlog (WSG) - Unknown Well - PLT_ ZeroTime",
-    "job": "N/A",
-    "comment": "Tools are coming back from Offshore. Not run.\nThe client went only for Memory GR/CCL, so WSG ran their our own Probe Correlation Tool.\nThey cancelled the P&T run because they are going for the full PLT job.\nTools rental is from Sunday 19th till most likely Monday 27th (Still TBC…)",
-    "addedBy": "Craig Fraser",
-    "date": "24-07-2026 10:56"
   }
 ]
