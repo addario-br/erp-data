@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Baker had tool failure on first drift run. Came to surface last night and spent the night waiting for the wind conditions to improve so they could break containment. This will now likely see the MFC logging pushed back until the nightshift on Tuesday.",
+    "addedBy": "Grant Patterson",
+    "date": "27-07-2026 05:37"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "RSS#4 closed and RSS#5 opened. POOH. ETA back at surface 7:30 KT",
@@ -26,12 +33,5 @@
     "comment": "RSS#3 closed and RSS#4 opened. POOH. ETA back at surface 8:30 KT",
     "addedBy": "Rickie Yuill",
     "date": "25-07-2026 21:23"
-  },
-  {
-    "project": "PRJ03372 - Hilcorp - Hilcorp North Slope, LLC - MPU B-50 - MFC",
-    "job": "PRJ03372-1 Milne Point MPU B-50 Tubular Integrity",
-    "comment": "24-Jul-26 5:30 Travel\n6:45 Arrive - On Location\n6:50 Safety Meeting\n7:00 Rig Up Surface Equipment\n7:10 Standby\n18:07 End Standby\n18:55 Surface Test\n19:00 Stab on Lubricator - Run 1\n19:13 Run in Hole\n21:27 Open Tool\n21:30 Log Up\n25-Jul-26 0:15 Close Tool\n0:35 Break Off Lubricator - Run 1\n0:40 Rig Down Surface Equipment\n1:00 Travel\n2:15 Arrive - Not On Location\n2:15 Service Tools\n3:30 End Ticket",
-    "addedBy": "Robert Holden",
-    "date": "25-07-2026 19:50"
   }
 ]
