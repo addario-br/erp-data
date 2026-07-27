@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
+    "job": "N/A",
+    "comment": "Continue Rigging up slickline, the pressure test. Gauges been tested also KCT, being tested.",
+    "addedBy": "Melissa Hernandez",
+    "date": "27-07-2026 10:12"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "Due to tools being deployed in brine, equipment returning for inspection and maintenance",
@@ -26,12 +33,5 @@
     "comment": "Run#4 RIH at 15:30 KT. Close RSS#4 and Open RSS#5. Will be at 5835 m around ~6 hours ~ 22:00 KT",
     "addedBy": "Salman Kassen",
     "date": "26-07-2026 11:40"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "No Movement of equipment/People. MFC Run expected Tonight nightshift.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "26-07-2026 04:25"
   }
 ]
