@@ -2,6 +2,13 @@
   {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "RSS#5 closed and RSS#6 opened. POOH. ETA back at surface 7:00 KT",
+    "addedBy": "Rickie Yuill",
+    "date": "27-07-2026 21:14"
+  },
+  {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "Run#5 RIH at 15:30 KT. Close RSS#5 and Open RSS#6. Will be at 5680 m around ~5 hours ~ 21:00 KT",
     "addedBy": "Salman Kassen",
     "date": "27-07-2026 11:40"
@@ -26,12 +33,5 @@
     "comment": "Baker had tool failure on first drift run. Came to surface last night and spent the night waiting for the wind conditions to improve so they could break containment. This will now likely see the MFC logging pushed back until the nightshift on Tuesday.",
     "addedBy": "Grant Patterson",
     "date": "27-07-2026 05:37"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "RSS#4 closed and RSS#5 opened. POOH. ETA back at surface 7:30 KT",
-    "addedBy": "Rickie Yuill",
-    "date": "26-07-2026 21:18"
   }
 ]
