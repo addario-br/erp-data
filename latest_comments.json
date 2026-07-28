@@ -2,6 +2,13 @@
   {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "RSS#6 closed and RSS#7 opened. POOH. ETA back at surface 7:00 KT",
+    "addedBy": "Rickie Yuill",
+    "date": "28-07-2026 21:34"
+  },
+  {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "Run#6 RIH at 16:30 KT. Close RSS#6 and Open RSS#7. Will be at 5600 m around ~5 hours ~ 21:00 KT",
     "addedBy": "Salman Kassen",
     "date": "28-07-2026 14:41"
@@ -26,12 +33,5 @@
     "comment": "RSS#5 closed and RSS#6 opened. POOH. ETA back at surface 7:00 KT",
     "addedBy": "Rickie Yuill",
     "date": "27-07-2026 21:14"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "Run#5 RIH at 15:30 KT. Close RSS#5 and Open RSS#6. Will be at 5680 m around ~5 hours ~ 21:00 KT",
-    "addedBy": "Salman Kassen",
-    "date": "27-07-2026 11:40"
   }
 ]
