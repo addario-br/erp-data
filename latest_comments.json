@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "No movement of equipment or people. Logging expected to start nightshift today.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "28-07-2026 04:52"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "RSS#5 closed and RSS#6 opened. POOH. ETA back at surface 7:00 KT",
@@ -26,12 +33,5 @@
     "comment": "Due to tools being deployed in brine, equipment returning for inspection and maintenance",
     "addedBy": "Craig Fraser",
     "date": "27-07-2026 09:10"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Baker had tool failure on first drift run. Came to surface last night and spent the night waiting for the wind conditions to improve so they could break containment. This will now likely see the MFC logging pushed back until the nightshift on Tuesday.",
-    "addedBy": "Grant Patterson",
-    "date": "27-07-2026 05:37"
   }
 ]
