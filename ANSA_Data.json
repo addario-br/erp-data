@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N49",
+        "formula": "'READ-3rd'!N47",
         "result": 1.32571
       }
     },
@@ -150,12 +150,6 @@
   "READ-3rd": [
     {
       "undefined": 7
-    },
-    {
-      "undefined": "JV"
-    },
-    {
-      "undefined": "MS"
     },
     {
       "undefined": "TF"
@@ -284,6 +278,12 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
       "undefined": "July"
     },
     {
@@ -291,26 +291,26 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$49:$C$85,\"*Ltd*\",$J$49:$J$85)",
+        "formula": "SUMIF($C$47:$C$83,\"*Ltd*\",$J$47:$J$83)",
         "result": 29120
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$49:$C$85,\"*Inc*\",$J$49:$J$85)",
+        "formula": "SUMIF($C$47:$C$83,\"*Inc*\",$J$47:$J$83)",
         "result": 9745.72116073651
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$49:$C$85,\"*ANSA*\",$J$49:$J$85)",
-        "result": 20208.29501295624
+        "formula": "SUMIF($C$47:$C$83,\"*ANSA*\",$J$47:$J$83)",
+        "result": 23225.546146311197
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C89:C91)",
-        "result": 59074.016173692755
+        "formula": "SUM(C87:C89)",
+        "result": 62091.2673070477
       }
     }
   ],
@@ -19240,8 +19240,8 @@
         "result": "Standard Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H50:H85,\"*Standard*\")",
-        "result": 14
+        "formula": "COUNTIF('READ-3rd'!H48:H83,\"*Standard*\")",
+        "result": 16
       }
     },
     {
@@ -19250,7 +19250,7 @@
         "result": "Priority Reports in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H50:H85,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H83,\"*Priority*\")",
         "result": 7
       }
     },
@@ -19260,7 +19260,7 @@
         "result": "FTAs Completed in July"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H50:H85,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H83,\"*FTA*\")",
         "result": 8
       }
     },
@@ -19275,7 +19275,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 172
+        "result": 174
       }
     },
     {
