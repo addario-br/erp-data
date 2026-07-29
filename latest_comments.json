@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "Equipment has been collected by Pentagon this morning. The kit is scheduled to arrive at Humbly Grove tomorrow afternoon.",
+    "addedBy": "Dave Simpson",
+    "date": "29-07-2026 10:49"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "Equipment confirmed at SLB yard, will be collected by Norsea tomorrow at latest",
@@ -26,12 +33,5 @@
     "comment": "Injection Valve retrieved. Now Stand by, slickline unit is down, wait for instruction onshore to continue with the next slickline runs. Waiting for e-line stuff on board to set up.",
     "addedBy": "Melissa Hernandez",
     "date": "29-07-2026 07:43"
-  },
-  {
-    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "End of rental yesterday. Tools back at Viking house",
-    "addedBy": "Craig Fraser",
-    "date": "29-07-2026 07:21"
   }
 ]
