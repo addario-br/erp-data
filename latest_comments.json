@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "MFC60 Caliper received back this afternoon.",
+    "addedBy": "Dave Simpson",
+    "date": "29-07-2026 16:25"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "Run#7 RIH at 15:00 KT. Close RSS#7 and Open RSS#8. Will be at 5400 m around ~5 hours ~ 21:00 KT",
@@ -26,12 +33,5 @@
     "comment": "Donald Campbell assigned, provisional to travel today. Operational update requested from client",
     "addedBy": "Craig Fraser",
     "date": "29-07-2026 10:19"
-  },
-  {
-    "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
-    "job": "N/A",
-    "comment": "Request made to Expro to release Melissa on Friday for mobilising to Gorm next week instead",
-    "addedBy": "Craig Fraser",
-    "date": "29-07-2026 08:51"
   }
 ]
