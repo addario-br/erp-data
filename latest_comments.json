@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "MFC60 run ongoing. Currently holding up in the SISOSR. Program specifically asks to log a small repeat section from below SISOSR as well as starting the main log pass from below. Way forward still being discussed.",
+    "addedBy": "Grant Patterson",
+    "date": "29-07-2026 17:33"
+  },
+  {
     "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
     "job": "N/A",
     "comment": "MFC60 Caliper received back this afternoon.",
@@ -26,12 +33,5 @@
     "comment": "Equipment confirmed at SLB yard, will be collected by Norsea tomorrow at latest",
     "addedBy": "Craig Fraser",
     "date": "29-07-2026 10:20"
-  },
-  {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
-    "job": "N/A",
-    "comment": "Donald Campbell assigned, provisional to travel today. Operational update requested from client",
-    "addedBy": "Craig Fraser",
-    "date": "29-07-2026 10:19"
   }
 ]
