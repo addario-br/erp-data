@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Equipment confirmed at SLB yard, will be collected by Norsea tomorrow at latest",
+    "addedBy": "Craig Fraser",
+    "date": "29-07-2026 10:20"
+  },
+  {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "Donald Campbell assigned, provisional to travel today. Operational update requested from client",
+    "addedBy": "Craig Fraser",
+    "date": "29-07-2026 10:19"
+  },
+  {
     "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
     "job": "N/A",
     "comment": "Request made to Expro to release Melissa on Friday for mobilising to Gorm next week instead",
@@ -19,19 +33,5 @@
     "comment": "End of rental yesterday. Tools back at Viking house",
     "addedBy": "Craig Fraser",
     "date": "29-07-2026 07:21"
-  },
-  {
-    "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
-    "job": "N/A",
-    "comment": "Planned next engineer mob dates to Gorm\n\n• 7-Aug to 21-Aug\n• 2-Sept to 16-Sept\n\nNo formal request for equipment yet. Technician to travel to Esbjerg, likely Monday, to perform maintenance",
-    "addedBy": "Craig Fraser",
-    "date": "29-07-2026 07:11"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "MFC run rigged up and likely to take all of day shift and some of nightshift.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "29-07-2026 05:09"
   }
 ]
