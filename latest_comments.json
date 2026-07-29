@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "Run#7 RIH at 15:00 KT. Close RSS#7 and Open RSS#8. Will be at 5400 m around ~5 hours ~ 21:00 KT",
+    "addedBy": "Salman Kassen",
+    "date": "29-07-2026 11:17"
+  },
+  {
     "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
     "job": "N/A",
     "comment": "Equipment has been collected by Pentagon this morning. The kit is scheduled to arrive at Humbly Grove tomorrow afternoon.",
@@ -26,12 +33,5 @@
     "comment": "Request made to Expro to release Melissa on Friday for mobilising to Gorm next week instead",
     "addedBy": "Craig Fraser",
     "date": "29-07-2026 08:51"
-  },
-  {
-    "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
-    "job": "N/A",
-    "comment": "Injection Valve retrieved. Now Stand by, slickline unit is down, wait for instruction onshore to continue with the next slickline runs. Waiting for e-line stuff on board to set up.",
-    "addedBy": "Melissa Hernandez",
-    "date": "29-07-2026 07:43"
   }
 ]
