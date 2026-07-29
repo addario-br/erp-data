@@ -7,6 +7,13 @@
     "date": "29-07-2026 07:43"
   },
   {
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "End of rental yesterday. Tools back at Viking house",
+    "addedBy": "Craig Fraser",
+    "date": "29-07-2026 07:21"
+  },
+  {
     "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
     "job": "N/A",
     "comment": "Planned next engineer mob dates to Gorm\n\n• 7-Aug to 21-Aug\n• 2-Sept to 16-Sept",
@@ -26,12 +33,5 @@
     "comment": "RSS#6 closed and RSS#7 opened. POOH. ETA back at surface 7:00 KT",
     "addedBy": "Rickie Yuill",
     "date": "28-07-2026 21:34"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "Run#6 RIH at 16:30 KT. Close RSS#6 and Open RSS#7. Will be at 5600 m around ~5 hours ~ 21:00 KT",
-    "addedBy": "Salman Kassen",
-    "date": "28-07-2026 14:41"
   }
 ]
