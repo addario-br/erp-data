@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43)_GBN17 (N-17) - MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Coil Operations - The planned mobilization date for Gorm F is the 28th of August. There have been additional wells added to the scope.\n\nThe planned wells on Gorm F are now:\n\nGFN51 – 24 Arms MFC\nGFN55 – 40 Arms MFC\nGFN47 – 40 Arms MFC\nGFN50\nGFN48\n\nGFN50 and -48 is both cleanout, PLT and water shut off (plug or SSD)",
+    "addedBy": "Craig Fraser",
+    "date": "30-07-2026 14:36"
+  },
+  {
+    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
+    "job": "N/A",
+    "comment": "WSG have a memory MFC40 opportunity provisionally planned for Tuesday. Equipment to mob from Esbjerg",
+    "addedBy": "Craig Fraser",
+    "date": "30-07-2026 14:31"
+  },
+  {
     "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
     "job": "N/A",
     "comment": "it was only PRC041 216017 that was ran. Maximum depth was 2615ft, pressure was 1695 psi and temperature was 26 degrees c.",
@@ -19,19 +33,5 @@
     "comment": "Confirmation received from WSG that our equipment was received back in Emmen 29th July.",
     "addedBy": "Dave Simpson",
     "date": "30-07-2026 09:48"
-  },
-  {
-    "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
-    "job": "N/A",
-    "comment": "Stand by. Town decided to change winch. Boat arrival with new winch around 7:00. Once its done continue with normal OPS. MH Downman tomorrow. Check in at 8:45",
-    "addedBy": "Melissa Hernandez",
-    "date": "30-07-2026 07:51"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Way forward to pass the SISSOR assembly to be decided in todays morning meeting. Tension held overnight at 50% of Weakpoint during nightshift",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "30-07-2026 07:48"
   }
 ]
