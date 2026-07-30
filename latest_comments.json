@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "job": "N/A",
+    "comment": "Donald travelling today. Expected in Heathrow around 19:00. Induction booked for tomorrow morning at HG.",
+    "addedBy": "Craig Fraser",
+    "date": "30-07-2026 10:21"
+  },
+  {
     "project": "PRJ03358 - Well Services Group (Exlog) - Exlog (WSG) - Unknown Well - PLT_ ZeroTime",
     "job": "N/A",
     "comment": "Confirmation received from WSG that our equipment was received back in Emmen 29th July.",
@@ -26,12 +33,5 @@
     "comment": "JC travelling to Esbjerg today for check in tomorrow",
     "addedBy": "Joshua Cheyne",
     "date": "30-07-2026 05:57"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "RSS#7 closed and RSS#8 opened. POOH. ETA back at surface 5:30 KT",
-    "addedBy": "Rickie Yuill",
-    "date": "29-07-2026 19:30"
   }
 ]
