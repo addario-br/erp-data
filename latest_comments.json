@@ -1,6 +1,13 @@
 [
   {
-    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A15 - MFC",
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "it was only PRC041 216017 that was ran. Maximum depth was 2615ft, pressure was 1695 psi and temperature was 26 degrees c.",
+    "addedBy": "Craig Fraser",
+    "date": "30-07-2026 10:23"
+  },
+  {
+    "project": "PRJ03294 - HG Wells Ltd - Norwich Base - A5 - MFC",
     "job": "N/A",
     "comment": "Donald travelling today. Expected in Heathrow around 19:00. Induction booked for tomorrow morning at HG.",
     "addedBy": "Craig Fraser",
@@ -26,12 +33,5 @@
     "comment": "Way forward to pass the SISSOR assembly to be decided in todays morning meeting. Tension held overnight at 50% of Weakpoint during nightshift",
     "addedBy": "Abdilmalik Mohamed",
     "date": "30-07-2026 07:48"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "JC travelling to Esbjerg today for check in tomorrow",
-    "addedBy": "Joshua Cheyne",
-    "date": "30-07-2026 05:57"
   }
 ]
