@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03358 - Well Services Group (Exlog) - Exlog (WSG) - Unknown Well - PLT_ ZeroTime",
+    "job": "N/A",
+    "comment": "Confirmation received from WSG that our equipment was received back in Emmen 29th July.",
+    "addedBy": "Dave Simpson",
+    "date": "30-07-2026 09:48"
+  },
+  {
     "project": "PRJ03370 - Expro - Dyce - Unknown Well - NA",
     "job": "N/A",
     "comment": "Stand by. Town decided to change winch. Boat arrival with new winch around 7:00. Once its done continue with normal OPS. MH Downman tomorrow. Check in at 8:45",
@@ -26,12 +33,5 @@
     "comment": "RSS#7 closed and RSS#8 opened. POOH. ETA back at surface 5:30 KT",
     "addedBy": "Rickie Yuill",
     "date": "29-07-2026 19:30"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "MFC60 run ongoing. Currently holding up in the SISOSR. Program specifically asks to log a small repeat section from below SISOSR as well as starting the main log pass from below. Way forward still being discussed.",
-    "addedBy": "Grant Patterson",
-    "date": "29-07-2026 17:33"
   }
 ]
