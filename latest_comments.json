@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "Run 8. RIH at 22:00 KT. Close RSS#8 and Open RSS#9.",
+    "addedBy": "Rickie Yuill",
+    "date": "30-07-2026 18:08"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GBN12 (N-12)_GBN43 (N-43)_GBN17 (N-17) - MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Coil Operations - The planned mobilization date for Gorm F is the 28th of August. There have been additional wells added to the scope.\n\nThe planned wells on Gorm F are now:\n\nGFN51 – 24 Arms MFC\nGFN55 – 40 Arms MFC\nGFN47 – 40 Arms MFC\nGFN50\nGFN48\n\nGFN50 and -48 is both cleanout, PLT and water shut off (plug or SSD)",
@@ -26,12 +33,5 @@
     "comment": "Donald travelling today. Expected in Heathrow around 19:00. Induction booked for tomorrow morning at HG.",
     "addedBy": "Craig Fraser",
     "date": "30-07-2026 10:21"
-  },
-  {
-    "project": "PRJ03358 - Well Services Group (Exlog) - Exlog (WSG) - Unknown Well - PLT_ ZeroTime",
-    "job": "N/A",
-    "comment": "Confirmation received from WSG that our equipment was received back in Emmen 29th July.",
-    "addedBy": "Dave Simpson",
-    "date": "30-07-2026 09:48"
   }
 ]
