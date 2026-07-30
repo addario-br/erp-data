@@ -7,6 +7,13 @@
     "date": "30-07-2026 07:51"
   },
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Way forward to pass the SISSOR assembly to be decided in todays morning meeting. Tension held overnight at 50% of Weakpoint during nightshift",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "30-07-2026 07:48"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "JC travelling to Esbjerg today for check in tomorrow",
@@ -26,12 +33,5 @@
     "comment": "MFC60 run ongoing. Currently holding up in the SISOSR. Program specifically asks to log a small repeat section from below SISOSR as well as starting the main log pass from below. Way forward still being discussed.",
     "addedBy": "Grant Patterson",
     "date": "29-07-2026 17:33"
-  },
-  {
-    "project": "PRJ03312 - Halliburton - Dyce - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "MFC60 Caliper received back this afternoon.",
-    "addedBy": "Dave Simpson",
-    "date": "29-07-2026 16:25"
   }
 ]
