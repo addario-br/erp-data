@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Nightshift held tension. Preparations ongoing to flow the well in increments.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "31-07-2026 05:13"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "RSS#8 closed and RSS#9 opened. POOH at 6:15am, ETA back at surface 12pm KT",
@@ -26,12 +33,5 @@
     "comment": "WSG have a memory MFC40 opportunity provisionally planned for Tuesday. Equipment to mob from Esbjerg",
     "addedBy": "Craig Fraser",
     "date": "30-07-2026 14:31"
-  },
-  {
-    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "it was only PRC041 216017 that was ran. Maximum depth was 2615ft, pressure was 1695 psi and temperature was 26 degrees c.",
-    "addedBy": "Craig Fraser",
-    "date": "30-07-2026 10:23"
   }
 ]
