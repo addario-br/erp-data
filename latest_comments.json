@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
+    "job": "N/A",
+    "comment": "The equipment for this job has been mobilised from Esbjerg. It was packed up by JC this morning and collected by Jan from Jan's taxis. He will drive the equipment to Emmen and arrange delivery to WSG base 9am Monday morning. READ to cover transport costs and back-charge WSG",
+    "addedBy": "Dave Simpson",
+    "date": "31-07-2026 13:04"
+  },
+  {
     "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
     "comment": "Nightshift held tension. Preparations ongoing to flow the well in increments.",
@@ -26,12 +33,5 @@
     "comment": "Coil Operations - The planned mobilization date for Gorm F is the 28th of August. There have been additional wells added to the scope.\n\nThe planned wells on Gorm F are now:\n\nGFN51 – 24 Arms MFC\nGFN55 – 40 Arms MFC\nGFN47 – 40 Arms MFC\nGFN50\nGFN48\n\nGFN50 and -48 is both cleanout, PLT and water shut off (plug or SSD)",
     "addedBy": "Craig Fraser",
     "date": "30-07-2026 14:36"
-  },
-  {
-    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
-    "job": "N/A",
-    "comment": "WSG have a memory MFC40 opportunity provisionally planned for Tuesday. Equipment to mob from Esbjerg",
-    "addedBy": "Craig Fraser",
-    "date": "30-07-2026 14:31"
   }
 ]
