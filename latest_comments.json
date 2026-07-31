@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Managed to pull the tool-string through the SISOSR. Once clear we attempted to log but the fingers would not open. Currently at surface in the lubricator waiting to bleed off.",
+    "addedBy": "Grant Patterson",
+    "date": "31-07-2026 16:46"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "Run#9 RIH at 18:15 KT. Open all RSS#1-9. Will be at 6285 m around ~7 hours ~ 23:00 KT",
@@ -26,12 +33,5 @@
     "comment": "RSS#8 closed and RSS#9 opened. POOH at 6:15am, ETA back at surface 12pm KT",
     "addedBy": "Rickie Yuill",
     "date": "31-07-2026 02:19"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "Run 8. RIH at 22:00 KT. Close RSS#8 and Open RSS#9.",
-    "addedBy": "Rickie Yuill",
-    "date": "30-07-2026 18:08"
   }
 ]
