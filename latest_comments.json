@@ -2,6 +2,13 @@
   {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
+    "comment": "Tools are at surface at 16:00 KT. Preparing for demobilization back to base and will be 02.08.2026 afternoon",
+    "addedBy": "Salman Kassen",
+    "date": "01-08-2026 12:06"
+  },
+  {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
     "comment": "RSS#1-9 Open. POOH ETA 16:00 KT.",
     "addedBy": "Salman Kassen",
     "date": "01-08-2026 07:07"
@@ -26,12 +33,5 @@
     "comment": "Rigged up at 14:30 and ran to 4240 ft then logged to surface. Started to rig down at 18:30. Site closed up at 19:00. Will return to site to pack up etc, tomorrow morning.",
     "addedBy": "Donald Campbell",
     "date": "31-07-2026 23:18"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Managed to pull the tool-string through the SISOSR. Once clear we attempted to log but the fingers would not open. Currently at surface in the lubricator waiting to bleed off.",
-    "addedBy": "Grant Patterson",
-    "date": "31-07-2026 16:46"
   }
 ]
