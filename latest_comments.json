@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
+    "job": "N/A",
+    "comment": "Equipment arrived back at the Workshop.",
+    "addedBy": "Rickie Yuill",
+    "date": "02-08-2026 12:45"
+  },
+  {
     "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
     "comment": "Equipment to be sent back onshore. Once container arrives offshore. Exactly which equipment is TBC.",
@@ -26,12 +33,5 @@
     "comment": "RSS#1-9 Open. POOH ETA 16:00 KT.",
     "addedBy": "Salman Kassen",
     "date": "01-08-2026 07:07"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Tool string to be rigged down today dayshift to check the condition. Way forward to be decided after that.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "01-08-2026 05:54"
   }
 ]
