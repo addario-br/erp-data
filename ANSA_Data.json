@@ -296,6 +296,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Leak Detection - NST"
+    },
+    {
       "undefined": "July"
     },
     {
@@ -19249,7 +19252,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Standard Reports in \",B1)",
-        "result": "Standard Reports in July"
+        "result": "Standard Reports in August"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H50:H89,\"*Standard*\")",
@@ -19259,7 +19262,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Priority Reports in \",B1)",
-        "result": "Priority Reports in July"
+        "result": "Priority Reports in August"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H50:H89,\"*Priority*\")",
@@ -19269,7 +19272,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"FTAs Completed in \",B1)",
-        "result": "FTAs Completed in July"
+        "result": "FTAs Completed in August"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H50:H89,\"*FTA*\")",
