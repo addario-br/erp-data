@@ -2,6 +2,13 @@
   {
     "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Equipment to be sent back onshore. Once container arrives offshore. Exactly which equipment is TBC.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "02-08-2026 06:19"
+  },
+  {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
     "comment": "Tools checked. All mechanically sound. Fingers appear to just be stuck within the cage but do come out with some when popped out with a screw driver. Current plan forward is still a bit vague but likely they will send the entire string back onshore for inspection and evaluation. Currently waiting for our container to come back out.",
     "addedBy": "Grant Patterson",
     "date": "01-08-2026 15:21"
@@ -26,12 +33,5 @@
     "comment": "Tool string to be rigged down today dayshift to check the condition. Way forward to be decided after that.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "01-08-2026 05:54"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "RSS#9 closed, RSS#1, 2, 3 and 4 opened. Continue to open RSS#5, 6, 7, 8 ,9.",
-    "addedBy": "Rickie Yuill",
-    "date": "01-08-2026 01:50"
   }
 ]
