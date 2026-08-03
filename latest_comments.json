@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08)_DD 07 (MD-07) - MFC",
+    "job": "N/A",
+    "comment": "Well: DD-07\nScope: 40 MFC memory package, they are having issues setting a WRSSSV, tried multiple times and when retrieving the WRSSSV extensive damage to the packing stacks, they possibly want to run a MFC to the WRSSSV and see if there is any obvious signs of damage within the lock profile area\nEquipment Mob Date: This has been a quick discussion with TOTAL this afternoon and if we say that we can provide a package I think they will ask for it ASAP",
+    "addedBy": "Craig Fraser",
+    "date": "03-08-2026 17:17"
+  },
+  {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "job": "N/A",
+    "comment": "Project: Dan F\nWell: DFB-15\nScope: run a caliper to HUD above the fish and identify where we can set a plug below the holes in the tubing\nEquipment Mob Date: Thurs 6th Aug\nEngineer Mob Date: Friday 7th Aug",
+    "addedBy": "Craig Fraser",
+    "date": "03-08-2026 17:16"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
     "job": "N/A",
     "comment": "READ engineer for DAF outbound 7/8.\nThe reservation is TBN-58459. BBX615 - Check-in 14:00 at the latest.",
@@ -19,19 +33,5 @@
     "comment": "MAPS Mobilization expected on the 12th Aug. RY and DC to cover.",
     "addedBy": "Rickie Yuill",
     "date": "03-08-2026 10:38"
-  },
-  {
-    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
-    "job": "N/A",
-    "comment": "Confirmed equipment has been delivered to WSG this morning.",
-    "addedBy": "Dave Simpson",
-    "date": "03-08-2026 07:18"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Still awaiting further clarification from QE onshore, regarding equipment movements. The boat will potentially come tonight for us to backload equipment for the investigation. No Shuttle for day shift today.",
-    "addedBy": "Grant Patterson",
-    "date": "03-08-2026 04:50"
   }
 ]
