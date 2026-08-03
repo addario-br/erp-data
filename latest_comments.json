@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Still awaiting further clarification from QE onshore, regarding equipment movements. The boat will potentially come tonight for us to backload equipment for the investigation. No Shuttle for day shift today.",
+    "addedBy": "Grant Patterson",
+    "date": "03-08-2026 04:50"
+  },
+  {
     "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
     "job": "N/A",
     "comment": "Equipment arrived back at the Workshop.",
@@ -26,12 +33,5 @@
     "comment": "Tools are at surface at 16:00 KT. Preparing for demobilization back to base and will be 02.08.2026 afternoon",
     "addedBy": "Salman Kassen",
     "date": "01-08-2026 12:06"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "RSS#1-9 Open. POOH ETA 16:00 KT.",
-    "addedBy": "Salman Kassen",
-    "date": "01-08-2026 07:07"
   }
 ]
