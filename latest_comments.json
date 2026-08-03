@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
+    "job": "N/A",
+    "comment": "Confirmed equipment has been delivered to WSG this morning.",
+    "addedBy": "Dave Simpson",
+    "date": "03-08-2026 07:18"
+  },
+  {
     "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
     "comment": "Still awaiting further clarification from QE onshore, regarding equipment movements. The boat will potentially come tonight for us to backload equipment for the investigation. No Shuttle for day shift today.",
@@ -26,12 +33,5 @@
     "comment": "Tools checked. All mechanically sound. Fingers appear to just be stuck within the cage but do come out with some when popped out with a screw driver. Current plan forward is still a bit vague but likely they will send the entire string back onshore for inspection and evaluation. Currently waiting for our container to come back out.",
     "addedBy": "Grant Patterson",
     "date": "01-08-2026 15:21"
-  },
-  {
-    "project": "PRJ03351 - Welltec - Welltec - Kazakhstan - 9894 - SSD (ZeroTime / X-Y)",
-    "job": "PRJ03351-1 Karachaganak 9894 SSD Position",
-    "comment": "Tools are at surface at 16:00 KT. Preparing for demobilization back to base and will be 02.08.2026 afternoon",
-    "addedBy": "Salman Kassen",
-    "date": "01-08-2026 12:06"
   }
 ]
