@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N51",
+        "formula": "'READ-3rd'!N50",
         "result": 1.32571
       }
     },
@@ -170,19 +170,16 @@
       "undefined": "N"
     },
     {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "TBC"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
       "undefined": "N"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "TBC"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "TBC"
     },
     {
       "undefined": "Categories"
@@ -312,25 +309,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Ltd*\",$J$51:$J$91)",
+        "formula": "SUMIF($C$50:$C$90,\"*Ltd*\",$J$50:$J$90)",
         "result": 29120
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Inc*\",$J$51:$J$91)",
+        "formula": "SUMIF($C$50:$C$90,\"*Inc*\",$J$50:$J$90)",
         "result": 12800.687933258403
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)",
+        "formula": "SUMIF($C$50:$C$90,\"*ANSA*\",$J$50:$J$90)",
         "result": 23225.546146311197
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C95:C97)",
+        "formula": "SUM(C94:C96)",
         "result": 65146.23407956961
       }
     }
@@ -19636,7 +19633,7 @@
       "undefined": "Comments"
     },
     {
-      "undefined": "Priority (Postponed Jobs)"
+      "undefined": "Standard (Upcoming Jobs)"
     }
   ],
   "Pulse": [
@@ -19646,7 +19643,7 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*Standard*\")",
         "result": 16
       }
     },
@@ -19656,7 +19653,7 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*Priority*\")",
         "result": 8
       }
     },
@@ -19666,7 +19663,7 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*FTA*\")",
         "result": 10
       }
     },
