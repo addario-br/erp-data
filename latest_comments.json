@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
+    "job": "N/A",
+    "comment": "Field: Gorm\nWell: GFN-47\nScope: This is contingency is we are unable to get down to the fish, may need to run a caliper to find out if restriction can be removed using SLK or we need to think of a different plan.\nEquipment Mob Date: Our fishing tools are loading out on Friday, 7th, like say I will speak to them tomorrow and ask for a date when they require the MFC package offshore",
+    "addedBy": "Craig Fraser",
+    "date": "03-08-2026 17:18"
+  },
+  {
     "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08)_DD 07 (MD-07) - MFC",
     "job": "N/A",
     "comment": "Well: DD-07\nScope: 40 MFC memory package, they are having issues setting a WRSSSV, tried multiple times and when retrieving the WRSSSV extensive damage to the packing stacks, they possibly want to run a MFC to the WRSSSV and see if there is any obvious signs of damage within the lock profile area\nEquipment Mob Date: This has been a quick discussion with TOTAL this afternoon and if we say that we can provide a package I think they will ask for it ASAP",
@@ -26,12 +33,5 @@
     "comment": "Logging has slipped to Monday 10th",
     "addedBy": "Craig Fraser",
     "date": "03-08-2026 12:08"
-  },
-  {
-    "project": "PRJ03392 - Welltec - Welltec - Kazakhstan - 9838 - MAPS",
-    "job": "N/A",
-    "comment": "MAPS Mobilization expected on the 12th Aug. RY and DC to cover.",
-    "addedBy": "Rickie Yuill",
-    "date": "03-08-2026 10:38"
   }
 ]
