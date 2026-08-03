@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
+    "job": "N/A",
+    "comment": "Logging has slipped to Monday 10th",
+    "addedBy": "Craig Fraser",
+    "date": "03-08-2026 12:08"
+  },
+  {
     "project": "PRJ03392 - Welltec - Welltec - Kazakhstan - 9838 - MAPS",
     "job": "N/A",
     "comment": "MAPS Mobilization expected on the 12th Aug. RY and DC to cover.",
@@ -26,12 +33,5 @@
     "comment": "Equipment arrived back at the Workshop. Shipment received.",
     "addedBy": "Rickie Yuill",
     "date": "02-08-2026 12:45"
-  },
-  {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Equipment to be sent back onshore. Once container arrives offshore. Exactly which equipment is TBC.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "02-08-2026 06:19"
   }
 ]
