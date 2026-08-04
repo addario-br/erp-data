@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08)_DD 07 (MD-07) - MFC",
+    "job": "N/A",
+    "comment": "Equipment and engineer expected to mob to Well-Sat operation (Well DD-07) first and then on to Dan (PRJ03262) directly afterwards.",
+    "addedBy": "Craig Fraser",
+    "date": "04-08-2026 10:36"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
     "job": "N/A",
     "comment": "Lookahead has READ logging MFC on Friday on well DFB-15. Equipment mobilising on Thursday, engineer expected on Thursday chopper. DFF-21 will follow this operation.",
@@ -26,12 +33,5 @@
     "comment": "Well: DD-07\nScope: 40 MFC memory package, they are having issues setting a WRSSSV, tried multiple times and when retrieving the WRSSSV extensive damage to the packing stacks, they possibly want to run a MFC to the WRSSSV and see if there is any obvious signs of damage within the lock profile area\nEquipment Mob Date: This has been a quick discussion with TOTAL this afternoon and if we say that we can provide a package I think they will ask for it ASAP",
     "addedBy": "Craig Fraser",
     "date": "03-08-2026 17:17"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
-    "job": "N/A",
-    "comment": "Project: Dan F\nWell: DFB-15\nScope: run a caliper to HUD above the fish and identify where we can set a plug below the holes in the tubing\nEquipment Mob Date: Thurs 6th Aug\nEngineer Mob Date: Friday 7th Aug",
-    "addedBy": "Craig Fraser",
-    "date": "03-08-2026 17:16"
   }
 ]
