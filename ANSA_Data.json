@@ -107,7 +107,7 @@
     {
       "undefined": {
         "formula": "'READ-3rd'!N51",
-        "result": 1.32571
+        "result": 1.34675
       }
     },
     {
@@ -209,7 +209,7 @@
       "undefined": " "
     },
     {
-      "undefined": "July"
+      "undefined": "August"
     },
     {
       "undefined": "Actual"
@@ -226,12 +226,14 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)"
+        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)",
+        "result": 4195.284945238538
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C95:C97)"
+        "formula": "SUM(C95:C97)",
+        "result": 4195.284945238538
       }
     }
   ],
