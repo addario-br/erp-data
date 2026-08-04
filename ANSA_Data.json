@@ -161,9 +161,6 @@
       "undefined": "TF"
     },
     {
-      "undefined": "Y"
-    },
-    {
       "undefined": "N"
     },
     {
@@ -174,6 +171,9 @@
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "TBC"
     },
     {
       "undefined": "TBC"
@@ -19640,6 +19640,9 @@
     },
     {
       "undefined": "Standard (Upcoming Jobs)"
+    },
+    {
+      "undefined": "FTA (Upcoming Jobs)"
     }
   ],
   "Pulse": [
