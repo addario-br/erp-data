@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
+    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
+    "comment": "Boat expected tonight.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "04-08-2026 05:43"
+  },
+  {
     "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
     "job": "N/A",
     "comment": "Field: Gorm\nWell: GFN-47\nScope: This is contingency is we are unable to get down to the fish, may need to run a caliper to find out if restriction can be removed using SLK or we need to think of a different plan.\nEquipment Mob Date: Our fishing tools are loading out on Friday, 7th, like say I will speak to them tomorrow and ask for a date when they require the MFC package offshore",
@@ -26,12 +33,5 @@
     "comment": "READ engineer for DAF outbound 7/8.\nThe reservation is TBN-58459. BBX615 - Check-in 14:00 at the latest.",
     "addedBy": "Craig Fraser",
     "date": "03-08-2026 13:28"
-  },
-  {
-    "project": "PRJ03391 - Well Services Group (Exlog) - Exlog (WSG) - Z3 - MFC",
-    "job": "N/A",
-    "comment": "Logging has slipped to Monday 10th",
-    "addedBy": "Craig Fraser",
-    "date": "03-08-2026 12:08"
   }
 ]
