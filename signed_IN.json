@@ -14,8 +14,11 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "George Handsley",
+      "James Reid"
+    ]
   },
   {
     "companyName": "BlueSpark",
