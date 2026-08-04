@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
+    "job": "N/A",
+    "comment": "Lookahead has READ logging MFC on Friday on well DFB-15. Equipment mobilising on Thursday, engineer expected on Thursday chopper. DFF-21 will follow this operation.",
+    "addedBy": "Craig Fraser",
+    "date": "04-08-2026 08:18"
+  },
+  {
     "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
     "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
     "comment": "Boat expected tonight.",
@@ -21,17 +28,10 @@
     "date": "03-08-2026 17:17"
   },
   {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
     "job": "N/A",
     "comment": "Project: Dan F\nWell: DFB-15\nScope: run a caliper to HUD above the fish and identify where we can set a plug below the holes in the tubing\nEquipment Mob Date: Thurs 6th Aug\nEngineer Mob Date: Friday 7th Aug",
     "addedBy": "Craig Fraser",
     "date": "03-08-2026 17:16"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21) - MFC",
-    "job": "N/A",
-    "comment": "READ engineer for DAF outbound 7/8.\nThe reservation is TBN-58459. BBX615 - Check-in 14:00 at the latest.",
-    "addedBy": "Craig Fraser",
-    "date": "03-08-2026 13:28"
   }
 ]
