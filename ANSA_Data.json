@@ -191,7 +191,7 @@
       "undefined": "95 KB"
     },
     {
-      "undefined": "Delivered - July"
+      "undefined": "Delivered - August"
     },
     {
       "undefined": " "
@@ -207,105 +207,6 @@
     },
     {
       "undefined": " "
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "READ Ltd pass-through"
-    },
-    {
-      "undefined": "INV-0591"
-    },
-    {
-      "undefined": "INV-0589"
-    },
-    {
-      "undefined": "INV-0590"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "READ Ltd pass-through"
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "INV-0592"
-    },
-    {
-      "undefined": "INV-0592"
-    },
-    {
-      "undefined": "INV-0592"
-    },
-    {
-      "undefined": "INV-0592"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0593"
-    },
-    {
-      "undefined": "INV-0593"
-    },
-    {
-      "undefined": "INV-0594"
-    },
-    {
-      "undefined": "INV-0596"
-    },
-    {
-      "undefined": "INV-0595"
-    },
-    {
-      "undefined": "INV-0595"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "INV-0597"
-    },
-    {
-      "undefined": "N"
-    },
-    {
-      "undefined": "N"
     },
     {
       "undefined": "July"
@@ -315,26 +216,22 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Ltd*\",$J$51:$J$91)",
-        "result": 29120
+        "formula": "SUMIF($C$51:$C$91,\"*Ltd*\",$J$51:$J$91)"
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Inc*\",$J$51:$J$91)",
-        "result": 12800.687933258403
+        "formula": "SUMIF($C$51:$C$91,\"*Inc*\",$J$51:$J$91)"
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)",
-        "result": 23225.546146311197
+        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C95:C97)",
-        "result": 65146.23407956961
+        "formula": "SUM(C95:C97)"
       }
     }
   ],
@@ -19652,8 +19549,7 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Standard*\")",
-        "result": 16
+        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Standard*\")"
       }
     },
     {
@@ -19663,7 +19559,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Priority*\")",
-        "result": 9
+        "result": 1
       }
     },
     {
@@ -19673,7 +19569,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H52:H91,\"*FTA*\")",
-        "result": 10
+        "result": 1
       }
     },
     {
@@ -19687,7 +19583,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 178
+        "result": 145
       }
     },
     {
