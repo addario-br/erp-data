@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N51",
+        "formula": "'READ-3rd'!N52",
         "result": 1.34675
       }
     },
@@ -152,13 +152,25 @@
       "undefined": 7
     },
     {
+      "undefined": "FT"
+    },
+    {
       "undefined": "JP"
     },
     {
-      "undefined": "Standard Analysis"
+      "undefined": "CW"
     },
     {
-      "undefined": "TF"
+      "undefined": "JP"
+    },
+    {
+      "undefined": "CW (FTA on 08 Aug)"
+    },
+    {
+      "undefined": "JL (FTA on 10 Aug)"
+    },
+    {
+      "undefined": "FT (FTA on 10 Aug)"
     },
     {
       "undefined": "N"
@@ -170,16 +182,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "TBC"
-    },
-    {
-      "undefined": "TBC"
-    },
-    {
-      "undefined": "Y"
+      "undefined": "JV"
     },
     {
       "undefined": "N"
@@ -209,6 +212,18 @@
       "undefined": " "
     },
     {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -216,24 +231,26 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Ltd*\",$J$51:$J$91)"
+        "formula": "SUMIF($C$52:$C$92,\"*Ltd*\",$J$52:$J$92)",
+        "result": 9680
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Inc*\",$J$51:$J$91)"
+        "formula": "SUMIF($C$52:$C$92,\"*Inc*\",$J$52:$J$92)",
+        "result": 1202.895860404678
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)",
-        "result": 4195.284945238538
+        "formula": "SUMIF($C$52:$C$92,\"*ANSA*\",$J$52:$J$92)",
+        "result": 8476.535690157572
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C95:C97)",
-        "result": 4195.284945238538
+        "formula": "SUM(C96:C98)",
+        "result": 19359.43155056225
       }
     }
   ],
@@ -259,8 +276,8 @@
         "result": 116
       },
       "undefined": {
-        "formula": "SUM(Delivered!H1626:H1681)",
-        "result": 59
+        "formula": "SUM(Delivered!H1682:H1762)",
+        "result": 84
       }
     },
     {
@@ -278,8 +295,8 @@
         "result": 87
       },
       "undefined": {
-        "formula": "SUMIF(Delivered!F1626:F1681,\"*MFC*\",Delivered!H1626:H1681)",
-        "result": 38
+        "formula": "SUMIF(Delivered!F1682:F1762,\"*MFC*\",Delivered!H1682:H1762)",
+        "result": 58
       }
     },
     {
@@ -297,8 +314,7 @@
         "result": 26
       },
       "undefined": {
-        "formula": "SUMIF(Delivered!I1626:I1681,\"N\",Delivered!H1626:H1681)",
-        "result": 2
+        "formula": "SUMIF(Delivered!I1682:I1762,\"N\",Delivered!H1682:H1762)"
       }
     },
     {
@@ -316,8 +332,8 @@
         "result": 63
       },
       "undefined": {
-        "formula": "SUMIF(Delivered!I1626:I1681,\"Y\",Delivered!H1626:H1681)",
-        "result": 36
+        "formula": "SUMIF(Delivered!I1682:I1762,\"Y\",Delivered!H1682:H1762)",
+        "result": 58
       }
     },
     {
@@ -337,8 +353,8 @@
         "sharedFormula": "B7"
       },
       "undefined": {
-        "formula": "SUM(N5:N6)",
-        "result": 38
+        "formula": "SUM(O5:O6)",
+        "result": 58
       }
     },
     {
@@ -358,8 +374,8 @@
         "sharedFormula": "B8"
       },
       "undefined": {
-        "formula": "N6/N7",
-        "result": 0.9473684210526315
+        "formula": "O6/O7",
+        "result": 1
       }
     },
     {
@@ -379,8 +395,7 @@
         "sharedFormula": "B9"
       },
       "undefined": {
-        "formula": "N5/N7",
-        "result": 0.05263157894736842
+        "formula": "O5/O7"
       }
     }
   ],
@@ -19541,7 +19556,26 @@
       "undefined": "Standard (Upcoming Jobs)"
     },
     {
-      "undefined": "FTA (Upcoming Jobs)"
+      "undefined": {
+        "richText": [
+          {
+            "text": "FTA (Upcoming Jobs) -"
+          },
+          {
+            "font": {
+              "italic": true,
+              "size": 11,
+              "color": {
+                "theme": 1
+              },
+              "name": "Calibri",
+              "family": 2,
+              "scheme": "minor"
+            },
+            "text": " delayed"
+          }
+        ]
+      }
     },
     {
       "undefined": "Delayed to September"
@@ -19557,7 +19591,8 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Standard*\")"
+        "formula": "COUNTIF('READ-3rd'!H53:H92,\"*Standard*\")",
+        "result": 2
       }
     },
     {
@@ -19566,8 +19601,8 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Priority*\")",
-        "result": 1
+        "formula": "COUNTIF('READ-3rd'!H53:H92,\"*Priority*\")",
+        "result": 2
       }
     },
     {
@@ -19576,27 +19611,27 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*FTA*\")",
-        "result": 1
+        "formula": "COUNTIF('READ-3rd'!H53:H92,\"*FTA*\")",
+        "result": 4
       }
     },
     {
       "Month": "Total Analyses Delivered (Last Month)",
       "[object Object]": {
-        "formula": "SUM(Delivered!H1734:H1762)",
-        "result": 29
+        "formula": "SUM(Delivered!H1763:H1797)",
+        "result": 33
       }
     },
     {
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
-        "formula": "SUM(Delivered!H1626:H1762)+B2+B3+B4",
-        "result": 145
+        "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
+        "result": 184
       }
     },
     {
       "Month": "Most Analyses Delivered (YTD)",
-      "[object Object]": "Cory / Tim"
+      "[object Object]": "Jeniffer"
     }
   ]
 }
