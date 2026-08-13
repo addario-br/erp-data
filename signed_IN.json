@@ -1,11 +1,12 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
       "Joseph Guyan",
       "Jennifer Leyes",
-      "Craig Lamont"
+      "Craig Lamont",
+      "John Guntoro"
     ]
   },
   {
@@ -39,7 +40,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "David Gabriel"
+    ]
   }
 ]
