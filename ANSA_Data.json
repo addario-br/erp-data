@@ -194,15 +194,13 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I17,J17,\"D\")"
-      }
-    },
-    {
       "undefined": "N"
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "N"
