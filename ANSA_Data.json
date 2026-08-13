@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N56",
+        "formula": "'READ-3rd'!N57",
         "result": 1.34675
       }
     },
@@ -188,6 +188,9 @@
       "undefined": "N"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "N"
     },
     {
@@ -252,25 +255,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$56:$C$96,\"*Ltd*\",$J$56:$J$96)",
+        "formula": "SUMIF($C$57:$C$97,\"*Ltd*\",$J$57:$J$97)",
         "result": 13530
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$56:$C$96,\"*Inc*\",$J$56:$J$96)",
+        "formula": "SUMIF($C$57:$C$97,\"*Inc*\",$J$57:$J$97)",
         "result": 3608.687581214034
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$56:$C$96,\"*ANSA*\",$J$56:$J$96)",
+        "formula": "SUMIF($C$57:$C$97,\"*ANSA*\",$J$57:$J$97)",
         "result": 8476.535690157572
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C100:C102)",
+        "formula": "SUM(C101:C103)",
         "result": 25615.223271371608
       }
     }
@@ -19612,7 +19615,7 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H58:H97,\"*Standard*\")",
         "result": 2
       }
     },
@@ -19622,7 +19625,7 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H58:H97,\"*Priority*\")",
         "result": 4
       }
     },
@@ -19632,7 +19635,7 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H58:H97,\"*FTA*\")",
         "result": 5
       }
     },
