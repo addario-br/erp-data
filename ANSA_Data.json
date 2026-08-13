@@ -170,9 +170,6 @@
       "undefined": "JM (FTA on11 Aug)"
     },
     {
-      "undefined": "JL"
-    },
-    {
       "undefined": "TF"
     },
     {
@@ -186,6 +183,9 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": "FT"
     },
     {
       "undefined": "Y"
@@ -248,6 +248,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -262,7 +265,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$57:$C$97,\"*Inc*\",$J$57:$J$97)",
-        "result": 3608.687581214034
+        "result": 4811.583441618712
       }
     },
     {
@@ -274,7 +277,7 @@
     {
       "undefined": {
         "formula": "SUM(C101:C103)",
-        "result": 25615.223271371608
+        "result": 26818.119131776286
       }
     }
   ],
@@ -19626,7 +19629,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H58:H97,\"*Priority*\")",
-        "result": 4
+        "result": 5
       }
     },
     {
@@ -19650,7 +19653,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 187
+        "result": 188
       }
     },
     {
