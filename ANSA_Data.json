@@ -19583,29 +19583,7 @@
       "undefined": "Comments"
     },
     {
-      "undefined": "Standard (Upcoming Jobs)"
-    },
-    {
-      "undefined": {
-        "richText": [
-          {
-            "text": "FTA (Upcoming Jobs) -"
-          },
-          {
-            "font": {
-              "italic": true,
-              "size": 11,
-              "color": {
-                "theme": 1
-              },
-              "name": "Calibri",
-              "family": 2,
-              "scheme": "minor"
-            },
-            "text": " delayed"
-          }
-        ]
-      }
+      "undefined": "Standard (Postponed Jobs)"
     },
     {
       "undefined": "Delayed to September"
