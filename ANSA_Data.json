@@ -251,7 +251,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": "Standard"
+      "undefined": "N"
     },
     {
       "undefined": "August"
@@ -274,13 +274,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$57:$C$97,\"*ANSA*\",$J$57:$J$97)",
-        "result": 8476.535690157572
+        "result": 10058.597672780546
       }
     },
     {
       "undefined": {
         "formula": "SUM(C101:C103)",
-        "result": 26818.119131776286
+        "result": 28400.18111439926
       }
     }
   ],
