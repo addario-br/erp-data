@@ -188,12 +188,10 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I15,J15,\"D\")"
-      }
+      "undefined": "N"
     },
     {
-      "undefined": "N"
+      "undefined": "TBC"
     },
     {
       "undefined": "Categories"
