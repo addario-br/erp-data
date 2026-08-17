@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N56",
+        "formula": "'READ-3rd'!N54",
         "result": 1.34675
       }
     },
@@ -173,19 +173,13 @@
       "undefined": "N"
     },
     {
-      "undefined": "N"
-    },
-    {
-      "undefined": "FT"
-    },
-    {
       "undefined": "Y"
     },
     {
       "undefined": "N"
     },
     {
-      "undefined": "N"
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -264,25 +258,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$56:$C$96,\"*Ltd*\",$J$56:$J$96)",
+        "formula": "SUMIF($C$54:$C$94,\"*Ltd*\",$J$54:$J$94)",
         "result": 13530
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$56:$C$96,\"*Inc*\",$J$56:$J$96)",
+        "formula": "SUMIF($C$54:$C$94,\"*Inc*\",$J$54:$J$94)",
         "result": 6014.47930202339
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$56:$C$96,\"*ANSA*\",$J$56:$J$96)",
+        "formula": "SUMIF($C$54:$C$94,\"*ANSA*\",$J$54:$J$94)",
         "result": 10058.597672780546
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C100:C102)",
+        "formula": "SUM(C98:C100)",
         "result": 29603.07697480394
       }
     }
@@ -19602,7 +19596,7 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H55:H94,\"*Standard*\")",
         "result": 4
       }
     },
@@ -19612,7 +19606,7 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H55:H94,\"*Priority*\")",
         "result": 6
       }
     },
@@ -19622,7 +19616,7 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H55:H94,\"*FTA*\")",
         "result": 5
       }
     },
