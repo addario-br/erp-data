@@ -152,9 +152,6 @@
       "undefined": 7
     },
     {
-      "undefined": "JP"
-    },
-    {
       "undefined": "CW (FTA on 08 Aug)"
     },
     {
@@ -189,6 +186,9 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -249,6 +249,9 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -19600,7 +19603,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Standard*\")",
-        "result": 3
+        "result": 4
       }
     },
     {
@@ -19634,7 +19637,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 190
+        "result": 191
       }
     },
     {
