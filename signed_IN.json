@@ -6,13 +6,17 @@
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Dave Simpson"
+    ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "James Reid"
+    ]
   },
   {
     "companyName": "BlueSpark",
