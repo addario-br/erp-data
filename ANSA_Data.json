@@ -251,6 +251,12 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -19617,7 +19623,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H52:H91,\"*FTA*\")",
-        "result": 6
+        "result": 8
       }
     },
     {
@@ -19631,7 +19637,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 194
+        "result": 196
       }
     },
     {
