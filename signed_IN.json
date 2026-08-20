@@ -6,8 +6,10 @@
   },
   {
     "companyName": "READ",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Rob Molina"
+    ]
   },
   {
     "companyName": "HydraWell",
@@ -26,7 +28,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Richard Gordon"
+    ]
   }
 ]
