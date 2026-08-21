@@ -28,7 +28,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Richard Gordon"
+    ]
   }
 ]
