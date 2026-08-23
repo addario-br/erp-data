@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N53",
+        "formula": "'READ-3rd'!N55",
         "result": 1.34675
       }
     },
@@ -158,10 +158,7 @@
       "undefined": "JM / TF"
     },
     {
-      "undefined": "JV"
-    },
-    {
-      "undefined": "N"
+      "undefined": "Request for short notice interpretation"
     },
     {
       "undefined": "N"
@@ -177,6 +174,15 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -285,25 +291,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$53:$C$93,\"*Ltd*\",$J$53:$J$93)",
+        "formula": "SUMIF($C$55:$C$95,\"*Ltd*\",$J$55:$J$95)",
         "result": 28570
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$53:$C$93,\"*Inc*\",$J$53:$J$93)",
+        "formula": "SUMIF($C$55:$C$95,\"*Inc*\",$J$55:$J$95)",
         "result": 10038.98273621682
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$53:$C$93,\"*ANSA*\",$J$53:$J$93)",
+        "formula": "SUMIF($C$55:$C$95,\"*ANSA*\",$J$55:$J$95)",
         "result": 14513.767526131205
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C97:C99)",
+        "formula": "SUM(C99:C101)",
         "result": 53122.750262348025
       }
     }
@@ -19623,7 +19629,7 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H56:H95,\"*Standard*\")",
         "result": 6
       }
     },
@@ -19633,7 +19639,7 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H56:H95,\"*Priority*\")",
         "result": 10
       }
     },
@@ -19643,7 +19649,7 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H56:H95,\"*FTA*\")",
         "result": 9
       }
     },
