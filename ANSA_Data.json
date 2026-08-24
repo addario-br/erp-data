@@ -287,6 +287,9 @@
       "undefined": "INV-0609"
     },
     {
+      "undefined": "N"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -19653,7 +19656,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H57:H96,\"*FTA*\")",
-        "result": 9
+        "result": 10
       }
     },
     {
@@ -19667,7 +19670,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 201
+        "result": 202
       }
     },
     {
