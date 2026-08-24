@@ -1,39 +1,34 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 5,
     "names": [
       "Tyna Witkowska",
       "Heather Caldwell",
       "Alan Walsh",
       "John Guntoro",
-      "Craig Lamont",
-      "Joseph Guyan"
+      "Craig Lamont"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 6,
+    "numIn": 4,
     "names": [
       "Rob Molina",
       "Mark Davidson",
       "Ross Fraser",
-      "Dave Simpson",
-      "Abdil Malik Mohamed",
-      "Stewart Steele"
+      "Dave Simpson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 7,
+    "numIn": 5,
     "names": [
       "George Handsley",
       "James Reid",
       "Peter Thomson",
       "Cherie Bowden",
-      "Calum Smith",
-      "Lewis Campbell",
-      "Reeve McIntyre"
+      "Calum Smith"
     ]
   },
   {
