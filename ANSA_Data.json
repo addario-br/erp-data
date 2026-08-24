@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N57",
+        "formula": "'READ-3rd'!N56",
         "result": 1.34675
       }
     },
@@ -171,9 +171,6 @@
     },
     {
       "undefined": "JL"
-    },
-    {
-      "undefined": "TF"
     },
     {
       "undefined": "N"
@@ -293,6 +290,9 @@
       "undefined": "N"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -300,25 +300,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$57:$C$97,\"*Ltd*\",$J$57:$J$97)",
+        "formula": "SUMIF($C$56:$C$96,\"*Ltd*\",$J$56:$J$96)",
         "result": 28570
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$57:$C$97,\"*Inc*\",$J$57:$J$97)",
+        "formula": "SUMIF($C$56:$C$96,\"*Inc*\",$J$56:$J$96)",
         "result": 10038.98273621682
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$57:$C$97,\"*ANSA*\",$J$57:$J$97)",
+        "formula": "SUMIF($C$56:$C$96,\"*ANSA*\",$J$56:$J$96)",
         "result": 14513.767526131205
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C101:C103)",
+        "formula": "SUM(C100:C102)",
         "result": 53122.750262348025
       }
     }
@@ -19638,7 +19638,7 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H58:H97,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Standard*\")",
         "result": 6
       }
     },
@@ -19648,7 +19648,7 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H58:H97,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*Priority*\")",
         "result": 10
       }
     },
@@ -19658,7 +19658,7 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H58:H97,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H57:H96,\"*FTA*\")",
         "result": 10
       }
     },
