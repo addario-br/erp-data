@@ -13,19 +13,20 @@
     "companyName": "READ",
     "numIn": 4,
     "names": [
-      "Mark Davidson",
       "Craig Fraser",
       "Rob Molina",
-      "Dave Simpson"
+      "Dave Simpson",
+      "Mark Davidson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
       "Calum Smith",
       "James Reid",
-      "George Handsley"
+      "George Handsley",
+      "Peter Thomson"
     ]
   },
   {
