@@ -304,7 +304,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$57:$C$97,\"*Ltd*\",$J$57:$J$97)",
-        "result": 28570
+        "result": 36820
       }
     },
     {
@@ -322,7 +322,7 @@
     {
       "undefined": {
         "formula": "SUM(C101:C103)",
-        "result": 53122.750262348025
+        "result": 61372.750262348025
       }
     }
   ],
