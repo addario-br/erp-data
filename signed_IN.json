@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 12,
     "names": [
-      "Joseph Guyan",
       "Craig Lamont",
       "Alan Walsh",
       "Tim Farrar",
@@ -14,7 +13,8 @@
       "Mohamed Selim",
       "Jenni Michie",
       "Jennifer Leyes",
-      "Jay Purves"
+      "Jay Purves",
+      "Joseph Guyan"
     ]
   },
   {
@@ -53,11 +53,11 @@
     "companyName": "Visitors",
     "numIn": 5,
     "names": [
-      "John Sayer",
       "Mark Tanner",
       "Jeni Thompson",
       "Michael Taggart",
-      "Khan Green"
+      "Khan Green",
+      "John Sayer"
     ]
   }
 ]
