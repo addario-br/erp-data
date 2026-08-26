@@ -51,8 +51,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
+      "Khan Green",
       "Mark Tanner",
       "Jeni Thompson",
       "Michael Taggart"
