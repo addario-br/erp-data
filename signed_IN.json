@@ -11,10 +11,10 @@
       "Jennifer Leyes",
       "Tim Farrar",
       "Jay Purves",
+      "Mohamed Selim",
       "Maurillio Addario",
       "John Guntoro",
-      "Jenni Michie",
-      "Mohamed Selim"
+      "Jenni Michie"
     ]
   },
   {
@@ -52,8 +52,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Mark Tanner",
       "Jeni Thompson",
       "Michael Taggart"
     ]
