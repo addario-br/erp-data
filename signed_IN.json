@@ -10,11 +10,11 @@
       "Joseph Guyan",
       "Craig Lamont",
       "Tim Farrar",
-      "Maurillio Addario",
       "Jay Purves",
-      "John Guntoro",
       "Mohamed Selim",
-      "Alan Walsh"
+      "Alan Walsh",
+      "Maurillio Addario",
+      "John Guntoro"
     ]
   },
   {
@@ -22,10 +22,10 @@
     "numIn": 5,
     "names": [
       "Russell Edgar",
-      "Dave Simpson",
       "Mark Davidson",
       "Ross Fraser",
-      "Stewart Steele"
+      "Stewart Steele",
+      "Dave Simpson"
     ]
   },
   {
@@ -45,8 +45,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
