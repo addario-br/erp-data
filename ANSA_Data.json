@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N54",
+        "formula": "'READ-3rd'!N53",
         "result": 1.34675
       }
     },
@@ -150,9 +150,6 @@
   "READ-3rd": [
     {
       "undefined": 7
-    },
-    {
-      "undefined": "JM"
     },
     {
       "undefined": "Request for short notice interpretation"
@@ -296,6 +293,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -303,26 +303,26 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$54:$C$94,\"*Ltd*\",$J$54:$J$94)",
-        "result": 39500
+        "formula": "SUMIF($C$53:$C$93,\"*Ltd*\",$J$53:$J$93)",
+        "result": 42180
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$54:$C$94,\"*Inc*\",$J$54:$J$94)",
+        "formula": "SUMIF($C$53:$C$93,\"*Inc*\",$J$53:$J$93)",
         "result": 12444.774457026177
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$54:$C$94,\"*ANSA*\",$J$54:$J$94)",
+        "formula": "SUMIF($C$53:$C$93,\"*ANSA*\",$J$53:$J$93)",
         "result": 14513.767526131205
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C98:C100)",
-        "result": 66458.54198315738
+        "formula": "SUM(C97:C99)",
+        "result": 69138.54198315738
       }
     }
   ],
@@ -19641,8 +19641,8 @@
         "result": "Standard Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H55:H94,\"*Standard*\")",
-        "result": 7
+        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Standard*\")",
+        "result": 8
       }
     },
     {
@@ -19651,7 +19651,7 @@
         "result": "Priority Reports in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H55:H94,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Priority*\")",
         "result": 12
       }
     },
@@ -19661,7 +19661,7 @@
         "result": "FTAs Completed in August"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H55:H94,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*FTA*\")",
         "result": 10
       }
     },
@@ -19676,7 +19676,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 205
+        "result": 206
       }
     },
     {
