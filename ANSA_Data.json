@@ -278,22 +278,25 @@
       "undefined": "INV-0609"
     },
     {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
+    },
+    {
       "undefined": "N"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
     },
     {
       "undefined": "August"
@@ -19662,7 +19665,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H54:H93,\"*FTA*\")",
-        "result": 10
+        "result": 11
       }
     },
     {
@@ -19676,7 +19679,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 206
+        "result": 207
       }
     },
     {
