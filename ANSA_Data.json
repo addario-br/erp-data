@@ -155,9 +155,6 @@
       "undefined": "Request for short notice interpretation"
     },
     {
-      "undefined": "MS"
-    },
-    {
       "undefined": "JL"
     },
     {
@@ -182,10 +179,13 @@
       "undefined": "Y"
     },
     {
-      "undefined": "TBC"
+      "undefined": "JP"
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "TBC"
@@ -296,7 +296,10 @@
       "undefined": "Y"
     },
     {
-      "undefined": "N"
+      "undefined": "Y"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "August"
@@ -19655,7 +19658,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Priority*\")",
-        "result": 12
+        "result": 13
       }
     },
     {
@@ -19679,7 +19682,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 207
+        "result": 208
       }
     },
     {
