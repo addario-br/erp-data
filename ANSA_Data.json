@@ -322,13 +322,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$53:$C$93,\"*ANSA*\",$J$53:$J$93)",
-        "result": 14513.767526131205
+        "result": 18373.065967940605
       }
     },
     {
       "undefined": {
         "formula": "SUM(C97:C99)",
-        "result": 69138.54198315738
+        "result": 72997.84042496678
       }
     }
   ],
