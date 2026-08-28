@@ -1,30 +1,18 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 11,
+    "numIn": 1,
     "names": [
-      "Craig Lamont",
-      "Mohamed Selim",
-      "Tim Farrar",
-      "Joseph Guyan",
-      "Maurillio Addario",
-      "John Guntoro",
-      "Jenni Michie",
-      "Jay Purves",
-      "Tyna Witkowska",
-      "Jennifer Leyes",
-      "Alan Walsh"
+      "Craig Lamont"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 5,
+    "numIn": 3,
     "names": [
-      "Ross Fraser",
-      "Stewart Steele",
-      "Dave Simpson",
       "Mark Davidson",
-      "Craig Fraser"
+      "Dave Simpson",
+      "Ross Fraser"
     ]
   },
   {
@@ -32,10 +20,10 @@
     "numIn": 5,
     "names": [
       "Liam Strath",
-      "George Handsley",
-      "Cherie Bowden",
       "Peter Thomson",
-      "Calum Smith"
+      "George Handsley",
+      "Calum Smith",
+      "Cherie Bowden"
     ]
   },
   {
@@ -50,9 +38,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
-    "names": [
-      "Ross Brackenridge"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
