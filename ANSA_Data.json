@@ -170,7 +170,7 @@
       "undefined": "CW"
     },
     {
-      "undefined": "JP"
+      "undefined": "JP (FTA on 28 Aug)"
     },
     {
       "undefined": "N"
@@ -302,6 +302,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "August"
     },
     {
@@ -310,7 +313,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$53:$C$93,\"*Ltd*\",$J$53:$J$93)",
-        "result": 42180
+        "result": 46030
       }
     },
     {
@@ -328,7 +331,7 @@
     {
       "undefined": {
         "formula": "SUM(C97:C99)",
-        "result": 72997.84042496678
+        "result": 76847.84042496678
       }
     }
   ],
@@ -19668,7 +19671,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H54:H93,\"*FTA*\")",
-        "result": 11
+        "result": 12
       }
     },
     {
@@ -19682,7 +19685,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 208
+        "result": 209
       }
     },
     {
