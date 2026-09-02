@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 11,
     "names": [
-      "Heather Caldwell",
       "Tyna Witkowska",
       "Jay Purves",
       "Jennifer Leyes",
@@ -13,7 +12,8 @@
       "Tim Farrar",
       "Craig Lamont",
       "Maurillio Addario",
-      "Alan Walsh"
+      "Alan Walsh",
+      "Heather Caldwell"
     ]
   },
   {
@@ -32,9 +32,9 @@
     "companyName": "HydraWell",
     "numIn": 3,
     "names": [
-      "Cherie Bowden",
       "James Reid",
-      "Peter Thomson"
+      "Peter Thomson",
+      "Cherie Bowden"
     ]
   },
   {
