@@ -8,12 +8,12 @@
       "Craig Lamont",
       "Maurillio Addario",
       "Alan Walsh",
+      "Jay Purves",
+      "Jennifer Leyes",
+      "Joseph Guyan",
       "John Guntoro",
       "Jenni Michie",
-      "Tim Farrar",
-      "Joseph Guyan",
-      "Jay Purves",
-      "Jennifer Leyes"
+      "Tim Farrar"
     ]
   },
   {
@@ -44,8 +44,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
