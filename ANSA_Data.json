@@ -20123,7 +20123,8 @@
         "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*FTA*\")"
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*FTA*\")",
+        "result": 1
       }
     },
     {
@@ -20137,7 +20138,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 179
+        "result": 180
       }
     },
     {
