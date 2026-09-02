@@ -106,8 +106,8 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N53",
-        "result": 1.34675
+        "formula": "'READ-3rd'!N49",
+        "result": 1.35493
       }
     },
     {
@@ -155,9 +155,6 @@
       "undefined": "Request for short notice interpretation"
     },
     {
-      "undefined": "JL"
-    },
-    {
       "undefined": "TF"
     },
     {
@@ -167,25 +164,16 @@
       "undefined": "JL"
     },
     {
-      "undefined": "CW"
-    },
-    {
       "undefined": "JP/JM (FTA on 28 & 30 Aug)"
     },
     {
       "undefined": "N"
     },
     {
-      "undefined": "JP"
-    },
-    {
-      "undefined": "Y"
+      "undefined": "CW (FTA on 02 Sep)"
     },
     {
       "undefined": "N"
-    },
-    {
-      "undefined": "Y"
     },
     {
       "undefined": "TBC"
@@ -197,7 +185,7 @@
       "undefined": "95 KB"
     },
     {
-      "undefined": "Delivered - August"
+      "undefined": "Delivered - September"
     },
     {
       "undefined": " "
@@ -215,129 +203,192 @@
       "undefined": " "
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I54"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I55"
+      }
     },
     {
-      "undefined": "IP software used (Geoactive)"
+      "undefined": {
+        "formula": "I56/N52"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I57"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I58"
+      }
     },
     {
-      "undefined": "INV-0606"
+      "undefined": {
+        "formula": "I59/N49"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I60/N49"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I61/N49"
+      }
     },
     {
-      "undefined": "IP software used (Geoactive)"
+      "undefined": {
+        "formula": "I62/N52"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I63/N49"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I64"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I65"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I66"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I67"
+      }
     },
     {
-      "undefined": "INV-0607"
+      "undefined": {
+        "formula": "I68/N49"
+      }
     },
     {
-      "undefined": "INV-0607"
+      "undefined": {
+        "formula": "I69/N49"
+      }
     },
     {
-      "undefined": "INV-0608"
+      "undefined": {
+        "formula": "I70"
+      }
     },
     {
-      "undefined": "IP software used (Geoactive)"
+      "undefined": {
+        "formula": "I71/N49"
+      }
     },
     {
-      "undefined": "INV-0609"
+      "undefined": {
+        "formula": "I72/N49"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I73/N49"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I74/N49"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I75"
+      }
     },
     {
-      "undefined": "INV-0612"
+      "undefined": {
+        "formula": "I76"
+      }
     },
     {
-      "undefined": "INV-0610"
+      "undefined": {
+        "formula": "I77/N49"
+      }
     },
     {
-      "undefined": "Y"
+      "undefined": {
+        "formula": "I78"
+      }
     },
     {
-      "undefined": "INV-0613"
+      "undefined": {
+        "formula": "I79/N49"
+      }
     },
     {
-      "undefined": "INV-0614"
+      "undefined": {
+        "formula": "I80"
+      }
     },
     {
-      "undefined": "INV-0613"
+      "undefined": {
+        "formula": "I81/N52"
+      }
     },
     {
-      "undefined": "INV-0614"
+      "undefined": {
+        "formula": "I82/N49"
+      }
     },
     {
-      "undefined": "Y"
+      "undefined": {
+        "formula": "I83"
+      }
     },
     {
-      "undefined": "N"
+      "undefined": {
+        "formula": "I84/N49"
+      }
     },
     {
-      "undefined": "Y"
+      "undefined": {
+        "formula": "I85"
+      }
     },
     {
-      "undefined": "August"
+      "undefined": "September"
     },
     {
       "undefined": "Actual"
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$53:$C$93,\"*Ltd*\",$J$53:$J$93)",
-        "result": 49880
+        "formula": "SUMIF($C$49:$C$89,\"*Ltd*\",$J$49:$J$89)",
+        "result": 1977.9619611345236
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$53:$C$93,\"*Inc*\",$J$53:$J$93)",
-        "result": 12444.774457026177
+        "formula": "SUMIF($C$49:$C$89,\"*Inc*\",$J$49:$J$89)",
+        "result": 1195.6337227753463
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$53:$C$93,\"*ANSA*\",$J$53:$J$93)",
-        "result": 19932.375416613337
+        "formula": "SUMIF($C$49:$C$89,\"*ANSA*\",$J$49:$J$89)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C97:C99)",
-        "result": 82257.14987363952
+        "formula": "SUM(C93:C95)",
+        "result": 3173.59568390987
       }
     }
   ],
@@ -19633,6 +19684,402 @@
       "Report Type": "Priority + Timelapse",
       "# Reports": 1,
       "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-02T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Empire Wireline (BPX Energy)",
+      "Country": "USA",
+      "Well ": "BOLD JOHNSON 56-T1-42 1H",
+      "Service ": "Leak Detection - NST",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-03T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Wire Group (Maurel & Prom)",
+      "Country": "Gabon",
+      "Well ": "OMOC-1101D",
+      "Service ": "RBT",
+      "Report Type": "Priority + Data QC (1.5 hrs OOH)",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-04T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "MPM-32",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-06T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Wire Group (Maurel & Prom)",
+      "Country": "Gabon",
+      "Well ": "ONAL-1102D ST3",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-07T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "HG Wells (Humbly Grove Energy)",
+      "Country": "UK",
+      "Well ": "A5",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-08T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "DD-07",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-10T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "ID OilTools (Shell NAM)",
+      "Country": "Netherlands",
+      "Well ": "SCH-502",
+      "Service ": "Ultrasonic (Cement) - Nusonix",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-10T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "DFB-15",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-11T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-47",
+      "Service ": "MFC",
+      "Report Type": "FTA - Run 1",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-11T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "PBU L-218",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-12T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "ConocoPhillips",
+      "Country": "USA",
+      "Well ": "CD1-33A",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-13T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "MPF-61",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-14T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "BPC (Enagás)",
+      "Country": "Spain",
+      "Well ": "S2111",
+      "Service ": "RBT",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-14T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "MPF-54",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-14T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "Exlog (ExxonMobil)",
+      "Country": "Germany",
+      "Well ": "Söhlingen Ost Z3",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-17T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-47",
+      "Service ": "MFC",
+      "Report Type": "FTA - Run 2",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-17T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "DFB-15",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-17T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "DD-07",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-18T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "PBU 14-07",
+      "Service ": "MFC",
+      "Report Type": "FTA+",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-19T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "SP04-SE5",
+      "Service ": "MFC",
+      "Report Type": "FTA+",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-19T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "DFF-21",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-19T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Wire Group (Maurel & Prom)",
+      "Country": "Gabon",
+      "Well ": "OMOC-1103D",
+      "Service ": "RBT",
+      "Report Type": "Priority + Data QC (1 hr Out-of-Hours)",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-20T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Empire Wireline (Jack L. Phillips Co.)",
+      "Country": "USA",
+      "Well ": "Hutto 28-9 #1",
+      "Service ": "PNL",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-21T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "SP03-NE2",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-21T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Empire Wireline (Dome de Sel LLC)",
+      "Country": "USA",
+      "Well ": "Hughes B-10",
+      "Service ": "PNL",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-23T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "Welltec (KPO)",
+      "Country": "Kazakhstan",
+      "Well ": "9838",
+      "Service ": "Array-PLT (MAPS)",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-24T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GBN-17",
+      "Service ": "MFC",
+      "Report Type": "1-hr Analyst time (Office Hours) - Fluid level computations",
+      "# Reports": "-",
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-25T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "ConocoPhillips",
+      "Country": "USA",
+      "Well ": "2F-19A",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-25T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-47",
+      "Service ": "MFC",
+      "Report Type": "Standard - Runs 1 & 2 Combined",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-25T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "PBU 18-10C",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-26T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "DFF-21",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-26T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "ID OilTools (ExxonMobil)",
+      "Country": "Germany",
+      "Well ": "Goldenstedt Z07",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-27T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Empire Wireline (PIE LA Operating LLC)",
+      "Country": "USA",
+      "Well ": "Vua Mineral Resources Dev 1 No. 2 (Java)",
+      "Service ": "PNL",
+      "Report Type": "Priority",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-28T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GBN-12",
+      "Service ": "MFC",
+      "Report Type": "FTA (Run 1)",
+      "# Reports": 1,
+      "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-08-29T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Empire Wireline (Montare Resources, LLC)",
+      "Country": "USA",
+      "Well ": "SASI RANCH UNIT 2 XT",
+      "Service ": "PNL",
+      "Report Type": "FTA",
+      "# Reports": 1,
+      "Clarity": "N/A"
+    },
+    {
+      "MMM-YY": "2026-08-30T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GBN-12",
+      "Service ": "MFC",
+      "Report Type": "FTA (Run 2)",
+      "# Reports": 1,
+      "Clarity": "Y"
     }
   ],
   "Longer-term lookahead": [
@@ -19653,31 +20100,30 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Standard Reports in \",B1)",
-        "result": "Standard Reports in August"
+        "result": "Standard Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Standard*\")",
-        "result": 8
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*Standard*\")",
+        "result": 2
       }
     },
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Priority Reports in \",B1)",
-        "result": "Priority Reports in August"
+        "result": "Priority Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Priority*\")",
-        "result": 13
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*Priority*\")",
+        "result": 1
       }
     },
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"FTAs Completed in \",B1)",
-        "result": "FTAs Completed in August"
+        "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H54:H93,\"*FTA*\")",
-        "result": 14
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*FTA*\")"
       }
     },
     {
@@ -19691,12 +20137,12 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 211
+        "result": 179
       }
     },
     {
       "Month": "Most Analyses Delivered (YTD)",
-      "[object Object]": "Jeniffer"
+      "[object Object]": "Cory"
     }
   ]
 }
