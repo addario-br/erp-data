@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N48",
+        "formula": "'READ-3rd'!N47",
         "result": 1.35493
       }
     },
@@ -161,19 +161,16 @@
       "undefined": "+1 hr QC (office hrs)"
     },
     {
-      "undefined": "zero notice, QC FTA sent by email. Follow up required?"
-    },
-    {
       "undefined": "N"
     },
     {
-      "undefined": "JP"
-    },
-    {
-      "undefined": "JV"
+      "undefined": "zero notice, QC FTA sent by email. Follow up required?"
     },
     {
       "undefined": "TBC"
+    },
+    {
+      "undefined": "JV"
     },
     {
       "undefined": "Categories"
@@ -216,27 +213,32 @@
     },
     {
       "undefined": {
-        "formula": "I58/N48"
+        "formula": "I57/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I59/N48"
+        "formula": "I58/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I60/N48"
+        "formula": "I59/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I61/N51"
+        "formula": "I60/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I62/N48"
+        "formula": "I61/N47"
+      }
+    },
+    {
+      "undefined": {
+        "formula": "I62"
       }
     },
     {
@@ -256,42 +258,42 @@
     },
     {
       "undefined": {
-        "formula": "I66"
+        "formula": "I66/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I67/N48"
+        "formula": "I67/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I68/N48"
+        "formula": "I68"
       }
     },
     {
       "undefined": {
-        "formula": "I69"
+        "formula": "I69/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I70/N48"
+        "formula": "I70/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I71/N48"
+        "formula": "I71/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I72/N48"
+        "formula": "I72/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I73/N48"
+        "formula": "I73"
       }
     },
     {
@@ -301,52 +303,47 @@
     },
     {
       "undefined": {
-        "formula": "I75"
+        "formula": "I75/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I76/N48"
+        "formula": "I76"
       }
     },
     {
       "undefined": {
-        "formula": "I77"
+        "formula": "I77/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I78/N48"
+        "formula": "I78"
       }
     },
     {
       "undefined": {
-        "formula": "I79"
+        "formula": "I79/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I80/N51"
+        "formula": "I80/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I81/N48"
+        "formula": "I81"
       }
     },
     {
       "undefined": {
-        "formula": "I82"
+        "formula": "I82/N47"
       }
     },
     {
       "undefined": {
-        "formula": "I83/N48"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I84"
+        "formula": "I83"
       }
     },
     {
@@ -357,24 +354,24 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$48:$C$88,\"*Ltd*\",$J$48:$J$88)",
+        "formula": "SUMIF($C$47:$C$87,\"*Ltd*\",$J$47:$J$87)",
         "result": 1977.9619611345236
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$48:$C$88,\"*Inc*\",$J$48:$J$88)",
+        "formula": "SUMIF($C$47:$C$87,\"*Inc*\",$J$47:$J$87)",
         "result": 1195.6337227753463
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$48:$C$88,\"*ANSA*\",$J$48:$J$88)"
+        "formula": "SUMIF($C$47:$C$87,\"*ANSA*\",$J$47:$J$87)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C92:C94)",
+        "formula": "SUM(C91:C93)",
         "result": 3173.59568390987
       }
     }
@@ -20099,7 +20096,7 @@
         "result": "Standard Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H87,\"*Standard*\")",
         "result": 6
       }
     },
@@ -20109,7 +20106,7 @@
         "result": "Priority Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H87,\"*Priority*\")",
         "result": 1
       }
     },
@@ -20119,7 +20116,7 @@
         "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H48:H87,\"*FTA*\")",
         "result": 2
       }
     },
