@@ -13,8 +13,11 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 0,
-    "names": []
+    "numIn": 2,
+    "names": [
+      "James Reid",
+      "Peter Thomson"
+    ]
   },
   {
     "companyName": "BlueSpark",
