@@ -158,10 +158,10 @@
       "undefined": "+1 hr QC (office hrs)"
     },
     {
-      "undefined": "N"
+      "undefined": "zero notice, QC FTA sent by email. Follow up required?"
     },
     {
-      "undefined": "zero notice, QC FTA sent by email. Follow up required?"
+      "undefined": "JM"
     },
     {
       "undefined": "TBC"
@@ -212,6 +212,14 @@
       "undefined": {
         "formula": "I56",
         "result": 2680
+      }
+    },
+    {
+      "undefined": {
+        "formula": "_xlfn.TEXTJOIN(\" \",TRUE,D57:G57)",
+        "result": null,
+        "ref": "H57",
+        "shareType": "shared"
       }
     },
     {
