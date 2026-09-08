@@ -210,137 +210,8 @@
     },
     {
       "undefined": {
-        "formula": "I56/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I57/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I58/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I59/N49"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I60/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I61"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I62"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I63"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I64"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I65/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I66/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I67"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I68/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I69/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I70/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I71/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I72"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I73"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I74/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I75"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I76/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I77"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I78/N49"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I79/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I80"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I81/N46"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I82"
+        "formula": "I56",
+        "result": 2680
       }
     },
     {
@@ -352,24 +223,25 @@
     {
       "undefined": {
         "formula": "SUMIF($C$46:$C$86,\"*Ltd*\",$J$46:$J$86)",
-        "result": 1977.9619611345236
+        "result": 15160
       }
     },
     {
       "undefined": {
         "formula": "SUMIF($C$46:$C$86,\"*Inc*\",$J$46:$J$86)",
-        "result": 1195.6337227753463
+        "result": 2597.9201877587775
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$46:$C$86,\"*ANSA*\",$J$46:$J$86)"
+        "formula": "SUMIF($C$46:$C$86,\"*ANSA*\",$J$46:$J$86)",
+        "result": 3133.0885441162536
       }
     },
     {
       "undefined": {
         "formula": "SUM(C90:C92)",
-        "result": 3173.59568390987
+        "result": 20891.00873187503
       }
     }
   ],
