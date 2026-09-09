@@ -1,33 +1,19 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 3,
-    "names": [
-      "Jennifer Leyes",
-      "Mohamed Selim",
-      "Tim Farrar"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
-    "numIn": 8,
-    "names": [
-      "Leonard Lapiso",
-      "Russell Edgar",
-      "Rob Molina",
-      "Melissa Hernandez",
-      "Ross Fraser",
-      "Dave Simpson",
-      "Craig Fraser",
-      "Stewart Steele"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
-    "numIn": 2,
+    "numIn": 1,
     "names": [
-      "James Reid",
-      "Peter Thomson"
+      "James Reid"
     ]
   },
   {
@@ -42,11 +28,7 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 3,
-    "names": [
-      "Chris Rankin",
-      "Adrian Roman",
-      "Dave Ross"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
