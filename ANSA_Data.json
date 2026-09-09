@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N45",
+        "formula": "'READ-3rd'!N44",
         "result": 1.35493
       }
     },
@@ -153,9 +153,6 @@
     },
     {
       "undefined": "CW (FTA on 02 Sep)"
-    },
-    {
-      "undefined": "+1 hr QC (office hrs)"
     },
     {
       "undefined": "CW"
@@ -206,24 +203,19 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I55",
-        "result": 2680
-      }
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "_xlfn.TEXTJOIN(\" \",TRUE,D57:G57)",
-        "result": null,
-        "ref": "H57",
-        "shareType": "shared"
-      }
+      "undefined": "FTA"
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "IP Software used (Geoactive)"
     },
     {
       "undefined": "September"
@@ -233,25 +225,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
+        "formula": "SUMIF($C$44:$C$84,\"*Ltd*\",$J$44:$J$84)",
         "result": 17490
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)",
+        "formula": "SUMIF($C$44:$C$84,\"*Inc*\",$J$44:$J$84)",
         "result": 2597.9201877587775
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)",
+        "formula": "SUMIF($C$44:$C$84,\"*ANSA*\",$J$44:$J$84)",
         "result": 3133.0885441162536
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C89:C91)",
+        "formula": "SUM(C88:C90)",
         "result": 23221.00873187503
       }
     }
@@ -19976,7 +19968,7 @@
         "result": "Standard Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Standard*\")",
         "result": 7
       }
     },
@@ -19986,8 +19978,8 @@
         "result": "Priority Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Priority*\")",
-        "result": 1
+        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Priority*\")",
+        "result": 3
       }
     },
     {
@@ -19996,8 +19988,8 @@
         "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")",
-        "result": 3
+        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
+        "result": 5
       }
     },
     {
@@ -20011,7 +20003,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 187
+        "result": 191
       }
     },
     {
