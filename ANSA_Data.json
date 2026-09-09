@@ -220,7 +220,9 @@
     {
       "undefined": {
         "formula": "_xlfn.TEXTJOIN(\" \",TRUE,D57:G57)",
-        "result": null
+        "result": null,
+        "ref": "H57",
+        "shareType": "shared"
       }
     },
     {
