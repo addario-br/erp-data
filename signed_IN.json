@@ -1,18 +1,20 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
-      "Jennifer Leyes"
+      "Jennifer Leyes",
+      "Tim Farrar"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
       "Rob Molina",
       "Russell Edgar",
-      "Dave Simpson"
+      "Dave Simpson",
+      "Craig Fraser"
     ]
   },
   {
