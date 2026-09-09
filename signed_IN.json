@@ -13,9 +13,10 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
-      "James Reid"
+      "James Reid",
+      "Peter Thomson"
     ]
   },
   {
@@ -30,8 +31,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Dave Ross",
       "Chris Rankin",
       "Adrian Roman"
     ]
