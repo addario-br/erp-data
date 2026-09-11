@@ -158,9 +158,7 @@
       "undefined": "N"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I5,J5,\"D\")"
-      }
+      "undefined": "TBC"
     },
     {
       "undefined": "JV"
