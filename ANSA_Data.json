@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N43",
+        "formula": "'READ-3rd'!N44",
         "result": 1.35493
       }
     },
@@ -156,6 +156,11 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": {
+        "formula": "DATEDIF(I5,J5,\"D\")"
+      }
     },
     {
       "undefined": "JV"
@@ -228,25 +233,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*Ltd*\",$J$43:$J$83)",
+        "formula": "SUMIF($C$44:$C$84,\"*Ltd*\",$J$44:$J$84)",
         "result": 17490
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*Inc*\",$J$43:$J$83)",
+        "formula": "SUMIF($C$44:$C$84,\"*Inc*\",$J$44:$J$84)",
         "result": 2597.9201877587775
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*ANSA*\",$J$43:$J$83)",
+        "formula": "SUMIF($C$44:$C$84,\"*ANSA*\",$J$44:$J$84)",
         "result": 3133.0885441162536
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C87:C89)",
+        "formula": "SUM(C88:C90)",
         "result": 23221.00873187503
       }
     }
@@ -19971,7 +19976,7 @@
         "result": "Standard Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Standard*\")",
         "result": 7
       }
     },
@@ -19981,7 +19986,7 @@
         "result": "Priority Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Priority*\")",
         "result": 4
       }
     },
@@ -19991,7 +19996,7 @@
         "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
         "result": 6
       }
     },
