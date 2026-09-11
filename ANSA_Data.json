@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N44",
+        "formula": "'READ-3rd'!N45",
         "result": 1.35493
       }
     },
@@ -158,10 +158,13 @@
       "undefined": "N"
     },
     {
+      "undefined": "JV"
+    },
+    {
       "undefined": "TBC"
     },
     {
-      "undefined": "JV"
+      "undefined": "TBC"
     },
     {
       "undefined": "Categories"
@@ -231,25 +234,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$44:$C$84,\"*Ltd*\",$J$44:$J$84)",
+        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
         "result": 17490
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$44:$C$84,\"*Inc*\",$J$44:$J$84)",
+        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)",
         "result": 2597.9201877587775
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$44:$C$84,\"*ANSA*\",$J$44:$J$84)",
+        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)",
         "result": 3133.0885441162536
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C88:C90)",
+        "formula": "SUM(C89:C91)",
         "result": 23221.00873187503
       }
     }
@@ -19974,7 +19977,7 @@
         "result": "Standard Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Standard*\")",
         "result": 7
       }
     },
@@ -19984,7 +19987,7 @@
         "result": "Priority Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Priority*\")",
         "result": 4
       }
     },
@@ -19994,7 +19997,7 @@
         "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")",
         "result": 6
       }
     },
