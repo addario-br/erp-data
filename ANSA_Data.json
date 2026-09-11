@@ -152,13 +152,10 @@
       "undefined": 7
     },
     {
-      "undefined": "TBC"
+      "undefined": "JL"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I4,J4,\"D\")",
-        "result": 12
-      }
+      "undefined": "N"
     },
     {
       "undefined": "JV"
