@@ -152,10 +152,13 @@
       "undefined": 7
     },
     {
-      "undefined": "CW"
+      "undefined": "TBC"
     },
     {
-      "undefined": "TBC"
+      "undefined": {
+        "formula": "DATEDIF(I4,J4,\"D\")",
+        "result": 12
+      }
     },
     {
       "undefined": "JV"
@@ -213,6 +216,9 @@
     },
     {
       "undefined": "IP Software used (Geoactive)"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -19979,7 +19985,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Priority*\")",
-        "result": 3
+        "result": 4
       }
     },
     {
@@ -20003,7 +20009,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 192
+        "result": 193
       }
     },
     {
