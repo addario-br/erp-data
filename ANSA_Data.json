@@ -250,19 +250,19 @@
     {
       "undefined": {
         "formula": "SUMIF($C$47:$C$87,\"*Inc*\",$J$47:$J$87)",
-        "result": 5195.840375517555
+        "result": 6391.4740982929015
       }
     },
     {
       "undefined": {
         "formula": "SUMIF($C$47:$C$87,\"*ANSA*\",$J$47:$J$87)",
-        "result": 3133.0885441162536
+        "result": 4793.69093685979
       }
     },
     {
       "undefined": {
         "formula": "SUM(C91:C93)",
-        "result": 32348.928919633807
+        "result": 35205.16503515269
       }
     }
   ],
