@@ -152,7 +152,7 @@
       "undefined": 7
     },
     {
-      "undefined": "JL"
+      "undefined": "JL (FTA on 13 Sep)"
     },
     {
       "undefined": "JV"
@@ -227,6 +227,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "September"
     },
     {
@@ -235,13 +238,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
-        "result": 17490
+        "result": 24020
       }
     },
     {
       "undefined": {
         "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)",
-        "result": 2597.9201877587775
+        "result": 5195.840375517555
       }
     },
     {
@@ -253,7 +256,7 @@
     {
       "undefined": {
         "formula": "SUM(C89:C91)",
-        "result": 23221.00873187503
+        "result": 32348.928919633807
       }
     }
   ],
@@ -19978,7 +19981,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Standard*\")",
-        "result": 7
+        "result": 8
       }
     },
     {
@@ -19998,7 +20001,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")",
-        "result": 6
+        "result": 5
       }
     },
     {
