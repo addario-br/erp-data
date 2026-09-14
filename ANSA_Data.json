@@ -221,7 +221,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": "FTA"
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -259,13 +259,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$47:$C$87,\"*ANSA*\",$J$47:$J$87)",
-        "result": 4793.69093685979
+        "result": 6306.684228026124
       }
     },
     {
       "undefined": {
         "formula": "SUM(C91:C93)",
-        "result": 35205.16503515269
+        "result": 36718.158326319026
       }
     }
   ],
