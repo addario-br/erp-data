@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 10,
     "names": [
-      "Joseph Guyan",
       "Alan Walsh",
       "Craig Lamont",
       "Maurillio Addario",
@@ -12,21 +11,22 @@
       "Jenni Michie",
       "Heather Caldwell",
       "Tyna Witkowska",
-      "Jennifer Leyes"
+      "Jennifer Leyes",
+      "Joseph Guyan"
     ]
   },
   {
     "companyName": "READ",
     "numIn": 8,
     "names": [
-      "Dave Simpson",
       "Ross Fraser",
       "Stewart Steele",
       "Craig Fraser",
       "Thomas Dyke",
       "Grant Patterson",
       "Rob Molina",
-      "Mark Davidson"
+      "Mark Davidson",
+      "Dave Simpson"
     ]
   },
   {
