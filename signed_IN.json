@@ -1,10 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
       "Heather Caldwell",
-      "Jenni Michie"
+      "Jenni Michie",
+      "Tyna Witkowska"
     ]
   },
   {
@@ -18,11 +19,13 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 3,
+    "numIn": 5,
     "names": [
       "James Reid",
       "George Handsley",
-      "Peter Thomson"
+      "Peter Thomson",
+      "Cherie Bowden",
+      "Calum Smith"
     ]
   },
   {
