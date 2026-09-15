@@ -167,12 +167,7 @@
       "undefined": "TBC"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I8,J8,\"D\")",
-        "result": {
-          "error": "#NUM!"
-        }
-      }
+      "undefined": "TBC"
     },
     {
       "undefined": "N"
