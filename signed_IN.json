@@ -1,44 +1,20 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 10,
+    "numIn": 1,
     "names": [
-      "Maurillio Addario",
-      "Jenni Michie",
-      "Heather Caldwell",
-      "Tyna Witkowska",
-      "Jennifer Leyes",
-      "Joseph Guyan",
-      "Mohamed Selim",
-      "Alan Walsh",
-      "John Guntoro",
-      "Craig Lamont"
+      "Maurillio Addario"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 8,
-    "names": [
-      "Grant Patterson",
-      "Rob Molina",
-      "Mark Davidson",
-      "Dave Simpson",
-      "Craig Fraser",
-      "Ross Fraser",
-      "Thomas Dyke",
-      "Stewart Steele"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
-    "numIn": 5,
-    "names": [
-      "Calum Smith",
-      "James Reid",
-      "George Handsley",
-      "Cherie Bowden",
-      "Peter Thomson"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
