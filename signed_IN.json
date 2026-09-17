@@ -48,7 +48,12 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 4,
+    "names": [
+      "Rod Smith",
+      "Liu hai",
+      "Erick santillan",
+      "Joelle Mitri"
+    ]
   }
 ]
