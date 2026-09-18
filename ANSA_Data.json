@@ -152,9 +152,6 @@
       "undefined": 7
     },
     {
-      "undefined": "JL (FTA on 13 Sep)"
-    },
-    {
       "undefined": "JM"
     },
     {
@@ -171,6 +168,9 @@
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "TBC"
     },
     {
       "undefined": "Y"
@@ -248,6 +248,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "September"
     },
     {
@@ -256,7 +259,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$48:$C$88,\"*Ltd*\",$J$48:$J$88)",
-        "result": 29730
+        "result": 32410
       }
     },
     {
@@ -274,7 +277,7 @@
     {
       "undefined": {
         "formula": "SUM(C92:C94)",
-        "result": 43623.79204909437
+        "result": 46303.79204909437
       }
     }
   ],
@@ -19996,7 +19999,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Standard*\")",
-        "result": 9
+        "result": 10
       }
     },
     {
@@ -20030,7 +20033,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 196
+        "result": 197
       }
     },
     {
