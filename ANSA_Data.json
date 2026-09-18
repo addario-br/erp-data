@@ -158,7 +158,7 @@
       "undefined": "JM"
     },
     {
-      "undefined": "FT"
+      "undefined": "FT (FTA on 18 Sep)"
     },
     {
       "undefined": "ePTD results to be integrated with MFC findings"
@@ -242,6 +242,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "September"
     },
     {
@@ -250,7 +253,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$47:$C$87,\"*Ltd*\",$J$47:$J$87)",
-        "result": 25880
+        "result": 29730
       }
     },
     {
@@ -268,7 +271,7 @@
     {
       "undefined": {
         "formula": "SUM(C91:C93)",
-        "result": 39773.79204909437
+        "result": 43623.79204909437
       }
     }
   ],
@@ -20010,7 +20013,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H48:H87,\"*FTA*\")",
-        "result": 5
+        "result": 6
       }
     },
     {
@@ -20024,7 +20027,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 195
+        "result": 196
       }
     },
     {
