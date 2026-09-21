@@ -161,13 +161,13 @@
       "undefined": "ePTD results to be integrated with MFC findings"
     },
     {
-      "undefined": "CW"
-    },
-    {
       "undefined": "N"
     },
     {
       "undefined": "JV"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -266,6 +266,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "September"
     },
     {
@@ -280,7 +283,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$53:$C$93,\"*Inc*\",$J$53:$J$93)",
-        "result": 7587.107821068248
+        "result": 8782.741543843595
       }
     },
     {
@@ -292,7 +295,7 @@
     {
       "undefined": {
         "formula": "SUM(C97:C99)",
-        "result": 46303.79204909437
+        "result": 47499.42577186972
       }
     }
   ],
@@ -20018,7 +20021,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H54:H93,\"*Priority*\")",
-        "result": 5
+        "result": 6
       }
     },
     {
@@ -20042,7 +20045,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 197
+        "result": 198
       }
     },
     {
