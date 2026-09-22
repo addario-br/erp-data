@@ -45,8 +45,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Sundaresh Sundaralingam",
       "Jason Milne",
       "Jack Ford"
     ]
