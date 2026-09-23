@@ -7,10 +7,10 @@
       "Joseph Guyan",
       "Tim Farrar",
       "Maurillio Addario",
-      "John Guntoro",
-      "Mohamed Selim",
       "Jennifer Leyes",
-      "Craig Lamont"
+      "Craig Lamont",
+      "John Guntoro",
+      "Mohamed Selim"
     ]
   },
   {
@@ -31,8 +31,8 @@
       "George Handsley",
       "Liam Strath",
       "Peter Thomson",
-      "Calum Smith",
-      "James Reid"
+      "James Reid",
+      "Calum Smith"
     ]
   },
   {
@@ -42,8 +42,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
