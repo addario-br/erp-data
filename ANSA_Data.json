@@ -284,6 +284,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "READ pass-through revenue"
+    },
+    {
       "undefined": "September"
     },
     {
@@ -304,13 +307,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$56:$C$96,\"*ANSA*\",$J$56:$J$96)",
-        "result": 6306.684228026124
+        "result": 7598.263866826653
       }
     },
     {
       "undefined": {
         "formula": "SUM(C100:C102)",
-        "result": 51581.71223685315
+        "result": 52873.291875653675
       }
     }
   ],
@@ -20013,9 +20016,6 @@
     },
     {
       "undefined": "Initial run failed (arms didn't open), may rerun"
-    },
-    {
-      "undefined": "ANSA requirement not currently required"
     }
   ],
   "Pulse": [
@@ -20046,7 +20046,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H57:H96,\"*FTA*\")",
-        "result": 7
+        "result": 8
       }
     },
     {
@@ -20060,7 +20060,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 200
+        "result": 201
       }
     },
     {
