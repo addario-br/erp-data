@@ -188,18 +188,13 @@
       "undefined": "Y"
     },
     {
-      "undefined": "TBC"
-    },
-    {
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I17,J17,\"D\")",
-        "result": {
-          "error": "#NUM!"
-        }
-      }
+      "undefined": "TBC"
+    },
+    {
+      "undefined": "TBC"
     },
     {
       "undefined": "Y"
