@@ -20,11 +20,11 @@
     "companyName": "READ",
     "numIn": 5,
     "names": [
-      "Dave Simpson",
       "Ross Fraser",
       "Craig Fraser",
       "Rob Molina",
-      "Russell Edgar"
+      "Russell Edgar",
+      "Dave Simpson"
     ]
   },
   {
@@ -53,8 +53,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Chris Rankin",
       "Robert Holden",
       "Garry Joss"
     ]
