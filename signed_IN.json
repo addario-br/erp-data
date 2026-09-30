@@ -1,9 +1,11 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
-      "Alan Walsh"
+      "Alan Walsh",
+      "Tyna Witkowska",
+      "Heather Caldwell"
     ]
   },
   {
@@ -37,7 +39,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Robert Holden"
+    ]
   }
 ]
