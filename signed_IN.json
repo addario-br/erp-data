@@ -1,43 +1,18 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 11,
-    "names": [
-      "Heather Caldwell",
-      "Tyna Witkowska",
-      "Jenni Michie",
-      "Jennifer Leyes",
-      "Jay Purves",
-      "Mohamed Selim",
-      "John Guntoro",
-      "Joseph Guyan",
-      "Alan Walsh",
-      "Tim Farrar",
-      "Craig Lamont"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "READ",
-    "numIn": 5,
-    "names": [
-      "Rob Molina",
-      "Russell Edgar",
-      "Dave Simpson",
-      "Craig Fraser",
-      "Ross Fraser"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "HydraWell",
-    "numIn": 6,
-    "names": [
-      "Liam Strath",
-      "Peter Thomson",
-      "George Handsley",
-      "James Reid",
-      "Cherie Bowden",
-      "Calum Smith"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "BlueSpark",
@@ -46,18 +21,12 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 1,
-    "names": [
-      "Gordon Bennett"
-    ]
+    "numIn": 0,
+    "names": []
   },
   {
     "companyName": "Visitors",
-    "numIn": 3,
-    "names": [
-      "Robert Holden",
-      "Garry Joss",
-      "Chris Rankin"
-    ]
+    "numIn": 0,
+    "names": []
   }
 ]
