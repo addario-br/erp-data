@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N48",
+        "formula": "'READ-3rd'!N49",
         "result": 1.35493
       }
     },
@@ -167,10 +167,13 @@
       "undefined": "TF"
     },
     {
-      "undefined": "Coiled Tubing"
+      "undefined": "QC"
     },
     {
       "undefined": "TBC"
+    },
+    {
+      "undefined": "Coiled Tubing"
     },
     {
       "undefined": "Y"
@@ -297,25 +300,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$48:$C$88,\"*Ltd*\",$J$48:$J$88)",
+        "formula": "SUMIF($C$49:$C$89,\"*Ltd*\",$J$49:$J$89)",
         "result": 41820
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$48:$C$88,\"*Inc*\",$J$48:$J$88)",
+        "formula": "SUMIF($C$49:$C$89,\"*Inc*\",$J$49:$J$89)",
         "result": 14967.562899928413
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$48:$C$88,\"*ANSA*\",$J$48:$J$88)",
+        "formula": "SUMIF($C$49:$C$89,\"*ANSA*\",$J$49:$J$89)",
         "result": 10657.786232938879
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C92:C94)",
+        "formula": "SUM(C93:C95)",
         "result": 67445.34913286728
       }
     }
@@ -20031,7 +20034,7 @@
         "result": "Standard Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*Standard*\")",
         "result": 14
       }
     },
@@ -20041,7 +20044,7 @@
         "result": "Priority Reports in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*Priority*\")",
         "result": 10
       }
     },
@@ -20051,7 +20054,7 @@
         "result": "FTAs Completed in September"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H50:H89,\"*FTA*\")",
         "result": 10
       }
     },
