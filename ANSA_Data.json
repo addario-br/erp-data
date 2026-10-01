@@ -200,73 +200,73 @@
       "undefined": "INV-0619"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
       "undefined": "INV-0620"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
       "undefined": "INV-0622"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
       "undefined": "IP Software used (Geoactive)"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
       "undefined": "READ pass-through revenue"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
       "undefined": "READ pass-through revenue"
@@ -278,10 +278,10 @@
       "undefined": "INV-0627"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0630"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0629"
     },
     {
       "undefined": "Y"
@@ -20034,7 +20034,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Standard Reports in \",B1)",
-        "result": "Standard Reports in September"
+        "result": "Standard Reports in October"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H48:H87,\"*Standard*\")",
@@ -20044,7 +20044,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Priority Reports in \",B1)",
-        "result": "Priority Reports in September"
+        "result": "Priority Reports in October"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H48:H87,\"*Priority*\")",
@@ -20054,7 +20054,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"FTAs Completed in \",B1)",
-        "result": "FTAs Completed in September"
+        "result": "FTAs Completed in October"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H48:H87,\"*FTA*\")",
