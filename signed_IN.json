@@ -3,17 +3,17 @@
     "companyName": "ANSA",
     "numIn": 3,
     "names": [
-      "Heather Caldwell",
       "John Guntoro",
-      "Craig Lamont"
+      "Craig Lamont",
+      "Heather Caldwell"
     ]
   },
   {
     "companyName": "READ",
     "numIn": 2,
     "names": [
-      "Mark Davidson",
-      "Dave Simpson"
+      "Dave Simpson",
+      "Mark Davidson"
     ]
   },
   {
@@ -44,9 +44,9 @@
     "companyName": "Visitors",
     "numIn": 3,
     "names": [
-      "Robert Holden",
       "Adam Goodhall",
-      "Chris Rankin"
+      "Chris Rankin",
+      "Robert Holden"
     ]
   }
 ]
