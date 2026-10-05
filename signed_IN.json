@@ -15,15 +15,19 @@
   },
   {
     "companyName": "HydraWell",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
-      "James Reid"
+      "James Reid",
+      "Cherie Bowden",
+      "Peter Thomson"
     ]
   },
   {
     "companyName": "BlueSpark",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Robert Hunter"
+    ]
   },
   {
     "companyName": "OTS",
