@@ -1,37 +1,37 @@
 [
   {
-    "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08)_DD 07 (MD-07) - MFC",
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA-35_HDA23 (HDA-23)_HDA13 (HDA-13A) - I-Drift_ MFC",
     "job": "N/A",
-    "comment": "Equipment and engineer expected to mob to Well-Sat operation (Well DD-07) first and then on to Dan (PRJ03262) directly afterwards.",
+    "comment": "As per Total lookahead, likely no READ logging on HDA-13 and HDA-03. HDA-05 expected to begin Sat 10th Oct. Next READ engineer requirement TBC, equipment remains offshore.",
     "addedBy": "Craig Fraser",
-    "date": "04-08-2026 10:36"
+    "date": "06-10-2026 09:38"
   },
   {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
+    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
     "job": "N/A",
-    "comment": "Lookahead has READ logging MFC on Friday on well DFB-15. Equipment mobilising on Thursday, engineer expected on Thursday chopper. DFF-21 will follow this operation.",
-    "addedBy": "Craig Fraser",
-    "date": "04-08-2026 08:18"
+    "comment": "Still on stanby issues with the crane on WH4 unable to complete critical lift of mast",
+    "addedBy": "Joshua Cheyne",
+    "date": "06-10-2026 08:26"
   },
   {
-    "project": "PRJ03349 - Baker Hughes - Baker Hughes Qatar - NFR7-008A_NFR7-001_NFR7-005_NFR7-007 - MFC",
-    "job": "PRJ03349-1 North Field NFR7-007 Tubular Integrity",
-    "comment": "Boat expected tonight.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "04-08-2026 05:43"
+    "project": "PRJ03209 - SLB - SLB Denmark - GAN25 (N-25) - MFC",
+    "job": "PRJ03209-9 Gorm GAN25 (N-25) Tubular Integrity",
+    "comment": "Slickline retrieved shallow plug and RIH with 3\" deep drift and hung up @ 422ft. Currently RIH with 2.5\" drive in bailer and prior to shift change reached a max depth of 838ft, hand-jarring down. Latest lookahead has tonight for MFC24 log but TBC as target depth for drift is 8042ft.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-10-2026 07:13"
   },
   {
-    "project": "PRJ03209 - SLB - SLB Denmark - GFN42 (N-42A)_GFN52 (N-52)_GFN38 (N-38) - MFC",
-    "job": "N/A",
-    "comment": "Field: Gorm\nWell: GFN-47\nScope: This is contingency is we are unable to get down to the fish, may need to run a caliper to find out if restriction can be removed using SLK or we need to think of a different plan.\nEquipment Mob Date: Our fishing tools are loading out on Friday, 7th, like say I will speak to them tomorrow and ask for a date when they require the MFC package offshore",
-    "addedBy": "Craig Fraser",
-    "date": "03-08-2026 17:18"
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51) - MFC_ ZeroTime",
+    "job": "PRJ03160-4 Gorm GFN51C (N-51C) Tubular Integrity",
+    "comment": "During the night shift coil became stuck @ ~7861ft with 2.25\" motor/mill. Currently working on getting free. Latest lookahead has Thursday for MFC24 logging but TBC.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-10-2026 07:07"
   },
   {
-    "project": "PRJ03359 - SLB - SLB Denmark - DD 08 (MD-08)_DD 07 (MD-07) - MFC",
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA-35_HDA23 (HDA-23)_HDA13 (HDA-13A) - I-Drift_ MFC",
     "job": "N/A",
-    "comment": "Well: DD-07\nScope: 40 MFC memory package, they are having issues setting a WRSSSV, tried multiple times and when retrieving the WRSSSV extensive damage to the packing stacks, they possibly want to run a MFC to the WRSSSV and see if there is any obvious signs of damage within the lock profile area\nEquipment Mob Date: This has been a quick discussion with TOTAL this afternoon and if we say that we can provide a package I think they will ask for it ASAP",
+    "comment": "SLB encountered a restriction in the well. Total have decided mobilise and deploy a memory camera. Caliper logging on HDA-13 looks to be delayed instead of cancelled at this stage.",
     "addedBy": "Craig Fraser",
-    "date": "03-08-2026 17:17"
+    "date": "05-10-2026 11:26"
   }
 ]
