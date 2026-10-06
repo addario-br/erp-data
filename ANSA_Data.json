@@ -363,7 +363,8 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)"
+        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
+        "result": 5360
       }
     },
     {
@@ -373,12 +374,14 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)"
+        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)",
+        "result": 1696.0779140503096
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C89:C91)"
+        "formula": "SUM(C89:C91)",
+        "result": 7056.077914050309
       }
     }
   ],
