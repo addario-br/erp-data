@@ -3,15 +3,15 @@
     "companyName": "ANSA",
     "numIn": 9,
     "names": [
-      "Heather Caldwell",
-      "Jenni Michie",
       "Joseph Guyan",
       "Mohamed Selim",
       "Maurillio Addario",
       "Jennifer Leyes",
       "Craig Lamont",
       "John Guntoro",
-      "Tyna Witkowska"
+      "Tyna Witkowska",
+      "Heather Caldwell",
+      "Jenni Michie"
     ]
   },
   {
@@ -29,10 +29,10 @@
     "companyName": "HydraWell",
     "numIn": 4,
     "names": [
-      "Calum Smith",
       "James Reid",
       "Liam Strath",
-      "Peter Thomson"
+      "Peter Thomson",
+      "Calum Smith"
     ]
   },
   {
