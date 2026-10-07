@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 9,
     "names": [
-      "Heather Caldwell",
       "Tyna Witkowska",
       "Jennifer Leyes",
       "Alan Walsh",
@@ -11,7 +10,8 @@
       "Craig Lamont",
       "Maurillio Addario",
       "John Guntoro",
-      "Mohamed Selim"
+      "Mohamed Selim",
+      "Heather Caldwell"
     ]
   },
   {
@@ -30,10 +30,10 @@
     "numIn": 5,
     "names": [
       "James Reid",
-      "Cherie Bowden",
       "Liam Strath",
       "Peter Thomson",
-      "Calum Smith"
+      "Calum Smith",
+      "Cherie Bowden"
     ]
   },
   {
@@ -50,8 +50,8 @@
     "companyName": "Visitors",
     "numIn": 2,
     "names": [
-      "Khan Green",
-      "Adrian Bialecki"
+      "Adrian Bialecki",
+      "Khan Green"
     ]
   }
 ]
