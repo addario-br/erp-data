@@ -3,7 +3,6 @@
     "companyName": "ANSA",
     "numIn": 10,
     "names": [
-      "Tyna Witkowska",
       "Alan Walsh",
       "Heather Caldwell",
       "Mohamed Selim",
@@ -12,7 +11,8 @@
       "John Guntoro",
       "Craig Lamont",
       "Tim Farrar",
-      "Maurillio Addario"
+      "Maurillio Addario",
+      "Tyna Witkowska"
     ]
   },
   {
@@ -30,11 +30,11 @@
     "companyName": "HydraWell",
     "numIn": 5,
     "names": [
-      "Liam Strath",
       "Peter Thomson",
       "Cherie Bowden",
       "Calum Smith",
-      "James Reid"
+      "James Reid",
+      "Liam Strath"
     ]
   },
   {
