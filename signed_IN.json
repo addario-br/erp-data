@@ -6,20 +6,22 @@
   },
   {
     "companyName": "READ",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
       "Rob Molina",
-      "Mark Davidson"
+      "Mark Davidson",
+      "Dave Simpson"
     ]
   },
   {
     "companyName": "HydraWell",
-    "numIn": 4,
+    "numIn": 5,
     "names": [
       "Peter Thomson",
       "Liam Strath",
       "James Reid",
-      "Cherie Bowden"
+      "Cherie Bowden",
+      "Calum Smith"
     ]
   },
   {
@@ -36,7 +38,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Jim Christie"
+    ]
   }
 ]
