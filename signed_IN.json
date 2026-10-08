@@ -1,13 +1,14 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 6,
+    "numIn": 7,
     "names": [
       "Alan Walsh",
       "Joseph Guyan",
       "Craig Lamont",
       "Jay Purves",
       "John Guntoro",
+      "Tim Farrar",
       "Tyna Witkowska"
     ]
   },
@@ -49,9 +50,9 @@
     "companyName": "Visitors",
     "numIn": 3,
     "names": [
-      "Nathan Simpson",
       "Adrian Bialecki",
-      "Jim Christie"
+      "Jim Christie",
+      "Nathan Simpson"
     ]
   }
 ]
