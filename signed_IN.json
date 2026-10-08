@@ -4,12 +4,12 @@
     "numIn": 7,
     "names": [
       "Alan Walsh",
-      "Joseph Guyan",
       "Craig Lamont",
       "Jay Purves",
-      "John Guntoro",
       "Tim Farrar",
-      "Tyna Witkowska"
+      "Tyna Witkowska",
+      "John Guntoro",
+      "Joseph Guyan"
     ]
   },
   {
@@ -49,8 +49,10 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 3,
+    "numIn": 5,
     "names": [
+      "Sarah Bissett",
+      "Adrian Bialecki",
       "Jim Christie",
       "Nathan Simpson",
       "Adrian Bialecki"
