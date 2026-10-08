@@ -8,11 +8,12 @@
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
       "Rob Molina",
       "Mark Davidson",
-      "Dave Simpson"
+      "Dave Simpson",
+      "Craig Fraser"
     ]
   },
   {
@@ -40,8 +41,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 2,
+    "numIn": 3,
     "names": [
+      "Nathan Simpson",
       "Adrian Bialecki",
       "Jim Christie"
     ]
