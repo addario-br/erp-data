@@ -360,12 +360,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
-        "result": 5360
+        "result": 10770
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)"
+        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)",
+        "result": 1221.1760981162229
       }
     },
     {
@@ -377,7 +378,7 @@
     {
       "undefined": {
         "formula": "SUM(C89:C91)",
-        "result": 7312.608761884761
+        "result": 13943.784860000984
       }
     }
   ],
