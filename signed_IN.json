@@ -10,8 +10,8 @@
     "companyName": "READ",
     "numIn": 3,
     "names": [
-      "Ross Fraser",
       "Dave Simpson",
+      "Ross Fraser",
       "Mark Davidson"
     ]
   },
@@ -19,9 +19,9 @@
     "companyName": "HydraWell",
     "numIn": 3,
     "names": [
-      "Calum Smith",
       "Liam Strath",
-      "Peter Thomson"
+      "Peter Thomson",
+      "Calum Smith"
     ]
   },
   {
