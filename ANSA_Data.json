@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N43",
+        "formula": "'READ-3rd'!N45",
         "result": 1.32659
       }
     },
@@ -155,6 +155,12 @@
       "undefined": "JV"
     },
     {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
+    },
+    {
       "undefined": "Coiled Tubing"
     },
     {
@@ -192,17 +198,7 @@
     },
     {
       "undefined": {
-        "formula": "I50/$N$43"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I51"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I52"
+        "formula": "I52/$N$45"
       }
     },
     {
@@ -212,7 +208,7 @@
     },
     {
       "undefined": {
-        "formula": "I54/N43"
+        "formula": "I54"
       }
     },
     {
@@ -222,27 +218,27 @@
     },
     {
       "undefined": {
-        "formula": "I56/N43"
+        "formula": "I56/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I57/N43"
+        "formula": "I57"
       }
     },
     {
       "undefined": {
-        "formula": "I58/N43"
+        "formula": "I58/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I59"
+        "formula": "I59/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I60/N43"
+        "formula": "I60/N45"
       }
     },
     {
@@ -252,7 +248,7 @@
     },
     {
       "undefined": {
-        "formula": "I62/N43"
+        "formula": "I62/N45"
       }
     },
     {
@@ -262,87 +258,97 @@
     },
     {
       "undefined": {
-        "formula": "I64"
+        "formula": "I64/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I65/N43"
+        "formula": "I65"
       }
     },
     {
       "undefined": {
-        "formula": "I66/N43"
+        "formula": "I66"
       }
     },
     {
       "undefined": {
-        "formula": "I67"
+        "formula": "I67/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I68/N43"
+        "formula": "I68/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I69/N43"
+        "formula": "I69"
       }
     },
     {
       "undefined": {
-        "formula": "I70/N43"
+        "formula": "I70/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I71"
+        "formula": "I71/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I72/N43"
+        "formula": "I72/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I73/$N$46"
+        "formula": "I73"
       }
     },
     {
       "undefined": {
-        "formula": "I74/$N$46"
+        "formula": "I74/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I75"
+        "formula": "I75/$N$48"
       }
     },
     {
       "undefined": {
-        "formula": "I76/N43"
+        "formula": "I76/$N$48"
       }
     },
     {
       "undefined": {
-        "formula": "I77/N43"
+        "formula": "I77"
       }
     },
     {
       "undefined": {
-        "formula": "I78"
+        "formula": "I78/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I79"
+        "formula": "I79/N45"
       }
     },
     {
       "undefined": {
-        "formula": "I80/N43"
+        "formula": "I80"
+      }
+    },
+    {
+      "undefined": {
+        "formula": "I81"
+      }
+    },
+    {
+      "undefined": {
+        "formula": "I82/N45"
       }
     },
     {
@@ -353,25 +359,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*Ltd*\",$J$43:$J$83)",
+        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
         "result": 10770
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*Inc*\",$J$43:$J$83)",
+        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)",
         "result": 1221.1760981162229
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*ANSA*\",$J$43:$J$83)",
+        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)",
         "result": 1952.6087618847616
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C87:C89)",
+        "formula": "SUM(C89:C91)",
         "result": 13943.784860000984
       }
     }
@@ -20499,7 +20505,7 @@
         "result": "Standard Reports in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Standard*\")",
         "result": 3
       }
     },
@@ -20509,7 +20515,7 @@
         "result": "Priority Reports in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Priority*\")",
         "result": 3
       }
     },
@@ -20519,7 +20525,7 @@
         "result": "FTAs Completed in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*FTA*\")"
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")"
       }
     },
     {
