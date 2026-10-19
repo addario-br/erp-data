@@ -155,13 +155,13 @@
       "undefined": "JP (QC on 14 Oct)"
     },
     {
-      "undefined": "Y"
-    },
-    {
       "undefined": "JV"
     },
     {
       "undefined": "TF (FTA on 18 Oct)"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -353,7 +353,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$46:$C$86,\"*Inc*\",$J$46:$J$86)",
-        "result": 6105.880490581114
+        "result": 7538.1240624458205
       }
     },
     {
@@ -365,7 +365,7 @@
     {
       "undefined": {
         "formula": "SUM(C90:C92)",
-        "result": 29208.489252465875
+        "result": 30640.732824330586
       }
     }
   ],
