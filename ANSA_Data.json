@@ -218,9 +218,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I59/N46"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
@@ -20507,7 +20505,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H47:H86,\"*Priority*\")",
-        "result": 5
+        "result": 6
       }
     },
     {
@@ -20531,7 +20529,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 187
+        "result": 188
       }
     },
     {
