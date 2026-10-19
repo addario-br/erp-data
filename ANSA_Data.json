@@ -161,7 +161,7 @@
       "undefined": "JV"
     },
     {
-      "undefined": "TF"
+      "undefined": "TF (FTA on 18 Oct)"
     },
     {
       "undefined": "Y"
@@ -221,9 +221,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I60/N46"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
@@ -349,7 +347,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$46:$C$86,\"*Ltd*\",$J$46:$J$86)",
-        "result": 17300
+        "result": 21150
       }
     },
     {
@@ -367,7 +365,7 @@
     {
       "undefined": {
         "formula": "SUM(C90:C92)",
-        "result": 25358.489252465875
+        "result": 29208.489252465875
       }
     }
   ],
@@ -20515,7 +20513,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H47:H86,\"*FTA*\")",
-        "result": 1
+        "result": 2
       }
     },
     {
@@ -20529,7 +20527,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 188
+        "result": 189
       }
     },
     {
