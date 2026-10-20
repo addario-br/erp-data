@@ -158,7 +158,7 @@
       "undefined": "TF (FTA on 18 Oct)"
     },
     {
-      "undefined": "CW"
+      "undefined": "CW (FTA on 19 Oct)"
     },
     {
       "undefined": "Y"
@@ -221,14 +221,10 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I60/N45"
-      }
+      "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I61"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": {
@@ -20510,7 +20506,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")",
-        "result": 2
+        "result": 3
       }
     },
     {
@@ -20524,7 +20520,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 190
+        "result": 191
       }
     },
     {
