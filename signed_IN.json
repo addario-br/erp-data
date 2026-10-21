@@ -5,9 +5,9 @@
     "names": [
       "Tyna Witkowska",
       "Heather Caldwell",
-      "Tim Farrar",
       "Jenni Michie",
       "Craig Lamont",
+      "Tim Farrar",
       "Mohamed Selim",
       "John Guntoro"
     ]
@@ -39,8 +39,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
