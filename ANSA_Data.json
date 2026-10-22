@@ -164,9 +164,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "DATEDIF(I7,J7,\"D\")"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
