@@ -11,9 +11,9 @@
     "companyName": "READ",
     "numIn": 3,
     "names": [
-      "Mark Davidson",
       "Dave Simpson",
-      "Rob Molina"
+      "Rob Molina",
+      "Mark Davidson"
     ]
   },
   {
@@ -21,8 +21,8 @@
     "numIn": 3,
     "names": [
       "Peter Thomson",
-      "Calum Smith",
-      "George Handsley"
+      "George Handsley",
+      "Calum Smith"
     ]
   },
   {
