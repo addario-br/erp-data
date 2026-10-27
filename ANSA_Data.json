@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N51",
+        "formula": "'READ-3rd'!N50",
         "result": 1.32659
       }
     },
@@ -161,9 +161,6 @@
       "undefined": "JM (FTA on 23 Oct)"
     },
     {
-      "undefined": "JP"
-    },
-    {
       "undefined": "TF"
     },
     {
@@ -173,7 +170,7 @@
       "undefined": "N"
     },
     {
-      "undefined": "Y"
+      "undefined": "CW"
     },
     {
       "undefined": "N"
@@ -257,71 +254,74 @@
       "undefined": "Y"
     },
     {
+      "undefined": "N"
+    },
+    {
       "undefined": "Y"
     },
     {
       "undefined": {
-        "formula": "I73/N51"
+        "formula": "I73/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I74/N51"
+        "formula": "I74"
       }
     },
     {
       "undefined": {
-        "formula": "I75"
+        "formula": "I75/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I76/N51"
+        "formula": "I76/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I77/N51"
+        "formula": "I77/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I78/N51"
+        "formula": "I78"
       }
     },
     {
       "undefined": {
-        "formula": "I79"
+        "formula": "I79/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I80/N51"
+        "formula": "I80/$N$53"
       }
     },
     {
       "undefined": {
-        "formula": "I81/$N$54"
+        "formula": "I81/$N$53"
       }
     },
     {
       "undefined": {
-        "formula": "I82/$N$54"
+        "formula": "I82"
       }
     },
     {
       "undefined": {
-        "formula": "I83"
+        "formula": "I83/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I84/N51"
+        "formula": "I84/N50"
       }
     },
     {
       "undefined": {
-        "formula": "I85/N51"
+        "formula": "I85"
       }
     },
     {
@@ -331,12 +331,7 @@
     },
     {
       "undefined": {
-        "formula": "I87"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I88/N51"
+        "formula": "I87/N50"
       }
     },
     {
@@ -347,26 +342,26 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Ltd*\",$J$51:$J$91)",
+        "formula": "SUMIF($C$50:$C$90,\"*Ltd*\",$J$50:$J$90)",
         "result": 38760
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*Inc*\",$J$51:$J$91)",
-        "result": 8970.367634310527
+        "formula": "SUMIF($C$50:$C$90,\"*Inc*\",$J$50:$J$90)",
+        "result": 10191.54373242675
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$51:$C$91,\"*ANSA*\",$J$51:$J$91)",
+        "formula": "SUMIF($C$50:$C$90,\"*ANSA*\",$J$50:$J$90)",
         "result": 3761.758536871758
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C95:C97)",
-        "result": 51492.12617118228
+        "formula": "SUM(C94:C96)",
+        "result": 52713.3022692985
       }
     }
   ],
@@ -20493,7 +20488,7 @@
         "result": "Standard Reports in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*Standard*\")",
         "result": 8
       }
     },
@@ -20503,8 +20498,8 @@
         "result": "Priority Reports in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*Priority*\")",
-        "result": 7
+        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*Priority*\")",
+        "result": 8
       }
     },
     {
@@ -20513,7 +20508,7 @@
         "result": "FTAs Completed in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H52:H91,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*FTA*\")",
         "result": 5
       }
     },
@@ -20528,7 +20523,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 196
+        "result": 197
       }
     },
     {
