@@ -164,13 +164,16 @@
       "undefined": "JM (FTA on 23 Oct)"
     },
     {
-      "undefined": "TF (FTA on 27 Oct)"
-    },
-    {
       "undefined": "JP"
     },
     {
       "undefined": "TF"
+    },
+    {
+      "undefined": "TF (FTA on 27 Oct)"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "Y"
@@ -179,12 +182,7 @@
       "undefined": "N"
     },
     {
-      "undefined": "N"
-    },
-    {
-      "undefined": {
-        "formula": "DATEDIF(I13,J13,\"D\")"
-      }
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
