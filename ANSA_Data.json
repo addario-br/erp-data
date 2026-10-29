@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N47",
+        "formula": "'READ-3rd'!N48",
         "result": 1.32659
       }
     },
@@ -165,6 +165,9 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": "TBC"
     },
     {
       "undefined": "Y"
@@ -255,62 +258,57 @@
     },
     {
       "undefined": {
-        "formula": "I71"
+        "formula": "I72"
       }
     },
     {
       "undefined": {
-        "formula": "I72/N47"
+        "formula": "I73/N48"
       }
     },
     {
       "undefined": {
-        "formula": "I73/N47"
+        "formula": "I74/N48"
       }
     },
     {
       "undefined": {
-        "formula": "I74/N47"
+        "formula": "I75/N48"
       }
     },
     {
       "undefined": {
-        "formula": "I75"
+        "formula": "I76"
       }
     },
     {
       "undefined": {
-        "formula": "I76/N47"
+        "formula": "I77/N48"
       }
     },
     {
       "undefined": {
-        "formula": "I77/$N$50"
+        "formula": "I78/$N$51"
       }
     },
     {
       "undefined": {
-        "formula": "I78/$N$50"
+        "formula": "I79/$N$51"
       }
     },
     {
       "undefined": {
-        "formula": "I79"
+        "formula": "I80"
       }
     },
     {
       "undefined": {
-        "formula": "I80/N47"
+        "formula": "I81/N48"
       }
     },
     {
       "undefined": {
-        "formula": "I81/N47"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I82"
+        "formula": "I82/N48"
       }
     },
     {
@@ -320,7 +318,12 @@
     },
     {
       "undefined": {
-        "formula": "I84/N47"
+        "formula": "I84"
+      }
+    },
+    {
+      "undefined": {
+        "formula": "I85/N48"
       }
     },
     {
@@ -331,25 +334,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$47:$C$87,\"*Ltd*\",$J$47:$J$87)",
+        "formula": "SUMIF($C$48:$C$88,\"*Ltd*\",$J$48:$J$88)",
         "result": 38760
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$47:$C$87,\"*Inc*\",$J$47:$J$87)",
+        "formula": "SUMIF($C$48:$C$88,\"*Inc*\",$J$48:$J$88)",
         "result": 11412.719830542972
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$47:$C$87,\"*ANSA*\",$J$47:$J$87)",
+        "formula": "SUMIF($C$48:$C$88,\"*ANSA*\",$J$48:$J$88)",
         "result": 3761.758536871758
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C91:C93)",
+        "formula": "SUM(C92:C94)",
         "result": 53934.478367414726
       }
     }
@@ -20477,7 +20480,7 @@
         "result": "Standard Reports in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H87,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Standard*\")",
         "result": 10
       }
     },
@@ -20487,7 +20490,7 @@
         "result": "Priority Reports in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H87,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*Priority*\")",
         "result": 9
       }
     },
@@ -20497,7 +20500,7 @@
         "result": "FTAs Completed in October"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H48:H87,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H49:H88,\"*FTA*\")",
         "result": 5
       }
     },
