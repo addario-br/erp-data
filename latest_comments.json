@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
+    "job": "N/A",
+    "comment": "SLB to loadout W/L package on the 5th of November, with W/L crew to go out on the 9th of November.\nREAD MFC package and crew will mobilize once the fish has been recovered from MFF-06.",
+    "addedBy": "James Law",
+    "date": "30-10-2026 11:39"
+  },
+  {
     "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
     "job": "N/A",
     "comment": "Dayshift for READ cancelled, unable to pass restriction and XY cal held up again.\nPlan is to rig down off 4-3 and onto 4-1 no logging in the next 24hrs for read",
@@ -26,12 +33,5 @@
     "comment": "D.Zbaraza has a 14:00 check in for Tuesday 2nd November. Well number will be HDA-31",
     "addedBy": "James Law",
     "date": "29-10-2026 13:36"
-  },
-  {
-    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
-    "job": "N/A",
-    "comment": "Confirmation that HalfDan equipment received back onshore Monday. 26th. Kit collected by Norsea 27th and GP working on preparing it for the next loadout. Loadout date still to be confirmed be most likely week beginning 2nd Nov.",
-    "addedBy": "Dave Simpson",
-    "date": "29-10-2026 09:39"
   }
 ]
