@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
+    "job": "N/A",
+    "comment": "Dayshift for READ cancelled, unable to pass restriction and XY cal held up again.\nPlan is to rig down off 4-3 and onto 4-1 no logging in the next 24hrs for read",
+    "addedBy": "Joshua Cheyne",
+    "date": "30-10-2026 04:32"
+  },
+  {
     "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
     "job": "N/A",
     "comment": "Abdilmalik will travel to Stuttgart, Germany on Saturday 31st October. Job expected to start on 1st November.",
@@ -26,12 +33,5 @@
     "comment": "Confirmation that HalfDan equipment received back onshore Monday. 26th. Kit collected by Norsea 27th and GP working on preparing it for the next loadout. Loadout date still to be confirmed be most likely week beginning 2nd Nov.",
     "addedBy": "Dave Simpson",
     "date": "29-10-2026 09:39"
-  },
-  {
-    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
-    "job": "N/A",
-    "comment": "JC will join dayshift today MFC run likely to rig up this afternoon",
-    "addedBy": "Joshua Cheyne",
-    "date": "29-10-2026 01:23"
   }
 ]
