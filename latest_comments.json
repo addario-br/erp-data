@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "Latest update from SLB CT is that they plan to finish up on GFN-51 tomorrow and start rigging up on to GFN-55 on Sunday. READ equipment planned to mobilized on Friday 6th of November. No change to engineer check in for Wednesday 4th November.",
+    "addedBy": "James Law",
+    "date": "30-10-2026 13:48"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
     "job": "N/A",
     "comment": "SLB to loadout W/L package on the 5th of November, with W/L crew to go out on the 9th of November.\nREAD MFC package and crew will mobilize once the fish has been recovered from MFF-06.",
@@ -26,12 +33,5 @@
     "comment": "MFC calibrated and string checks complete. Baker unable to pass restriction in the well during SD currently running XY cal without SD. Plan will be for baker to continue XY run tonight and if successful MFC log will be tomorrow if not decision from onshore will be made for the plan forward",
     "addedBy": "Joshua Cheyne",
     "date": "29-10-2026 13:52"
-  },
-  {
-    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
-    "job": "N/A",
-    "comment": "D.Zbaraza has a 14:00 check in for Tuesday 2nd November. Well number will be HDA-31",
-    "addedBy": "James Law",
-    "date": "29-10-2026 13:36"
   }
 ]
