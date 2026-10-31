@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
+    "job": "N/A",
+    "comment": "Update from JC is that there will be no MFC60 logging on WHP 4-1. Plan is for him to go across to WHP 4 tonight/tomorrow morning and pack the container for backload. Future MFC60 ops TBC by Baker Hughes QA.",
+    "addedBy": "James Law",
+    "date": "31-10-2026 10:56"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "N/A",
     "comment": "Latest update from SLB CT is that they plan to finish up on GFN-51 tomorrow and start rigging up on to GFN-55 on Sunday. READ equipment planned to mobilized on Friday 6th of November. No change to engineer check in for Wednesday 4th November.",
@@ -25,13 +32,6 @@
     "job": "N/A",
     "comment": "Abdilmalik will travel to Stuttgart, Germany on Saturday 31st October. Job expected to start on 1st November.",
     "addedBy": "James Law",
-    "date": "29-10-2026 13:52"
-  },
-  {
-    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
-    "job": "N/A",
-    "comment": "MFC calibrated and string checks complete. Baker unable to pass restriction in the well during SD currently running XY cal without SD. Plan will be for baker to continue XY run tonight and if successful MFC log will be tomorrow if not decision from onshore will be made for the plan forward",
-    "addedBy": "Joshua Cheyne",
     "date": "29-10-2026 13:52"
   }
 ]
