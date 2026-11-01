@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
+    "job": "N/A",
+    "comment": "Run started, data expected just before midnight tonight.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "01-11-2026 13:25"
+  },
+  {
     "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
     "job": "N/A",
     "comment": "Day and nightshift cancled tonight on WH4 plan forward still unclear",
@@ -26,12 +33,5 @@
     "comment": "Arrived at the hotel in Landau.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "31-10-2026 15:38"
-  },
-  {
-    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
-    "job": "N/A",
-    "comment": "Update from JC is that there will be no MFC60 logging on WHP 4-1. Plan is for him to go across to WHP 4 tonight/tomorrow morning and pack the container for backload. Future MFC60 ops TBC by Baker Hughes QA.",
-    "addedBy": "James Law",
-    "date": "31-10-2026 10:56"
   }
 ]
