@@ -20461,7 +20461,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Standard Reports in \",B1)",
-        "result": "Standard Reports in October"
+        "result": "Standard Reports in November"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Standard*\")",
@@ -20471,7 +20471,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"Priority Reports in \",B1)",
-        "result": "Priority Reports in October"
+        "result": "Priority Reports in November"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Priority*\")",
@@ -20481,7 +20481,7 @@
     {
       "Month": {
         "formula": "_xlfn.CONCAT(\"FTAs Completed in \",B1)",
-        "result": "FTAs Completed in October"
+        "result": "FTAs Completed in November"
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
