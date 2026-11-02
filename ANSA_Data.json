@@ -152,10 +152,10 @@
       "undefined": 7
     },
     {
-      "undefined": "Y"
+      "undefined": "TBC"
     },
     {
-      "undefined": "TBC"
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -20387,6 +20387,286 @@
       "Report Type": "Priority + Timelapse",
       "# Reports": 1,
       "Clarity": "Y"
+    },
+    {
+      "MMM-YY": "2026-10-02T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "HDA-35",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-05T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Wire Group (Maurel & Prom)",
+      "Country": "Gabon",
+      "Well ": "ONAL 1406D",
+      "Service ": "RBT",
+      "Report Type": "Priority + Data QC (1-hr Office hrs)",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-05T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "HDA-23",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-06T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "ID OilTools (Shell NAM)",
+      "Country": "Netherlands",
+      "Well ": "KPD-9",
+      "Service ": "Ultrasonic - Nusonix",
+      "Report Type": "Converting data from LAS to DLIS (Analyst Hourly Rate)",
+      "# Reports": "-"
+    },
+    {
+      "MMM-YY": "2026-10-06T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "ConocoPhillips",
+      "Country": "USA",
+      "Well ": "CD2-18",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-07T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "Welltec (TCO)",
+      "Country": "Kazakhstan",
+      "Well ": "T-4848",
+      "Service ": "Array PLT (MAPS)",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-09T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "PBU C-23D",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-11T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-51",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-13T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "MPF-13",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-14T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "PBU L2-13A",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-15T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-51",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-15T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "ConocoPhillips",
+      "Country": "USA",
+      "Well ": "3K-105",
+      "Service ": "PLT (Centreline)",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-16T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "END 5-01",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-18T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "HDA-05",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-19T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "Wire Group (Maurel & Prom)",
+      "Country": "Gabon",
+      "Well ": "OMOC-1102D ST",
+      "Service ": "RBT",
+      "Report Type": "Priority + Data QC (1-hr OOH)",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-19T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GAN-26",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-22T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GAN-26",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-23T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "HDA-05",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-23T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-51",
+      "Service ": "MFC",
+      "Report Type": "FTA",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-27T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-51",
+      "Service ": "Leak Detection",
+      "Report Type": "FTA",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-27T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "ConocoPhillips",
+      "Country": "USA",
+      "Well ": "1H-198",
+      "Service ": "PLT (Centreline)",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-27T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "P2-06",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-27T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "P1-18A",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-28T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "SDP (Vermilion Energy)",
+      "Country": "France",
+      "Well ": "VUS#14",
+      "Service ": "RBT",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-28T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "SDP (Vermilion Energy)",
+      "Country": "France",
+      "Well ": "VUS#14",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-30T00:00:00.000Z",
+      "Revenue Dept": "READ Ltd",
+      "Customer": "SLB (TotalEnergies)",
+      "Country": "Denmark",
+      "Well ": "GFN-51",
+      "Service ": "MFC + Leak detection",
+      "Report Type": "Standard (MFC + Mini PLT)",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-30T00:00:00.000Z",
+      "Revenue Dept": "READ Inc",
+      "Customer": "Hilcorp Energy Co.",
+      "Country": "USA",
+      "Well ": "PBU 06-21C",
+      "Service ": "MFC",
+      "Report Type": "Priority",
+      "# Reports": 1
+    },
+    {
+      "MMM-YY": "2026-10-30T00:00:00.000Z",
+      "Revenue Dept": "ANSA",
+      "Customer": "ID OilTools (NAM)",
+      "Country": "Netherlands",
+      "Well ": "PAU-2",
+      "Service ": "MFC",
+      "Report Type": "Standard",
+      "# Reports": 1
     }
   ],
   "Longer-term lookahead": [
