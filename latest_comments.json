@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "the READ equipment arrived back onshore on Saturday and Norsea collected the container this morning. We will be removing the MFC24 package and adding the RCCL'S, Gauge Carrier and PLT tool's. Kit loading back out tomorrow 3rd November. Same container 44071",
+    "addedBy": "Dave Simpson",
+    "date": "02-11-2026 10:58"
+  },
+  {
     "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
     "job": "N/A",
     "comment": "no Dayshift or nightshift again today currently standby - still waiting on a decision from QE onshore",
@@ -26,12 +33,5 @@
     "comment": "Day and nightshift cancled tonight on WH4 plan forward still unclear",
     "addedBy": "Joshua Cheyne",
     "date": "01-11-2026 09:39"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Arrived at wellsite, slickline to rig up for drift run. MFC to follow after. Data still most likely expected tonight at some point.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "01-11-2026 06:20"
   }
 ]
