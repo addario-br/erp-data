@@ -20437,7 +20437,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
-        "result": 6
+        "result": 5
       }
     },
     {
@@ -20451,7 +20451,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 204
+        "result": 203
       }
     },
     {
