@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
+    "job": "N/A",
+    "comment": "no Dayshift or nightshift again today currently standby - still waiting on a decision from QE onshore",
+    "addedBy": "Joshua Cheyne",
+    "date": "02-11-2026 05:11"
+  },
+  {
     "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
     "job": "N/A",
     "comment": "Good quality data, shared with ANSA for FTA. Maintenance and post job work to continue tomorrow.",
@@ -26,12 +33,5 @@
     "comment": "Arrived at wellsite, slickline to rig up for drift run. MFC to follow after. Data still most likely expected tonight at some point.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "01-11-2026 06:20"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Data expected tomorrow night.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "31-10-2026 16:19"
   }
 ]
