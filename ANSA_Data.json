@@ -245,10 +245,10 @@
       "undefined": "Y"
     },
     {
-      "undefined": "Standard"
+      "undefined": "INV-0638"
     },
     {
-      "undefined": "Standard"
+      "undefined": "INV-0638"
     },
     {
       "undefined": "Y"
@@ -283,13 +283,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$44:$C$84,\"*ANSA*\",$J$44:$J$84)",
-        "result": 5471.964189101439
+        "result": 7242.839386843967
       }
     },
     {
       "undefined": {
         "formula": "SUM(C88:C90)",
-        "result": 56865.86011776063
+        "result": 58636.73531550316
       }
     }
   ],
