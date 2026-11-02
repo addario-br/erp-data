@@ -245,14 +245,10 @@
       "undefined": "Y"
     },
     {
-      "undefined": {
-        "formula": "I68"
-      }
+      "undefined": "Standard"
     },
     {
-      "undefined": {
-        "formula": "I69/N44"
-      }
+      "undefined": "Standard"
     },
     {
       "undefined": "Y"
@@ -262,52 +258,8 @@
     },
     {
       "undefined": {
-        "formula": "I72"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I73/N44"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I74/$N$47"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I75/$N$47"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I76"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I77/N44"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I78/N44"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I79"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I80"
-      }
-    },
-    {
-      "undefined": {
-        "formula": "I81/N44"
+        "formula": "I72/$N$47",
+        "result": 1710.2056522296805
       }
     },
     {
@@ -325,19 +277,19 @@
     {
       "undefined": {
         "formula": "SUMIF($C$44:$C$84,\"*Inc*\",$J$44:$J$84)",
-        "result": 11412.719830542972
+        "result": 12633.895928659194
       }
     },
     {
       "undefined": {
         "formula": "SUMIF($C$44:$C$84,\"*ANSA*\",$J$44:$J$84)",
-        "result": 3761.758536871758
+        "result": 5471.964189101439
       }
     },
     {
       "undefined": {
         "formula": "SUM(C88:C90)",
-        "result": 53934.478367414726
+        "result": 56865.86011776063
       }
     }
   ],
