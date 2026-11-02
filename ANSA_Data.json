@@ -20396,7 +20396,8 @@
       "Well ": "HDA-35",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-05T00:00:00.000Z",
@@ -20406,7 +20407,8 @@
       "Well ": "ONAL 1406D",
       "Service ": "RBT",
       "Report Type": "Priority + Data QC (1-hr Office hrs)",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-05T00:00:00.000Z",
@@ -20416,7 +20418,8 @@
       "Well ": "HDA-23",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-06T00:00:00.000Z",
@@ -20426,7 +20429,8 @@
       "Well ": "KPD-9",
       "Service ": "Ultrasonic - Nusonix",
       "Report Type": "Converting data from LAS to DLIS (Analyst Hourly Rate)",
-      "# Reports": "-"
+      "# Reports": "-",
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-06T00:00:00.000Z",
@@ -20436,7 +20440,8 @@
       "Well ": "CD2-18",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-07T00:00:00.000Z",
@@ -20446,7 +20451,8 @@
       "Well ": "T-4848",
       "Service ": "Array PLT (MAPS)",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-09T00:00:00.000Z",
@@ -20456,7 +20462,8 @@
       "Well ": "PBU C-23D",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-11T00:00:00.000Z",
@@ -20466,7 +20473,8 @@
       "Well ": "GFN-51",
       "Service ": "MFC",
       "Report Type": "FTA",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-13T00:00:00.000Z",
@@ -20476,7 +20484,8 @@
       "Well ": "MPF-13",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-14T00:00:00.000Z",
@@ -20486,7 +20495,8 @@
       "Well ": "PBU L2-13A",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-15T00:00:00.000Z",
@@ -20496,7 +20506,8 @@
       "Well ": "GFN-51",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-15T00:00:00.000Z",
@@ -20506,7 +20517,8 @@
       "Well ": "3K-105",
       "Service ": "PLT (Centreline)",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-16T00:00:00.000Z",
@@ -20516,7 +20528,8 @@
       "Well ": "END 5-01",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-18T00:00:00.000Z",
@@ -20526,7 +20539,8 @@
       "Well ": "HDA-05",
       "Service ": "MFC",
       "Report Type": "FTA",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-19T00:00:00.000Z",
@@ -20536,7 +20550,8 @@
       "Well ": "OMOC-1102D ST",
       "Service ": "RBT",
       "Report Type": "Priority + Data QC (1-hr OOH)",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-19T00:00:00.000Z",
@@ -20546,7 +20561,8 @@
       "Well ": "GAN-26",
       "Service ": "MFC",
       "Report Type": "FTA",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-22T00:00:00.000Z",
@@ -20556,7 +20572,8 @@
       "Well ": "GAN-26",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-23T00:00:00.000Z",
@@ -20566,7 +20583,8 @@
       "Well ": "HDA-05",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-23T00:00:00.000Z",
@@ -20576,7 +20594,8 @@
       "Well ": "GFN-51",
       "Service ": "MFC",
       "Report Type": "FTA",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-27T00:00:00.000Z",
@@ -20586,7 +20605,8 @@
       "Well ": "GFN-51",
       "Service ": "Leak Detection",
       "Report Type": "FTA",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-27T00:00:00.000Z",
@@ -20596,7 +20616,8 @@
       "Well ": "1H-198",
       "Service ": "PLT (Centreline)",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-27T00:00:00.000Z",
@@ -20606,7 +20627,8 @@
       "Well ": "P2-06",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-27T00:00:00.000Z",
@@ -20616,7 +20638,8 @@
       "Well ": "P1-18A",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-28T00:00:00.000Z",
@@ -20626,7 +20649,8 @@
       "Well ": "VUS#14",
       "Service ": "RBT",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N/A"
     },
     {
       "MMM-YY": "2026-10-28T00:00:00.000Z",
@@ -20636,7 +20660,8 @@
       "Well ": "VUS#14",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "N"
     },
     {
       "MMM-YY": "2026-10-30T00:00:00.000Z",
@@ -20646,7 +20671,8 @@
       "Well ": "GFN-51",
       "Service ": "MFC + Leak detection",
       "Report Type": "Standard (MFC + Mini PLT)",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-30T00:00:00.000Z",
@@ -20656,7 +20682,8 @@
       "Well ": "PBU 06-21C",
       "Service ": "MFC",
       "Report Type": "Priority",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     },
     {
       "MMM-YY": "2026-10-30T00:00:00.000Z",
@@ -20666,7 +20693,8 @@
       "Well ": "PAU-2",
       "Service ": "MFC",
       "Report Type": "Standard",
-      "# Reports": 1
+      "# Reports": 1,
+      "Clarity": "Y"
     }
   ],
   "Longer-term lookahead": [
