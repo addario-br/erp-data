@@ -260,6 +260,9 @@
       "undefined": "INV-0641"
     },
     {
+      "undefined": "N"
+    },
+    {
       "undefined": "October"
     },
     {
@@ -20742,7 +20745,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
-        "result": 5
+        "result": 6
       }
     },
     {
@@ -20756,7 +20759,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 203
+        "result": 204
       }
     },
     {
