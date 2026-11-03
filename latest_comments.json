@@ -2,6 +2,13 @@
   {
     "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
     "job": "N/A",
+    "comment": "Hand tools, caliper and centralisers still reading above threshold, other tools received maintenance being carried out.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "03-11-2026 08:36"
+  },
+  {
+    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
+    "job": "N/A",
     "comment": "Run string and hand tools still NORM contaminated, will assess way forward tomorrow morning.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "02-11-2026 17:33"
@@ -26,12 +33,5 @@
     "comment": "no Dayshift or nightshift again today currently standby - still waiting on a decision from QE onshore",
     "addedBy": "Joshua Cheyne",
     "date": "02-11-2026 05:11"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Good quality data, shared with ANSA for FTA. Maintenance and post job work to continue tomorrow.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "02-11-2026 02:26"
   }
 ]
