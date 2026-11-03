@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
+    "job": "N/A",
+    "comment": "D.Zbaraza arrived on location this afternoon. MFC40 logging expected late Thursday night/Friday morning. FTA required",
+    "addedBy": "James Law",
+    "date": "03-11-2026 20:03"
+  },
+  {
     "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
     "job": "N/A",
     "comment": "Read equipment packed up ready for backload, Baker to pack container when it arrives, WSS said equipment will demob same time as Baker equipment which will likely be after then weekend. JC to downman either 4/11 or 5/11 depending on chopper availablilty",
@@ -26,12 +33,5 @@
     "comment": "Hand tools, caliper and centralisers still reading above threshold, other tools received maintenance being carried out.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "03-11-2026 08:36"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Run string and hand tools still NORM contaminated, will assess way forward tomorrow morning.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "02-11-2026 17:33"
   }
 ]
