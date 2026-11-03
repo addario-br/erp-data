@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
+    "job": "N/A",
+    "comment": "Arrived back in the UK.",
+    "addedBy": "Abdilmalik Mohamed",
+    "date": "03-11-2026 22:02"
+  },
+  {
     "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
     "job": "N/A",
     "comment": "D.Zbaraza arrived on location this afternoon. MFC40 logging expected late Thursday night/Friday morning. FTA required",
@@ -26,12 +33,5 @@
     "comment": "Equipment delivered back to the quayside this morning for loading back out to the GORM.",
     "addedBy": "Dave Simpson",
     "date": "03-11-2026 09:19"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Hand tools, caliper and centralisers still reading above threshold, other tools received maintenance being carried out.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "03-11-2026 08:36"
   }
 ]
