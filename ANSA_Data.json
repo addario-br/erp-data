@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N44",
+        "formula": "'READ-3rd'!N43",
         "result": 1.32659
       }
     },
@@ -155,9 +155,6 @@
       "undefined": "CW (FTA on 02 Nov)"
     },
     {
-      "undefined": "CW"
-    },
-    {
       "undefined": "Y"
     },
     {
@@ -170,7 +167,7 @@
       "undefined": "95 KB"
     },
     {
-      "undefined": "Delivered - October"
+      "undefined": "Delivered - November"
     },
     {
       "undefined": " "
@@ -188,108 +185,29 @@
       "undefined": " "
     },
     {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "IP Use - Geoactive"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "IP Use - Geoactive"
-    },
-    {
-      "undefined": "INV-0638"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "Y"
-    },
-    {
-      "undefined": "INV-0641"
-    },
-    {
-      "undefined": "N"
-    },
-    {
-      "undefined": "October"
+      "undefined": "November"
     },
     {
       "undefined": "Actual"
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$44:$C$84,\"*Ltd*\",$J$44:$J$84)",
-        "result": 42960
+        "formula": "SUMIF($C$43:$C$83,\"*Ltd*\",$J$43:$J$83)"
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$44:$C$84,\"*Inc*\",$J$44:$J$84)",
-        "result": 12633.895928659194
+        "formula": "SUMIF($C$43:$C$83,\"*Inc*\",$J$43:$J$83)"
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$44:$C$84,\"*ANSA*\",$J$44:$J$84)",
-        "result": 7242.839386843967
+        "formula": "SUMIF($C$43:$C$83,\"*ANSA*\",$J$43:$J$83)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C88:C90)",
-        "result": 62836.73531550316
+        "formula": "SUM(C87:C89)"
       }
     }
   ],
@@ -20724,8 +20642,7 @@
         "result": "Standard Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Standard*\")",
-        "result": 12
+        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Standard*\")"
       }
     },
     {
@@ -20734,8 +20651,7 @@
         "result": "Priority Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*Priority*\")",
-        "result": 10
+        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Priority*\")"
       }
     },
     {
@@ -20744,8 +20660,8 @@
         "result": "FTAs Completed in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H45:H84,\"*FTA*\")",
-        "result": 6
+        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*FTA*\")",
+        "result": 2
       }
     },
     {
@@ -20759,7 +20675,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 204
+        "result": 178
       }
     },
     {
