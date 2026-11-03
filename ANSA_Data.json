@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N43",
+        "formula": "'READ-3rd'!N45",
         "result": 1.32659
       }
     },
@@ -158,6 +158,15 @@
       "undefined": "Y"
     },
     {
+      "undefined": {
+        "formula": "DATEDIF(I5,J5,\"D\")",
+        "result": 9
+      }
+    },
+    {
+      "undefined": "TF / JP"
+    },
+    {
       "undefined": "Y"
     },
     {
@@ -192,22 +201,22 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*Ltd*\",$J$43:$J$83)"
+        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)"
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*Inc*\",$J$43:$J$83)"
+        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)"
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$43:$C$83,\"*ANSA*\",$J$43:$J$83)"
+        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)"
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C87:C89)"
+        "formula": "SUM(C89:C91)"
       }
     }
   ],
@@ -20642,7 +20651,7 @@
         "result": "Standard Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Standard*\")"
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Standard*\")"
       }
     },
     {
@@ -20651,7 +20660,7 @@
         "result": "Priority Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*Priority*\")"
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Priority*\")"
       }
     },
     {
@@ -20660,7 +20669,7 @@
         "result": "FTAs Completed in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H44:H83,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")",
         "result": 2
       }
     },
