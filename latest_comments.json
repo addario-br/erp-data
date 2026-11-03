@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
+    "job": "N/A",
+    "comment": "Read equipment packed up ready for backload, Baker to pack container when it arrives, WSS said equipment will demob same time as Baker equipment which will likely be after then weekend. JC to downman either 4/11 or 5/11 depending on chopper availablilty",
+    "addedBy": "Joshua Cheyne",
+    "date": "03-11-2026 14:21"
+  },
+  {
     "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
     "job": "N/A",
     "comment": "Left the wellsite at 12:00, tools not contaminated have left the wellsite.",
@@ -26,12 +33,5 @@
     "comment": "Run string and hand tools still NORM contaminated, will assess way forward tomorrow morning.",
     "addedBy": "Abdilmalik Mohamed",
     "date": "02-11-2026 17:33"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Update received from Fabian: The tools were recovered from the well covered in a radioactive substance. More than 12 hours later, they are still showing radioactive readings. The tools will be left soaking in a diesel bath overnight and checked again tomorrow morning. For safety reasons, the tools cannot be moved from the wellsite until the radioactive readings have returned to safe levels.",
-    "addedBy": "Dave Simpson",
-    "date": "02-11-2026 16:17"
   }
 ]
