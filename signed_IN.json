@@ -1,18 +1,20 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
-      "Tyna Witkowska"
+      "Tyna Witkowska",
+      "Jenni Michie"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 3,
+    "numIn": 4,
     "names": [
       "Rob Molina",
       "Mark Davidson",
-      "Dave Simpson"
+      "Dave Simpson",
+      "James Law"
     ]
   },
   {
