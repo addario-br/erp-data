@@ -32,10 +32,10 @@
     "companyName": "HydraWell",
     "numIn": 4,
     "names": [
-      "George Handsley",
-      "Cherie Bowden",
       "James Reid",
-      "Liam Strath"
+      "Liam Strath",
+      "Cherie Bowden",
+      "George Handsley"
     ]
   },
   {
@@ -47,8 +47,10 @@
   },
   {
     "companyName": "OTS",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Gordon Bennett"
+    ]
   },
   {
     "companyName": "Visitors",
