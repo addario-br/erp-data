@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "LL arrived on board Gorm C.",
+    "addedBy": "Leonard Lapiso",
+    "date": "04-11-2026 12:25"
+  },
+  {
     "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
     "job": "N/A",
     "comment": "Stanby JC to be downmanned tomorrow",
@@ -26,12 +33,5 @@
     "comment": "Read equipment packed up ready for backload, Baker to pack container when it arrives, WSS said equipment will demob same time as Baker equipment which will likely be after then weekend. JC to downman either 4/11 or 5/11 depending on chopper availablilty",
     "addedBy": "Joshua Cheyne",
     "date": "03-11-2026 14:21"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Left the wellsite at 12:00, tools not contaminated have left the wellsite.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "03-11-2026 13:29"
   }
 ]
