@@ -161,16 +161,16 @@
       "undefined": "JP"
     },
     {
+      "undefined": {
+        "formula": "DATEDIF(I6,J6,\"D\")",
+        "result": 8
+      }
+    },
+    {
       "undefined": "Y"
     },
     {
       "undefined": "TF / JP"
-    },
-    {
-      "undefined": {
-        "result": 9,
-        "sharedFormula": "K3"
-      }
     },
     {
       "undefined": "Y"
