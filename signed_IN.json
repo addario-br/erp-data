@@ -4,8 +4,6 @@
     "numIn": 11,
     "names": [
       "Tyna Witkowska",
-      "Craig Lamont",
-      "Jennifer Leyes",
       "Alan Walsh",
       "Heather Caldwell",
       "Tim Farrar",
@@ -13,7 +11,9 @@
       "Joseph Guyan",
       "Jenni Michie",
       "Maurillio Addario",
-      "John Guntoro"
+      "John Guntoro",
+      "Jennifer Leyes",
+      "Craig Lamont"
     ]
   },
   {
@@ -52,8 +52,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
+    "numIn": 2,
     "names": [
+      "Bjarne Klingsheim",
       "Andrea Williamson"
     ]
   }
