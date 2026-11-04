@@ -21,11 +21,11 @@
     "numIn": 6,
     "names": [
       "Rob Molina",
-      "Mark Davidson",
       "Dave Simpson",
       "James Law",
       "Ross Fraser",
-      "Stewart Steele"
+      "Stewart Steele",
+      "Mark Davidson"
     ]
   },
   {
@@ -40,8 +40,10 @@
   },
   {
     "companyName": "BlueSpark",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Robert Hunter"
+    ]
   },
   {
     "companyName": "OTS",
