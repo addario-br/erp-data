@@ -152,7 +152,7 @@
       "undefined": 7
     },
     {
-      "undefined": "JL"
+      "undefined": "JL (FTA on 05 Nov)"
     },
     {
       "undefined": "Y"
@@ -192,6 +192,9 @@
     },
     {
       "undefined": " "
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "November"
@@ -20674,7 +20677,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H47:H86,\"*FTA*\")",
-        "result": 3
+        "result": 4
       }
     },
     {
@@ -20688,7 +20691,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 179
+        "result": 180
       }
     },
     {
