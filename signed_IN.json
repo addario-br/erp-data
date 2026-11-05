@@ -1,23 +1,25 @@
 [
   {
     "companyName": "ANSA",
-    "numIn": 5,
+    "numIn": 6,
     "names": [
       "Heather Caldwell",
       "Joseph Guyan",
       "Tyna Witkowska",
       "Craig Lamont",
-      "Alan Walsh"
+      "Alan Walsh",
+      "Maurillio Addario"
     ]
   },
   {
     "companyName": "READ",
-    "numIn": 4,
+    "numIn": 5,
     "names": [
       "Rob Molina",
       "Mark Davidson",
       "James Law",
-      "Dave Simpson"
+      "Dave Simpson",
+      "Ross Fraser"
     ]
   },
   {
@@ -42,7 +44,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Andrea Williamson"
+    ]
   }
 ]
