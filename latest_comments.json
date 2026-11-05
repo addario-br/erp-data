@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
+    "job": "N/A",
+    "comment": "SLB still on HDA-16, expected to finish today. Friday R/D, Saturday R/U on HDA-31. Job expected on Saturday-Sunday.",
+    "addedBy": "Dawid Zbaraza",
+    "date": "05-11-2026 09:33"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A)",
     "comment": "Data downloaded with no errors and uploaded to ANSA sharepoint for FTA. Carry on with Post calibrations and Post job maintenance.",
@@ -26,12 +33,5 @@
     "comment": "Stanby JC to be downmanned tomorrow",
     "addedBy": "Joshua Cheyne",
     "date": "04-11-2026 06:51"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "Arrived back in the UK.",
-    "addedBy": "Abdilmalik Mohamed",
-    "date": "03-11-2026 22:02"
   }
 ]
