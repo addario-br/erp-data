@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
+    "comment": "MRO MFC60 Package requested for 18th November. Engineer required +/- 2 days after kit mob.",
+    "addedBy": "James Law",
+    "date": "05-11-2026 09:51"
+  },
+  {
     "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
     "job": "N/A",
     "comment": "SLB still on HDA-16, expected to finish today. Friday R/D, Saturday R/U on HDA-31. Job expected on Saturday-Sunday.",
@@ -26,12 +33,5 @@
     "comment": "LL arrived on board Gorm C.",
     "addedBy": "Leonard Lapiso",
     "date": "04-11-2026 12:25"
-  },
-  {
-    "project": "PRJ03441 - Baker Hughes - Baker Hughes Qatar - NFQ4-003_NFQ4-005_NFQ4-009_NFQ4-010 - MFC",
-    "job": "N/A",
-    "comment": "Stanby JC to be downmanned tomorrow",
-    "addedBy": "Joshua Cheyne",
-    "date": "04-11-2026 06:51"
   }
 ]
