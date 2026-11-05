@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N45",
+        "formula": "'READ-3rd'!N46",
         "result": 1.33918
       }
     },
@@ -167,6 +167,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "Categories"
     },
     {
@@ -198,26 +201,26 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*Ltd*\",$J$45:$J$85)",
+        "formula": "SUMIF($C$46:$C$86,\"*Ltd*\",$J$46:$J$86)",
         "result": 2900
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*Inc*\",$J$45:$J$85)",
-        "result": 1418.778655595215
+        "formula": "SUMIF($C$46:$C$86,\"*Inc*\",$J$46:$J$86)",
+        "result": 2837.55731119043
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$45:$C$85,\"*ANSA*\",$J$45:$J$85)",
+        "formula": "SUMIF($C$46:$C$86,\"*ANSA*\",$J$46:$J$86)",
         "result": 752.4454477050414
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C89:C91)",
-        "result": 5071.2241033002565
+        "formula": "SUM(C90:C92)",
+        "result": 6490.002758895472
       }
     }
   ],
@@ -20652,7 +20655,7 @@
         "result": "Standard Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Standard*\")"
+        "formula": "COUNTIF('READ-3rd'!H47:H86,\"*Standard*\")"
       }
     },
     {
@@ -20661,7 +20664,7 @@
         "result": "Priority Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*Priority*\")"
+        "formula": "COUNTIF('READ-3rd'!H47:H86,\"*Priority*\")"
       }
     },
     {
@@ -20670,8 +20673,8 @@
         "result": "FTAs Completed in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H46:H85,\"*FTA*\")",
-        "result": 2
+        "formula": "COUNTIF('READ-3rd'!H47:H86,\"*FTA*\")",
+        "result": 3
       }
     },
     {
@@ -20685,7 +20688,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 178
+        "result": 179
       }
     },
     {
