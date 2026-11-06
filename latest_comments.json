@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "LL to be down manned with Coil Crew on Tuesday 10th Nov for Production Shut down. Up-manning again on Friday 13th Nov.",
+    "addedBy": "Leonard Lapiso",
+    "date": "06-11-2026 06:32"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Coil RIH and set a ME plug for pressure testing @5371ft. Pressure test was unsuccessful, communication between C-section and tubing above, or the plug itself is leaking. Plan forward pending morning meetings. Latest lookahead has MFC40-mini PLT run for Monday 9th Nov.",
     "addedBy": "Leonard Lapiso",
@@ -25,13 +32,6 @@
     "job": "N/A",
     "comment": "SLB still on HDA-16, expected to finish today. Friday R/D, Saturday R/U on HDA-31. Job expected on Saturday-Sunday.",
     "addedBy": "Dawid Zbaraza",
-    "date": "05-11-2026 09:33"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Data downloaded with no errors and uploaded to ANSA sharepoint for FTA. Carry on with Post calibrations and Post job maintenance.",
-    "addedBy": "Leonard Lapiso",
     "date": "05-11-2026 09:33"
   }
 ]
