@@ -2,6 +2,13 @@
   {
     "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
     "job": "N/A",
+    "comment": "FTA no longer required for HDA-31 as per Jesper Noer / David Jackson.",
+    "addedBy": "James Law",
+    "date": "06-11-2026 10:15"
+  },
+  {
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
+    "job": "N/A",
     "comment": "HDA-16 finished. Today Rig Down SLB mast. Tomorrow move to HDA-31 and rig up SLB.",
     "addedBy": "Dawid Zbaraza",
     "date": "06-11-2026 09:36"
@@ -26,12 +33,5 @@
     "comment": "SRO MFC60 package to interfield from NFR4 WHP to NFR8 WHP on Sunday 8th November. Crew check in TBC.",
     "addedBy": "James Law",
     "date": "05-11-2026 11:28"
-  },
-  {
-    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
-    "job": "N/A",
-    "comment": "MRO MFC60 Package requested for 18th November. Engineer required +/- 2 days after kit mob.",
-    "addedBy": "James Law",
-    "date": "05-11-2026 09:51"
   }
 ]
