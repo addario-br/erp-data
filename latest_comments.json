@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
+    "job": "N/A",
+    "comment": "HDA-16 finished. Today Rig Down SLB mast. Tomorrow move to HDA-31 and rig up SLB.",
+    "addedBy": "Dawid Zbaraza",
+    "date": "06-11-2026 09:36"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "N/A",
     "comment": "LL to be down manned with Coil Crew on Tuesday 10th Nov for Production Shut down. Up-manning again on Friday 13th Nov.",
@@ -26,12 +33,5 @@
     "comment": "MRO MFC60 Package requested for 18th November. Engineer required +/- 2 days after kit mob.",
     "addedBy": "James Law",
     "date": "05-11-2026 09:51"
-  },
-  {
-    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
-    "job": "N/A",
-    "comment": "SLB still on HDA-16, expected to finish today. Friday R/D, Saturday R/U on HDA-31. Job expected on Saturday-Sunday.",
-    "addedBy": "Dawid Zbaraza",
-    "date": "05-11-2026 09:33"
   }
 ]
