@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
+    "job": "N/A",
+    "comment": "J.Cheyne will mobilise to WHP8 Sunday/Monday. Baker Hughes to support Josh on opposite shift.",
+    "addedBy": "James Law",
+    "date": "06-11-2026 11:51"
+  },
+  {
     "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
     "job": "N/A",
     "comment": "FTA no longer required for HDA-31 as per Jesper Noer / David Jackson.",
@@ -26,12 +33,5 @@
     "comment": "Coil RIH and set a ME plug for pressure testing @5371ft. Pressure test was unsuccessful, communication between C-section and tubing above, or the plug itself is leaking. Plan forward pending morning meetings. Latest lookahead has MFC40-mini PLT run for Monday 9th Nov.",
     "addedBy": "Leonard Lapiso",
     "date": "06-11-2026 06:31"
-  },
-  {
-    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
-    "job": "N/A",
-    "comment": "SRO MFC60 package to interfield from NFR4 WHP to NFR8 WHP on Sunday 8th November. Crew check in TBC.",
-    "addedBy": "James Law",
-    "date": "05-11-2026 11:28"
   }
 ]
