@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
+    "job": "N/A",
+    "comment": "HDA-31: Update from Dawid - Scheduled to rig up the MFC around 8pm local time, 07-Nov.",
+    "addedBy": "Thomas Dyke",
+    "date": "07-11-2026 18:37"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Coil Managed to get a good test on the ME plug yesterday, retrieved the junk catcher then retrieved the plug. Currently in hole to retrieve deep set plug @7565ft. Lookahead still has Monday for MFC-miniPLT log, but TBC as it will get closer to the down-man of crews for production shut-down on Tuesday morning.",
@@ -26,12 +33,5 @@
     "comment": "HDA-16 finished. Today Rig Down SLB mast. Tomorrow move to HDA-31 and rig up SLB.",
     "addedBy": "Dawid Zbaraza",
     "date": "06-11-2026 09:36"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "LL to be down manned with Coil Crew on Tuesday 10th Nov for Production Shut down. Up-manning again on Friday 13th Nov.",
-    "addedBy": "Leonard Lapiso",
-    "date": "06-11-2026 06:32"
   }
 ]
