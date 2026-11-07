@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Coil Managed to get a good test on the ME plug yesterday, retrieved the junk catcher then retrieved the plug. Currently in hole to retrieve deep set plug @7565ft. Lookahead still has Monday for MFC-miniPLT log, but TBC as it will get closer to the down-man of crews for production shut-down on Tuesday morning.",
+    "addedBy": "Leonard Lapiso",
+    "date": "07-11-2026 07:14"
+  },
+  {
     "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
     "job": "N/A",
     "comment": "J.Cheyne will mobilise to WHP8 Sunday/Monday. Baker Hughes to support Josh on opposite shift.",
@@ -26,12 +33,5 @@
     "comment": "LL to be down manned with Coil Crew on Tuesday 10th Nov for Production Shut down. Up-manning again on Friday 13th Nov.",
     "addedBy": "Leonard Lapiso",
     "date": "06-11-2026 06:32"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Coil RIH and set a ME plug for pressure testing @5371ft. Pressure test was unsuccessful, communication between C-section and tubing above, or the plug itself is leaking. Plan forward pending morning meetings. Latest lookahead has MFC40-mini PLT run for Monday 9th Nov.",
-    "addedBy": "Leonard Lapiso",
-    "date": "06-11-2026 06:31"
   }
 ]
