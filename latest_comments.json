@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Coil completed the drift run and now on the jet blaster run. Possible rig up of MFC-mini PLT as early as tonight or early Monday morning.",
+    "addedBy": "Leonard Lapiso",
+    "date": "08-11-2026 11:54"
+  },
+  {
     "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
     "job": "N/A",
     "comment": "HDA-31: Update from Dawid - Tools rigged down, data ok.",
@@ -26,12 +33,5 @@
     "comment": "Coil Managed to get a good test on the ME plug yesterday, retrieved the junk catcher then retrieved the plug. Currently in hole to retrieve deep set plug @7565ft. Lookahead still has Monday for MFC-miniPLT log, but TBC as it will get closer to the down-man of crews for production shut-down on Tuesday morning.",
     "addedBy": "Leonard Lapiso",
     "date": "07-11-2026 07:14"
-  },
-  {
-    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
-    "job": "N/A",
-    "comment": "J.Cheyne will mobilise to WHP8 Sunday/Monday. Baker Hughes to support Josh on opposite shift.",
-    "addedBy": "James Law",
-    "date": "06-11-2026 11:51"
   }
 ]
