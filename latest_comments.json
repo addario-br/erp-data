@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
+    "job": "N/A",
+    "comment": "HDA-31: Update from Dawid - Tools rigged down, data ok.",
+    "addedBy": "Thomas Dyke",
+    "date": "08-11-2026 09:58"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Initial attempt to recover the deeper plug was unsuccessful so BHA was reconfigured with jars and the plug was able to be recovered. Currently running 3.625\" mill. Latest lookahead has Monday night for rigging up MFC-mini PLT run.",
@@ -26,12 +33,5 @@
     "comment": "J.Cheyne will mobilise to WHP8 Sunday/Monday. Baker Hughes to support Josh on opposite shift.",
     "addedBy": "James Law",
     "date": "06-11-2026 11:51"
-  },
-  {
-    "project": "PRJ03425 - SLB - SLB Denmark - HDA05 (HDA-05A)_HDA-35_HDA31 (HDA-31) - I-Drift_ MFC",
-    "job": "N/A",
-    "comment": "FTA no longer required for HDA-31 as per Jesper Noer / David Jackson.",
-    "addedBy": "James Law",
-    "date": "06-11-2026 10:15"
   }
 ]
