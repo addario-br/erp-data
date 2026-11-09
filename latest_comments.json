@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Data downloaded with no errors and uploaded to ANSA for FTA. Post cal complete. Currently beaning up on GFN-55, to commence flowing PLT passes first thing in the morning. Expect to be completed and uploading FTA PLT data later tomorrow evening.",
+    "addedBy": "Leonard Lapiso",
+    "date": "09-11-2026 19:14"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Downman for production shut down has been moved to Friday the 13th Nov. Plan is to do the PLT run after the MFC40 run tonight.",
     "addedBy": "Leonard Lapiso",
     "date": "09-11-2026 12:48"
@@ -26,12 +33,5 @@
     "comment": "HDA-31: Update from Dawid - Tools rigged down, data ok.",
     "addedBy": "Thomas Dyke",
     "date": "08-11-2026 09:58"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Initial attempt to recover the deeper plug was unsuccessful so BHA was reconfigured with jars and the plug was able to be recovered. Currently running 3.625\" mill. Latest lookahead has Monday night for rigging up MFC-mini PLT run.",
-    "addedBy": "Leonard Lapiso",
-    "date": "08-11-2026 07:50"
   }
 ]
