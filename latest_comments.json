@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Decision made to log just MFC40-PGR-QPC form 9300ft to surface as not enough time to log full PLT program before planned down-manning of crews for Production shut down. PLT will be run after up-manning on Friday 13th Nov. Battery on @05:00; Fingers closed @16:39. Expect to upload ANSA data at 17:00 - 18:00 UK time.",
+    "addedBy": "Leonard Lapiso",
+    "date": "09-11-2026 04:49"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Coil completed the drift run and now on the jet blaster run. Possible rig up of MFC-mini PLT as early as tonight or early Monday morning.",
     "addedBy": "Leonard Lapiso",
     "date": "08-11-2026 11:54"
@@ -26,12 +33,5 @@
     "comment": "HDA-31: Update from Dawid - Scheduled to rig up the MFC around 8pm local time, 07-Nov.",
     "addedBy": "Thomas Dyke",
     "date": "07-11-2026 18:37"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Coil Managed to get a good test on the ME plug yesterday, retrieved the junk catcher then retrieved the plug. Currently in hole to retrieve deep set plug @7565ft. Lookahead still has Monday for MFC-miniPLT log, but TBC as it will get closer to the down-man of crews for production shut-down on Tuesday morning.",
-    "addedBy": "Leonard Lapiso",
-    "date": "07-11-2026 07:14"
   }
 ]
