@@ -158,7 +158,7 @@
       "undefined": "CW"
     },
     {
-      "undefined": "JL"
+      "undefined": "JL (FTA on 09 Nov)"
     },
     {
       "undefined": "TF / JP"
@@ -215,6 +215,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "November"
     },
     {
@@ -223,7 +226,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$52:$C$92,\"*Ltd*\",$J$52:$J$92)",
-        "result": 2900
+        "result": 10600
       }
     },
     {
@@ -241,7 +244,7 @@
     {
       "undefined": {
         "formula": "SUM(C96:C98)",
-        "result": 6490.002758895472
+        "result": 14190.002758895473
       }
     }
   ],
@@ -20695,7 +20698,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H53:H92,\"*FTA*\")",
-        "result": 4
+        "result": 5
       }
     },
     {
@@ -20709,7 +20712,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 180
+        "result": 181
       }
     },
     {
