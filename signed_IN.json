@@ -18,11 +18,11 @@
     "companyName": "READ",
     "numIn": 5,
     "names": [
-      "Stewart Steele",
       "Dave Simpson",
       "Rob Molina",
       "James Law",
-      "Mark Davidson"
+      "Mark Davidson",
+      "Stewart Steele"
     ]
   },
   {
@@ -52,10 +52,10 @@
     "companyName": "Visitors",
     "numIn": 4,
     "names": [
-      "Chris Ion",
-      "Ramy Baxter",
       "Andrea Williamson",
-      "Andrea Williamson"
+      "Andrea Williamson",
+      "Ramy Baxter",
+      "Chris Ion"
     ]
   }
 ]
