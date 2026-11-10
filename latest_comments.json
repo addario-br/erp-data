@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
+    "job": "N/A",
+    "comment": "Archer returned the RBT and PRC041's yesterday afternoon. All tool's were unused.",
+    "addedBy": "Dave Simpson",
+    "date": "10-11-2026 09:28"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Battery connected @05:16; RIH to 7800ft and standby while waiting for stabilization. Expect to start logging passes in the afternoon at some point. Data upload for FTA could be early hours of Wednesday morning.",
@@ -26,12 +33,5 @@
     "comment": "Downman for production shut down has been moved to Friday the 13th Nov. Plan is to do the PLT run after the MFC40 run tonight.",
     "addedBy": "Leonard Lapiso",
     "date": "09-11-2026 12:48"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Decision made to log just MFC40-PGR-QPC form 9300ft to surface as not enough time to log full PLT program before planned down-manning of crews for Production shut down. PLT will be run after up-manning on Friday 13th Nov. Battery on @05:00; Fingers closed @16:39. Expect to upload ANSA data at 17:00 - 18:00 UK time.",
-    "addedBy": "Leonard Lapiso",
-    "date": "09-11-2026 04:49"
   }
 ]
