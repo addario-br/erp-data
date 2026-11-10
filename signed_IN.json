@@ -50,8 +50,10 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 1,
+    "numIn": 3,
     "names": [
+      "Chris Ion",
+      "Ramy Baxter",
       "Andrea Williamson"
     ]
   }
