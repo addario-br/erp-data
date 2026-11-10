@@ -20,9 +20,9 @@
     "names": [
       "Mark Davidson",
       "Stewart Steele",
-      "James Law",
       "Dave Simpson",
-      "Rob Molina"
+      "Rob Molina",
+      "James Law"
     ]
   },
   {
@@ -30,10 +30,10 @@
     "numIn": 5,
     "names": [
       "George Handsley",
-      "Cherie Bowden",
       "Calum Smith",
       "James Reid",
-      "Liam Strath"
+      "Liam Strath",
+      "Cherie Bowden"
     ]
   },
   {
@@ -52,9 +52,9 @@
     "companyName": "Visitors",
     "numIn": 4,
     "names": [
-      "Andrea Williamson",
       "Chris Ion",
       "Ramy Baxter",
+      "Andrea Williamson",
       "Andrea Williamson"
     ]
   }
