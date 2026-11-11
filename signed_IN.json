@@ -19,9 +19,9 @@
     "names": [
       "Rob Molina",
       "Mark Davidson",
-      "James Law",
       "Stewart Steele",
-      "Dave Simpson"
+      "Dave Simpson",
+      "James Law"
     ]
   },
   {
@@ -48,7 +48,9 @@
   },
   {
     "companyName": "Visitors",
-    "numIn": 0,
-    "names": []
+    "numIn": 1,
+    "names": [
+      "Krzysztof Suchomski"
+    ]
   }
 ]
