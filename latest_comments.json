@@ -1,6 +1,13 @@
 [
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "2 x MFC40, Calibration jig, and 1 x PRC packed in container #66035 for backload to Esbjerg on next available boat.",
+    "addedBy": "Leonard Lapiso",
+    "date": "11-11-2026 06:38"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Flowing passes completed. Closed gas lift and continued flowing the well 4 hours, then shut in well @04am. Green light from town to start shut in passes @7am. Expect to be out of hole midday and downloading data for FTA 14:00 - 15:30 UK time.",
     "addedBy": "Leonard Lapiso",
@@ -26,12 +33,5 @@
     "comment": "Battery connected @05:16; RIH to 7800ft and standby while waiting for stabilization. Expect to start logging passes in the afternoon at some point. Data upload for FTA could be early hours of Wednesday morning.",
     "addedBy": "Leonard Lapiso",
     "date": "10-11-2026 06:23"
-  },
-  {
-    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
-    "job": "N/A",
-    "comment": "J.Cheyne will mobilize to WHP8 on Wednesday 11th November.",
-    "addedBy": "James Law",
-    "date": "09-11-2026 20:05"
   }
 ]
