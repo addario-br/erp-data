@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Coil ops on standby due to high wind speed. Continue with post job maintenance and paperwork. LL getting downmanned tomorrow ETA Esbjerg 14:53.",
+    "addedBy": "Leonard Lapiso",
+    "date": "12-11-2026 06:42"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Downloaded PLT data and uploaded to ANSA sharepoint for FTA. Carry on with Post run maintenance. At surface coil tubing found a dent/crack in the top wrap ~800ft of coil.",
     "addedBy": "Leonard Lapiso",
     "date": "11-11-2026 15:45"
@@ -26,12 +33,5 @@
     "comment": "J.Cheyne check in has been delayed to the 17th November due to bad weather.",
     "addedBy": "James Law",
     "date": "10-11-2026 09:39"
-  },
-  {
-    "project": "PRJ03287 - Archer - Archer - Blackburn - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Archer returned the RBT and PRC041's yesterday afternoon. All tool's were unused.",
-    "addedBy": "Dave Simpson",
-    "date": "10-11-2026 09:28"
   }
 ]
