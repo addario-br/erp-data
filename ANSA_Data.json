@@ -161,7 +161,7 @@
       "undefined": "JL (FTA on 09 Nov)"
     },
     {
-      "undefined": "TF (FTA on 11 Nov)"
+      "undefined": "TF (FTA on 11 & 12 Nov)"
     },
     {
       "undefined": "JV (FTA on 11 Nov)"
@@ -222,6 +222,9 @@
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "Geoactive IP used"
     },
     {
       "undefined": "November"
@@ -20704,7 +20707,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H53:H92,\"*FTA*\")",
-        "result": 7
+        "result": 8
       }
     },
     {
@@ -20718,7 +20721,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 183
+        "result": 184
       }
     },
     {
