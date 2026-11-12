@@ -158,7 +158,7 @@
       "undefined": "JL (FTA on 09 Nov)"
     },
     {
-      "undefined": "TF (FTA on 11 & 12 Nov)"
+      "undefined": "Collation Report required"
     },
     {
       "undefined": "JV (FTA on 11 Nov)"
@@ -232,7 +232,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$51:$C$91,\"*Ltd*\",$J$51:$J$91)",
-        "result": 10600
+        "result": 15030
       }
     },
     {
@@ -250,7 +250,7 @@
     {
       "undefined": {
         "formula": "SUM(C95:C97)",
-        "result": 14190.002758895473
+        "result": 18620.002758895473
       }
     }
   ],
