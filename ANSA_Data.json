@@ -218,7 +218,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": "Geoactive IP used"
+      "undefined": "cost combined with run 2"
     },
     {
       "undefined": "Y"
@@ -247,13 +247,13 @@
     {
       "undefined": {
         "formula": "SUMIF($C$52:$C$92,\"*ANSA*\",$J$52:$J$92)",
-        "result": 752.4454477050414
+        "result": 3421.9894970486694
       }
     },
     {
       "undefined": {
         "formula": "SUM(C96:C98)",
-        "result": 18620.002758895473
+        "result": 21289.5468082391
       }
     }
   ],
