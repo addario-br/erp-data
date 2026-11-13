@@ -2,6 +2,13 @@
   {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Equipment packed for backload in container #44071, except Equipment required for SSD shifting run (Gauge carrier, RCCL etc.) which will stay on board Gorm F inside the PSV container/office. SSD shifting on GFB-55 to be undertaken once crews are upmanned after production shut down.",
+    "addedBy": "Leonard Lapiso",
+    "date": "13-11-2026 08:20"
+  },
+  {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
     "comment": "Coil ops on standby due to high wind speed. Continue with post job maintenance and paperwork. LL getting downmanned tomorrow ETA Esbjerg 14:53.",
     "addedBy": "Leonard Lapiso",
     "date": "12-11-2026 06:42"
@@ -26,12 +33,5 @@
     "comment": "Flowing passes completed. Closed gas lift and continued flowing the well 4 hours, then shut in well @04am. Green light from town to start shut in passes @7am. Expect to be out of hole midday and uploading data for FTA 14:00 - 15:30 UK time.",
     "addedBy": "Leonard Lapiso",
     "date": "11-11-2026 06:22"
-  },
-  {
-    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
-    "job": "N/A",
-    "comment": "J.Cheyne check in has been delayed to the 17th November due to bad weather.",
-    "addedBy": "James Law",
-    "date": "10-11-2026 09:39"
   }
 ]
