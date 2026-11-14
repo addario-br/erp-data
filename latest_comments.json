@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
+    "job": "N/A",
+    "comment": "R.Molina to travel to Germany on Monday to disassemble MFC60 for NORM cleaning.",
+    "addedBy": "James Law",
+    "date": "14-11-2026 20:27"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "MRO MFC60 package requested to be onsite for Tuesday 17th November. 1 x Rental MFC60 from Archer to be delivered to READ on Monday 16th.\nMelissa Hernandez to travel to Wytch Farm on Monday 16th via LHR.",
@@ -26,12 +33,5 @@
     "comment": "Downloaded PLT data and uploaded to ANSA sharepoint for FTA. Carry on with Post run maintenance. At surface coil tubing found a dent/crack in the top wrap ~800ft of coil.",
     "addedBy": "Leonard Lapiso",
     "date": "11-11-2026 15:45"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "2 x MFC40, Calibration jig, and 1 x PRC packed in container #66035 for backload to Esbjerg on next available boat.",
-    "addedBy": "Leonard Lapiso",
-    "date": "11-11-2026 06:38"
   }
 ]
