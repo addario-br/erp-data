@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Project reopened: QAQC will take place on Wednesday 18th November. Grant Patterson to carry out QAQC tool checks. Crew assignment TBC.\n**Job through SLB**",
+    "addedBy": "James Law",
+    "date": "16-11-2026 11:01"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "Logging expected 15:00 on Wednesday 18th November.",
@@ -26,12 +33,5 @@
     "comment": "L.Lapiso to travel to Esbjerg tomorrow evening for a Tuesday morning check in to Gorm. 07:30 check in.",
     "addedBy": "James Law",
     "date": "15-11-2026 19:54"
-  },
-  {
-    "project": "PRJ03475 - Balance Point Control - BPC - Celle - LSC-1b - MFC",
-    "job": "N/A",
-    "comment": "R.Molina to travel to Germany on Monday to disassemble MFC60 for NORM cleaning.",
-    "addedBy": "James Law",
-    "date": "14-11-2026 20:27"
   }
 ]
