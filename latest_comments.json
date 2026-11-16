@@ -1,5 +1,19 @@
 [
   {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
+    "comment": "Logging expected 15:00 on Wednesday 18th November.",
+    "addedBy": "James Law",
+    "date": "16-11-2026 09:51"
+  },
+  {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
+    "comment": "MH fligth check in done. ETA london 13:30. ETA wareham 17:00 maybe later depending on traffic and road conditions.",
+    "addedBy": "Melissa Hernandez",
+    "date": "16-11-2026 09:51"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
     "job": "N/A",
     "comment": "Dan F MFC40 package loaded out this morning. Engineer check in TBC.",
@@ -19,19 +33,5 @@
     "comment": "R.Molina to travel to Germany on Monday to disassemble MFC60 for NORM cleaning.",
     "addedBy": "James Law",
     "date": "14-11-2026 20:27"
-  },
-  {
-    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
-    "job": "N/A",
-    "comment": "MRO MFC60 package requested to be onsite for Tuesday 17th November. 1 x Rental MFC60 from Archer to be delivered to READ on Monday 16th.\nMelissa Hernandez to travel to Wytch Farm on Monday 16th via LHR.",
-    "addedBy": "James Law",
-    "date": "13-11-2026 15:58"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Equipment packed for backload in container #44071, except Equipment required for SSD shifting run (Gauge carrier, RCCL etc.) which will stay on board Gorm F inside the PSV container/office. SSD shifting on GFB-55 to be undertaken once crews are upmanned after production shut down.",
-    "addedBy": "Leonard Lapiso",
-    "date": "13-11-2026 08:20"
   }
 ]
