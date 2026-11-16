@@ -173,13 +173,13 @@
       "undefined": "N"
     },
     {
-      "undefined": "N"
-    },
-    {
       "undefined": "Collation Report required"
     },
     {
       "undefined": "TBC"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "Y"
@@ -241,7 +241,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$51:$C$91,\"*Inc*\",$J$51:$J$91)",
-        "result": 2837.55731119043
+        "result": 4256.335966785645
       }
     },
     {
@@ -253,7 +253,7 @@
     {
       "undefined": {
         "formula": "SUM(C95:C97)",
-        "result": 21289.5468082391
+        "result": 22708.325463834313
       }
     }
   ],
