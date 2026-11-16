@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "LL arrived in Esbjerg.",
+    "addedBy": "Leonard Lapiso",
+    "date": "16-11-2026 23:25"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "MH arrived to hotel in Wareham. Activities for tomorrow go to site and wait for equipment to do fieldchecks.",
@@ -25,13 +32,6 @@
     "job": "N/A",
     "comment": "Logging expected 15:00 on Wednesday 18th November.",
     "addedBy": "James Law",
-    "date": "16-11-2026 09:51"
-  },
-  {
-    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
-    "job": "N/A",
-    "comment": "MH fligth check in done. ETA london 13:30. ETA wareham 17:00 maybe later depending on traffic and road conditions.",
-    "addedBy": "Melissa Hernandez",
     "date": "16-11-2026 09:51"
   }
 ]
