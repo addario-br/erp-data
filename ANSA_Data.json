@@ -230,6 +230,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Geoactive IP used"
+    },
+    {
       "undefined": "November"
     },
     {
@@ -20710,7 +20713,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H53:H92,\"*FTA*\")",
-        "result": 9
+        "result": 10
       }
     },
     {
@@ -20724,7 +20727,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 185
+        "result": 186
       }
     },
     {
