@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "QAQC inspection completed this morning by Grant & Josh.",
+    "addedBy": "James Law",
+    "date": "18-11-2026 11:48"
+  },
+  {
     "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
     "job": "N/A",
     "comment": "J.Cheyne & R.Sequeira have 12pm check in tomorrow to QMS Achiever.",
@@ -26,12 +33,5 @@
     "comment": "Made up SSD shifting BHA with RCCL late afternoon, pressure tested then WOW. Expect to start ops after 10am when wind drops below 40 knots.",
     "addedBy": "Leonard Lapiso",
     "date": "18-11-2026 06:01"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
-    "job": "N/A",
-    "comment": "D.Zbaraza has a 14:00 check in for Dan F on Friday 20/11.",
-    "addedBy": "James Law",
-    "date": "17-11-2026 11:22"
   }
 ]
