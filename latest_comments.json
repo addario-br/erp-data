@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
+    "comment": "Arrived on site at 8:00 to finish field checks. MFC60 schedule tomorrow 09:15 am.",
+    "addedBy": "Melissa Hernandez",
+    "date": "18-11-2026 09:56"
+  },
+  {
     "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
     "job": "N/A",
     "comment": "MFC40'S received in Well Explorer container on 12th November and the PLT-MEM arrived back at the quayside 17th November. Both containers delivered to Norsea 17th. RCCL service is still currently offshore",
@@ -26,12 +33,5 @@
     "comment": "Latest lookahead, MFC60 run schedule on Thursday at 7:00 am.",
     "addedBy": "Melissa Hernandez",
     "date": "17-11-2026 10:09"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "LL arrived on Gorm. Rig up for SSD run will be delayed to early morning as weather expected to go over 40 knots. Currently in a Day shift room so Will prepare the RCCL tools today, night shift rig up tonight, and we carry on with closing SSD 5 and 6 tomorrow day shift.",
-    "addedBy": "Leonard Lapiso",
-    "date": "17-11-2026 09:16"
   }
 ]
