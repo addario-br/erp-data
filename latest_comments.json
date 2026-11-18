@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
+    "job": "N/A",
+    "comment": "J.Cheyne & R.Sequeira have 12pm check in tomorrow to QMS Achiever.",
+    "addedBy": "James Law",
+    "date": "18-11-2026 11:38"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "Arrived on site at 8:00 to finish field checks. MFC60 schedule tomorrow 09:15 am.",
@@ -26,12 +33,5 @@
     "comment": "D.Zbaraza has a 14:00 check in for Dan F on Friday 20/11.",
     "addedBy": "James Law",
     "date": "17-11-2026 11:22"
-  },
-  {
-    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
-    "job": "N/A",
-    "comment": "Latest lookahead, MFC60 run schedule on Thursday at 7:00 am.",
-    "addedBy": "Melissa Hernandez",
-    "date": "17-11-2026 10:09"
   }
 ]
