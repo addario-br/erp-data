@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Made up SSD shifting BHA with RCCL late afternoon, pressure tested then WOW. Expect to start ops after 10am when wind drops below 40 knots.",
+    "addedBy": "Leonard Lapiso",
+    "date": "18-11-2026 06:01"
+  },
+  {
     "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
     "job": "N/A",
     "comment": "D.Zbaraza has a 14:00 check in for Dan F on Friday 20/11.",
@@ -26,12 +33,5 @@
     "comment": "I spoke with Gary. Log can be on Thursday. Equipment has not arrived yet. The lan for today is go around lunch time after pre job meeting to recieve equipment. Hotel and car booking need to be extended",
     "addedBy": "Melissa Hernandez",
     "date": "17-11-2026 07:42"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "LL arrived in Esbjerg.",
-    "addedBy": "Leonard Lapiso",
-    "date": "16-11-2026 23:25"
   }
 ]
