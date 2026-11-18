@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
+    "comment": "Good indications from closing zone 5 and 6 SSD's. Expect to be at surface ~20:00. Plan is to run mill immediately after. Client is fine to stick to day shift hours so first thing in the morning will download and check RCCL data.",
+    "addedBy": "Leonard Lapiso",
+    "date": "18-11-2026 16:27"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "QAQC inspection completed this morning by Grant & Josh.",
@@ -26,12 +33,5 @@
     "comment": "MFC40'S received in Well Explorer container on 12th November and the PLT-MEM arrived back at the quayside 17th November. Both containers delivered to Norsea 17th. RCCL service is still currently offshore",
     "addedBy": "Dave Simpson",
     "date": "18-11-2026 09:41"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Made up SSD shifting BHA with RCCL late afternoon, pressure tested then WOW. Expect to start ops after 10am when wind drops below 40 knots.",
-    "addedBy": "Leonard Lapiso",
-    "date": "18-11-2026 06:01"
   }
 ]
