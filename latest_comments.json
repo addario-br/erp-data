@@ -2,6 +2,13 @@
   {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
+    "comment": "Main and repeat pass completed. MFC60 fingers did not close at surface. Tool is ok no damaged, finger closed manually with a cable tie. PRC's 022 and MFC60 came with a lot of sticky mud,oil. These tools are going to need deep cleaning. Please see the Fitcheck mr open. Plan for tomorrow finish fitchecks for the other tools and backload.",
+    "addedBy": "Melissa Hernandez",
+    "date": "19-11-2026 20:32"
+  },
+  {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
     "comment": "Main Data ok. No errors. Now doing the repeat pass. Expected to be on surface around 17:45:00",
     "addedBy": "Melissa Hernandez",
     "date": "19-11-2026 17:14"
@@ -26,12 +33,5 @@
     "comment": "Arrived on site. MFC60 schedule around 11:00 am. Main and repeat requested.",
     "addedBy": "Melissa Hernandez",
     "date": "19-11-2026 09:25"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "PRJ03160-5 Gorm GFN55 (N-55A) Tubular Integrity , Leak Detection (Primary Barrier), Depth Correlation (Coiled Tubing)",
-    "comment": "Data downloaded form both RCCLs and currently running sleeve analysis.",
-    "addedBy": "Leonard Lapiso",
-    "date": "19-11-2026 07:00"
   }
 ]
