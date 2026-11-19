@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
+    "job": "N/A",
+    "comment": "JC and RS on board QMS achiver likely to go to WH8 tonight and set up unit and calibrate tools,",
+    "addedBy": "Joshua Cheyne",
+    "date": "19-11-2026 10:42"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "Arrived on site. MFC60 schedule around 11:00 am. Main and repeat requested.",
@@ -26,12 +33,5 @@
     "comment": "Good indications from closing zone 5 and 6 SSD's. Expect to be at surface ~20:00. Plan is to run mill immediately after. Client is fine to stick to day shift hours so first thing in the morning will download and check RCCL data.",
     "addedBy": "Leonard Lapiso",
     "date": "18-11-2026 16:27"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "QAQC inspection completed this morning by Grant & Josh.",
-    "addedBy": "James Law",
-    "date": "18-11-2026 11:48"
   }
 ]
