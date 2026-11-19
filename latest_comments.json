@@ -2,6 +2,13 @@
   {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
+    "comment": "Main Data ok. No errors. Now doing the repeat pass. Expected to be on surface around 17:45:00",
+    "addedBy": "Melissa Hernandez",
+    "date": "19-11-2026 17:14"
+  },
+  {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
     "comment": "Batery Connected @ 10:45:10 expected to be back on surface @ 16:05:00 to start repeat pass.",
     "addedBy": "Melissa Hernandez",
     "date": "19-11-2026 11:08"
@@ -26,12 +33,5 @@
     "comment": "Data downloaded form both RCCLs and currently running sleeve analysis.",
     "addedBy": "Leonard Lapiso",
     "date": "19-11-2026 07:00"
-  },
-  {
-    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
-    "job": "N/A",
-    "comment": "Field checks completed. Main TSD ready. Tomorrow I will call Gavin around 7:15 to see how they are going. When I leave wellsite crew still pulling out completions.",
-    "addedBy": "Melissa Hernandez",
-    "date": "18-11-2026 18:53"
   }
 ]
