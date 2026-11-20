@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
+    "job": "N/A",
+    "comment": "GFN-47: Request for engineers to up man next week.\n27/11 - Lenny Lapiso\n30/11 - Jon Howe",
+    "addedBy": "James Law",
+    "date": "20-11-2026 11:06"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "Equipment ready to backload. Pending send new paperwork to client. Now driving back to london",
@@ -26,12 +33,5 @@
     "comment": "FIT checks completed and equipment packed in container #44106 with Slb equipment for backload to Esbjerg. LL downman today ETA Esbjerg @10:10.",
     "addedBy": "Leonard Lapiso",
     "date": "20-11-2026 05:39"
-  },
-  {
-    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
-    "job": "N/A",
-    "comment": "Job delayed indefinatly due to open flame work being performed on connecting platform. It is Likely JC and RS will be downmanned Saturday 21st",
-    "addedBy": "Joshua Cheyne",
-    "date": "20-11-2026 01:52"
   }
 ]
