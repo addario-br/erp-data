@@ -242,6 +242,9 @@
       "undefined": "Y"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "November"
     },
     {
@@ -256,7 +259,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$50:$C$90,\"*Inc*\",$J$50:$J$90)",
-        "result": 4256.335966785645
+        "result": 5675.11462238086
       }
     },
     {
@@ -268,7 +271,7 @@
     {
       "undefined": {
         "formula": "SUM(C94:C96)",
-        "result": 34447.42653178629
+        "result": 35866.2051873815
       }
     }
   ],
@@ -20724,7 +20727,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H51:H90,\"*FTA*\")",
-        "result": 11
+        "result": 12
       }
     },
     {
@@ -20738,7 +20741,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 191
+        "result": 192
       }
     },
     {
