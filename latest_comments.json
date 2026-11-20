@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Operation delayed. Equipment will now go to WHP4.",
+    "addedBy": "James Law",
+    "date": "20-11-2026 15:06"
+  },
+  {
     "project": "PRJ03503 - SLB - Qatar - NFR4-003_NFR4-005 - MFC",
     "job": "N/A",
     "comment": "Equipment required for 22/11. Container to go to SLB on Sunday. WHP2 has been delayed and SLB will now go to WHP4.",
@@ -26,12 +33,5 @@
     "comment": "Equipment ready to backload. Pending send new paperwork to client. Now driving back to london",
     "addedBy": "Melissa Hernandez",
     "date": "20-11-2026 10:52"
-  },
-  {
-    "project": "PRJ03262 - SLB - SLB Denmark - DFA16 (MFA-16)_DFA18 (MFA-18)_DFB11 (MFB-11)_DFB21 (MFB-21)_DFB15 (MFB-15) - MFC",
-    "job": "N/A",
-    "comment": "Dawid's check in has be moved to Monday 23/11, 07:30 check in.",
-    "addedBy": "James Law",
-    "date": "20-11-2026 08:58"
   }
 ]
