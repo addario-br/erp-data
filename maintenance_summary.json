@@ -1,12 +1,12 @@
 {
-  "Total": 171,
-  "Unassigned": 28,
-  "Assigned": 75,
+  "Total": 170,
+  "Unassigned": 25,
+  "Assigned": 77,
   "In Progress": 9,
   "On Hold": 59,
   "Awaiting Approval": 0,
   "Average Maintenance Days": 20,
   "SIF Related": 0,
-  "Full Maintenance": 28,
+  "Full Maintenance": 26,
   "Post Run Maintenance": 28
 }
