@@ -106,7 +106,7 @@
     },
     {
       "undefined": {
-        "formula": "'READ-3rd'!N50",
+        "formula": "'READ-3rd'!N52",
         "result": 1.33918
       }
     },
@@ -164,10 +164,16 @@
       "undefined": "CW"
     },
     {
-      "undefined": "N"
+      "undefined": "JP"
     },
     {
       "undefined": "QC"
+    },
+    {
+      "undefined": "N"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "N"
@@ -255,25 +261,25 @@
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$50:$C$90,\"*Ltd*\",$J$50:$J$90)",
+        "formula": "SUMIF($C$52:$C$92,\"*Ltd*\",$J$52:$J$92)",
         "result": 20990
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$50:$C$90,\"*Inc*\",$J$50:$J$90)",
+        "formula": "SUMIF($C$52:$C$92,\"*Inc*\",$J$52:$J$92)",
         "result": 5675.11462238086
       }
     },
     {
       "undefined": {
-        "formula": "SUMIF($C$50:$C$90,\"*ANSA*\",$J$50:$J$90)",
+        "formula": "SUMIF($C$52:$C$92,\"*ANSA*\",$J$52:$J$92)",
         "result": 9801.090565000639
       }
     },
     {
       "undefined": {
-        "formula": "SUM(C94:C96)",
+        "formula": "SUM(C96:C98)",
         "result": 36466.2051873815
       }
     }
@@ -20709,7 +20715,7 @@
         "result": "Standard Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*Standard*\")",
+        "formula": "COUNTIF('READ-3rd'!H53:H92,\"*Standard*\")",
         "result": 3
       }
     },
@@ -20719,7 +20725,7 @@
         "result": "Priority Reports in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*Priority*\")",
+        "formula": "COUNTIF('READ-3rd'!H53:H92,\"*Priority*\")",
         "result": 1
       }
     },
@@ -20729,7 +20735,7 @@
         "result": "FTAs Completed in November"
       },
       "[object Object]": {
-        "formula": "COUNTIF('READ-3rd'!H51:H90,\"*FTA*\")",
+        "formula": "COUNTIF('READ-3rd'!H53:H92,\"*FTA*\")",
         "result": 12
       }
     },
