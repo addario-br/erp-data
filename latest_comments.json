@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
+    "job": "N/A",
+    "comment": "Both JC and RS to be downmanned today, MFC kit to be backloaded by BH over the next 2 days during demob form WH8",
+    "addedBy": "Joshua Cheyne",
+    "date": "21-11-2026 03:38"
+  },
+  {
     "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
     "job": "N/A",
     "comment": "Arrived to Heathrow. Car being returned. Now wait for flight check in.",
@@ -26,12 +33,5 @@
     "comment": "Rental equipment collected by Lubbers, transport arranged by Weatherford. ( 2 x MTT's, 1 extended MBH, 1 x Bull Nose + 2 x BAT010's (Purchased)",
     "addedBy": "Dave Simpson",
     "date": "20-11-2026 13:33"
-  },
-  {
-    "project": "PRJ03160 - SLB - SLB Denmark - GFN51 (N-51)_GFN55 (N-55A) - Leak_Detection_ MFC_ ZeroTime",
-    "job": "N/A",
-    "comment": "GFN-47: Request for engineers to up man next week.\n27/11 - Lenny Lapiso\n30/11 - Jon Howe",
-    "addedBy": "James Law",
-    "date": "20-11-2026 11:06"
   }
 ]
