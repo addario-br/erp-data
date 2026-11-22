@@ -152,9 +152,6 @@
       "undefined": 7
     },
     {
-      "undefined": "JV (FTA on 11 Nov)"
-    },
-    {
       "undefined": "Collation Report required"
     },
     {
@@ -176,10 +173,13 @@
       "undefined": "N"
     },
     {
+      "undefined": "Y"
+    },
+    {
       "undefined": "N"
     },
     {
-      "undefined": "Y"
+      "undefined": "N"
     },
     {
       "undefined": "Y"
@@ -243,6 +243,9 @@
     },
     {
       "undefined": "N"
+    },
+    {
+      "undefined": "Y"
     },
     {
       "undefined": "Y"
@@ -20716,7 +20719,7 @@
       },
       "[object Object]": {
         "formula": "COUNTIF('READ-3rd'!H53:H92,\"*Standard*\")",
-        "result": 3
+        "result": 4
       }
     },
     {
@@ -20750,7 +20753,7 @@
       "Month": "Total Analyses Delivered (YTD)",
       "[object Object]": {
         "formula": "SUM(Delivered!H1626:H1797)+B2+B3+B4",
-        "result": 192
+        "result": 193
       }
     },
     {
