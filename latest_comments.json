@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
+    "job": "N/A",
+    "comment": "Change of plans from SLB/QE SLB will now go to WH2 as originally planned, SLB have said expect equipment to mob 28/11 and personnel 30/11",
+    "addedBy": "Joshua Cheyne",
+    "date": "22-11-2026 10:59"
+  },
+  {
     "project": "PRJ03503 - SLB - Qatar - NFR4-003_NFR4-005 - MFC",
     "job": "N/A",
     "comment": "work WH4 postponed for the time being, SLB to move to WH2 as originally planned",
@@ -26,12 +33,5 @@
     "comment": "Operation delayed. Equipment will now go to WHP4.",
     "addedBy": "James Law",
     "date": "20-11-2026 15:06"
-  },
-  {
-    "project": "PRJ03503 - SLB - Qatar - NFR4-003_NFR4-005 - MFC",
-    "job": "N/A",
-    "comment": "Equipment required for 22/11. Container to go to SLB on Sunday. WHP2 has been delayed and SLB will now go to WHP4.",
-    "addedBy": "James Law",
-    "date": "20-11-2026 14:58"
   }
 ]
