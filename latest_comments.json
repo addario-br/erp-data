@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03503 - SLB - Qatar - NFR4-003_NFR4-005 - MFC",
+    "job": "N/A",
+    "comment": "work WH4 postponed for the time being, SLB to move to WH2 as originally planned",
+    "addedBy": "Joshua Cheyne",
+    "date": "22-11-2026 10:58"
+  },
+  {
     "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
     "job": "N/A",
     "comment": "Both JC and RS to be downmanned today, MFC kit to be backloaded by BH over the next 2 days during demob form WH8",
@@ -26,12 +33,5 @@
     "comment": "Equipment required for 22/11. Container to go to SLB on Sunday. WHP2 has been delayed and SLB will now go to WHP4.",
     "addedBy": "James Law",
     "date": "20-11-2026 14:58"
-  },
-  {
-    "project": "PRJ03472 - Weatherford - Weatherford Energy Services GmbH - Unknown Well - Rental",
-    "job": "N/A",
-    "comment": "Rental equipment collected by Lubbers, transport arranged by Weatherford. ( 2 x MTT's, 1 extended MBH, 1 x Bull Nose + 2 x BAT010's (Purchased)",
-    "addedBy": "Dave Simpson",
-    "date": "20-11-2026 13:33"
   }
 ]
