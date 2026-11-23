@@ -161,7 +161,7 @@
       "undefined": "CW"
     },
     {
-      "undefined": "JP"
+      "undefined": "N"
     },
     {
       "undefined": "QC"
@@ -170,9 +170,6 @@
       "undefined": "N"
     },
     {
-      "undefined": "N"
-    },
-    {
       "undefined": "Y"
     },
     {
@@ -183,6 +180,9 @@
     },
     {
       "undefined": "Y"
+    },
+    {
+      "undefined": "N"
     },
     {
       "undefined": "TBC"
@@ -239,13 +239,13 @@
       "undefined": "Y"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0646"
     },
     {
       "undefined": "N"
     },
     {
-      "undefined": "Y"
+      "undefined": "INV-0647"
     },
     {
       "undefined": "Y"
