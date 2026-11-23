@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03497 - Well Services Group (Exlog) - Exlog (WSG) - TBC - PLT",
+    "job": "N/A",
+    "comment": "Rental SRO PLT Equipment left on Tuesday 17/11. Kit arrived in Emmen 20/11. Equipment offshore 23/11.",
+    "addedBy": "James Law",
+    "date": "23-11-2026 11:04"
+  },
+  {
     "project": "PRJ03491 - Baker Hughes - Baker Hughes Qatar - NFR8-004_NFR8-008 - MFC",
     "job": "N/A",
     "comment": "J.Cheyne to travel home tomorrow.",
@@ -26,12 +33,5 @@
     "comment": "22-Nov-26 0:30 Travel\n1:10 Arrive - On Location\n1:15 Safety Meeting\n1:31 Program Tool\n2:08 Connect Battery\n2:13 Stab on Lubricator - Run 1\n2:23 Run In Hole\n4:20 Stop @ 16,000'\n4:21 Log Down - 60 FPM Injecting\n5:12 Stop @ 19,143'\n5:16 Shut-In Injection\n7:16 Wait 2 Hours\n7:16 Log Up - 60 FPM\n8:07 Log Down - 60 FPM\n9:16 Log Up - 60 FPM 4 Hours after Shut-In\n10:07 Log Down - 60 FPM\n11:16 Log Up - 60 FPM 6 Hours after Shut-In\n12:06 Stop @ 16,000'\n12:07 Pull Out of Hole\n14:00 Break Off Lubricator - Run 1\n14:07 Download Tool\n14:30 Travel\n15:30 Arrive - Not On Location\n15:30 Service Tools\n16:30 End Ticket",
     "addedBy": "Robert Holden",
     "date": "23-11-2026 04:40"
-  },
-  {
-    "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
-    "job": "N/A",
-    "comment": "Change of plans from SLB/QE SLB will now go to WH2 as originally planned, SLB have said expect equipment to mob 28/11 and personnel 30/11",
-    "addedBy": "Joshua Cheyne",
-    "date": "22-11-2026 10:59"
   }
 ]
