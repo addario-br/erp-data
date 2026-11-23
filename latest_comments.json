@@ -1,5 +1,12 @@
 [
   {
+    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
+    "job": "N/A",
+    "comment": "Confirmed Archer caliper off-rental",
+    "addedBy": "Dave Simpson",
+    "date": "23-11-2026 13:05"
+  },
+  {
     "project": "PRJ03251 - Baker Hughes - Baker Hughes Qatar - NFR2-2_NFR2-5A - MFC",
     "job": "N/A",
     "comment": "Grant Patterson will fly home 29/11 for vacation. QID now issued. Grant to continue with QID Current Account set up and Al Khor duties.\nAbdilmalik Mohamed will fly down 30/11 for a 1/12 check in for WHP-2 ops.",
@@ -26,12 +33,5 @@
     "comment": "J.Cheyne to travel home tomorrow.",
     "addedBy": "James Law",
     "date": "23-11-2026 09:57"
-  },
-  {
-    "project": "PRJ03484 - Perenco - Wytch Farm - F-24 - MFC",
-    "job": "N/A",
-    "comment": "The equipment has arrived back this morning. Still to be checked in. The Archer MFC60 rental will be returned today.",
-    "addedBy": "Dave Simpson",
-    "date": "23-11-2026 09:31"
   }
 ]
