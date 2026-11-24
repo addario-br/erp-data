@@ -233,7 +233,7 @@
       "undefined": "Y"
     },
     {
-      "undefined": "Geoactive IP used"
+      "undefined": "cost combined with run 2"
     },
     {
       "undefined": "Y"
@@ -245,7 +245,7 @@
       "undefined": "INV-0646"
     },
     {
-      "undefined": "N"
+      "undefined": "Geoactive IP used"
     },
     {
       "undefined": "INV-0647"
@@ -268,7 +268,7 @@
     {
       "undefined": {
         "formula": "SUMIF($C$53:$C$93,\"*Ltd*\",$J$53:$J$93)",
-        "result": 20990
+        "result": 24020
       }
     },
     {
@@ -286,7 +286,7 @@
     {
       "undefined": {
         "formula": "SUM(C97:C99)",
-        "result": 36466.2051873815
+        "result": 39496.2051873815
       }
     }
   ],
